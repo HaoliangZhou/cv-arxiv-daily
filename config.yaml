@@ -23,10 +23,12 @@ md_wechat_path: './docs/wechat.md'
 # keywords to search
 keywords:
     "Cross-Modal Image Retrieval":
-        filters: ["Cross-Modal Image Retrieval","Cross-Modal Retrieval","Composed Image Retrieval"]
+        filters: ["Cross-Modal Image Retrieval","Cross-Modal Retrieval","Composed Image Retrieval", "Zero-shot Composed Image Retrieval"]
     "Continual Learning":
         filters: ["Continual Learning", "Incremental Learning", "Lifelong learning"]
     "Vision-Language Prompting":
         filters: ["Visual Prompt", "Text Prompt", "Vision-Language Prompt"]
     "Facial Expression Recognition":
         filters: ["Facial Expression Recognition", "Micro-Expression Recognition", "Micro-Expression Recognition"]
+    "Test-Time Adaptation":
+        filters: ["Test-Time Adaptation", "Test Time Adaptation"]
