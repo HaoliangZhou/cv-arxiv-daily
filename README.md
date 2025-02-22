@@ -1,4 +1,4 @@
-## Updated on 2025.02.21
+## Updated on 2025.02.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -27,12 +27,17 @@
 |**2024-12-02**|**AnySynth: Harnessing the Power of Image Synthetic Data Generation for Generalized Vision-Language Tasks**|You Li et.al.|[2411.16749](http://arxiv.org/abs/2411.16749)|null|
 |**2024-10-31**|**MoTaDual: Modality-Task Dual Alignment for Enhanced Zero-shot Composed Image Retrieval**|Haiwen Li et.al.|[2410.23736](http://arxiv.org/abs/2410.23736)|null|
 
-<p align=right>(<a href=#updated-on-20250221>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250222>back to top</a>)</p>
 
 ## Continual Learning
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-20**|**From RAG to Memory: Non-Parametric Continual Learning for Large Language Models**|Bernal Jiménez Gutiérrez et.al.|[2502.14802](http://arxiv.org/abs/2502.14802)|null|
+|**2025-02-20**|**Sculpting [CLS] Features for Pre-Trained Model-Based Class-Incremental Learning**|Murat Onur Yildirim et.al.|[2502.14762](http://arxiv.org/abs/2502.14762)|null|
+|**2025-02-20**|**μRL: Discovering Transient Execution Vulnerabilities Using Reinforcement Learning**|M. Caner Tol et.al.|[2502.14307](http://arxiv.org/abs/2502.14307)|null|
+|**2025-02-20**|**Accurate Forgetting for Heterogeneous Federated Continual Learning**|Abudukelimu Wuerkaixi et.al.|[2502.14205](http://arxiv.org/abs/2502.14205)|null|
+|**2025-02-19**|**CND-IDS: Continual Novelty Detection for Intrusion Detection Systems**|Sean Fuhrman et.al.|[2502.14094](http://arxiv.org/abs/2502.14094)|null|
 |**2025-02-19**|**Continually Learning Structured Visual Representations via Network Refinement with Rerelation**|Zeki Doruk Erden et.al.|[2502.13935](http://arxiv.org/abs/2502.13935)|null|
 |**2025-02-18**|**A Survey of Text Classification Under Class Distribution Shift**|Adriana Valentina Costache et.al.|[2502.12965](http://arxiv.org/abs/2502.12965)|null|
 |**2025-02-18**|**Continuous Learning Conversational AI: A Personalized Agent Framework via A2C Reinforcement Learning**|Nandakishor M et.al.|[2502.12876](http://arxiv.org/abs/2502.12876)|null|
@@ -64,12 +69,14 @@
 |**2025-02-10**|**Prompt-Driven Continual Graph Learning**|Qi Wang et.al.|[2502.06327](http://arxiv.org/abs/2502.06327)|null|
 |**2025-02-10**|**Position: Continual Learning Benefits from An Evolving Population over An Unified Model**|Aojun Lu et.al.|[2502.06210](http://arxiv.org/abs/2502.06210)|null|
 
-<p align=right>(<a href=#updated-on-20250221>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250222>back to top</a>)</p>
 
 ## Vision-Language Prompting
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-19**|**DiffExp: Efficient Exploration in Reward Fine-tuning for Text-to-Image Diffusion Models**|Daewon Chae et.al.|[2502.14070](http://arxiv.org/abs/2502.14070)|null|
+|**2025-02-19**|**Generative Detail Enhancement for Physically Based Materials**|Saeed Hadadan et.al.|[2502.13994](http://arxiv.org/abs/2502.13994)|null|
 |**2025-02-19**|**Exploring Code Language Models for Automated HLS-based Hardware Generation: Benchmark, Infrastructure and Analysis**|Jiahao Gai et.al.|[2502.13921](http://arxiv.org/abs/2502.13921)|null|
 |**2025-02-19**|**Adapting Large Language Models for Time Series Modeling via a Novel Parameter-efficient Adaptation Method**|Juyuan Zhang et.al.|[2502.13725](http://arxiv.org/abs/2502.13725)|null|
 |**2025-02-19**|**Democratizing Large Language Model-Based Graph Data Augmentation via Latent Knowledge Graphs**|Yushi Feng et.al.|[2502.13555](http://arxiv.org/abs/2502.13555)|null|
@@ -95,7 +102,7 @@
 |**2025-02-08**|**Diverse Image Generation with Diffusion Models and Cross Class Label Learning for Polyp Classification**|Vanshali Sharma et.al.|[2502.05444](http://arxiv.org/abs/2502.05444)|**[link](https://github.com/vanshali/pathopolyp-diff)**|
 |**2025-02-07**|**FlashVideo:Flowing Fidelity to Detail for Efficient High-Resolution Video Generation**|Shilong Zhang et.al.|[2502.05179](http://arxiv.org/abs/2502.05179)|**[link](https://github.com/foundationvision/flashvideo)**|
 
-<p align=right>(<a href=#updated-on-20250221>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250222>back to top</a>)</p>
 
 ## Facial Expression Recognition
 
@@ -116,12 +123,13 @@
 |**2024-12-16**|**Impact of Face Alignment on Face Image Quality**|Eren Onaran et.al.|[2412.11779](http://arxiv.org/abs/2412.11779)|null|
 |**2024-12-15**|**Unimodal and Multimodal Static Facial Expression Recognition for Virtual Reality Users with EmoHeVRDB**|Thorben Ortmann et.al.|[2412.11306](http://arxiv.org/abs/2412.11306)|**[link](https://github.com/thorbenortmann/emohevrdb-sfer)**|
 
-<p align=right>(<a href=#updated-on-20250221>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250222>back to top</a>)</p>
 
 ## Test-Time Adaptation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-20**|**Noisy Test-Time Adaptation in Vision-Language Models**|Chentao Cao et.al.|[2502.14604](http://arxiv.org/abs/2502.14604)|null|
 |**2025-02-15**|**Semantics-aware Test-time Adaptation for 3D Human Pose Estimation**|Qiuxia Lin et.al.|[2502.10724](http://arxiv.org/abs/2502.10724)|null|
 |**2025-02-12**|**Generalizable Cervical Cancer Screening via Large-scale Pretraining and Test-Time Adaptation**|Hao Jiang et.al.|[2502.09662](http://arxiv.org/abs/2502.09662)|null|
 |**2025-02-13**|**Billet Number Recognition Based on Test-Time Adaptation**|Yuan Wei et.al.|[2502.09026](http://arxiv.org/abs/2502.09026)|null|
@@ -134,7 +142,7 @@
 |**2025-01-31**|**Test-time Loss Landscape Adaptation for Zero-Shot Generalization in Vision-Language Models**|Aodi Li et.al.|[2501.18864](http://arxiv.org/abs/2501.18864)|null|
 |**2025-02-03**|**Advances in Multimodal Adaptation and Generalization: From Traditional Approaches to Foundation Models**|Hao Dong et.al.|[2501.18592](http://arxiv.org/abs/2501.18592)|**[link](https://github.com/donghao51/awesome-multimodal-adaptation)**|
 
-<p align=right>(<a href=#updated-on-20250221>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250222>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

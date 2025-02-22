@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.02.21
+## Updated on 2025.02.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Cross-Modal Image Retrieval
@@ -24,6 +24,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-20**|**From RAG to Memory: Non-Parametric Continual Learning for Large Language Models**|Bernal Jiménez Gutiérrez et.al.|[2502.14802](http://arxiv.org/abs/2502.14802)|null|
+|**2025-02-20**|**Sculpting [CLS] Features for Pre-Trained Model-Based Class-Incremental Learning**|Murat Onur Yildirim et.al.|[2502.14762](http://arxiv.org/abs/2502.14762)|null|
+|**2025-02-20**|**μRL: Discovering Transient Execution Vulnerabilities Using Reinforcement Learning**|M. Caner Tol et.al.|[2502.14307](http://arxiv.org/abs/2502.14307)|null|
+|**2025-02-20**|**Accurate Forgetting for Heterogeneous Federated Continual Learning**|Abudukelimu Wuerkaixi et.al.|[2502.14205](http://arxiv.org/abs/2502.14205)|null|
+|**2025-02-19**|**CND-IDS: Continual Novelty Detection for Intrusion Detection Systems**|Sean Fuhrman et.al.|[2502.14094](http://arxiv.org/abs/2502.14094)|null|
 |**2025-02-19**|**Continually Learning Structured Visual Representations via Network Refinement with Rerelation**|Zeki Doruk Erden et.al.|[2502.13935](http://arxiv.org/abs/2502.13935)|null|
 |**2025-02-18**|**A Survey of Text Classification Under Class Distribution Shift**|Adriana Valentina Costache et.al.|[2502.12965](http://arxiv.org/abs/2502.12965)|null|
 |**2025-02-18**|**Continuous Learning Conversational AI: A Personalized Agent Framework via A2C Reinforcement Learning**|Nandakishor M et.al.|[2502.12876](http://arxiv.org/abs/2502.12876)|null|
@@ -59,6 +64,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-19**|**DiffExp: Efficient Exploration in Reward Fine-tuning for Text-to-Image Diffusion Models**|Daewon Chae et.al.|[2502.14070](http://arxiv.org/abs/2502.14070)|null|
+|**2025-02-19**|**Generative Detail Enhancement for Physically Based Materials**|Saeed Hadadan et.al.|[2502.13994](http://arxiv.org/abs/2502.13994)|null|
 |**2025-02-19**|**Exploring Code Language Models for Automated HLS-based Hardware Generation: Benchmark, Infrastructure and Analysis**|Jiahao Gai et.al.|[2502.13921](http://arxiv.org/abs/2502.13921)|null|
 |**2025-02-19**|**Adapting Large Language Models for Time Series Modeling via a Novel Parameter-efficient Adaptation Method**|Juyuan Zhang et.al.|[2502.13725](http://arxiv.org/abs/2502.13725)|null|
 |**2025-02-19**|**Democratizing Large Language Model-Based Graph Data Augmentation via Latent Knowledge Graphs**|Yushi Feng et.al.|[2502.13555](http://arxiv.org/abs/2502.13555)|null|
@@ -107,6 +114,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-20**|**Noisy Test-Time Adaptation in Vision-Language Models**|Chentao Cao et.al.|[2502.14604](http://arxiv.org/abs/2502.14604)|null|
 |**2025-02-15**|**Semantics-aware Test-time Adaptation for 3D Human Pose Estimation**|Qiuxia Lin et.al.|[2502.10724](http://arxiv.org/abs/2502.10724)|null|
 |**2025-02-12**|**Generalizable Cervical Cancer Screening via Large-scale Pretraining and Test-Time Adaptation**|Hao Jiang et.al.|[2502.09662](http://arxiv.org/abs/2502.09662)|null|
 |**2025-02-13**|**Billet Number Recognition Based on Test-Time Adaptation**|Yuan Wei et.al.|[2502.09026](http://arxiv.org/abs/2502.09026)|null|
