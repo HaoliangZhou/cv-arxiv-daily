@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.02.26
+## Updated on 2025.02.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Cross-Modal Image Retrieval
@@ -24,6 +24,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-25**|**SECURA: Sigmoid-Enhanced CUR Decomposition with Uninterrupted Retention and Low-Rank Adaptation in Large Language Models**|Zhang Yuxuan et.al.|[2502.18168](http://arxiv.org/abs/2502.18168)|null|
+|**2025-02-25**|**C-LoRA: Continual Low-Rank Adaptation for Pre-trained Models**|Xin Zhang et.al.|[2502.17920](http://arxiv.org/abs/2502.17920)|null|
+|**2025-02-25**|**PVBF: A Framework for Mitigating Parameter Variation Imbalance in Online Continual Learning**|Zelin Tao et.al.|[2502.17794](http://arxiv.org/abs/2502.17794)|null|
+|**2025-02-25**|**On-device edge learning for IoT data streams: a survey**|Afonso Lourenço et.al.|[2502.17788](http://arxiv.org/abs/2502.17788)|null|
 |**2025-02-24**|**CLIMB-3D: Continual Learning for Imbalanced 3D Instance Segmentation**|Vishal Thengane et.al.|[2502.17429](http://arxiv.org/abs/2502.17429)|**[link](https://github.com/vgthengane/climb3d)**|
 |**2025-02-24**|**A Novel Multiple Access Scheme for Heterogeneous Wireless Communications using Symmetry-aware Continual Deep Reinforcement Learning**|Hamidreza Mazandarani et.al.|[2502.17167](http://arxiv.org/abs/2502.17167)|null|
 |**2025-02-24**|**Thus Spake Long-Context Large Language Model**|Xiaoran Liu et.al.|[2502.17129](http://arxiv.org/abs/2502.17129)|null|
@@ -73,6 +77,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-25**|**ART: Anonymous Region Transformer for Variable Multi-Layer Transparent Image Generation**|Yifan Pu et.al.|[2502.18364](http://arxiv.org/abs/2502.18364)|null|
+|**2025-02-25**|**Learning Structure-Supporting Dependencies via Keypoint Interactive Transformer for General Mammal Pose Estimation**|Tianyang Xu et.al.|[2502.18214](http://arxiv.org/abs/2502.18214)|**[link](https://github.com/Raojiyong/KITPose)**|
+|**2025-02-25**|**CLIPure: Purification in Latent Space via CLIP for Adversarially Robust Zero-Shot Classification**|Mingkun Zhang et.al.|[2502.18176](http://arxiv.org/abs/2502.18176)|null|
+|**2025-02-25**|**PromptMID: Modal Invariant Descriptors Based on Diffusion and Vision Foundation Models for Optical-SAR Image Matching**|Han Nie et.al.|[2502.18104](http://arxiv.org/abs/2502.18104)|null|
 |**2025-02-23**|**MimeQA: Towards Socially-Intelligent Nonverbal Foundation Models**|Hengzhi Li et.al.|[2502.16671](http://arxiv.org/abs/2502.16671)|**[link](https://github.com/mit-mi/mimeqa)**|
 |**2025-02-22**|**Audio Visual Segmentation Through Text Embeddings**|Kyungbok Lee et.al.|[2502.16359](http://arxiv.org/abs/2502.16359)|null|
 |**2025-02-22**|**Large Language Model for Lossless Image Compression with Visual Prompts**|Junhao Du et.al.|[2502.16163](http://arxiv.org/abs/2502.16163)|null|
@@ -131,6 +139,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-25**|**Structural Alignment Improves Graph Test-Time Adaptation**|Hans Hao-Hsun Hsu et.al.|[2502.18334](http://arxiv.org/abs/2502.18334)|null|
 |**2025-02-20**|**Noisy Test-Time Adaptation in Vision-Language Models**|Chentao Cao et.al.|[2502.14604](http://arxiv.org/abs/2502.14604)|**[link](https://github.com/tmlr-group/zs-ntta)**|
 |**2025-02-15**|**Semantics-aware Test-time Adaptation for 3D Human Pose Estimation**|Qiuxia Lin et.al.|[2502.10724](http://arxiv.org/abs/2502.10724)|null|
 |**2025-02-12**|**Generalizable Cervical Cancer Screening via Large-scale Pretraining and Test-Time Adaptation**|Hao Jiang et.al.|[2502.09662](http://arxiv.org/abs/2502.09662)|null|
