@@ -1,4 +1,4 @@
-## Updated on 2025.03.03
+## Updated on 2025.03.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -16,6 +16,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-28**|**CoTMR: Chain-of-Thought Multi-Scale Reasoning for Training-Free Zero-Shot Composed Image Retrieval**|Zelong Sun et.al.|[2502.20826](http://arxiv.org/abs/2502.20826)|null|
 |**2025-02-19**|**A Comprehensive Survey on Composed Image Retrieval**|Xuemeng Song et.al.|[2502.18495](http://arxiv.org/abs/2502.18495)|null|
 |**2025-02-11**|**PDV: Prompt Directional Vectors for Zero-shot Composed Image Retrieval**|Osman Tursun et.al.|[2502.07215](http://arxiv.org/abs/2502.07215)|null|
 |**2025-01-22**|**Triplet Synthesis For Enhancing Composed Image Retrieval via Counterfactual Image Generation**|Kenta Uesugi et.al.|[2501.13968](http://arxiv.org/abs/2501.13968)|null|
@@ -28,17 +29,20 @@
 |**2024-12-02**|**AnySynth: Harnessing the Power of Image Synthetic Data Generation for Generalized Vision-Language Tasks**|You Li et.al.|[2411.16749](http://arxiv.org/abs/2411.16749)|null|
 |**2024-10-31**|**MoTaDual: Modality-Task Dual Alignment for Enhanced Zero-shot Composed Image Retrieval**|Haiwen Li et.al.|[2410.23736](http://arxiv.org/abs/2410.23736)|null|
 
-<p align=right>(<a href=#updated-on-20250303>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250304>back to top</a>)</p>
 
 ## Continual Learning
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-02-27**|**Exploring Open-world Continual Learning with Knowns-Unknowns Knowledge Transfer**|Yujie Li et.al.|[2502.20124](http://arxiv.org/abs/2502.20124)|null|
-|**2025-02-27**|**Order-Robust Class Incremental Learning: Graph-Driven Dynamic Similarity Grouping**|Guannan Lai et.al.|[2502.20032](http://arxiv.org/abs/2502.20032)|null|
-|**2025-02-27**|**Incremental Learning with Repetition via Pseudo-Feature Projection**|Benedikt Tscheschner et.al.|[2502.19922](http://arxiv.org/abs/2502.19922)|null|
+|**2025-02-28**|**Same accuracy, twice as fast: continuous training surpasses retraining from scratch**|Eli Verwimp et.al.|[2502.21147](http://arxiv.org/abs/2502.21147)|null|
+|**2025-02-28**|**Towards Specialized Wireless Networks Using an ML-Driven Radio Interface**|Kamil Szczech et.al.|[2502.20996](http://arxiv.org/abs/2502.20996)|null|
+|**2025-02-28**|**Improving Open-world Continual Learning under the Constraints of Scarce Labeled Data**|Yujie Li et.al.|[2502.20974](http://arxiv.org/abs/2502.20974)|null|
+|**2025-02-27**|**Exploring Open-world Continual Learning with Knowns-Unknowns Knowledge Transfer**|Yujie Li et.al.|[2502.20124](http://arxiv.org/abs/2502.20124)|**[link](https://github.com/aignlai/holitrans)**|
+|**2025-02-27**|**Order-Robust Class Incremental Learning: Graph-Driven Dynamic Similarity Grouping**|Guannan Lai et.al.|[2502.20032](http://arxiv.org/abs/2502.20032)|**[link](https://github.com/aignlai/gddsg)**|
+|**2025-02-27**|**Incremental Learning with Repetition via Pseudo-Feature Projection**|Benedikt Tscheschner et.al.|[2502.19922](http://arxiv.org/abs/2502.19922)|**[link](https://github.com/Tsebeb/cvww_cir_horde)**|
 |**2025-02-27**|**Model-Free Privacy Preserving Power Flow Analysis in Distribution Networks**|Dong Liu et.al.|[2502.19912](http://arxiv.org/abs/2502.19912)|null|
-|**2025-02-27**|**One-for-More: Continual Diffusion Model for Anomaly Detection**|Xiaofan Li et.al.|[2502.19848](http://arxiv.org/abs/2502.19848)|null|
+|**2025-02-27**|**One-for-More: Continual Diffusion Model for Anomaly Detection**|Xiaofan Li et.al.|[2502.19848](http://arxiv.org/abs/2502.19848)|**[link](https://github.com/funz-0/one-for-more)**|
 |**2025-02-26**|**PCL: Prompt-based Continual Learning for User Modeling in Recommender Systems**|Mingdai Yang et.al.|[2502.19628](http://arxiv.org/abs/2502.19628)|null|
 |**2025-02-26**|**Brain-inspired analogical mixture prototypes for few-shot class-incremental learning**|Wanyi Li et.al.|[2502.18923](http://arxiv.org/abs/2502.18923)|null|
 |**2025-02-26**|**Online Prototypes and Class-Wise Hypergradients for Online Continual Learning with Pre-Trained Models**|Nicolas Michel et.al.|[2502.18762](http://arxiv.org/abs/2502.18762)|null|
@@ -91,15 +95,18 @@
 |**2025-02-10**|**Prompt-Driven Continual Graph Learning**|Qi Wang et.al.|[2502.06327](http://arxiv.org/abs/2502.06327)|null|
 |**2025-02-10**|**Position: Continual Learning Benefits from An Evolving Population over An Unified Model**|Aojun Lu et.al.|[2502.06210](http://arxiv.org/abs/2502.06210)|null|
 
-<p align=right>(<a href=#updated-on-20250303>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250304>back to top</a>)</p>
 
 ## Vision-Language Prompting
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-02-27**|**Mobius: Text to Seamless Looping Video Generation via Latent Shift**|Xiuli Bi et.al.|[2502.20307](http://arxiv.org/abs/2502.20307)|null|
+|**2025-02-28**|**PET Image Denoising via Text-Guided Diffusion: Integrating Anatomical Priors through Text Prompts**|Boxiao Yu et.al.|[2502.21260](http://arxiv.org/abs/2502.21260)|null|
+|**2025-02-28**|**FC-Attack: Jailbreaking Large Vision-Language Models via Auto-Generated Flowcharts**|Ziyi Zhang et.al.|[2502.21059](http://arxiv.org/abs/2502.21059)|null|
+|**2025-02-28**|**T2ICount: Enhancing Cross-modal Understanding for Zero-Shot Counting**|Yifei Qian et.al.|[2502.20625](http://arxiv.org/abs/2502.20625)|null|
+|**2025-02-27**|**Mobius: Text to Seamless Looping Video Generation via Latent Shift**|Xiuli Bi et.al.|[2502.20307](http://arxiv.org/abs/2502.20307)|**[link](https://github.com/yisuitt/mobius)**|
 |**2025-02-27**|**Visual Adaptive Prompting for Compositional Zero-Shot Learning**|Kyle Stein et.al.|[2502.20292](http://arxiv.org/abs/2502.20292)|null|
-|**2025-02-27**|**Language-Informed Hyperspectral Image Synthesis for Imbalanced-Small Sample Classification via Semi-Supervised Conditional Diffusion Model**|Yimin Zhu et.al.|[2502.19700](http://arxiv.org/abs/2502.19700)|null|
+|**2025-02-28**|**Language-Informed Hyperspectral Image Synthesis for Imbalanced-Small Sample Classification via Semi-Supervised Conditional Diffusion Model**|Yimin Zhu et.al.|[2502.19700](http://arxiv.org/abs/2502.19700)|null|
 |**2025-02-27**|**SubZero: Composing Subject, Style, and Action via Zero-Shot Personalization**|Shubhankar Borse et.al.|[2502.19673](http://arxiv.org/abs/2502.19673)|null|
 |**2025-02-26**|**Neural Antidote: Class-Wise Prompt Tuning for Purifying Backdoors in Pre-trained Vision-Language Models**|Jiawei Kong et.al.|[2502.19269](http://arxiv.org/abs/2502.19269)|null|
 |**2025-02-26**|**UQABench: Evaluating User Embedding for Prompting LLMs in Personalized Question Answering**|Langming Liu et.al.|[2502.19178](http://arxiv.org/abs/2502.19178)|null|
@@ -141,12 +148,13 @@
 |**2025-02-08**|**Diverse Image Generation with Diffusion Models and Cross Class Label Learning for Polyp Classification**|Vanshali Sharma et.al.|[2502.05444](http://arxiv.org/abs/2502.05444)|**[link](https://github.com/vanshali/pathopolyp-diff)**|
 |**2025-02-07**|**FlashVideo:Flowing Fidelity to Detail for Efficient High-Resolution Video Generation**|Shilong Zhang et.al.|[2502.05179](http://arxiv.org/abs/2502.05179)|**[link](https://github.com/foundationvision/flashvideo)**|
 
-<p align=right>(<a href=#updated-on-20250303>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250304>back to top</a>)</p>
 
 ## Facial Expression Recognition
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-28**|**Soften the Mask: Adaptive Temporal Soft Mask for Efficient Dynamic Facial Expression Recognition**|Mengzhu Li et.al.|[2502.21004](http://arxiv.org/abs/2502.21004)|null|
 |**2025-02-22**|**Robust Dynamic Facial Expression Recognition**|Feng Liu et.al.|[2502.16129](http://arxiv.org/abs/2502.16129)|**[link](https://github.com/cross-innovation-lab/rdfer)**|
 |**2025-02-21**|**Fréchet Cumulative Covariance Net for Deep Nonlinear Sufficient Dimension Reduction with Random Objects**|Hang Yuan et.al.|[2502.15374](http://arxiv.org/abs/2502.15374)|null|
 |**2025-02-16**|**Faces of Fairness: Examining Bias in Facial Expression Recognition Datasets and Models**|Mohammad Mehdi Hosseini et.al.|[2502.11049](http://arxiv.org/abs/2502.11049)|null|
@@ -164,12 +172,13 @@
 |**2024-12-16**|**Impact of Face Alignment on Face Image Quality**|Eren Onaran et.al.|[2412.11779](http://arxiv.org/abs/2412.11779)|null|
 |**2024-12-15**|**Unimodal and Multimodal Static Facial Expression Recognition for Virtual Reality Users with EmoHeVRDB**|Thorben Ortmann et.al.|[2412.11306](http://arxiv.org/abs/2412.11306)|**[link](https://github.com/thorbenortmann/emohevrdb-sfer)**|
 
-<p align=right>(<a href=#updated-on-20250303>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250304>back to top</a>)</p>
 
 ## Test-Time Adaptation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-28**|**FoCTTA: Low-Memory Continual Test-Time Adaptation with Focus**|Youbing Hu et.al.|[2502.20677](http://arxiv.org/abs/2502.20677)|null|
 |**2025-02-27**|**Space Rotation with Basis Transformation for Training-free Test-Time Adaptation**|Chenhao Ding et.al.|[2502.19946](http://arxiv.org/abs/2502.19946)|null|
 |**2025-02-25**|**Structural Alignment Improves Graph Test-Time Adaptation**|Hans Hao-Hsun Hsu et.al.|[2502.18334](http://arxiv.org/abs/2502.18334)|null|
 |**2025-02-20**|**Noisy Test-Time Adaptation in Vision-Language Models**|Chentao Cao et.al.|[2502.14604](http://arxiv.org/abs/2502.14604)|**[link](https://github.com/tmlr-group/zs-ntta)**|
@@ -185,7 +194,7 @@
 |**2025-01-31**|**Test-time Loss Landscape Adaptation for Zero-Shot Generalization in Vision-Language Models**|Aodi Li et.al.|[2501.18864](http://arxiv.org/abs/2501.18864)|null|
 |**2025-02-03**|**Advances in Multimodal Adaptation and Generalization: From Traditional Approaches to Foundation Models**|Hao Dong et.al.|[2501.18592](http://arxiv.org/abs/2501.18592)|**[link](https://github.com/donghao51/awesome-multimodal-adaptation)**|
 
-<p align=right>(<a href=#updated-on-20250303>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250304>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
