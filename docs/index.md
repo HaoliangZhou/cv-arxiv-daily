@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.03.06
+## Updated on 2025.03.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Cross-Modal Image Retrieval
@@ -101,6 +101,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-05**|**CURVALID: Geometrically-guided Adversarial Prompt Detection**|Canaan Yung et.al.|[2503.03502](http://arxiv.org/abs/2503.03502)|null|
+|**2025-03-05**|**Exploring Visual Prompts: Refining Images with Scribbles and Annotations in Generative AI Image Tools**|Hyerim Park et.al.|[2503.03398](http://arxiv.org/abs/2503.03398)|null|
+|**2025-03-05**|**Find Matching Faces Based On Face Parameters**|Setu A. Bhatt et.al.|[2503.03204](http://arxiv.org/abs/2503.03204)|null|
+|**2025-03-05**|**From Architectural Sketch to Conceptual Representation: Using Structure-Aware Diffusion Model to Generate Renderings of School Buildings**|Zhengyang Wang et.al.|[2503.03090](http://arxiv.org/abs/2503.03090)|null|
 |**2025-03-04**|**Prompting Generative AI with Interaction-Augmented Instructions**|Leixian Shen et.al.|[2503.02874](http://arxiv.org/abs/2503.02874)|null|
 |**2025-03-05**|**Q-Eval-100K: Evaluating Visual Quality and Alignment Level for Text-to-Vision Content**|Zicheng Zhang et.al.|[2503.02357](http://arxiv.org/abs/2503.02357)|null|
 |**2025-03-03**|**Fine-Grained Controllable Apparel Showcase Image Generation via Garment-Centric Outpainting**|Rong Zhang et.al.|[2503.01294](http://arxiv.org/abs/2503.01294)|null|
@@ -155,6 +159,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-05**|**Biased Heritage: How Datasets Shape Models in Facial Expression Recognition**|Iris Dominguez-Catena et.al.|[2503.03446](http://arxiv.org/abs/2503.03446)|**[link](https://github.com/arin-upna/biased-heritage)**|
 |**2025-02-28**|**MIDAS: Mixing Ambiguous Data with Soft Labels for Dynamic Facial Expression Recognition**|Ryosuke Kawamura et.al.|[2503.00202](http://arxiv.org/abs/2503.00202)|null|
 |**2025-02-28**|**Soften the Mask: Adaptive Temporal Soft Mask for Efficient Dynamic Facial Expression Recognition**|Mengzhu Li et.al.|[2502.21004](http://arxiv.org/abs/2502.21004)|null|
 |**2025-02-22**|**Robust Dynamic Facial Expression Recognition**|Feng Liu et.al.|[2502.16129](http://arxiv.org/abs/2502.16129)|**[link](https://github.com/cross-innovation-lab/rdfer)**|
