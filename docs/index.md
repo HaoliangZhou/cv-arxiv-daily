@@ -2,16 +2,17 @@
 layout: default
 ---
 
-## Updated on 2025.03.10
+## Updated on 2025.03.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Cross-Modal Image Retrieval
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-07**|**Data-Efficient Generalization for Zero-shot Composed Image Retrieval**|Zining Chen et.al.|[2503.05204](http://arxiv.org/abs/2503.05204)|null|
 |**2025-03-03**|**Composed Multi-modal Retrieval: A Survey of Approaches and Applications**|Kun Zhang et.al.|[2503.01334](http://arxiv.org/abs/2503.01334)|**[link](https://github.com/kkzhang95/awesome-composed-multi-modal-retrieval)**|
 |**2025-02-28**|**CoTMR: Chain-of-Thought Multi-Scale Reasoning for Training-Free Zero-Shot Composed Image Retrieval**|Zelong Sun et.al.|[2502.20826](http://arxiv.org/abs/2502.20826)|null|
-|**2025-03-04**|**A Comprehensive Survey on Composed Image Retrieval**|Xuemeng Song et.al.|[2502.18495](http://arxiv.org/abs/2502.18495)|null|
+|**2025-03-04**|**A Comprehensive Survey on Composed Image Retrieval**|Xuemeng Song et.al.|[2502.18495](http://arxiv.org/abs/2502.18495)|**[link](https://github.com/haokunwen/awesome-composed-image-retrieval)**|
 |**2025-02-11**|**PDV: Prompt Directional Vectors for Zero-shot Composed Image Retrieval**|Osman Tursun et.al.|[2502.07215](http://arxiv.org/abs/2502.07215)|null|
 |**2025-01-22**|**Triplet Synthesis For Enhancing Composed Image Retrieval via Counterfactual Image Generation**|Kenta Uesugi et.al.|[2501.13968](http://arxiv.org/abs/2501.13968)|null|
 |**2024-12-19**|**MegaPairs: Massive Data Synthesis For Universal Multimodal Retrieval**|Junjie Zhou et.al.|[2412.14475](http://arxiv.org/abs/2412.14475)|null|
@@ -27,6 +28,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-07**|**Semantic Shift Estimation via Dual-Projection and Classifier Reconstruction for Exemplar-Free Class-Incremental Learning**|Run He et.al.|[2503.05423](http://arxiv.org/abs/2503.05423)|null|
 |**2025-03-06**|**Teach YOLO to Remember: A Self-Distillation Approach for Continual Object Detection**|Riccardo De Monte et.al.|[2503.04688](http://arxiv.org/abs/2503.04688)|null|
 |**2025-03-06**|**CLDyB: Towards Dynamic Benchmarking for Continual Learning with Pre-trained Models**|Shengzhuang Chen et.al.|[2503.04655](http://arxiv.org/abs/2503.04655)|null|
 |**2025-03-07**|**No Forgetting Learning: Memory-free Continual Learning**|Mohammad Ali Vahedifar et.al.|[2503.04638](http://arxiv.org/abs/2503.04638)|null|
@@ -110,12 +112,12 @@ layout: default
 |**2025-03-06**|**Synthetic Data is an Elegant GIFT for Continual Vision-Language Models**|Bin Wu et.al.|[2503.04229](http://arxiv.org/abs/2503.04229)|null|
 |**2025-03-06**|**MASTER: Multimodal Segmentation with Text Prompts**|Fuyang Liu et.al.|[2503.04199](http://arxiv.org/abs/2503.04199)|null|
 |**2025-03-06**|**DSV-LFS: Unifying LLM-Driven Semantic Cues with Visual Features for Robust Few-Shot Segmentation**|Amin Karimi et.al.|[2503.04006](http://arxiv.org/abs/2503.04006)|null|
-|**2025-03-05**|**CURVALID: Geometrically-guided Adversarial Prompt Detection**|Canaan Yung et.al.|[2503.03502](http://arxiv.org/abs/2503.03502)|null|
+|**2025-03-05**|**CURVALID: Geometrically-guided Adversarial Prompt Detection**|Canaan Yung et.al.|[2503.03502](http://arxiv.org/abs/2503.03502)|**[link](https://github.com/cancanxxx/curvalid)**|
 |**2025-03-06**|**Exploring Visual Prompts: Refining Images with Scribbles and Annotations in Generative AI Image Tools**|Hyerim Park et.al.|[2503.03398](http://arxiv.org/abs/2503.03398)|null|
 |**2025-03-05**|**Find Matching Faces Based On Face Parameters**|Setu A. Bhatt et.al.|[2503.03204](http://arxiv.org/abs/2503.03204)|null|
 |**2025-03-05**|**From Architectural Sketch to Conceptual Representation: Using Structure-Aware Diffusion Model to Generate Renderings of School Buildings**|Zhengyang Wang et.al.|[2503.03090](http://arxiv.org/abs/2503.03090)|null|
 |**2025-03-04**|**Prompting Generative AI with Interaction-Augmented Instructions**|Leixian Shen et.al.|[2503.02874](http://arxiv.org/abs/2503.02874)|null|
-|**2025-03-05**|**Q-Eval-100K: Evaluating Visual Quality and Alignment Level for Text-to-Vision Content**|Zicheng Zhang et.al.|[2503.02357](http://arxiv.org/abs/2503.02357)|null|
+|**2025-03-05**|**Q-Eval-100K: Evaluating Visual Quality and Alignment Level for Text-to-Vision Content**|Zicheng Zhang et.al.|[2503.02357](http://arxiv.org/abs/2503.02357)|**[link](https://github.com/zzc-1998/q-eval)**|
 |**2025-03-03**|**Fine-Grained Controllable Apparel Showcase Image Generation via Garment-Centric Outpainting**|Rong Zhang et.al.|[2503.01294](http://arxiv.org/abs/2503.01294)|null|
 |**2025-02-28**|**PET Image Denoising via Text-Guided Diffusion: Integrating Anatomical Priors through Text Prompts**|Boxiao Yu et.al.|[2502.21260](http://arxiv.org/abs/2502.21260)|null|
 |**2025-02-28**|**FC-Attack: Jailbreaking Large Vision-Language Models via Auto-Generated Flowcharts**|Ziyi Zhang et.al.|[2502.21059](http://arxiv.org/abs/2502.21059)|null|
