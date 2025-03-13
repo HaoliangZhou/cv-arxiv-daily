@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.03.12
+## Updated on 2025.03.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Cross-Modal Image Retrieval
@@ -28,6 +28,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-11**|**External Knowledge Injection for CLIP-Based Class-Incremental Learning**|Da-Wei Zhou et.al.|[2503.08510](http://arxiv.org/abs/2503.08510)|null|
+|**2025-03-11**|**SoTCKGE:Continual Knowledge Graph Embedding Based on Spatial Offset Transformation**|Xinyan Wang et.al.|[2503.08189](http://arxiv.org/abs/2503.08189)|null|
+|**2025-03-11**|**Few-Shot Class-Incremental Model Attribution Using Learnable Representation From CLIP-ViT Features**|Hanbyul Lee et.al.|[2503.08148](http://arxiv.org/abs/2503.08148)|null|
+|**2025-03-11**|**Continual Learning for Multiple Modalities**|Hyundong Jin et.al.|[2503.08064](http://arxiv.org/abs/2503.08064)|null|
+|**2025-03-11**|**Achieving More with Less: Additive Prompt Tuning for Rehearsal-Free Class-Incremental Learning**|Haoran Chen et.al.|[2503.07979](http://arxiv.org/abs/2503.07979)|null|
 |**2025-03-10**|**PTMs-TSCIL Pre-Trained Models Based Class-Incremental Learning**|Yuanlong Wu et.al.|[2503.07153](http://arxiv.org/abs/2503.07153)|null|
 |**2025-03-10**|**A Comprehensive Survey of Mixture-of-Experts: Algorithms, Theory, and Applications**|Siyuan Mu et.al.|[2503.07137](http://arxiv.org/abs/2503.07137)|null|
 |**2025-03-10**|**Sequential Function-Space Variational Inference via Gaussian Mixture Approximation**|Menghao Waiyan William Zhu et.al.|[2503.07114](http://arxiv.org/abs/2503.07114)|null|
@@ -119,6 +124,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-11**|**FASIONAD++ : Integrating High-Level Instruction and Information Bottleneck in FAt-Slow fusION Systems for Enhanced Safety in Autonomous Driving with Adaptive Feedback**|Kangan Qian et.al.|[2503.08162](http://arxiv.org/abs/2503.08162)|null|
+|**2025-03-11**|**MGHanD: Multi-modal Guidance for authentic Hand Diffusion**|Taehyeon Eum et.al.|[2503.08133](http://arxiv.org/abs/2503.08133)|null|
+|**2025-03-10**|**Visual and Text Prompt Segmentation: A Novel Multi-Model Framework for Remote Sensing**|Xing Zi et.al.|[2503.07911](http://arxiv.org/abs/2503.07911)|null|
+|**2025-03-10**|**Seedream 2.0: A Native Chinese-English Bilingual Image Generation Foundation Model**|Lixue Gong et.al.|[2503.07703](http://arxiv.org/abs/2503.07703)|null|
 |**2025-03-10**|**Chameleon: Fast-slow Neuro-symbolic Lane Topology Extraction**|Zongzheng Zhang et.al.|[2503.07485](http://arxiv.org/abs/2503.07485)|null|
 |**2025-03-10**|**YOLOE: Real-Time Seeing Anything**|Ao Wang et.al.|[2503.07465](http://arxiv.org/abs/2503.07465)|**[link](https://github.com/THU-MIG/yoloe)**|
 |**2025-03-10**|**REF-VLM: Triplet-Based Referring Paradigm for Unified Visual Decoding**|Yan Tai et.al.|[2503.07413](http://arxiv.org/abs/2503.07413)|**[link](https://github.com/MacavityT/REF-VLM)**|
@@ -214,6 +223,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-11**|**Whoever Started the Interference Should End It: Guiding Data-Free Model Merging via Task Vectors**|Runxi Cheng et.al.|[2503.08099](http://arxiv.org/abs/2503.08099)|null|
 |**2025-03-06**|**IMFine: 3D Inpainting via Geometry-guided Multi-view Refinement**|Zhihao Shi et.al.|[2503.04501](http://arxiv.org/abs/2503.04501)|null|
 |**2025-03-04**|**Smoothing the Shift: Towards Stable Test-Time Adaptation under Complex Multimodal Noises**|Zirun Guo et.al.|[2503.02616](http://arxiv.org/abs/2503.02616)|**[link](https://github.com/zrguo/sumi)**|
 |**2025-03-04**|**Attention Bootstrapping for Multi-Modal Test-Time Adaptation**|Yusheng Zhao et.al.|[2503.02221](http://arxiv.org/abs/2503.02221)|null|
