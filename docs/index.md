@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.03.13
+## Updated on 2025.03.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Cross-Modal Image Retrieval
@@ -28,6 +28,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-12**|**Freeze and Cluster: A Simple Baseline for Rehearsal-Free Continual Category Discovery**|Chuyu Zhang et.al.|[2503.09106](http://arxiv.org/abs/2503.09106)|null|
 |**2025-03-11**|**External Knowledge Injection for CLIP-Based Class-Incremental Learning**|Da-Wei Zhou et.al.|[2503.08510](http://arxiv.org/abs/2503.08510)|null|
 |**2025-03-11**|**SoTCKGE:Continual Knowledge Graph Embedding Based on Spatial Offset Transformation**|Xinyan Wang et.al.|[2503.08189](http://arxiv.org/abs/2503.08189)|null|
 |**2025-03-11**|**Few-Shot Class-Incremental Model Attribution Using Learnable Representation From CLIP-ViT Features**|Hanbyul Lee et.al.|[2503.08148](http://arxiv.org/abs/2503.08148)|null|
@@ -124,6 +125,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-12**|**SuperCarver: Texture-Consistent 3D Geometry Super-Resolution for High-Fidelity Surface Detail Generation**|Qijian Zhang et.al.|[2503.09439](http://arxiv.org/abs/2503.09439)|null|
+|**2025-03-12**|**Unified Dense Prediction of Video Diffusion**|Lehan Yang et.al.|[2503.09344](http://arxiv.org/abs/2503.09344)|null|
+|**2025-03-12**|**UniCombine: Unified Multi-Conditional Combination with Diffusion Transformer**|Haoxuan Wang et.al.|[2503.09277](http://arxiv.org/abs/2503.09277)|null|
+|**2025-03-12**|**MP-HSIR: A Multi-Prompt Framework for Universal Hyperspectral Image Restoration**|Zhehui Wu et.al.|[2503.09131](http://arxiv.org/abs/2503.09131)|null|
 |**2025-03-11**|**FASIONAD++ : Integrating High-Level Instruction and Information Bottleneck in FAt-Slow fusION Systems for Enhanced Safety in Autonomous Driving with Adaptive Feedback**|Kangan Qian et.al.|[2503.08162](http://arxiv.org/abs/2503.08162)|null|
 |**2025-03-11**|**MGHanD: Multi-modal Guidance for authentic Hand Diffusion**|Taehyeon Eum et.al.|[2503.08133](http://arxiv.org/abs/2503.08133)|null|
 |**2025-03-10**|**Visual and Text Prompt Segmentation: A Novel Multi-Model Framework for Remote Sensing**|Xing Zi et.al.|[2503.07911](http://arxiv.org/abs/2503.07911)|null|
@@ -223,6 +228,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-12**|**Bidirectional Prototype-Reward co-Evolution for Test-Time Adaptation of Vision-Language Models**|Xiaozhen Qiao et.al.|[2503.09394](http://arxiv.org/abs/2503.09394)|null|
+|**2025-03-12**|**Bayesian Test-Time Adaptation for Vision-Language Models**|Lihua Zhou et.al.|[2503.09248](http://arxiv.org/abs/2503.09248)|null|
 |**2025-03-11**|**Whoever Started the Interference Should End It: Guiding Data-Free Model Merging via Task Vectors**|Runxi Cheng et.al.|[2503.08099](http://arxiv.org/abs/2503.08099)|null|
 |**2025-03-06**|**IMFine: 3D Inpainting via Geometry-guided Multi-view Refinement**|Zhihao Shi et.al.|[2503.04501](http://arxiv.org/abs/2503.04501)|null|
 |**2025-03-04**|**Smoothing the Shift: Towards Stable Test-Time Adaptation under Complex Multimodal Noises**|Zirun Guo et.al.|[2503.02616](http://arxiv.org/abs/2503.02616)|**[link](https://github.com/zrguo/sumi)**|
