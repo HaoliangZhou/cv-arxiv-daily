@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.03.16
+## Updated on 2025.03.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Cross-Modal Image Retrieval
@@ -34,7 +34,7 @@ layout: default
 |**2025-03-13**|**Generative Binary Memory: Pseudo-Replay Class-Incremental Learning on Binarized Embeddings**|Yanis Basso-Bert et.al.|[2503.10333](http://arxiv.org/abs/2503.10333)|null|
 |**2025-03-13**|**SCOOP: A Framework for Proactive Collaboration and Social Continual Learning through Natural Language Interaction andCausal Reasoning**|Dimitri Ognibene et.al.|[2503.10241](http://arxiv.org/abs/2503.10241)|null|
 |**2025-03-13**|**Singular Value Fine-tuning for Few-Shot Class-Incremental Learning**|Zhiwu Wang et.al.|[2503.10214](http://arxiv.org/abs/2503.10214)|null|
-|**2025-03-13**|**StableFusion: Continual Video Retrieval via Frame Adaptation**|Zecheng Zhao et.al.|[2503.10111](http://arxiv.org/abs/2503.10111)|null|
+|**2025-03-13**|**StableFusion: Continual Video Retrieval via Frame Adaptation**|Zecheng Zhao et.al.|[2503.10111](http://arxiv.org/abs/2503.10111)|**[link](https://github.com/jasoncodemaker/ctvr)**|
 |**2025-03-13**|**Semantic Synergy: Unlocking Policy Insights and Learning Pathways Through Advanced Skill Mapping**|Phoebe Koundouri et.al.|[2503.10094](http://arxiv.org/abs/2503.10094)|null|
 |**2025-03-13**|**A New Benchmark for Few-Shot Class-Incremental Learning: Redefining the Upper Bound**|Shiwon Kim et.al.|[2503.10003](http://arxiv.org/abs/2503.10003)|null|
 |**2025-03-12**|**Freeze and Cluster: A Simple Baseline for Rehearsal-Free Continual Category Discovery**|Chuyu Zhang et.al.|[2503.09106](http://arxiv.org/abs/2503.09106)|null|
