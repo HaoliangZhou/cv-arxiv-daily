@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.03.19
+## Updated on 2025.03.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Cross-Modal Image Retrieval
@@ -29,6 +29,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-18**|**FeNeC: Enhancing Continual Learning via Feature Clustering with Neighbor- or Logit-Based Classification**|Kamil Książek et.al.|[2503.14301](http://arxiv.org/abs/2503.14301)|null|
+|**2025-03-18**|**Condensing Action Segmentation Datasets via Generative Network Inversion**|Guodong Ding et.al.|[2503.14112](http://arxiv.org/abs/2503.14112)|null|
+|**2025-03-18**|**Robust3D-CIL: Robust Class-Incremental Learning for 3D Perception**|Jinge Ma et.al.|[2503.13869](http://arxiv.org/abs/2503.13869)|null|
+|**2025-03-17**|**Analytic Subspace Routing: How Recursive Least Squares Works in Continual Learning of Large Language Model**|Kai Tong et.al.|[2503.13575](http://arxiv.org/abs/2503.13575)|null|
 |**2025-03-17**|**ProtoDepth: Unsupervised Continual Depth Completion with Prototypes**|Patrick Rim et.al.|[2503.12745](http://arxiv.org/abs/2503.12745)|null|
 |**2025-03-16**|**A Continual Learning-driven Model for Accurate and Generalizable Segmentation of Clinically Comprehensive and Fine-grained Whole-body Anatomies in CT**|Dazhou Guo et.al.|[2503.12698](http://arxiv.org/abs/2503.12698)|null|
 |**2025-03-16**|**Hybrid Learners Do Not Forget: A Brain-Inspired Neuro-Symbolic Approach to Continual Learning**|Amin Banayeeanzade et.al.|[2503.12635](http://arxiv.org/abs/2503.12635)|null|
@@ -142,6 +146,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-18**|**The Power of Context: How Multimodality Improves Image Super-Resolution**|Kangfu Mei et.al.|[2503.14503](http://arxiv.org/abs/2503.14503)|null|
+|**2025-03-18**|**SALAD: Skeleton-aware Latent Diffusion for Text-driven Motion Generation and Editing**|Seokhyeon Hong et.al.|[2503.13836](http://arxiv.org/abs/2503.13836)|null|
+|**2025-03-18**|**Organ-aware Multi-scale Medical Image Segmentation Using Text Prompt Engineering**|Wenjie Zhang et.al.|[2503.13806](http://arxiv.org/abs/2503.13806)|null|
+|**2025-03-17**|**A Comprehensive Survey on Visual Concept Mining in Text-to-image Diffusion Models**|Ziqiang Li et.al.|[2503.13576](http://arxiv.org/abs/2503.13576)|null|
 |**2025-03-17**|**3DAxisPrompt: Promoting the 3D Grounding and Reasoning in GPT-4o**|Dingning Liu et.al.|[2503.13185](http://arxiv.org/abs/2503.13185)|null|
 |**2025-03-17**|**Rewards Are Enough for Fast Photo-Realistic Text-to-image Generation**|Yihong Luo et.al.|[2503.13070](http://arxiv.org/abs/2503.13070)|null|
 |**2025-03-17**|**MFP-CLIP: Exploring the Efficacy of Multi-Form Prompts for Zero-Shot Industrial Anomaly Detection**|Jingyi Yuan et.al.|[2503.12910](http://arxiv.org/abs/2503.12910)|null|
