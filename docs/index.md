@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.03.20
+## Updated on 2025.03.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Cross-Modal Image Retrieval
@@ -29,6 +29,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-19**|**Federated Continual 3D Segmentation With Single-round Communication**|Can Peng et.al.|[2503.15414](http://arxiv.org/abs/2503.15414)|null|
+|**2025-03-19**|**World Models in Artificial Intelligence: Sensing, Learning, and Reasoning Like a Child**|Javier Del Ser et.al.|[2503.15168](http://arxiv.org/abs/2503.15168)|null|
+|**2025-03-19**|**Continual Contrastive Learning on Tabular Data with Out of Distribution**|Achmad Ginanjar et.al.|[2503.15089](http://arxiv.org/abs/2503.15089)|null|
+|**2025-03-19**|**Continual Multimodal Contrastive Learning**|Xiaohao Liu et.al.|[2503.14963](http://arxiv.org/abs/2503.14963)|null|
+|**2025-03-19**|**H2ST: Hierarchical Two-Sample Tests for Continual Out-of-Distribution Detection**|Yuhang Liu et.al.|[2503.14832](http://arxiv.org/abs/2503.14832)|null|
 |**2025-03-18**|**FeNeC: Enhancing Continual Learning via Feature Clustering with Neighbor- or Logit-Based Classification**|Kamil Książek et.al.|[2503.14301](http://arxiv.org/abs/2503.14301)|null|
 |**2025-03-18**|**Condensing Action Segmentation Datasets via Generative Network Inversion**|Guodong Ding et.al.|[2503.14112](http://arxiv.org/abs/2503.14112)|null|
 |**2025-03-18**|**Robust3D-CIL: Robust Class-Incremental Learning for 3D Perception**|Jinge Ma et.al.|[2503.13869](http://arxiv.org/abs/2503.13869)|null|
@@ -146,6 +151,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-18**|**Diffusion-based G-buffer generation and rendering**|Bowen Xue et.al.|[2503.15147](http://arxiv.org/abs/2503.15147)|null|
+|**2025-03-19**|**Unlocking the Capabilities of Vision-Language Models for Generalizable and Explainable Deepfake Detection**|Peipeng Yu et.al.|[2503.14853](http://arxiv.org/abs/2503.14853)|null|
 |**2025-03-18**|**The Power of Context: How Multimodality Improves Image Super-Resolution**|Kangfu Mei et.al.|[2503.14503](http://arxiv.org/abs/2503.14503)|null|
 |**2025-03-18**|**SALAD: Skeleton-aware Latent Diffusion for Text-driven Motion Generation and Editing**|Seokhyeon Hong et.al.|[2503.13836](http://arxiv.org/abs/2503.13836)|null|
 |**2025-03-18**|**Organ-aware Multi-scale Medical Image Segmentation Using Text Prompt Engineering**|Wenjie Zhang et.al.|[2503.13806](http://arxiv.org/abs/2503.13806)|null|
@@ -276,6 +283,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-18**|**Effortless Active Labeling for Long-Term Test-Time Adaptation**|Guowei Wang et.al.|[2503.14564](http://arxiv.org/abs/2503.14564)|null|
 |**2025-03-17**|**Test-Time Domain Generalization via Universe Learning: A Multi-Graph Matching Approach for Medical Image Segmentation**|Xingguo Lv et.al.|[2503.13012](http://arxiv.org/abs/2503.13012)|null|
 |**2025-03-17**|**SCAP: Transductive Test-Time Adaptation via Supportive Clique-based Attribute Prompting**|Chenyu Zhang et.al.|[2503.12866](http://arxiv.org/abs/2503.12866)|null|
 |**2025-03-17**|**Harnessing Test-time Adaptation for NLU tasks Involving Dialects of English**|Duke Nguyen et.al.|[2503.12858](http://arxiv.org/abs/2503.12858)|null|
