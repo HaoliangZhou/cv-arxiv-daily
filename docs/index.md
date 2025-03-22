@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.03.21
+## Updated on 2025.03.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Cross-Modal Image Retrieval
@@ -29,6 +29,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-20**|**Towards Automatic Continual Learning: A Self-Adaptive Framework for Continual Instruction Tuning**|Peiyi Lin et.al.|[2503.15924](http://arxiv.org/abs/2503.15924)|null|
+|**2025-03-20**|**UAS Visual Navigation in Large and Unseen Environments via a Meta Agent**|Yuci Han et.al.|[2503.15781](http://arxiv.org/abs/2503.15781)|null|
+|**2025-03-19**|**Technical Report for the 5th CLVision Challenge at CVPR: Addressing the Class-Incremental with Repetition using Unlabeled Data -- 4th Place Solution**|Panagiota Moraiti et.al.|[2503.15697](http://arxiv.org/abs/2503.15697)|null|
 |**2025-03-19**|**Federated Continual 3D Segmentation With Single-round Communication**|Can Peng et.al.|[2503.15414](http://arxiv.org/abs/2503.15414)|null|
 |**2025-03-19**|**World Models in Artificial Intelligence: Sensing, Learning, and Reasoning Like a Child**|Javier Del Ser et.al.|[2503.15168](http://arxiv.org/abs/2503.15168)|null|
 |**2025-03-19**|**Continual Contrastive Learning on Tabular Data with Out of Distribution**|Achmad Ginanjar et.al.|[2503.15089](http://arxiv.org/abs/2503.15089)|null|
@@ -151,6 +154,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-20**|**VP-NTK: Exploring the Benefits of Visual Prompting in Differentially Private Data Synthesis**|Chia-Yi Hsu et.al.|[2503.16195](http://arxiv.org/abs/2503.16195)|null|
+|**2025-03-20**|**OSLoPrompt: Bridging Low-Supervision Challenges and Open-Set Domain Generalization in CLIP**|Mohamad Hassan N C et.al.|[2503.16106](http://arxiv.org/abs/2503.16106)|null|
+|**2025-03-20**|**Animating the Uncaptured: Humanoid Mesh Animation with Video Diffusion Models**|Marc Benedí San Millán et.al.|[2503.15996](http://arxiv.org/abs/2503.15996)|null|
+|**2025-03-20**|**VideoRFSplat: Direct Scene-Level Text-to-3D Gaussian Splatting Generation with Flexible Pose and Multi-View Joint Modeling**|Hyojun Go et.al.|[2503.15855](http://arxiv.org/abs/2503.15855)|null|
+|**2025-03-19**|**Vision-Speech Models: Teaching Speech Models to Converse about Images**|Amélie Royer et.al.|[2503.15633](http://arxiv.org/abs/2503.15633)|null|
 |**2025-03-18**|**Diffusion-based G-buffer generation and rendering**|Bowen Xue et.al.|[2503.15147](http://arxiv.org/abs/2503.15147)|null|
 |**2025-03-19**|**Unlocking the Capabilities of Vision-Language Models for Generalizable and Explainable Deepfake Detection**|Peipeng Yu et.al.|[2503.14853](http://arxiv.org/abs/2503.14853)|null|
 |**2025-03-18**|**The Power of Context: How Multimodality Improves Image Super-Resolution**|Kangfu Mei et.al.|[2503.14503](http://arxiv.org/abs/2503.14503)|null|
@@ -256,6 +264,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-20**|**V-NAW: Video-based Noise-aware Adaptive Weighting for Facial Expression Recognition**|JunGyu Lee et.al.|[2503.15970](http://arxiv.org/abs/2503.15970)|null|
 |**2025-03-15**|**Enhancing Facial Expression Recognition through Dual-Direction Attention Mixed Feature Networks and CLIP: Application to 8th ABAW Challenge**|Josep Cabacas-Maso et.al.|[2503.12260](http://arxiv.org/abs/2503.12260)|null|
 |**2025-03-18**|**Design of an Expression Recognition Solution Employing the Global Channel-Spatial Attention Mechanism**|Jun Yu et.al.|[2503.11935](http://arxiv.org/abs/2503.11935)|null|
 |**2025-03-13**|**HSEmotion Team at ABAW-8 Competition: Audiovisual Ambivalence/Hesitancy, Emotional Mimicry Intensity and Facial Expression Recognition**|Andrey V. Savchenko et.al.|[2503.10399](http://arxiv.org/abs/2503.10399)|null|
@@ -283,6 +292,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-20**|**LeanTTA: A Backpropagation-Free and Stateless Approach to Quantized Test-Time Adaptation on Edge Devices**|Cynthia Dong et.al.|[2503.15889](http://arxiv.org/abs/2503.15889)|null|
 |**2025-03-18**|**Effortless Active Labeling for Long-Term Test-Time Adaptation**|Guowei Wang et.al.|[2503.14564](http://arxiv.org/abs/2503.14564)|null|
 |**2025-03-17**|**Test-Time Domain Generalization via Universe Learning: A Multi-Graph Matching Approach for Medical Image Segmentation**|Xingguo Lv et.al.|[2503.13012](http://arxiv.org/abs/2503.13012)|null|
 |**2025-03-17**|**SCAP: Transductive Test-Time Adaptation via Supportive Clique-based Attribute Prompting**|Chenyu Zhang et.al.|[2503.12866](http://arxiv.org/abs/2503.12866)|null|
