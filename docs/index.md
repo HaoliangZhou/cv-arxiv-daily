@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.03.22
+## Updated on 2025.03.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Cross-Modal Image Retrieval
@@ -162,7 +162,7 @@ layout: default
 |**2025-03-18**|**Diffusion-based G-buffer generation and rendering**|Bowen Xue et.al.|[2503.15147](http://arxiv.org/abs/2503.15147)|null|
 |**2025-03-19**|**Unlocking the Capabilities of Vision-Language Models for Generalizable and Explainable Deepfake Detection**|Peipeng Yu et.al.|[2503.14853](http://arxiv.org/abs/2503.14853)|null|
 |**2025-03-18**|**The Power of Context: How Multimodality Improves Image Super-Resolution**|Kangfu Mei et.al.|[2503.14503](http://arxiv.org/abs/2503.14503)|null|
-|**2025-03-18**|**SALAD: Skeleton-aware Latent Diffusion for Text-driven Motion Generation and Editing**|Seokhyeon Hong et.al.|[2503.13836](http://arxiv.org/abs/2503.13836)|null|
+|**2025-03-18**|**SALAD: Skeleton-aware Latent Diffusion for Text-driven Motion Generation and Editing**|Seokhyeon Hong et.al.|[2503.13836](http://arxiv.org/abs/2503.13836)|**[link](https://github.com/seokhyeonhong/salad)**|
 |**2025-03-18**|**Organ-aware Multi-scale Medical Image Segmentation Using Text Prompt Engineering**|Wenjie Zhang et.al.|[2503.13806](http://arxiv.org/abs/2503.13806)|null|
 |**2025-03-17**|**A Comprehensive Survey on Visual Concept Mining in Text-to-image Diffusion Models**|Ziqiang Li et.al.|[2503.13576](http://arxiv.org/abs/2503.13576)|null|
 |**2025-03-17**|**3DAxisPrompt: Promoting the 3D Grounding and Reasoning in GPT-4o**|Dingning Liu et.al.|[2503.13185](http://arxiv.org/abs/2503.13185)|null|
