@@ -1,4 +1,4 @@
-## Updated on 2025.03.25
+## Updated on 2025.03.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -16,6 +16,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-22**|**good4cir: Generating Detailed Synthetic Captions for Composed Image Retrieval**|Pranavi Kolouju et.al.|[2503.17871](http://arxiv.org/abs/2503.17871)|null|
 |**2025-03-21**|**Missing Target-Relevant Information Prediction with World Model for Accurate Zero-Shot Composed Image Retrieval**|Yuanmin Tang et.al.|[2503.17109](http://arxiv.org/abs/2503.17109)|null|
 |**2025-03-17**|**Scale Efficient Training for Large Datasets**|Qing Zhou et.al.|[2503.13385](http://arxiv.org/abs/2503.13385)|null|
 |**2025-03-07**|**Data-Efficient Generalization for Zero-shot Composed Image Retrieval**|Zining Chen et.al.|[2503.05204](http://arxiv.org/abs/2503.05204)|null|
@@ -33,12 +34,22 @@
 |**2024-12-02**|**AnySynth: Harnessing the Power of Image Synthetic Data Generation for Generalized Vision-Language Tasks**|You Li et.al.|[2411.16749](http://arxiv.org/abs/2411.16749)|null|
 |**2024-10-31**|**MoTaDual: Modality-Task Dual Alignment for Enhanced Zero-shot Composed Image Retrieval**|Haiwen Li et.al.|[2410.23736](http://arxiv.org/abs/2410.23736)|null|
 
-<p align=right>(<a href=#updated-on-20250325>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250326>back to top</a>)</p>
 
 ## Continual Learning
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-24**|**Autonomous Generation of Sub-goals for Lifelong Learning in Robots**|Emanuel Fallas Hernández et.al.|[2503.18914](http://arxiv.org/abs/2503.18914)|null|
+|**2025-03-25**|**Feature Calibration enhanced Parameter Synthesis for CLIP-based Class-incremental Learning**|Juncen Guo et.al.|[2503.18672](http://arxiv.org/abs/2503.18672)|null|
+|**2025-03-24**|**Parental Guidance: Efficient Lifelong Learning through Evolutionary Distillation**|Octi Zhang et.al.|[2503.18531](http://arxiv.org/abs/2503.18531)|null|
+|**2025-03-24**|**Global Convergence of Continual Learning on Non-IID Data**|Fei Zhu et.al.|[2503.18511](http://arxiv.org/abs/2503.18511)|null|
+|**2025-03-24**|**Knowledge Graph Enhanced Generative Multi-modal Models for Class-Incremental Learning**|Xusheng Cao et.al.|[2503.18403](http://arxiv.org/abs/2503.18403)|null|
+|**2025-03-24**|**Do Your Best and Get Enough Rest for Continual Learning**|Hankyul Kang et.al.|[2503.18371](http://arxiv.org/abs/2503.18371)|null|
+|**2025-03-23**|**Dynamic Allocation Hypernetwork with Adaptive Model Recalibration for FCL**|Xiaoming Qi et.al.|[2503.18064](http://arxiv.org/abs/2503.18064)|null|
+|**2025-03-23**|**DualCP: Rehearsal-Free Domain-Incremental Learning via Dual-Level Concept Prototype**|Qiang Wang et.al.|[2503.18042](http://arxiv.org/abs/2503.18042)|null|
+|**2025-03-22**|**Lifelong Evolution of Swarms**|Lorenzo Leuzzi et.al.|[2503.17763](http://arxiv.org/abs/2503.17763)|null|
+|**2025-03-22**|**Reducing Class-wise Confusion for Incremental Learning with Disentangled Manifolds**|Huitong Chen et.al.|[2503.17677](http://arxiv.org/abs/2503.17677)|null|
 |**2025-03-21**|**Replay4NCL: An Efficient Memory Replay-based Methodology for Neuromorphic Continual Learning in Embedded AI Systems**|Mishal Fatima Minhas et.al.|[2503.17061](http://arxiv.org/abs/2503.17061)|null|
 |**2025-03-21**|**Specifying What You Know or Not for Multi-Label Class-Incremental Learning**|Aoting Zhang et.al.|[2503.17017](http://arxiv.org/abs/2503.17017)|null|
 |**2025-03-21**|**Restoring Forgotten Knowledge in Non-Exemplar Class Incremental Learning through Test-Time Semantic Evolution**|Haori Lu et.al.|[2503.16793](http://arxiv.org/abs/2503.16793)|null|
@@ -163,12 +174,22 @@
 |**2025-02-10**|**Prompt-Driven Continual Graph Learning**|Qi Wang et.al.|[2502.06327](http://arxiv.org/abs/2502.06327)|null|
 |**2025-02-10**|**Position: Continual Learning Benefits from An Evolving Population over An Unified Model**|Aojun Lu et.al.|[2502.06210](http://arxiv.org/abs/2502.06210)|null|
 
-<p align=right>(<a href=#updated-on-20250325>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250326>back to top</a>)</p>
 
 ## Vision-Language Prompting
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-24**|**Target-Aware Video Diffusion Models**|Taeksoo Kim et.al.|[2503.18950](http://arxiv.org/abs/2503.18950)|null|
+|**2025-03-24**|**Video-T1: Test-Time Scaling for Video Generation**|Fangfu Liu et.al.|[2503.18942](http://arxiv.org/abs/2503.18942)|null|
+|**2025-03-25**|**MC-LLaVA: Multi-Concept Personalized Vision-Language Model**|Ruichuan An et.al.|[2503.18854](http://arxiv.org/abs/2503.18854)|null|
+|**2025-03-24**|**Human Motion Unlearning**|Edoardo De Matteis et.al.|[2503.18674](http://arxiv.org/abs/2503.18674)|null|
+|**2025-03-24**|**Adapting Video Diffusion Models for Time-Lapse Microscopy**|Alexander Holmberg et.al.|[2503.18583](http://arxiv.org/abs/2503.18583)|null|
+|**2025-03-25**|**AMD-Hummingbird: Towards an Efficient Text-to-Video Model**|Takashi Isobe et.al.|[2503.18559](http://arxiv.org/abs/2503.18559)|null|
+|**2025-03-25**|**VTD-CLIP: Video-to-Text Discretization via Prompting CLIP**|Wencheng Zhu et.al.|[2503.18407](http://arxiv.org/abs/2503.18407)|null|
+|**2025-03-24**|**Diffusion-4K: Ultra-High-Resolution Image Synthesis with Latent Diffusion Models**|Jinjin Zhang et.al.|[2503.18352](http://arxiv.org/abs/2503.18352)|null|
+|**2025-03-22**|**V2P-Bench: Evaluating Video-Language Understanding with Visual Prompts for Better Human-Model Interaction**|Yiming Zhao et.al.|[2503.17736](http://arxiv.org/abs/2503.17736)|null|
+|**2025-03-22**|**CountLLM: Towards Generalizable Repetitive Action Counting via Large Language Model**|Ziyu Yao et.al.|[2503.17690](http://arxiv.org/abs/2503.17690)|null|
 |**2025-03-21**|**Slide-Level Prompt Learning with Vision Language Models for Few-Shot Multiple Instance Learning in Histopathology**|Devavrat Tomar et.al.|[2503.17238](http://arxiv.org/abs/2503.17238)|null|
 |**2025-03-21**|**ETVA: Evaluation of Text-to-Video Alignment via Fine-grained Question Generation and Answering**|Kaisi Guan et.al.|[2503.16867](http://arxiv.org/abs/2503.16867)|null|
 |**2025-03-20**|**VP-NTK: Exploring the Benefits of Visual Prompting in Differentially Private Data Synthesis**|Chia-Yi Hsu et.al.|[2503.16195](http://arxiv.org/abs/2503.16195)|null|
@@ -277,12 +298,13 @@
 |**2025-02-08**|**Diverse Image Generation with Diffusion Models and Cross Class Label Learning for Polyp Classification**|Vanshali Sharma et.al.|[2502.05444](http://arxiv.org/abs/2502.05444)|**[link](https://github.com/vanshali/pathopolyp-diff)**|
 |**2025-02-07**|**FlashVideo:Flowing Fidelity to Detail for Efficient High-Resolution Video Generation**|Shilong Zhang et.al.|[2502.05179](http://arxiv.org/abs/2502.05179)|**[link](https://github.com/foundationvision/flashvideo)**|
 
-<p align=right>(<a href=#updated-on-20250325>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250326>back to top</a>)</p>
 
 ## Facial Expression Recognition
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-24**|**SIT-FER: Integration of Semantic-, Instance-, Text-level Information for Semi-supervised Facial Expression Recognition**|Sixian Ding et.al.|[2503.18463](http://arxiv.org/abs/2503.18463)|null|
 |**2025-03-21**|**PE-CLIP: A Parameter-Efficient Fine-Tuning of Vision Language Models for Dynamic Facial Expression Recognition**|Ibtissam Saadi et.al.|[2503.16945](http://arxiv.org/abs/2503.16945)|null|
 |**2025-02-24**|**Rank-O-ToM: Unlocking Emotional Nuance Ranking to Enhance Affective Theory-of-Mind**|JiHyun Kim et.al.|[2503.16461](http://arxiv.org/abs/2503.16461)|null|
 |**2025-03-20**|**V-NAW: Video-based Noise-aware Adaptive Weighting for Facial Expression Recognition**|JunGyu Lee et.al.|[2503.15970](http://arxiv.org/abs/2503.15970)|null|
@@ -309,12 +331,13 @@
 |**2024-12-16**|**Impact of Face Alignment on Face Image Quality**|Eren Onaran et.al.|[2412.11779](http://arxiv.org/abs/2412.11779)|null|
 |**2024-12-15**|**Unimodal and Multimodal Static Facial Expression Recognition for Virtual Reality Users with EmoHeVRDB**|Thorben Ortmann et.al.|[2412.11306](http://arxiv.org/abs/2412.11306)|**[link](https://github.com/thorbenortmann/emohevrdb-sfer)**|
 
-<p align=right>(<a href=#updated-on-20250325>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250326>back to top</a>)</p>
 
 ## Test-Time Adaptation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-24**|**Mitigating Cache Noise in Test-Time Adaptation for Large Vision-Language Models**|Haotian Zhai et.al.|[2503.18334](http://arxiv.org/abs/2503.18334)|null|
 |**2025-03-20**|**LeanTTA: A Backpropagation-Free and Stateless Approach to Quantized Test-Time Adaptation on Edge Devices**|Cynthia Dong et.al.|[2503.15889](http://arxiv.org/abs/2503.15889)|null|
 |**2025-03-18**|**Effortless Active Labeling for Long-Term Test-Time Adaptation**|Guowei Wang et.al.|[2503.14564](http://arxiv.org/abs/2503.14564)|null|
 |**2025-03-17**|**Test-Time Domain Generalization via Universe Learning: A Multi-Graph Matching Approach for Medical Image Segmentation**|Xingguo Lv et.al.|[2503.13012](http://arxiv.org/abs/2503.13012)|null|
@@ -343,7 +366,7 @@
 |**2025-01-31**|**Test-time Loss Landscape Adaptation for Zero-Shot Generalization in Vision-Language Models**|Aodi Li et.al.|[2501.18864](http://arxiv.org/abs/2501.18864)|null|
 |**2025-02-03**|**Advances in Multimodal Adaptation and Generalization: From Traditional Approaches to Foundation Models**|Hao Dong et.al.|[2501.18592](http://arxiv.org/abs/2501.18592)|**[link](https://github.com/donghao51/awesome-multimodal-adaptation)**|
 
-<p align=right>(<a href=#updated-on-20250325>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250326>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
