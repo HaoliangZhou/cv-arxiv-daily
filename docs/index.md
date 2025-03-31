@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.03.30
+## Updated on 2025.03.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Cross-Modal Image Retrieval
@@ -44,7 +44,7 @@ layout: default
 |**2025-03-25**|**Experience Replay Addresses Loss of Plasticity in Continual Learning**|Jiuqi Wang et.al.|[2503.20018](http://arxiv.org/abs/2503.20018)|null|
 |**2025-03-25**|**Continual Learning With Quasi-Newton Methods**|Steven Vander Eeckt et.al.|[2503.19939](http://arxiv.org/abs/2503.19939)|null|
 |**2025-03-25**|**Domain-incremental White Blood Cell Classification with Privacy-aware Continual Learning**|Pratibha Kumari et.al.|[2503.19819](http://arxiv.org/abs/2503.19819)|null|
-|**2025-03-25**|**Adaptive Weighted Parameter Fusion with CLIP for Class-Incremental Learning**|Juncen Guo et.al.|[2503.19503](http://arxiv.org/abs/2503.19503)|null|
+|**2025-03-28**|**Adaptive Weighted Parameter Fusion with CLIP for Class-Incremental Learning**|Juncen Guo et.al.|[2503.19503](http://arxiv.org/abs/2503.19503)|null|
 |**2025-03-24**|**Continual Reinforcement Learning for HVAC Systems Control: Integrating Hypernetworks and Transfer Learning**|Gautham Udayakumar Bekal et.al.|[2503.19212](http://arxiv.org/abs/2503.19212)|null|
 |**2025-03-24**|**Autonomous Generation of Sub-goals for Lifelong Learning in Robots**|Emanuel Fallas Hernández et.al.|[2503.18914](http://arxiv.org/abs/2503.18914)|null|
 |**2025-03-25**|**Feature Calibration enhanced Parameter Synthesis for CLIP-based Class-incremental Learning**|Juncen Guo et.al.|[2503.18672](http://arxiv.org/abs/2503.18672)|null|
