@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.03.31
+## Updated on 2025.04.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Cross-Modal Image Retrieval
@@ -11,9 +11,9 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-03-27**|**FineCIR: Explicit Parsing of Fine-Grained Modification Semantics for Composed Image Retrieval**|Zixu Li et.al.|[2503.21309](http://arxiv.org/abs/2503.21309)|**[link](https://github.com/sdu-l/finecir)**|
 |**2025-03-25**|**CoLLM: A Large Language Model for Composed Image Retrieval**|Chuong Huynh et.al.|[2503.19910](http://arxiv.org/abs/2503.19910)|**[link](https://github.com/hmchuong/CoLLM)**|
-|**2025-03-25**|**Fine-grained Textual Inversion Network for Zero-Shot Composed Image Retrieval**|Haoqiang Lin et.al.|[2503.19296](http://arxiv.org/abs/2503.19296)|null|
+|**2025-03-25**|**Fine-grained Textual Inversion Network for Zero-Shot Composed Image Retrieval**|Haoqiang Lin et.al.|[2503.19296](http://arxiv.org/abs/2503.19296)|**[link](https://github.com/ZiChao111/FTI4CIR)**|
 |**2025-03-22**|**good4cir: Generating Detailed Synthetic Captions for Composed Image Retrieval**|Pranavi Kolouju et.al.|[2503.17871](http://arxiv.org/abs/2503.17871)|null|
-|**2025-03-21**|**Missing Target-Relevant Information Prediction with World Model for Accurate Zero-Shot Composed Image Retrieval**|Yuanmin Tang et.al.|[2503.17109](http://arxiv.org/abs/2503.17109)|null|
+|**2025-03-30**|**Missing Target-Relevant Information Prediction with World Model for Accurate Zero-Shot Composed Image Retrieval**|Yuanmin Tang et.al.|[2503.17109](http://arxiv.org/abs/2503.17109)|**[link](https://github.com/pter61/predicir)**|
 |**2025-03-17**|**Scale Efficient Training for Large Datasets**|Qing Zhou et.al.|[2503.13385](http://arxiv.org/abs/2503.13385)|null|
 |**2025-03-07**|**Data-Efficient Generalization for Zero-shot Composed Image Retrieval**|Zining Chen et.al.|[2503.05204](http://arxiv.org/abs/2503.05204)|null|
 |**2025-03-03**|**Composed Multi-modal Retrieval: A Survey of Approaches and Applications**|Kun Zhang et.al.|[2503.01334](http://arxiv.org/abs/2503.01334)|**[link](https://github.com/kkzhang95/awesome-composed-multi-modal-retrieval)**|
@@ -34,6 +34,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-28**|**Efficient Continual Learning through Frequency Decomposition and Integration**|Ruiqi Liu et.al.|[2503.22175](http://arxiv.org/abs/2503.22175)|null|
+|**2025-03-28**|**T-CIL: Temperature Scaling using Adversarial Perturbation for Calibration in Class-Incremental Learning**|Seong-Hyeon Hwang et.al.|[2503.22163](http://arxiv.org/abs/2503.22163)|null|
+|**2025-03-28**|**Beyond Background Shift: Rethinking Instance Replay in Continual Semantic Segmentation**|Hongmei Yin et.al.|[2503.22136](http://arxiv.org/abs/2503.22136)|**[link](https://github.com/yikeyin97/eir)**|
+|**2025-03-28**|**A Proposal for Networks Capable of Continual Learning**|Zeki Doruk Erden et.al.|[2503.22068](http://arxiv.org/abs/2503.22068)|null|
 |**2025-03-27**|**Stochastic Engrams for Efficient Continual Learning with Binarized Neural Networks**|Isabelle Aguilar et.al.|[2503.21436](http://arxiv.org/abs/2503.21436)|null|
 |**2025-03-27**|**Learn by Reasoning: Analogical Weight Generation for Few-Shot Class-Incremental Learning**|Jizhou Han et.al.|[2503.21258](http://arxiv.org/abs/2503.21258)|null|
 |**2025-03-27**|**LLaVA-CMoE: Towards Continual Mixture of Experts for Large Vision-Language Models**|Hengyuan Zhao et.al.|[2503.21227](http://arxiv.org/abs/2503.21227)|null|
@@ -184,6 +188,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-28**|**VisTa: Visual-contextual and Text-augmented Zero-shot Object-level OOD Detection**|Bin Zhang et.al.|[2503.22291](http://arxiv.org/abs/2503.22291)|null|
+|**2025-03-28**|**Enhance Generation Quality of Flow Matching V2A Model via Multi-Step CoT-Like Guidance and Combined Preference Optimization**|Haomin Zhang et.al.|[2503.22200](http://arxiv.org/abs/2503.22200)|null|
+|**2025-03-28**|**Spatial Transport Optimization by Repositioning Attention Map for Training-Free Text-to-Image Synthesis**|Woojung Han et.al.|[2503.22168](http://arxiv.org/abs/2503.22168)|null|
+|**2025-03-27**|**HyperFree: A Channel-adaptive and Tuning-free Foundation Model for Hyperspectral Remote Sensing Imagery**|Jingtao Li et.al.|[2503.21841](http://arxiv.org/abs/2503.21841)|null|
+|**2025-03-25**|**IPGO: Indirect Prompt Gradient Optimization on Text-to-Image Generative Models with High Data Efficiency**|Jianping Ye et.al.|[2503.21812](http://arxiv.org/abs/2503.21812)|null|
 |**2025-03-27**|**Evaluating Text-to-Image Synthesis with a Conditional Fréchet Distance**|Jaywon Koo et.al.|[2503.21721](http://arxiv.org/abs/2503.21721)|null|
 |**2025-03-27**|**Progressive Rendering Distillation: Adapting Stable Diffusion for Instant Text-to-Mesh Generation without 3D Data**|Zhiyuan Ma et.al.|[2503.21694](http://arxiv.org/abs/2503.21694)|**[link](https://github.com/theericma/triplaneturbo)**|
 |**2025-03-27**|**Zero-Shot Visual Concept Blending Without Text Guidance**|Hiroya Makino et.al.|[2503.21277](http://arxiv.org/abs/2503.21277)|null|
@@ -320,7 +329,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-03-26**|**Disentangled Source-Free Personalization for Facial Expression Recognition with Neutral Target Data**|Masoumeh Sharafi et.al.|[2503.20771](http://arxiv.org/abs/2503.20771)|null|
+|**2025-03-29**|**Disentangled Source-Free Personalization for Facial Expression Recognition with Neutral Target Data**|Masoumeh Sharafi et.al.|[2503.20771](http://arxiv.org/abs/2503.20771)|**[link](https://github.com/MasoumehSharafi/DSFDA-for-Pain-Assessment)**|
 |**2025-03-26**|**Evaluating Facial Expression Recognition Datasets for Deep Learning: A Benchmark Study with Novel Similarity Metrics**|F. Xavier Gaya-Morey et.al.|[2503.20428](http://arxiv.org/abs/2503.20428)|null|
 |**2025-03-24**|**SIT-FER: Integration of Semantic-, Instance-, Text-level Information for Semi-supervised Facial Expression Recognition**|Sixian Ding et.al.|[2503.18463](http://arxiv.org/abs/2503.18463)|**[link](https://github.com/patrickstarl/sit-fer)**|
 |**2025-03-21**|**PE-CLIP: A Parameter-Efficient Fine-Tuning of Vision Language Models for Dynamic Facial Expression Recognition**|Ibtissam Saadi et.al.|[2503.16945](http://arxiv.org/abs/2503.16945)|null|
@@ -355,7 +364,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-03-25**|**D2SA: Dual-Stage Distribution and Slice Adaptation for Efficient Test-Time Adaptation in MRI Reconstruction**|Lipei Zhang et.al.|[2503.20815](http://arxiv.org/abs/2503.20815)|null|
 |**2025-03-26**|**SURGEON: Memory-Adaptive Fully Test-Time Adaptation via Dynamic Activation Sparsity**|Ke Ma et.al.|[2503.20354](http://arxiv.org/abs/2503.20354)|null|
-|**2025-03-24**|**Mitigating Cache Noise in Test-Time Adaptation for Large Vision-Language Models**|Haotian Zhai et.al.|[2503.18334](http://arxiv.org/abs/2503.18334)|null|
+|**2025-03-31**|**Mitigating Cache Noise in Test-Time Adaptation for Large Vision-Language Models**|Haotian Zhai et.al.|[2503.18334](http://arxiv.org/abs/2503.18334)|null|
 |**2025-03-20**|**LeanTTA: A Backpropagation-Free and Stateless Approach to Quantized Test-Time Adaptation on Edge Devices**|Cynthia Dong et.al.|[2503.15889](http://arxiv.org/abs/2503.15889)|null|
 |**2025-03-18**|**Effortless Active Labeling for Long-Term Test-Time Adaptation**|Guowei Wang et.al.|[2503.14564](http://arxiv.org/abs/2503.14564)|null|
 |**2025-03-17**|**Test-Time Domain Generalization via Universe Learning: A Multi-Graph Matching Approach for Medical Image Segmentation**|Xingguo Lv et.al.|[2503.13012](http://arxiv.org/abs/2503.13012)|null|
