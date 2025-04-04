@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2025.04.03
+## Updated on 2025.04.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Cross-Modal Image Retrieval
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-01**|**Scaling Prompt Instructed Zero Shot Composed Image Retrieval with Image-Only Data**|Yiqun Duan et.al.|[2504.00812](http://arxiv.org/abs/2504.00812)|null|
 |**2025-03-27**|**FineCIR: Explicit Parsing of Fine-Grained Modification Semantics for Composed Image Retrieval**|Zixu Li et.al.|[2503.21309](http://arxiv.org/abs/2503.21309)|**[link](https://github.com/sdu-l/finecir)**|
 |**2025-03-25**|**CoLLM: A Large Language Model for Composed Image Retrieval**|Chuong Huynh et.al.|[2503.19910](http://arxiv.org/abs/2503.19910)|**[link](https://github.com/hmchuong/CoLLM)**|
 |**2025-03-25**|**Fine-grained Textual Inversion Network for Zero-Shot Composed Image Retrieval**|Haoqiang Lin et.al.|[2503.19296](http://arxiv.org/abs/2503.19296)|**[link](https://github.com/ZiChao111/FTI4CIR)**|
@@ -34,6 +35,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-03**|**AI-Driven Framework for Multi-Service Multi-Modal Devices in NextG ORAN Systems**|Mrityunjoy Gain et.al.|[2504.01730](http://arxiv.org/abs/2504.01730)|null|
+|**2025-04-02**|**ProtoGuard-guided PROPEL: Class-Aware Prototype Enhancement and Progressive Labeling for Incremental 3D Point Cloud Segmentation**|Haosheng Li et.al.|[2504.01648](http://arxiv.org/abs/2504.01648)|null|
+|**2025-04-01**|**Catastrophic Forgetting in LLMs: A Comparative Analysis Across Language Tasks**|Naimul Haque et.al.|[2504.01241](http://arxiv.org/abs/2504.01241)|null|
+|**2025-04-01**|**Gradient-free Continual Learning**|Grzegorz Rypeść et.al.|[2504.01219](http://arxiv.org/abs/2504.01219)|null|
+|**2025-04-01**|**Energy Weighted Learning Progress Guided Interleaved Multi-Task Learning**|Hanne Say et.al.|[2504.00707](http://arxiv.org/abs/2504.00707)|null|
+|**2025-04-01**|**Continual Cross-Modal Generalization**|Yan Xia et.al.|[2504.00561](http://arxiv.org/abs/2504.00561)|null|
+|**2025-04-01**|**SPF-Portrait: Towards Pure Portrait Customization with Semantic Pollution-Free Fine-tuning**|Xiaole Xian et.al.|[2504.00396](http://arxiv.org/abs/2504.00396)|null|
+|**2025-03-31**|**MetaCLBench: Meta Continual Learning Benchmark on Resource-Constrained Edge Devices**|Sijia Li et.al.|[2504.00174](http://arxiv.org/abs/2504.00174)|null|
 |**2025-03-31**|**Advances in Continual Graph Learning for Anti-Money Laundering Systems: A Comprehensive Review**|Bruno Deprez et.al.|[2503.24259](http://arxiv.org/abs/2503.24259)|null|
 |**2025-03-30**|**If an LLM Were a Character, Would It Know Its Own Story? Evaluating Lifelong Learning in LLMs**|Siqi Fan et.al.|[2503.23514](http://arxiv.org/abs/2503.23514)|null|
 |**2025-03-30**|**Diffusion Meets Few-shot Class Incremental Learning**|Junsu Kim et.al.|[2503.23402](http://arxiv.org/abs/2503.23402)|null|
@@ -195,6 +204,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-02**|**Is Temporal Prompting All We Need For Limited Labeled Action Recognition?**|Shreyank N Gowda et.al.|[2504.01890](http://arxiv.org/abs/2504.01890)|null|
+|**2025-04-02**|**Prompting Medical Vision-Language Models to Mitigate Diagnosis Bias by Generating Realistic Dermoscopic Images**|Nusrat Munia et.al.|[2504.01838](http://arxiv.org/abs/2504.01838)|null|
+|**2025-04-02**|**Q-Adapt: Adapting LMM for Visual Quality Assessment with Progressive Instruction Tuning**|Yiting Lu et.al.|[2504.01655](http://arxiv.org/abs/2504.01655)|null|
+|**2025-04-02**|**A $^\text{T}$ A: Adaptive Transformation Agent for Text-Guided Subject-Position Variable Background Inpainting**|Yizhe Tang et.al.|[2504.01603](http://arxiv.org/abs/2504.01603)|null|
+|**2025-04-02**|**STPNet: Scale-aware Text Prompt Network for Medical Image Segmentation**|Dandan Shan et.al.|[2504.01561](http://arxiv.org/abs/2504.01561)|null|
+|**2025-04-02**|**Prompt-Guided Attention Head Selection for Focus-Oriented Image Retrieval**|Yuji Nozawa et.al.|[2504.01348](http://arxiv.org/abs/2504.01348)|null|
+|**2025-04-01**|**Prompting Forgetting: Unlearning in GANs via Textual Guidance**|Piyush Nagasubramaniam et.al.|[2504.01218](http://arxiv.org/abs/2504.01218)|null|
+|**2025-04-01**|**High-Quality Pseudo-Label Generation Based on Visual Prompt Assisted Cloud Model Update**|Xinrun Xu et.al.|[2504.00526](http://arxiv.org/abs/2504.00526)|null|
+|**2025-04-01**|**Using complex prompts to identify fine-grained biases in image generation through ChatGPT-4o**|Marinus Ferreira et.al.|[2504.00388](http://arxiv.org/abs/2504.00388)|null|
+|**2025-04-01**|**MPDrive: Improving Spatial Understanding with Marker-Based Prompt Learning for Autonomous Driving**|Zhiyuan Zhang et.al.|[2504.00379](http://arxiv.org/abs/2504.00379)|null|
 |**2025-04-01**|**HumanDreamer: Generating Controllable Human-Motion Videos via Decoupled Generation**|Boyuan Wang et.al.|[2503.24026](http://arxiv.org/abs/2503.24026)|null|
 |**2025-03-31**|**MuseFace: Text-driven Face Editing via Diffusion-based Mask Generation Approach**|Xin Zhang et.al.|[2503.23888](http://arxiv.org/abs/2503.23888)|null|
 |**2025-03-31**|**Every Painting Awakened: A Training-free Framework for Painting-to-Animation Generation**|Lingyu Liu et.al.|[2503.23736](http://arxiv.org/abs/2503.23736)|null|
