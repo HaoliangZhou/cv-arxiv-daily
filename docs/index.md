@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2025.04.08
+## Updated on 2025.04.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Cross-Modal Image Retrieval
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-06**|**NCL-CIR: Noise-aware Contrastive Learning for Composed Image Retrieval**|Peng Gao et.al.|[2504.04339](http://arxiv.org/abs/2504.04339)|null|
 |**2025-04-01**|**Scaling Prompt Instructed Zero Shot Composed Image Retrieval with Image-Only Data**|Yiqun Duan et.al.|[2504.00812](http://arxiv.org/abs/2504.00812)|null|
 |**2025-03-27**|**FineCIR: Explicit Parsing of Fine-Grained Modification Semantics for Composed Image Retrieval**|Zixu Li et.al.|[2503.21309](http://arxiv.org/abs/2503.21309)|**[link](https://github.com/sdu-l/finecir)**|
 |**2025-03-25**|**CoLLM: A Large Language Model for Composed Image Retrieval**|Chuong Huynh et.al.|[2503.19910](http://arxiv.org/abs/2503.19910)|**[link](https://github.com/hmchuong/CoLLM)**|
@@ -35,6 +36,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-07**|**Post-Training Language Models for Continual Relation Extraction**|Sefika Efeoglu et.al.|[2504.05214](http://arxiv.org/abs/2504.05214)|null|
+|**2025-04-07**|**GOTHAM: Graph Class Incremental Learning Framework under Weak Supervision**|Aditya Hemant Shahane et.al.|[2504.04954](http://arxiv.org/abs/2504.04954)|null|
+|**2025-04-07**|**Embodied Perception for Test-time Grasping Detection Adaptation with Knowledge Infusion**|Jin Liu et.al.|[2504.04795](http://arxiv.org/abs/2504.04795)|null|
+|**2025-04-06**|**Better Rates for Random Task Orderings in Continual Linear Models**|Itay Evron et.al.|[2504.04579](http://arxiv.org/abs/2504.04579)|null|
+|**2025-04-05**|**Memory-Statistics Tradeoff in Continual Learning with Structural Regularization**|Haoran Li et.al.|[2504.04039](http://arxiv.org/abs/2504.04039)|null|
+|**2025-04-04**|**Outlook Towards Deployable Continual Learning for Particle Accelerators**|Kishansingh Rajput et.al.|[2504.03793](http://arxiv.org/abs/2504.03793)|null|
 |**2025-04-03**|**BECAME: BayEsian Continual Learning with Adaptive Model MErging**|Mei Li et.al.|[2504.02666](http://arxiv.org/abs/2504.02666)|null|
 |**2025-04-03**|**The Self-Learning Agent with a Progressive Neural Network Integrated Transformer**|Ajay Sivakumar et.al.|[2504.02489](http://arxiv.org/abs/2504.02489)|null|
 |**2025-04-03**|**Distributed Log-driven Anomaly Detection System based on Evolving Decision Making**|Zhuoran Tan et.al.|[2504.02322](http://arxiv.org/abs/2504.02322)|null|
@@ -208,6 +215,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-08**|**Lumina-OmniLV: A Unified Multimodal Framework for General Low-Level Vision**|Yuandong Pu et.al.|[2504.04903](http://arxiv.org/abs/2504.04903)|null|
+|**2025-04-06**|**AVadCLIP: Audio-Visual Collaboration for Robust Video Anomaly Detection**|Peng Wu et.al.|[2504.04495](http://arxiv.org/abs/2504.04495)|null|
 |**2025-04-04**|**ATM-Net: Anatomy-Aware Text-Guided Multi-Modal Fusion for Fine-Grained Lumbar Spine Segmentation**|Sheng Lian et.al.|[2504.03476](http://arxiv.org/abs/2504.03476)|null|
 |**2025-04-04**|**Hierarchical Modeling for Medical Visual Question Answering with Cross-Attention Fusion**|Junkai Zhang et.al.|[2504.03135](http://arxiv.org/abs/2504.03135)|null|
 |**2025-04-02**|**WorldPrompter: Traversable Text-to-Scene Generation**|Zhaoyang Zhang et.al.|[2504.02045](http://arxiv.org/abs/2504.02045)|null|
@@ -370,6 +379,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-05**|**Progressive Multi-Source Domain Adaptation for Personalized Facial Expression Recognition**|Muhammad Osama Zeeshan et.al.|[2504.04252](http://arxiv.org/abs/2504.04252)|null|
 |**2025-03-29**|**FIESTA: Fisher Information-based Efficient Selective Test-time Adaptation**|Mohammadmahdi Honarmand et.al.|[2503.23257](http://arxiv.org/abs/2503.23257)|null|
 |**2025-04-05**|**Disentangled Source-Free Personalization for Facial Expression Recognition with Neutral Target Data**|Masoumeh Sharafi et.al.|[2503.20771](http://arxiv.org/abs/2503.20771)|**[link](https://github.com/MasoumehSharafi/DSFDA-for-Pain-Assessment)**|
 |**2025-03-26**|**Evaluating Facial Expression Recognition Datasets for Deep Learning: A Benchmark Study with Novel Similarity Metrics**|F. Xavier Gaya-Morey et.al.|[2503.20428](http://arxiv.org/abs/2503.20428)|null|
@@ -404,6 +414,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-07**|**DiCoTTA: Domain-invariant Learning for Continual Test-time Adaptation**|Sohyun Lee et.al.|[2504.04981](http://arxiv.org/abs/2504.04981)|null|
+|**2025-04-07**|**Embodied Perception for Test-time Grasping Detection Adaptation with Knowledge Infusion**|Jin Liu et.al.|[2504.04795](http://arxiv.org/abs/2504.04795)|null|
+|**2025-04-03**|**JailDAM: Jailbreak Detection with Adaptive Memory for Vision-Language Model**|Yi Nian et.al.|[2504.03770](http://arxiv.org/abs/2504.03770)|null|
 |**2025-04-03**|**SPACE: SPike-Aware Consistency Enhancement for Test-Time Adaptation in Spiking Neural Networks**|Xinyu Luo et.al.|[2504.02298](http://arxiv.org/abs/2504.02298)|null|
 |**2025-04-02**|**Test-time Adaptation for Foundation Medical Segmentation Model without Parametric Updates**|Kecheng Chen et.al.|[2504.02008](http://arxiv.org/abs/2504.02008)|null|
 |**2025-03-30**|**COSMIC: Clique-Oriented Semantic Multi-space Integration for Robust CLIP Test-Time Adaptation**|Fanding Huang et.al.|[2503.23388](http://arxiv.org/abs/2503.23388)|**[link](https://github.com/hf618/cosmic)**|
