@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.09
+## Updated on 2025.04.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Cross-Modal Image Retrieval
@@ -36,6 +36,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-08**|**Meta-Continual Learning of Neural Fields**|Seungyoon Woo et.al.|[2504.05806](http://arxiv.org/abs/2504.05806)|null|
+|**2025-04-08**|**Continual Learning of Multiple Cognitive Functions with Brain-inspired Temporal Development Mechanism**|Bing Han et.al.|[2504.05621](http://arxiv.org/abs/2504.05621)|null|
 |**2025-04-07**|**Post-Training Language Models for Continual Relation Extraction**|Sefika Efeoglu et.al.|[2504.05214](http://arxiv.org/abs/2504.05214)|null|
 |**2025-04-07**|**GOTHAM: Graph Class Incremental Learning Framework under Weak Supervision**|Aditya Hemant Shahane et.al.|[2504.04954](http://arxiv.org/abs/2504.04954)|null|
 |**2025-04-07**|**Embodied Perception for Test-time Grasping Detection Adaptation with Knowledge Infusion**|Jin Liu et.al.|[2504.04795](http://arxiv.org/abs/2504.04795)|null|
@@ -215,6 +217,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-09**|**Caption Anything in Video: Fine-grained Object-centric Captioning via Spatiotemporal Multimodal Prompting**|Yunlong Tang et.al.|[2504.05541](http://arxiv.org/abs/2504.05541)|**[link](https://github.com/yunlong10/CAT-V)**|
 |**2025-04-08**|**Lumina-OmniLV: A Unified Multimodal Framework for General Low-Level Vision**|Yuandong Pu et.al.|[2504.04903](http://arxiv.org/abs/2504.04903)|null|
 |**2025-04-06**|**AVadCLIP: Audio-Visual Collaboration for Robust Video Anomaly Detection**|Peng Wu et.al.|[2504.04495](http://arxiv.org/abs/2504.04495)|null|
 |**2025-04-04**|**ATM-Net: Anatomy-Aware Text-Guided Multi-Modal Fusion for Fine-Grained Lumbar Spine Segmentation**|Sheng Lian et.al.|[2504.03476](http://arxiv.org/abs/2504.03476)|null|
@@ -416,7 +419,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-04-07**|**DiCoTTA: Domain-invariant Learning for Continual Test-time Adaptation**|Sohyun Lee et.al.|[2504.04981](http://arxiv.org/abs/2504.04981)|null|
 |**2025-04-07**|**Embodied Perception for Test-time Grasping Detection Adaptation with Knowledge Infusion**|Jin Liu et.al.|[2504.04795](http://arxiv.org/abs/2504.04795)|null|
-|**2025-04-03**|**JailDAM: Jailbreak Detection with Adaptive Memory for Vision-Language Model**|Yi Nian et.al.|[2504.03770](http://arxiv.org/abs/2504.03770)|null|
+|**2025-04-08**|**JailDAM: Jailbreak Detection with Adaptive Memory for Vision-Language Model**|Yi Nian et.al.|[2504.03770](http://arxiv.org/abs/2504.03770)|null|
 |**2025-04-03**|**SPACE: SPike-Aware Consistency Enhancement for Test-Time Adaptation in Spiking Neural Networks**|Xinyu Luo et.al.|[2504.02298](http://arxiv.org/abs/2504.02298)|null|
 |**2025-04-02**|**Test-time Adaptation for Foundation Medical Segmentation Model without Parametric Updates**|Kecheng Chen et.al.|[2504.02008](http://arxiv.org/abs/2504.02008)|null|
 |**2025-03-30**|**COSMIC: Clique-Oriented Semantic Multi-space Integration for Robust CLIP Test-Time Adaptation**|Fanding Huang et.al.|[2503.23388](http://arxiv.org/abs/2503.23388)|**[link](https://github.com/hf618/cosmic)**|
