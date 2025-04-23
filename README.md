@@ -1,4 +1,4 @@
-## Updated on 2025.04.22
+## Updated on 2025.04.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -40,12 +40,21 @@
 |**2024-12-02**|**AnySynth: Harnessing the Power of Image Synthetic Data Generation for Generalized Vision-Language Tasks**|You Li et.al.|[2411.16749](http://arxiv.org/abs/2411.16749)|null|
 |**2024-10-31**|**MoTaDual: Modality-Task Dual Alignment for Enhanced Zero-shot Composed Image Retrieval**|Haiwen Li et.al.|[2410.23736](http://arxiv.org/abs/2410.23736)|null|
 
-<p align=right>(<a href=#updated-on-20250422>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250423>back to top</a>)</p>
 
 ## Continual Learning
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-21**|**Single-loop Algorithms for Stochastic Non-convex Optimization with Weakly-Convex Constraints**|Ming Yang et.al.|[2504.15243](http://arxiv.org/abs/2504.15243)|null|
+|**2025-04-21**|**Position: Bayesian Statistics Facilitates Stakeholder Participation in Evaluation of Generative AI**|Yanan Long et.al.|[2504.15211](http://arxiv.org/abs/2504.15211)|null|
+|**2025-04-21**|**Audio-Visual Class-Incremental Learning for Fish Feeding intensity Assessment in Aquaculture**|Meng Cui et.al.|[2504.15171](http://arxiv.org/abs/2504.15171)|null|
+|**2025-04-20**|**Semi-parametric Memory Consolidation: Towards Brain-like Deep Continual Learning**|Geng Liu et.al.|[2504.14727](http://arxiv.org/abs/2504.14727)|null|
+|**2025-04-20**|**Evaluating Temporal Plasticity in Foundation Time Series Models for Incremental Fine-tuning**|Jia Liu et.al.|[2504.14677](http://arxiv.org/abs/2504.14677)|null|
+|**2025-04-20**|**No Imputation of Missing Values In Tabular Data Classification Using Incremental Learning**|Manar D. Samad et.al.|[2504.14610](http://arxiv.org/abs/2504.14610)|null|
+|**2025-04-20**|**Phoenix: A Motion-based Self-Reflection Framework for Fine-grained Robotic Action Correction**|Wenke Xia et.al.|[2504.14588](http://arxiv.org/abs/2504.14588)|null|
+|**2025-04-20**|**Incremental Attractor Neural Network Modelling of the Lifespan Retrieval Curve**|Patrícia Pereira et.al.|[2504.14528](http://arxiv.org/abs/2504.14528)|null|
+|**2025-04-20**|**Meta-Thinking in LLMs via Multi-Agent Reinforcement Learning: A Survey**|Ahsan Bilal et.al.|[2504.14520](http://arxiv.org/abs/2504.14520)|null|
 |**2025-04-18**|**Parameter-Efficient Continual Fine-Tuning: A Survey**|Eric Nuertey Coleman et.al.|[2504.13822](http://arxiv.org/abs/2504.13822)|null|
 |**2025-04-18**|**MEGA: Second-Order Gradient Alignment for Catastrophic Forgetting Mitigation in GFSCIL**|Jinhui Pang et.al.|[2504.13691](http://arxiv.org/abs/2504.13691)|null|
 |**2025-04-18**|**Bayesian continual learning and forgetting in neural networks**|Djohan Bonnet et.al.|[2504.13569](http://arxiv.org/abs/2504.13569)|null|
@@ -258,12 +267,22 @@
 |**2025-02-10**|**Prompt-Driven Continual Graph Learning**|Qi Wang et.al.|[2502.06327](http://arxiv.org/abs/2502.06327)|null|
 |**2025-02-10**|**Position: Continual Learning Benefits from An Evolving Population over An Unified Model**|Aojun Lu et.al.|[2502.06210](http://arxiv.org/abs/2502.06210)|null|
 
-<p align=right>(<a href=#updated-on-20250422>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250423>back to top</a>)</p>
 
 ## Vision-Language Prompting
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-21**|**Cyc3D: Fine-grained Controllable 3D Generation via Cycle Consistency Regularization**|Hongbin Xu et.al.|[2504.14975](http://arxiv.org/abs/2504.14975)|null|
+|**2025-04-21**|**GenCLIP: Generalizing CLIP Prompts for Zero-shot Anomaly Detection**|Donghyeong Kim et.al.|[2504.14919](http://arxiv.org/abs/2504.14919)|null|
+|**2025-04-21**|**What Lurks Within? Concept Auditing for Shared Diffusion Models at Scale**|Xiaoyong Yuan et.al.|[2504.14815](http://arxiv.org/abs/2504.14815)|null|
+|**2025-04-20**|**NVSMask3D: Hard Visual Prompting with Camera Pose Interpolation for 3D Open Vocabulary Instance Segmentation**|Junyuan Fang et.al.|[2504.14638](http://arxiv.org/abs/2504.14638)|null|
+|**2025-04-22**|**Talk is Not Always Cheap: Promoting Wireless Sensing Models with Text Prompts**|Zhenkui Yang et.al.|[2504.14621](http://arxiv.org/abs/2504.14621)|**[link](https://github.com/yangzhenkui/witalk)**|
+|**2025-04-19**|**Visual Prompting for One-shot Controllable Video Editing without Inversion**|Zhengbo Zhang et.al.|[2504.14335](http://arxiv.org/abs/2504.14335)|null|
+|**2025-04-22**|**HoLa: B-Rep Generation using a Holistic Latent Representation**|Yilin Liu et.al.|[2504.14257](http://arxiv.org/abs/2504.14257)|null|
+|**2025-04-19**|**Any Image Restoration via Efficient Spatial-Frequency Degradation Adaptation**|Bin Ren et.al.|[2504.14249](http://arxiv.org/abs/2504.14249)|null|
+|**2025-04-19**|**PRISM: A Unified Framework for Photorealistic Reconstruction and Intrinsic Scene Modeling**|Alara Dirik et.al.|[2504.14219](http://arxiv.org/abs/2504.14219)|null|
+|**2025-04-19**|**Learning Joint ID-Textual Representation for ID-Preserving Image Synthesis**|Zichuan Liu et.al.|[2504.14202](http://arxiv.org/abs/2504.14202)|null|
 |**2025-04-18**|**ESPLoRA: Enhanced Spatial Precision with Low-Rank Adaption in Text-to-Image Diffusion Models for High-Definition Synthesis**|Andrea Rigo et.al.|[2504.13745](http://arxiv.org/abs/2504.13745)|null|
 |**2025-04-18**|**Exploring Multimodal Prompt for Visualization Authoring with Large Language Models**|Zhen Wen et.al.|[2504.13700](http://arxiv.org/abs/2504.13700)|null|
 |**2025-04-18**|**EmoVoice: LLM-based Emotional Text-To-Speech Model with Freestyle Text Prompting**|Guanrou Yang et.al.|[2504.12867](http://arxiv.org/abs/2504.12867)|null|
@@ -443,12 +462,13 @@
 |**2025-02-08**|**Diverse Image Generation with Diffusion Models and Cross Class Label Learning for Polyp Classification**|Vanshali Sharma et.al.|[2502.05444](http://arxiv.org/abs/2502.05444)|**[link](https://github.com/vanshali/pathopolyp-diff)**|
 |**2025-02-07**|**FlashVideo:Flowing Fidelity to Detail for Efficient High-Resolution Video Generation**|Shilong Zhang et.al.|[2502.05179](http://arxiv.org/abs/2502.05179)|**[link](https://github.com/foundationvision/flashvideo)**|
 
-<p align=right>(<a href=#updated-on-20250422>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250423>back to top</a>)</p>
 
 ## Facial Expression Recognition
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-21**|**Some Optimizers are More Equal: Understanding the Role of Optimizers in Group Fairness**|Mojtaba Kolahdouzi et.al.|[2504.14882](http://arxiv.org/abs/2504.14882)|null|
 |**2025-04-12**|**A Visual Self-attention Mechanism Facial Expression Recognition Network beyond Convnext**|Bingyu Nan et.al.|[2504.09077](http://arxiv.org/abs/2504.09077)|null|
 |**2025-04-09**|**Face-LLaVA: Facial Expression and Attribute Understanding through Instruction Tuning**|Ashutosh Chaubey et.al.|[2504.07198](http://arxiv.org/abs/2504.07198)|null|
 |**2025-04-05**|**Progressive Multi-Source Domain Adaptation for Personalized Facial Expression Recognition**|Muhammad Osama Zeeshan et.al.|[2504.04252](http://arxiv.org/abs/2504.04252)|null|
@@ -482,7 +502,7 @@
 |**2024-12-16**|**Impact of Face Alignment on Face Image Quality**|Eren Onaran et.al.|[2412.11779](http://arxiv.org/abs/2412.11779)|null|
 |**2024-12-15**|**Unimodal and Multimodal Static Facial Expression Recognition for Virtual Reality Users with EmoHeVRDB**|Thorben Ortmann et.al.|[2412.11306](http://arxiv.org/abs/2412.11306)|**[link](https://github.com/thorbenortmann/emohevrdb-sfer)**|
 
-<p align=right>(<a href=#updated-on-20250422>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250423>back to top</a>)</p>
 
 ## Test-Time Adaptation
 
@@ -530,7 +550,7 @@
 |**2025-01-31**|**Test-time Loss Landscape Adaptation for Zero-Shot Generalization in Vision-Language Models**|Aodi Li et.al.|[2501.18864](http://arxiv.org/abs/2501.18864)|null|
 |**2025-02-03**|**Advances in Multimodal Adaptation and Generalization: From Traditional Approaches to Foundation Models**|Hao Dong et.al.|[2501.18592](http://arxiv.org/abs/2501.18592)|**[link](https://github.com/donghao51/awesome-multimodal-adaptation)**|
 
-<p align=right>(<a href=#updated-on-20250422>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250423>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
