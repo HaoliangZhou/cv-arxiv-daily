@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.23
+## Updated on 2025.04.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Cross-Modal Image Retrieval
@@ -37,6 +37,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-22**|**ZeroSlide: Is Zero-Shot Classification Adequate for Lifelong Learning in Whole-Slide Image Analysis in the Era of Pathology Vision-Language Foundation Models?**|Doanh C. Bui et.al.|[2504.15627](http://arxiv.org/abs/2504.15627)|null|
+|**2025-04-22**|**Few-Shot Vision-Language Action-Incremental Policy Learning**|Mingchen Song et.al.|[2504.15517](http://arxiv.org/abs/2504.15517)|null|
+|**2025-04-21**|**Bayesian Federated Learning for Continual Training**|Usevalad Milasheuski et.al.|[2504.15328](http://arxiv.org/abs/2504.15328)|null|
 |**2025-04-21**|**Single-loop Algorithms for Stochastic Non-convex Optimization with Weakly-Convex Constraints**|Ming Yang et.al.|[2504.15243](http://arxiv.org/abs/2504.15243)|null|
 |**2025-04-21**|**Position: Bayesian Statistics Facilitates Stakeholder Participation in Evaluation of Generative AI**|Yanan Long et.al.|[2504.15211](http://arxiv.org/abs/2504.15211)|null|
 |**2025-04-21**|**Audio-Visual Class-Incremental Learning for Fish Feeding intensity Assessment in Aquaculture**|Meng Cui et.al.|[2504.15171](http://arxiv.org/abs/2504.15171)|null|
@@ -262,6 +265,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-22**|**DINOv2-powered Few-Shot Semantic Segmentation: A Unified Framework via Cross-Model Distillation and 4D Correlation Mining**|Wei Zhuo et.al.|[2504.15669](http://arxiv.org/abs/2504.15669)|null|
 |**2025-04-21**|**Cyc3D: Fine-grained Controllable 3D Generation via Cycle Consistency Regularization**|Hongbin Xu et.al.|[2504.14975](http://arxiv.org/abs/2504.14975)|null|
 |**2025-04-21**|**GenCLIP: Generalizing CLIP Prompts for Zero-shot Anomaly Detection**|Donghyeong Kim et.al.|[2504.14919](http://arxiv.org/abs/2504.14919)|null|
 |**2025-04-21**|**What Lurks Within? Concept Auditing for Shared Diffusion Models at Scale**|Xiaoyong Yuan et.al.|[2504.14815](http://arxiv.org/abs/2504.14815)|null|
@@ -493,6 +497,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-21**|**HyperFlow: Gradient-Free Emulation of Few-Shot Fine-Tuning**|Donggyun Kim et.al.|[2504.15323](http://arxiv.org/abs/2504.15323)|null|
 |**2025-04-16**|**BoTTA: Benchmarking on-device Test Time Adaptation**|Michal Danilowski et.al.|[2504.10149](http://arxiv.org/abs/2504.10149)|null|
 |**2025-04-11**|**Geometric Consistency Refinement for Single Image Novel View Synthesis via Test-Time Adaptation of Diffusion Models**|Josef Bengtson et.al.|[2504.08348](http://arxiv.org/abs/2504.08348)|null|
 |**2025-04-10**|**Self-Bootstrapping for Versatile Test-Time Adaptation**|Shuaicheng Niu et.al.|[2504.08010](http://arxiv.org/abs/2504.08010)|null|
