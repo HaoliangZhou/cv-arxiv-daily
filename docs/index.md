@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.30
+## Updated on 2025.05.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Cross-Modal Image Retrieval
@@ -38,6 +38,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-29**|**SetKE: Knowledge Editing for Knowledge Elements Overlap**|Yifan Wei et.al.|[2504.20972](http://arxiv.org/abs/2504.20972)|null|
+|**2025-04-29**|**Improvements of Dark Experience Replay and Reservoir Sampling towards Better Balance between Consolidation and Plasticity**|Taisuke Kobayashi et.al.|[2504.20932](http://arxiv.org/abs/2504.20932)|null|
+|**2025-04-29**|**Partitioned Memory Storage Inspired Few-Shot Class-Incremental learning**|Renye Zhang et.al.|[2504.20797](http://arxiv.org/abs/2504.20797)|null|
+|**2025-04-29**|**Data Encryption Battlefield: A Deep Dive into the Dynamic Confrontations in Ransomware Attacks**|Arash Mahboubi et.al.|[2504.20681](http://arxiv.org/abs/2504.20681)|null|
+|**2025-04-29**|**Inclusive Training Separation and Implicit Knowledge Interaction for Balanced Online Class-Incremental Learning**|Shunjie Wen et.al.|[2504.20566](http://arxiv.org/abs/2504.20566)|null|
+|**2025-04-28**|**FedCCL: Federated Clustered Continual Learning Framework for Privacy-focused Energy Forecasting**|Michael A. Helcig et.al.|[2504.20282](http://arxiv.org/abs/2504.20282)|null|
 |**2025-04-28**|**Mitigating Catastrophic Forgetting in the Incremental Learning of Medical Images**|Sara Yavari et.al.|[2504.20033](http://arxiv.org/abs/2504.20033)|null|
 |**2025-04-28**|**Capturing Aerodynamic Characteristics of ATTAS Aircraft with Evolving Intelligent System**|Aydoğan Soylu et.al.|[2504.19949](http://arxiv.org/abs/2504.19949)|null|
 |**2025-04-28**|**LODAP: On-Device Incremental Learning Via Lightweight Operations and Data Pruning**|Biqing Duan et.al.|[2504.19638](http://arxiv.org/abs/2504.19638)|null|
@@ -282,6 +288,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-29**|**AI-GenBench: A New Ongoing Benchmark for AI-Generated Image Detection**|Lorenzo Pellegrini et.al.|[2504.20865](http://arxiv.org/abs/2504.20865)|null|
+|**2025-04-29**|**FedMVP: Federated Multi-modal Visual Prompt Tuning for Vision-Language Models**|Mainak Singha et.al.|[2504.20860](http://arxiv.org/abs/2504.20860)|null|
+|**2025-04-29**|**RadSAM: Segmenting 3D radiological images with a 2D promptable model**|Julien Khlaut et.al.|[2504.20837](http://arxiv.org/abs/2504.20837)|null|
+|**2025-04-28**|**Physics-Informed Diffusion Models for SAR Ship Wake Generation from Text Prompts**|Kamirul Kamirul et.al.|[2504.20241](http://arxiv.org/abs/2504.20241)|null|
 |**2025-04-28**|**Breast Cancer Detection from Multi-View Screening Mammograms with Visual Prompt Tuning**|Han Chen et.al.|[2504.19900](http://arxiv.org/abs/2504.19900)|null|
 |**2025-04-28**|**Foundation Model-Driven Framework for Human-Object Interaction Prediction with Segmentation Mask Integration**|Juhan Park et.al.|[2504.19847](http://arxiv.org/abs/2504.19847)|null|
 |**2025-04-28**|**SynergyAmodal: Deocclude Anything with Text Control**|Xinyang Li et.al.|[2504.19506](http://arxiv.org/abs/2504.19506)|null|
