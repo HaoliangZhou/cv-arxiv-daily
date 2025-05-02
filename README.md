@@ -1,4 +1,4 @@
-## Updated on 2025.05.01
+## Updated on 2025.05.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -41,12 +41,16 @@
 |**2024-12-02**|**AnySynth: Harnessing the Power of Image Synthetic Data Generation for Generalized Vision-Language Tasks**|You Li et.al.|[2411.16749](http://arxiv.org/abs/2411.16749)|null|
 |**2024-10-31**|**MoTaDual: Modality-Task Dual Alignment for Enhanced Zero-shot Composed Image Retrieval**|Haiwen Li et.al.|[2410.23736](http://arxiv.org/abs/2410.23736)|null|
 
-<p align=right>(<a href=#updated-on-20250501>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250502>back to top</a>)</p>
 
 ## Continual Learning
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-30**|**Birdie: Natural Language-Driven Table Discovery Using Differentiable Search Index**|Yuxiang Guo et.al.|[2504.21282](http://arxiv.org/abs/2504.21282)|null|
+|**2025-04-30**|**A Framework for Elastic Adaptation of User Multiple Intents in Sequential Recommendation**|Zhikai Wang et.al.|[2504.21270](http://arxiv.org/abs/2504.21270)|null|
+|**2025-04-30**|**Memorization and Knowledge Injection in Gated LLMs**|Xu Pan et.al.|[2504.21239](http://arxiv.org/abs/2504.21239)|null|
+|**2025-04-29**|**Legilimens: Performant Video Analytics on the System-on-Chip Edge**|Murali Ramanujam et.al.|[2504.21136](http://arxiv.org/abs/2504.21136)|null|
 |**2025-04-29**|**SetKE: Knowledge Editing for Knowledge Elements Overlap**|Yifan Wei et.al.|[2504.20972](http://arxiv.org/abs/2504.20972)|null|
 |**2025-04-29**|**Improvements of Dark Experience Replay and Reservoir Sampling towards Better Balance between Consolidation and Plasticity**|Taisuke Kobayashi et.al.|[2504.20932](http://arxiv.org/abs/2504.20932)|null|
 |**2025-04-29**|**Partitioned Memory Storage Inspired Few-Shot Class-Incremental learning**|Renye Zhang et.al.|[2504.20797](http://arxiv.org/abs/2504.20797)|null|
@@ -293,12 +297,16 @@
 |**2025-02-10**|**Prompt-Driven Continual Graph Learning**|Qi Wang et.al.|[2502.06327](http://arxiv.org/abs/2502.06327)|null|
 |**2025-02-10**|**Position: Continual Learning Benefits from An Evolving Population over An Unified Model**|Aojun Lu et.al.|[2502.06210](http://arxiv.org/abs/2502.06210)|null|
 
-<p align=right>(<a href=#updated-on-20250501>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250502>back to top</a>)</p>
 
 ## Vision-Language Prompting
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-30**|**Black-Box Visual Prompt Engineering for Mitigating Object Hallucination in Large Vision Language Models**|Sangmin Woo et.al.|[2504.21559](http://arxiv.org/abs/2504.21559)|null|
+|**2025-04-30**|**UniBiomed: A Universal Foundation Model for Grounded Biomedical Image Interpretation**|Linshan Wu et.al.|[2504.21336](http://arxiv.org/abs/2504.21336)|null|
+|**2025-04-30**|**AGHI-QA: A Subjective-Aligned Dataset and Metric for AI-Generated Human Images**|Yunhao Li et.al.|[2504.21308](http://arxiv.org/abs/2504.21308)|null|
+|**2025-04-30**|**The Dual Power of Interpretable Token Embeddings: Jailbreaking Attacks and Defenses for Diffusion Model Unlearning**|Siyi Chen et.al.|[2504.21307](http://arxiv.org/abs/2504.21307)|null|
 |**2025-04-29**|**AI-GenBench: A New Ongoing Benchmark for AI-Generated Image Detection**|Lorenzo Pellegrini et.al.|[2504.20865](http://arxiv.org/abs/2504.20865)|null|
 |**2025-04-29**|**FedMVP: Federated Multi-modal Visual Prompt Tuning for Vision-Language Models**|Mainak Singha et.al.|[2504.20860](http://arxiv.org/abs/2504.20860)|null|
 |**2025-04-29**|**RadSAM: Segmenting 3D radiological images with a 2D promptable model**|Julien Khlaut et.al.|[2504.20837](http://arxiv.org/abs/2504.20837)|null|
@@ -504,12 +512,14 @@
 |**2025-02-08**|**Diverse Image Generation with Diffusion Models and Cross Class Label Learning for Polyp Classification**|Vanshali Sharma et.al.|[2502.05444](http://arxiv.org/abs/2502.05444)|**[link](https://github.com/vanshali/pathopolyp-diff)**|
 |**2025-02-07**|**FlashVideo:Flowing Fidelity to Detail for Efficient High-Resolution Video Generation**|Shilong Zhang et.al.|[2502.05179](http://arxiv.org/abs/2502.05179)|**[link](https://github.com/foundationvision/flashvideo)**|
 
-<p align=right>(<a href=#updated-on-20250501>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250502>back to top</a>)</p>
 
 ## Facial Expression Recognition
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-30**|**An Evaluation of a Visual Question Answering Strategy for Zero-shot Facial Expression Recognition in Still Images**|Modesto Castrillón-Santana et.al.|[2504.21309](http://arxiv.org/abs/2504.21309)|null|
+|**2025-04-30**|**Multi-modal Transfer Learning for Dynamic Facial Emotion Recognition in the Wild**|Ezra Engel et.al.|[2504.21248](http://arxiv.org/abs/2504.21248)|null|
 |**2025-04-21**|**Some Optimizers are More Equal: Understanding the Role of Optimizers in Group Fairness**|Mojtaba Kolahdouzi et.al.|[2504.14882](http://arxiv.org/abs/2504.14882)|null|
 |**2025-04-12**|**A Visual Self-attention Mechanism Facial Expression Recognition Network beyond Convnext**|Bingyu Nan et.al.|[2504.09077](http://arxiv.org/abs/2504.09077)|null|
 |**2025-04-09**|**Face-LLaVA: Facial Expression and Attribute Understanding through Instruction Tuning**|Ashutosh Chaubey et.al.|[2504.07198](http://arxiv.org/abs/2504.07198)|null|
@@ -544,7 +554,7 @@
 |**2024-12-16**|**Impact of Face Alignment on Face Image Quality**|Eren Onaran et.al.|[2412.11779](http://arxiv.org/abs/2412.11779)|null|
 |**2024-12-15**|**Unimodal and Multimodal Static Facial Expression Recognition for Virtual Reality Users with EmoHeVRDB**|Thorben Ortmann et.al.|[2412.11306](http://arxiv.org/abs/2412.11306)|**[link](https://github.com/thorbenortmann/emohevrdb-sfer)**|
 
-<p align=right>(<a href=#updated-on-20250501>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250502>back to top</a>)</p>
 
 ## Test-Time Adaptation
 
@@ -593,7 +603,7 @@
 |**2025-01-31**|**Test-time Loss Landscape Adaptation for Zero-Shot Generalization in Vision-Language Models**|Aodi Li et.al.|[2501.18864](http://arxiv.org/abs/2501.18864)|null|
 |**2025-02-03**|**Advances in Multimodal Adaptation and Generalization: From Traditional Approaches to Foundation Models**|Hao Dong et.al.|[2501.18592](http://arxiv.org/abs/2501.18592)|**[link](https://github.com/donghao51/awesome-multimodal-adaptation)**|
 
-<p align=right>(<a href=#updated-on-20250501>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250502>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
