@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.02
+## Updated on 2025.05.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Cross-Modal Image Retrieval
@@ -38,6 +38,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-01**|**SacFL: Self-Adaptive Federated Continual Learning for Resource-Constrained End Devices**|Zhengyi Zhong et.al.|[2505.00365](http://arxiv.org/abs/2505.00365)|null|
 |**2025-04-30**|**Birdie: Natural Language-Driven Table Discovery Using Differentiable Search Index**|Yuxiang Guo et.al.|[2504.21282](http://arxiv.org/abs/2504.21282)|null|
 |**2025-04-30**|**A Framework for Elastic Adaptation of User Multiple Intents in Sequential Recommendation**|Zhikai Wang et.al.|[2504.21270](http://arxiv.org/abs/2504.21270)|null|
 |**2025-04-30**|**Memorization and Knowledge Injection in Gated LLMs**|Xu Pan et.al.|[2504.21239](http://arxiv.org/abs/2504.21239)|null|
@@ -545,6 +546,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-01**|**Test-time Correlation Alignment**|Linjing You et.al.|[2505.00533](http://arxiv.org/abs/2505.00533)|null|
 |**2025-04-21**|**HyperFlow: Gradient-Free Emulation of Few-Shot Fine-Tuning**|Donggyun Kim et.al.|[2504.15323](http://arxiv.org/abs/2504.15323)|null|
 |**2025-04-16**|**BoTTA: Benchmarking on-device Test Time Adaptation**|Michal Danilowski et.al.|[2504.10149](http://arxiv.org/abs/2504.10149)|null|
 |**2025-04-11**|**Geometric Consistency Refinement for Single Image Novel View Synthesis via Test-Time Adaptation of Diffusion Models**|Josef Bengtson et.al.|[2504.08348](http://arxiv.org/abs/2504.08348)|null|
