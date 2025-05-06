@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.05
+## Updated on 2025.05.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Cross-Modal Image Retrieval
@@ -38,6 +38,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-02**|**Monitoring morphometric drift in lifelong learning segmentation of the spinal cord**|Enamundram Naga Karthik et.al.|[2505.01364](http://arxiv.org/abs/2505.01364)|null|
+|**2025-05-02**|**Fast and Low-Cost Genomic Foundation Models via Outlier Removal**|Haozheng Luo et.al.|[2505.00598](http://arxiv.org/abs/2505.00598)|**[link](https://github.com/MAGICS-LAB/GERM)**|
 |**2025-05-01**|**SacFL: Self-Adaptive Federated Continual Learning for Resource-Constrained End Devices**|Zhengyi Zhong et.al.|[2505.00365](http://arxiv.org/abs/2505.00365)|null|
 |**2025-04-30**|**Birdie: Natural Language-Driven Table Discovery Using Differentiable Search Index**|Yuxiang Guo et.al.|[2504.21282](http://arxiv.org/abs/2504.21282)|null|
 |**2025-04-30**|**A Framework for Elastic Adaptation of User Multiple Intents in Sequential Recommendation**|Zhikai Wang et.al.|[2504.21270](http://arxiv.org/abs/2504.21270)|null|
@@ -293,6 +295,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-30**|**Zoomer: Adaptive Image Focus Optimization for Black-box MLLM**|Jiaxu Qian et.al.|[2505.00742](http://arxiv.org/abs/2505.00742)|null|
 |**2025-04-30**|**Black-Box Visual Prompt Engineering for Mitigating Object Hallucination in Large Vision Language Models**|Sangmin Woo et.al.|[2504.21559](http://arxiv.org/abs/2504.21559)|null|
 |**2025-04-30**|**UniBiomed: A Universal Foundation Model for Grounded Biomedical Image Interpretation**|Linshan Wu et.al.|[2504.21336](http://arxiv.org/abs/2504.21336)|null|
 |**2025-04-30**|**AGHI-QA: A Subjective-Aligned Dataset and Metric for AI-Generated Human Images**|Yunhao Li et.al.|[2504.21308](http://arxiv.org/abs/2504.21308)|null|
@@ -546,6 +549,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-02**|**On-demand Test-time Adaptation for Edge Devices**|Xiao Ma et.al.|[2505.00986](http://arxiv.org/abs/2505.00986)|null|
 |**2025-05-01**|**Test-time Correlation Alignment**|Linjing You et.al.|[2505.00533](http://arxiv.org/abs/2505.00533)|null|
 |**2025-04-21**|**HyperFlow: Gradient-Free Emulation of Few-Shot Fine-Tuning**|Donggyun Kim et.al.|[2504.15323](http://arxiv.org/abs/2504.15323)|null|
 |**2025-04-16**|**BoTTA: Benchmarking on-device Test Time Adaptation**|Michal Danilowski et.al.|[2504.10149](http://arxiv.org/abs/2504.10149)|null|
