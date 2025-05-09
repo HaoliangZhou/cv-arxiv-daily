@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.08
+## Updated on 2025.05.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Cross-Modal Image Retrieval
@@ -38,6 +38,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-07**|**Componential Prompt-Knowledge Alignment for Domain Incremental Learning**|Kunlun Xu et.al.|[2505.04575](http://arxiv.org/abs/2505.04575)|null|
+|**2025-05-07**|**Hierarchical Task Decomposition for Execution Monitoring and Error Recovery: Understanding the Rationale Behind Task Demonstrations**|Christoph Willibald et.al.|[2505.04565](http://arxiv.org/abs/2505.04565)|null|
+|**2025-05-01**|**AI-Driven IRM: Transforming insider risk management with adaptive scoring and LLM-based threat detection**|Lokesh Koli et.al.|[2505.03796](http://arxiv.org/abs/2505.03796)|null|
 |**2025-05-05**|**SEFE: Superficial and Essential Forgetting Eliminator for Multimodal Continual Instruction Tuning**|Jinpeng Chen et.al.|[2505.02486](http://arxiv.org/abs/2505.02486)|**[link](https://github.com/jinpeng0528/sefe)**|
 |**2025-05-05**|**Efficient Continual Learning in Keyword Spotting using Binary Neural Networks**|Quynh Nguyen-Phuong Vu et.al.|[2505.02469](http://arxiv.org/abs/2505.02469)|null|
 |**2025-05-04**|**Lifelong Whole Slide Image Analysis: Online Vision-Language Adaptation and Past-to-Present Gradient Distillation**|Doanh C. Bui et.al.|[2505.01984](http://arxiv.org/abs/2505.01984)|null|
@@ -298,6 +301,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-07**|**Vision Graph Prompting via Semantic Low-Rank Decomposition**|Zixiang Ai et.al.|[2505.04121](http://arxiv.org/abs/2505.04121)|**[link](https://github.com/zhoujiahuan1991/icml2025-vgp)**|
 |**2025-05-06**|**Safer Prompts: Reducing IP Risk in Visual Generative AI**|Lena Reissinger et.al.|[2505.03338](http://arxiv.org/abs/2505.03338)|null|
 |**2025-05-06**|**PiCo: Enhancing Text-Image Alignment with Improved Noise Selection and Precise Mask Control in Diffusion Models**|Chang Xie et.al.|[2505.03203](http://arxiv.org/abs/2505.03203)|null|
 |**2025-05-05**|**Scenethesis: A Language and Vision Agentic Framework for 3D Scene Generation**|Lu Ling et.al.|[2505.02836](http://arxiv.org/abs/2505.02836)|null|
@@ -559,6 +563,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-07**|**SEVA: Leveraging Single-Step Ensemble of Vicinal Augmentations for Test-Time Adaptation**|Zixuan Hu et.al.|[2505.04087](http://arxiv.org/abs/2505.04087)|null|
 |**2025-05-06**|**Mitigating Image Captioning Hallucinations in Vision-Language Models**|Fei Zhao et.al.|[2505.03420](http://arxiv.org/abs/2505.03420)|null|
 |**2025-05-05**|**TeDA: Boosting Vision-Lanuage Models for Zero-Shot 3D Object Retrieval via Testing-time Distribution Alignment**|Zhichuan Wang et.al.|[2505.02325](http://arxiv.org/abs/2505.02325)|null|
 |**2025-05-02**|**On-demand Test-time Adaptation for Edge Devices**|Xiao Ma et.al.|[2505.00986](http://arxiv.org/abs/2505.00986)|null|
