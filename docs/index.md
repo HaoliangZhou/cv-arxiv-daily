@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.09
+## Updated on 2025.05.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Cross-Modal Image Retrieval
@@ -38,7 +38,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-05-07**|**Componential Prompt-Knowledge Alignment for Domain Incremental Learning**|Kunlun Xu et.al.|[2505.04575](http://arxiv.org/abs/2505.04575)|null|
+|**2025-05-08**|**MARK: Memory Augmented Refinement of Knowledge**|Anish Ganguli et.al.|[2505.05177](http://arxiv.org/abs/2505.05177)|null|
+|**2025-05-08**|**Learning Item Representations Directly from Multimodal Features for Effective Recommendation**|Xin Zhou et.al.|[2505.04960](http://arxiv.org/abs/2505.04960)|null|
+|**2025-05-07**|**Replay to Remember (R2R): An Efficient Uncertainty-driven Unsupervised Continual Learning Framework Using Generative Replay**|Sriram Mandalika et.al.|[2505.04787](http://arxiv.org/abs/2505.04787)|null|
+|**2025-05-07**|**Componential Prompt-Knowledge Alignment for Domain Incremental Learning**|Kunlun Xu et.al.|[2505.04575](http://arxiv.org/abs/2505.04575)|**[link](https://github.com/zhoujiahuan1991/icml2025-ka-prompt)**|
 |**2025-05-07**|**Hierarchical Task Decomposition for Execution Monitoring and Error Recovery: Understanding the Rationale Behind Task Demonstrations**|Christoph Willibald et.al.|[2505.04565](http://arxiv.org/abs/2505.04565)|null|
 |**2025-05-01**|**AI-Driven IRM: Transforming insider risk management with adaptive scoring and LLM-based threat detection**|Lokesh Koli et.al.|[2505.03796](http://arxiv.org/abs/2505.03796)|null|
 |**2025-05-05**|**SEFE: Superficial and Essential Forgetting Eliminator for Multimodal Continual Instruction Tuning**|Jinpeng Chen et.al.|[2505.02486](http://arxiv.org/abs/2505.02486)|**[link](https://github.com/jinpeng0528/sefe)**|
@@ -301,6 +304,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-08**|**Generating Physically Stable and Buildable LEGO Designs from Text**|Ava Pun et.al.|[2505.05469](http://arxiv.org/abs/2505.05469)|null|
+|**2025-05-08**|**GeomHair: Reconstruction of Hair Strands from Colorless 3D Scans**|Rachmadio Noval Lazuardi et.al.|[2505.05376](http://arxiv.org/abs/2505.05376)|null|
+|**2025-05-08**|**Biomed-DPT: Dual Modality Prompt Tuning for Biomedical Vision-Language Models**|Wei Peng et.al.|[2505.05189](http://arxiv.org/abs/2505.05189)|null|
+|**2025-05-08**|**PIDiff: Image Customization for Personalized Identities with Diffusion Models**|Jinyu Gu et.al.|[2505.05081](http://arxiv.org/abs/2505.05081)|null|
+|**2025-05-07**|**Lay-Your-Scene: Natural Scene Layout Generation with Diffusion Transformers**|Divyansh Srivastava et.al.|[2505.04718](http://arxiv.org/abs/2505.04718)|null|
 |**2025-05-07**|**Vision Graph Prompting via Semantic Low-Rank Decomposition**|Zixiang Ai et.al.|[2505.04121](http://arxiv.org/abs/2505.04121)|**[link](https://github.com/zhoujiahuan1991/icml2025-vgp)**|
 |**2025-05-06**|**Safer Prompts: Reducing IP Risk in Visual Generative AI**|Lena Reissinger et.al.|[2505.03338](http://arxiv.org/abs/2505.03338)|null|
 |**2025-05-06**|**PiCo: Enhancing Text-Image Alignment with Improved Noise Selection and Precise Mask Control in Diffusion Models**|Chang Xie et.al.|[2505.03203](http://arxiv.org/abs/2505.03203)|null|
@@ -563,9 +571,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-08**|**Threshold Modulation for Online Test-Time Adaptation of Spiking Neural Networks**|Kejie Zhao et.al.|[2505.05375](http://arxiv.org/abs/2505.05375)|**[link](https://github.com/nneurotransmitterr/tm-otta-snn)**|
 |**2025-05-07**|**SEVA: Leveraging Single-Step Ensemble of Vicinal Augmentations for Test-Time Adaptation**|Zixuan Hu et.al.|[2505.04087](http://arxiv.org/abs/2505.04087)|null|
 |**2025-05-06**|**Mitigating Image Captioning Hallucinations in Vision-Language Models**|Fei Zhao et.al.|[2505.03420](http://arxiv.org/abs/2505.03420)|null|
-|**2025-05-05**|**TeDA: Boosting Vision-Lanuage Models for Zero-Shot 3D Object Retrieval via Testing-time Distribution Alignment**|Zhichuan Wang et.al.|[2505.02325](http://arxiv.org/abs/2505.02325)|null|
+|**2025-05-05**|**TeDA: Boosting Vision-Lanuage Models for Zero-Shot 3D Object Retrieval via Testing-time Distribution Alignment**|Zhichuan Wang et.al.|[2505.02325](http://arxiv.org/abs/2505.02325)|**[link](https://github.com/wangzhichuan123/teda)**|
 |**2025-05-02**|**On-demand Test-time Adaptation for Edge Devices**|Xiao Ma et.al.|[2505.00986](http://arxiv.org/abs/2505.00986)|null|
 |**2025-05-01**|**Test-time Correlation Alignment**|Linjing You et.al.|[2505.00533](http://arxiv.org/abs/2505.00533)|null|
 |**2025-04-21**|**HyperFlow: Gradient-Free Emulation of Few-Shot Fine-Tuning**|Donggyun Kim et.al.|[2504.15323](http://arxiv.org/abs/2504.15323)|null|
