@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.10
+## Updated on 2025.05.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Cross-Modal Image Retrieval
@@ -304,7 +304,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-05-08**|**Generating Physically Stable and Buildable LEGO Designs from Text**|Ava Pun et.al.|[2505.05469](http://arxiv.org/abs/2505.05469)|null|
+|**2025-05-08**|**Generating Physically Stable and Buildable LEGO Designs from Text**|Ava Pun et.al.|[2505.05469](http://arxiv.org/abs/2505.05469)|**[link](https://github.com/AvaLovelace1/LegoGPT)**|
 |**2025-05-08**|**GeomHair: Reconstruction of Hair Strands from Colorless 3D Scans**|Rachmadio Noval Lazuardi et.al.|[2505.05376](http://arxiv.org/abs/2505.05376)|null|
 |**2025-05-08**|**Biomed-DPT: Dual Modality Prompt Tuning for Biomedical Vision-Language Models**|Wei Peng et.al.|[2505.05189](http://arxiv.org/abs/2505.05189)|null|
 |**2025-05-08**|**PIDiff: Image Customization for Personalized Identities with Diffusion Models**|Jinyu Gu et.al.|[2505.05081](http://arxiv.org/abs/2505.05081)|null|
