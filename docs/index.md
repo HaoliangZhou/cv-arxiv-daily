@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.14
+## Updated on 2025.05.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Cross-Modal Image Retrieval
@@ -38,6 +38,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-13**|**Enhancing Software Development with Context-Aware Conversational Agents: A User Study on Developer Interactions with Chatbots**|Glaucia Melo et.al.|[2505.08648](http://arxiv.org/abs/2505.08648)|null|
+|**2025-05-13**|**PrePrompt: Predictive prompting for class incremental learning**|Libo Huang et.al.|[2505.08586](http://arxiv.org/abs/2505.08586)|null|
+|**2025-05-13**|**GradMix: Gradient-based Selective Mixup for Robust Data Augmentation in Class-Incremental Learning**|Minsu Kim et.al.|[2505.08528](http://arxiv.org/abs/2505.08528)|null|
+|**2025-05-13**|**Attention-based Generative Latent Replay: A Continual Learning Approach for WSI Analysis**|Pratibha Kumari et.al.|[2505.08524](http://arxiv.org/abs/2505.08524)|null|
+|**2025-05-13**|**Low-Complexity Inference in Continual Learning via Compressed Knowledge Transfer**|Zhenrong Liu et.al.|[2505.08327](http://arxiv.org/abs/2505.08327)|null|
+|**2025-05-12**|**A Federated Random Forest Solution for Secure Distributed Machine Learning**|Alexandre Cotorobai et.al.|[2505.08085](http://arxiv.org/abs/2505.08085)|**[link](https://github.com/ieeta-pt/fed_rf)**|
 |**2025-05-12**|**Beyond CLIP Generalization: Against Forward&Backward Forgetting Adapter for Continual Learning of Vision-Language Models**|Songlin Dong et.al.|[2505.07690](http://arxiv.org/abs/2505.07690)|null|
 |**2025-05-13**|**Prototype Augmented Hypernetworks for Continual Learning**|Neil De La Fuente et.al.|[2505.07450](http://arxiv.org/abs/2505.07450)|null|
 |**2025-05-12**|**Adaptive, Robust and Scalable Bayesian Filtering for Online Learning**|Gerardo Duran-Martin et.al.|[2505.07267](http://arxiv.org/abs/2505.07267)|null|
