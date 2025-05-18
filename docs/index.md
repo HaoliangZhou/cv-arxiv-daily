@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.17
+## Updated on 2025.05.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Cross-Modal Image Retrieval
@@ -38,7 +38,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-05-15**|**SEAL: Searching Expandable Architectures for Incremental Learning**|Matteo Gambella et.al.|[2505.10457](http://arxiv.org/abs/2505.10457)|null|
+|**2025-05-15**|**SEAL: Searching Expandable Architectures for Incremental Learning**|Matteo Gambella et.al.|[2505.10457](http://arxiv.org/abs/2505.10457)|**[link](https://github.com/ai-tech-research-lab/seal)**|
 |**2025-05-15**|**Incorporating brain-inspired mechanisms for multimodal learning in artificial intelligence**|Xiang He et.al.|[2505.10176](http://arxiv.org/abs/2505.10176)|**[link](https://github.com/Brain-Cog-Lab/IEMF)**|
 |**2025-05-15**|**ImagineBench: Evaluating Reinforcement Learning with Large Language Model Rollouts**|Jing-Cheng Pang et.al.|[2505.10010](http://arxiv.org/abs/2505.10010)|**[link](https://github.com/lamda-rl/imaginebench)**|
 |**2025-05-15**|**Task-Core Memory Management and Consolidation for Long-term Continual Learning**|Tianyu Huai et.al.|[2505.09952](http://arxiv.org/abs/2505.09952)|null|
@@ -46,7 +46,7 @@ layout: default
 |**2025-05-14**|**Preserving Plasticity in Continual Learning with Adaptive Linearity Injection**|Seyed Roozbeh Razavi Rohani et.al.|[2505.09486](http://arxiv.org/abs/2505.09486)|null|
 |**2025-05-13**|**Continual Reinforcement Learning via Autoencoder-Driven Task and New Environment Recognition**|Zeki Doruk Erden et.al.|[2505.09003](http://arxiv.org/abs/2505.09003)|null|
 |**2025-05-13**|**Enhancing Software Development with Context-Aware Conversational Agents: A User Study on Developer Interactions with Chatbots**|Glaucia Melo et.al.|[2505.08648](http://arxiv.org/abs/2505.08648)|null|
-|**2025-05-13**|**PrePrompt: Predictive prompting for class incremental learning**|Libo Huang et.al.|[2505.08586](http://arxiv.org/abs/2505.08586)|null|
+|**2025-05-13**|**PrePrompt: Predictive prompting for class incremental learning**|Libo Huang et.al.|[2505.08586](http://arxiv.org/abs/2505.08586)|**[link](https://github.com/libo-huang/PrePrompt)**|
 |**2025-05-13**|**GradMix: Gradient-based Selective Mixup for Robust Data Augmentation in Class-Incremental Learning**|Minsu Kim et.al.|[2505.08528](http://arxiv.org/abs/2505.08528)|null|
 |**2025-05-13**|**Attention-based Generative Latent Replay: A Continual Learning Approach for WSI Analysis**|Pratibha Kumari et.al.|[2505.08524](http://arxiv.org/abs/2505.08524)|null|
 |**2025-05-13**|**Low-Complexity Inference in Continual Learning via Compressed Knowledge Transfer**|Zhenrong Liu et.al.|[2505.08327](http://arxiv.org/abs/2505.08327)|null|
@@ -330,7 +330,7 @@ layout: default
 |**2025-05-15**|**T2A-Feedback: Improving Basic Capabilities of Text-to-Audio Generation via Fine-grained AI Feedback**|Zehan Wang et.al.|[2505.10561](http://arxiv.org/abs/2505.10561)|null|
 |**2025-05-15**|**Style Customization of Text-to-Vector Generation with Image Diffusion Priors**|Peiying Zhang et.al.|[2505.10558](http://arxiv.org/abs/2505.10558)|null|
 |**2025-05-15**|**Visual Fidelity Index for Generative Semantic Communications with Critical Information Embedding**|Jianhao Huang et.al.|[2505.10405](http://arxiv.org/abs/2505.10405)|null|
-|**2025-05-14**|**Mission Balance: Generating Under-represented Class Samples using Video Diffusion Models**|Danush Kumar Venkatesh et.al.|[2505.09858](http://arxiv.org/abs/2505.09858)|null|
+|**2025-05-14**|**Mission Balance: Generating Under-represented Class Samples using Video Diffusion Models**|Danush Kumar Venkatesh et.al.|[2505.09858](http://arxiv.org/abs/2505.09858)|**[link](https://gitlab.com/nct_tso_public/surgvgen)**|
 |**2025-05-14**|**An Initial Exploration of Default Images in Text-to-Image Generation**|Hannu Simonen et.al.|[2505.09166](http://arxiv.org/abs/2505.09166)|null|
 |**2025-05-13**|**Codifying Character Logic in Role-Playing**|Letian Peng et.al.|[2505.07705](http://arxiv.org/abs/2505.07705)|**[link](https://github.com/KomeijiForce/Codified_Profile_Koishiday_2025)**|
 |**2025-05-11**|**CMD: Controllable Multiview Diffusion for 3D Editing and Progressive Generation**|Peng Li et.al.|[2505.07003](http://arxiv.org/abs/2505.07003)|null|
