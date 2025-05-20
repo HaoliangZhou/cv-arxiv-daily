@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.19
+## Updated on 2025.05.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Cross-Modal Image Retrieval
@@ -38,6 +38,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-16**|**Multi-Modal Multi-Task (M3T) Federated Foundation Models for Embodied AI: Potentials and Challenges for Edge Integration**|Kasra Borazjani et.al.|[2505.11191](http://arxiv.org/abs/2505.11191)|null|
+|**2025-05-16**|**Foundation Time-Series AI Model for Realized Volatility Forecasting**|Anubha Goel et.al.|[2505.11163](http://arxiv.org/abs/2505.11163)|null|
+|**2025-05-16**|**Privacy-Aware Lifelong Learning**|Ozan Özdenizci et.al.|[2505.10941](http://arxiv.org/abs/2505.10941)|null|
+|**2025-05-16**|**Completely Weakly Supervised Class-Incremental Learning for Semantic Segmentation**|David Minkwan Kim et.al.|[2505.10781](http://arxiv.org/abs/2505.10781)|null|
+|**2025-05-15**|**A Conformal Predictive Measure for Assessing Catastrophic Forgetting**|Ioannis Pitsiorlas et.al.|[2505.10677](http://arxiv.org/abs/2505.10677)|null|
+|**2025-05-15**|**Advancing Multiple Instance Learning with Continual Learning for Whole Slide Imaging**|Xianrui Li et.al.|[2505.10649](http://arxiv.org/abs/2505.10649)|null|
 |**2025-05-15**|**SEAL: Searching Expandable Architectures for Incremental Learning**|Matteo Gambella et.al.|[2505.10457](http://arxiv.org/abs/2505.10457)|**[link](https://github.com/ai-tech-research-lab/seal)**|
 |**2025-05-15**|**Incorporating brain-inspired mechanisms for multimodal learning in artificial intelligence**|Xiang He et.al.|[2505.10176](http://arxiv.org/abs/2505.10176)|**[link](https://github.com/Brain-Cog-Lab/IEMF)**|
 |**2025-05-15**|**ImagineBench: Evaluating Reinforcement Learning with Large Language Model Rollouts**|Jing-Cheng Pang et.al.|[2505.10010](http://arxiv.org/abs/2505.10010)|**[link](https://github.com/lamda-rl/imaginebench)**|
@@ -327,6 +333,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-16**|**One Image is Worth a Thousand Words: A Usability Preservable Text-Image Collaborative Erasing Framework**|Feiran Li et.al.|[2505.11131](http://arxiv.org/abs/2505.11131)|null|
 |**2025-05-15**|**T2A-Feedback: Improving Basic Capabilities of Text-to-Audio Generation via Fine-grained AI Feedback**|Zehan Wang et.al.|[2505.10561](http://arxiv.org/abs/2505.10561)|null|
 |**2025-05-15**|**Style Customization of Text-to-Vector Generation with Image Diffusion Priors**|Peiying Zhang et.al.|[2505.10558](http://arxiv.org/abs/2505.10558)|null|
 |**2025-05-15**|**Visual Fidelity Index for Generative Semantic Communications with Critical Information Embedding**|Jianhao Huang et.al.|[2505.10405](http://arxiv.org/abs/2505.10405)|null|
@@ -608,6 +615,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-16**|**Search-TTA: A Multimodal Test-Time Adaptation Framework for Visual Search in the Wild**|Derek Ming Siang Tan et.al.|[2505.11350](http://arxiv.org/abs/2505.11350)|null|
+|**2025-05-15**|**FRET: Feature Redundancy Elimination for Test Time Adaptation**|Linjing You et.al.|[2505.10641](http://arxiv.org/abs/2505.10641)|null|
 |**2025-05-15**|**APCoTTA: Continual Test-Time Adaptation for Semantic Segmentation of Airborne LiDAR Point Clouds**|Yuan Gao et.al.|[2505.09971](http://arxiv.org/abs/2505.09971)|**[link](https://github.com/gaoyuan2/apcotta)**|
 |**2025-05-09**|**Threshold Modulation for Online Test-Time Adaptation of Spiking Neural Networks**|Kejie Zhao et.al.|[2505.05375](http://arxiv.org/abs/2505.05375)|**[link](https://github.com/nneurotransmitterr/tm-otta-snn)**|
 |**2025-05-07**|**SEVA: Leveraging Single-Step Ensemble of Vicinal Augmentations for Test-Time Adaptation**|Zixuan Hu et.al.|[2505.04087](http://arxiv.org/abs/2505.04087)|null|
