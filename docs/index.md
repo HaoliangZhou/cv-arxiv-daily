@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.20
+## Updated on 2025.05.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Cross-Modal Image Retrieval
@@ -38,6 +38,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-19**|**LiBOG: Lifelong Learning for Black-Box Optimizer Generation**|Jiyuan Pei et.al.|[2505.13025](http://arxiv.org/abs/2505.13025)|**[link](https://github.com/peijy/libog)**|
+|**2025-05-18**|**Scalable Strategies for Continual Learning with Replay**|Truman Hickok et.al.|[2505.12512](http://arxiv.org/abs/2505.12512)|null|
+|**2025-05-18**|**Efficient Federated Class-Incremental Learning of Pre-Trained Models via Task-agnostic Low-rank Residual Adaptation**|Feng Yu et.al.|[2505.12318](http://arxiv.org/abs/2505.12318)|null|
+|**2025-05-18**|**AFCL: Analytic Federated Continual Learning for Spatio-Temporal Invariance of Non-IID Data**|Jianheng Tang et.al.|[2505.12245](http://arxiv.org/abs/2505.12245)|null|
+|**2025-05-18**|**ACU: Analytic Continual Unlearning for Efficient and Exact Forgetting with Privacy Preservation**|Jianheng Tang et.al.|[2505.12239](http://arxiv.org/abs/2505.12239)|null|
+|**2025-05-17**|**Growable and Interpretable Neural Control with Online Continual Learning for Autonomous Lifelong Locomotion Learning Machines**|Arthicha Srisuchinnawong et.al.|[2505.12029](http://arxiv.org/abs/2505.12029)|null|
+|**2025-05-17**|**Parameter Efficient Continual Learning with Dynamic Low-Rank Adaptation**|Prashant Shivaram Bhat et.al.|[2505.11998](http://arxiv.org/abs/2505.11998)|null|
+|**2025-05-17**|**LifelongAgentBench: Evaluating LLM Agents as Lifelong Learners**|Junhao Zheng et.al.|[2505.11942](http://arxiv.org/abs/2505.11942)|null|
+|**2025-05-17**|**How can Diffusion Models Evolve into Continual Generators?**|Jingren Liu et.al.|[2505.11936](http://arxiv.org/abs/2505.11936)|null|
+|**2025-05-17**|**MINGLE: Mixtures of Null-Space Gated Low-Rank Experts for Test-Time Continual Model Merging**|Zihuan Qiu et.al.|[2505.11883](http://arxiv.org/abs/2505.11883)|null|
 |**2025-05-16**|**Multi-Modal Multi-Task (M3T) Federated Foundation Models for Embodied AI: Potentials and Challenges for Edge Integration**|Kasra Borazjani et.al.|[2505.11191](http://arxiv.org/abs/2505.11191)|null|
 |**2025-05-16**|**Foundation Time-Series AI Model for Realized Volatility Forecasting**|Anubha Goel et.al.|[2505.11163](http://arxiv.org/abs/2505.11163)|null|
 |**2025-05-16**|**Privacy-Aware Lifelong Learning**|Ozan Özdenizci et.al.|[2505.10941](http://arxiv.org/abs/2505.10941)|null|
@@ -333,6 +343,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-19**|**RoPECraft: Training-Free Motion Transfer with Trajectory-Guided RoPE Optimization on Diffusion Transformers**|Ahmet Berke Gokmen et.al.|[2505.13344](http://arxiv.org/abs/2505.13344)|null|
+|**2025-05-20**|**Benchmarking Unified Face Attack Detection via Hierarchical Prompt Tuning**|Ajian Liu et.al.|[2505.13327](http://arxiv.org/abs/2505.13327)|null|
+|**2025-05-17**|**MLLM-based Discovery of Intrinsic Coordinates and Governing Equations from High-Dimensional Data**|Ruikun Li et.al.|[2505.11940](http://arxiv.org/abs/2505.11940)|null|
+|**2025-05-17**|**PRS-Med: Position Reasoning Segmentation with Vision-Language Model in Medical Imaging**|Quoc-Huy Trinh et.al.|[2505.11872](http://arxiv.org/abs/2505.11872)|null|
+|**2025-05-16**|**DPSeg: Dual-Prompt Cost Volume Learning for Open-Vocabulary Semantic Segmentation**|Ziyu Zhao et.al.|[2505.11676](http://arxiv.org/abs/2505.11676)|null|
 |**2025-05-16**|**One Image is Worth a Thousand Words: A Usability Preservable Text-Image Collaborative Erasing Framework**|Feiran Li et.al.|[2505.11131](http://arxiv.org/abs/2505.11131)|null|
 |**2025-05-15**|**T2A-Feedback: Improving Basic Capabilities of Text-to-Audio Generation via Fine-grained AI Feedback**|Zehan Wang et.al.|[2505.10561](http://arxiv.org/abs/2505.10561)|null|
 |**2025-05-15**|**Style Customization of Text-to-Vector Generation with Image Diffusion Priors**|Peiying Zhang et.al.|[2505.10558](http://arxiv.org/abs/2505.10558)|null|
@@ -615,6 +630,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-19**|**From Local Details to Global Context: Advancing Vision-Language Models with Attention-Based Selection**|Lincan Cai et.al.|[2505.13233](http://arxiv.org/abs/2505.13233)|**[link](https://github.com/bit-da/abs)**|
+|**2025-05-19**|**Uniformity First: Uniformity-aware Test-time Adaptation of Vision-language Models against Image Corruption**|Kazuki Adachi et.al.|[2505.12912](http://arxiv.org/abs/2505.12912)|**[link](https://github.com/kzkadc/uninfo)**|
+|**2025-05-17**|**Dynamic Perturbed Adaptive Method for Infinite Task-Conflicting Time Series**|Jiang You et.al.|[2505.11902](http://arxiv.org/abs/2505.11902)|null|
+|**2025-05-17**|**MINGLE: Mixtures of Null-Space Gated Low-Rank Experts for Test-Time Continual Model Merging**|Zihuan Qiu et.al.|[2505.11883](http://arxiv.org/abs/2505.11883)|null|
+|**2025-05-16**|**UrbanMind: Urban Dynamics Prediction with Multifaceted Spatial-Temporal Large Language Models**|Yuhang Liu et.al.|[2505.11654](http://arxiv.org/abs/2505.11654)|null|
 |**2025-05-16**|**Search-TTA: A Multimodal Test-Time Adaptation Framework for Visual Search in the Wild**|Derek Ming Siang Tan et.al.|[2505.11350](http://arxiv.org/abs/2505.11350)|null|
 |**2025-05-15**|**FRET: Feature Redundancy Elimination for Test Time Adaptation**|Linjing You et.al.|[2505.10641](http://arxiv.org/abs/2505.10641)|null|
 |**2025-05-15**|**APCoTTA: Continual Test-Time Adaptation for Semantic Segmentation of Airborne LiDAR Point Clouds**|Yuan Gao et.al.|[2505.09971](http://arxiv.org/abs/2505.09971)|**[link](https://github.com/gaoyuan2/apcotta)**|
