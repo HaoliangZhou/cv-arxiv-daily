@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2025.05.26
+## Updated on 2025.05.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Cross-Modal Image Retrieval
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-23**|**DetailFusion: A Dual-branch Framework with Detail Enhancement for Composed Image Retrieval**|Yuxin Yang et.al.|[2505.17796](http://arxiv.org/abs/2505.17796)|null|
 |**2025-04-25**|**From Mapping to Composing: A Two-Stage Framework for Zero-shot Composed Image Retrieval**|Yabing Wang et.al.|[2504.17990](http://arxiv.org/abs/2504.17990)|null|
 |**2025-04-15**|**TMCIR: Token Merge Benefits Composed Image Retrieval**|Chaoyang Wang et.al.|[2504.10995](http://arxiv.org/abs/2504.10995)|null|
 |**2025-04-28**|**NCL-CIR: Noise-aware Contrastive Learning for Composed Image Retrieval**|Peng Gao et.al.|[2504.04339](http://arxiv.org/abs/2504.04339)|null|
@@ -38,6 +39,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-23**|**Dynamic Dual Buffer with Divide-and-Conquer Strategy for Online Continual Learning**|Congren Dai et.al.|[2505.18101](http://arxiv.org/abs/2505.18101)|null|
+|**2025-05-23**|**Evolving Machine Learning: A Survey**|Ignacio Cabrera Martin et.al.|[2505.17902](http://arxiv.org/abs/2505.17902)|null|
+|**2025-05-23**|**5G-DIL: Domain Incremental Learning with Similarity-Aware Sampling for Dynamic 5G Indoor Localization**|Nisha Lakshmana Raichur et.al.|[2505.17684](http://arxiv.org/abs/2505.17684)|null|
+|**2025-05-23**|**What is the role of memorization in Continual Learning?**|Jędrzej Kozal et.al.|[2505.17664](http://arxiv.org/abs/2505.17664)|null|
+|**2025-05-23**|**Teaching with Lies: Curriculum DPO on Synthetic Negatives for Hallucination Detection**|Shrey Pandit et.al.|[2505.17558](http://arxiv.org/abs/2505.17558)|null|
+|**2025-05-23**|**Analyzing Mitigation Strategies for Catastrophic Forgetting in End-to-End Training of Spoken Language Models**|Chi-Yuan Hsiao et.al.|[2505.17496](http://arxiv.org/abs/2505.17496)|null|
+|**2025-05-23**|**Towards Heterogeneous Continual Graph Learning via Meta-knowledge Distillation**|Guiquan Sun et.al.|[2505.17458](http://arxiv.org/abs/2505.17458)|null|
+|**2025-05-22**|**LiloDriver: A Lifelong Learning Framework for Closed-loop Motion Planning in Long-tail Autonomous Driving Scenarios**|Huaiyuan Yao et.al.|[2505.17209](http://arxiv.org/abs/2505.17209)|null|
 |**2025-05-23**|**Hypergraph Tversky-Aware Domain Incremental Learning for Brain Tumor Segmentation with Missing Modalities**|Junze Wang et.al.|[2505.16809](http://arxiv.org/abs/2505.16809)|null|
 |**2025-05-22**|**Transformer Copilot: Learning from The Mistake Log in LLM Fine-tuning**|Jiaru Zou et.al.|[2505.16270](http://arxiv.org/abs/2505.16270)|**[link](https://github.com/jiaruzouu/transformercopilot)**|
 |**2025-05-21**|**Bayesian Ensembling: Insights from Online Optimization and Empirical Bayes**|Daniel Waxman et.al.|[2505.15638](http://arxiv.org/abs/2505.15638)|**[link](https://github.com/DanWaxman/OnlineBayesianStacking)**|
@@ -355,6 +364,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-23**|**Segment Anyword: Mask Prompt Inversion for Open-Set Grounded Segmentation**|Zhihua Liu et.al.|[2505.17994](http://arxiv.org/abs/2505.17994)|null|
+|**2025-05-23**|**AutoMiSeg: Automatic Medical Image Segmentation via Test-Time Adaptation of Foundation Models**|Xingjian Li et.al.|[2505.17931](http://arxiv.org/abs/2505.17931)|null|
+|**2025-05-23**|**ICPL-ReID: Identity-Conditional Prompt Learning for Multi-Spectral Object Re-Identification**|Shihao Li et.al.|[2505.17821](http://arxiv.org/abs/2505.17821)|null|
+|**2025-05-23**|**Enhancing Adversarial Robustness of Vision Language Models via Adversarial Mixture Prompt Tuning**|Shiji Zhao et.al.|[2505.17509](http://arxiv.org/abs/2505.17509)|null|
 |**2025-05-22**|**GoT-R1: Unleashing Reasoning Capability of MLLM for Visual Generation with Reinforcement Learning**|Chengqi Duan et.al.|[2505.17022](http://arxiv.org/abs/2505.17022)|**[link](https://github.com/gogoduan/got-r1)**|
 |**2025-05-22**|**Self-Rewarding Large Vision-Language Models for Optimizing Prompts in Text-to-Image Generation**|Hongji Yang et.al.|[2505.16763](http://arxiv.org/abs/2505.16763)|null|
 |**2025-05-22**|**One-Step Diffusion-Based Image Compression with Semantic Distillation**|Naifu Xue et.al.|[2505.16687](http://arxiv.org/abs/2505.16687)|null|
@@ -651,6 +664,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-23**|**AutoMiSeg: Automatic Medical Image Segmentation via Test-Time Adaptation of Foundation Models**|Xingjian Li et.al.|[2505.17931](http://arxiv.org/abs/2505.17931)|null|
+|**2025-05-23**|**Sparse Diffusion Autoencoder for Test-time Adapting Prediction of Complex Systems**|Jingwen Cheng et.al.|[2505.17459](http://arxiv.org/abs/2505.17459)|null|
+|**2025-05-23**|**Dynamic Manipulation of Deformable Objects in 3D: Simulation, Benchmark and Learning Strategy**|Guanzhou Lan et.al.|[2505.17434](http://arxiv.org/abs/2505.17434)|null|
 |**2025-05-22**|**CodeMerge: Codebook-Guided Model Merging for Robust Test-Time Adaptation in Autonomous Driving**|Huitong Yang et.al.|[2505.16524](http://arxiv.org/abs/2505.16524)|null|
 |**2025-05-22**|**Ranked Entropy Minimization for Continual Test-Time Adaptation**|Jisu Han et.al.|[2505.16441](http://arxiv.org/abs/2505.16441)|**[link](https://github.com/pilshan/rem)**|
 |**2025-05-22**|**Higher-Order Asymptotics of Test-Time Adaptation for Batch Normalization Statistics**|Masanari Kimura et.al.|[2505.16257](http://arxiv.org/abs/2505.16257)|null|
