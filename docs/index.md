@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2025.05.27
+## Updated on 2025.05.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Cross-Modal Image Retrieval
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-26**|**Multimodal Reasoning Agent for Zero-Shot Composed Image Retrieval**|Rong-Cheng Tu et.al.|[2505.19952](http://arxiv.org/abs/2505.19952)|null|
+|**2025-05-26**|**MLLM-Guided VLM Fine-Tuning with Joint Inference for Zero-Shot Composed Image Retrieval**|Rong-Cheng Tu et.al.|[2505.19707](http://arxiv.org/abs/2505.19707)|null|
 |**2025-05-23**|**DetailFusion: A Dual-branch Framework with Detail Enhancement for Composed Image Retrieval**|Yuxin Yang et.al.|[2505.17796](http://arxiv.org/abs/2505.17796)|null|
 |**2025-04-25**|**From Mapping to Composing: A Two-Stage Framework for Zero-shot Composed Image Retrieval**|Yabing Wang et.al.|[2504.17990](http://arxiv.org/abs/2504.17990)|null|
 |**2025-04-15**|**TMCIR: Token Merge Benefits Composed Image Retrieval**|Chaoyang Wang et.al.|[2504.10995](http://arxiv.org/abs/2504.10995)|null|
@@ -39,6 +41,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-26**|**Data-Distill-Net: A Data Distillation Approach Tailored for Reply-based Continual Learning**|Wenyang Liao et.al.|[2505.20135](http://arxiv.org/abs/2505.20135)|null|
+|**2025-05-26**|**Beyond Freezing: Sparse Tuning Enhances Plasticity in Continual Learning with Pre-Trained Models**|Huan Zhang et.al.|[2505.19943](http://arxiv.org/abs/2505.19943)|null|
+|**2025-05-26**|**Cut out and Replay: A Simple yet Versatile Strategy for Multi-Label Online Continual Learning**|Xinrui Wang et.al.|[2505.19680](http://arxiv.org/abs/2505.19680)|null|
+|**2025-05-26**|**Few-Shot Class-Incremental Learning For Efficient SAR Automatic Target Recognition**|George Karantaidis et.al.|[2505.19565](http://arxiv.org/abs/2505.19565)|null|
+|**2025-05-27**|**STRAP: Spatio-Temporal Pattern Retrieval for Out-of-Distribution Generalization**|Haoyu Zhang et.al.|[2505.19547](http://arxiv.org/abs/2505.19547)|null|
+|**2025-05-26**|**MM-Prompt: Cross-Modal Prompt Tuning for Continual Visual Question Answering**|Xu Li et.al.|[2505.19455](http://arxiv.org/abs/2505.19455)|null|
+|**2025-05-25**|**A General Theory of Growth, Employment, and Technological Change: Experiential Matrix Theory and the Transition from GDP to Humanist Experiential Growth in the Age of Artificial Intelligence**|Christian Callaghan et.al.|[2505.19045](http://arxiv.org/abs/2505.19045)|null|
+|**2025-05-24**|**Improving Ad matching via Cluster-Adaptive Keyword Expansion and Relevance tuning**|Dipanwita Saha et.al.|[2505.18897](http://arxiv.org/abs/2505.18897)|null|
+|**2025-05-24**|**Can LLMs Alleviate Catastrophic Forgetting in Graph Continual Learning? A Systematic Study**|Ziyang Cheng et.al.|[2505.18697](http://arxiv.org/abs/2505.18697)|null|
+|**2025-05-24**|**Large Language Models in the Task of Automatic Validation of Text Classifier Predictions**|Aleksandr Tsymbalov et.al.|[2505.18688](http://arxiv.org/abs/2505.18688)|null|
 |**2025-05-23**|**Dynamic Dual Buffer with Divide-and-Conquer Strategy for Online Continual Learning**|Congren Dai et.al.|[2505.18101](http://arxiv.org/abs/2505.18101)|null|
 |**2025-05-23**|**Evolving Machine Learning: A Survey**|Ignacio Cabrera Martin et.al.|[2505.17902](http://arxiv.org/abs/2505.17902)|null|
 |**2025-05-23**|**5G-DIL: Domain Incremental Learning with Similarity-Aware Sampling for Dynamic 5G Indoor Localization**|Nisha Lakshmana Raichur et.al.|[2505.17684](http://arxiv.org/abs/2505.17684)|null|
@@ -364,6 +376,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-26**|**Refining Few-Step Text-to-Multiview Diffusion via Reinforcement Learning**|Ziyi Zhang et.al.|[2505.20107](http://arxiv.org/abs/2505.20107)|null|
+|**2025-05-26**|**Large Language Models as Autonomous Spacecraft Operators in Kerbal Space Program**|Alejandro Carrasco et.al.|[2505.19896](http://arxiv.org/abs/2505.19896)|null|
+|**2025-05-26**|**LlamaSeg: Image Segmentation via Autoregressive Mask Generation**|Jiru Deng et.al.|[2505.19422](http://arxiv.org/abs/2505.19422)|null|
+|**2025-05-26**|**MMIG-Bench: Towards Comprehensive and Explainable Evaluation of Multi-Modal Image Generation Models**|Hang Hua et.al.|[2505.19415](http://arxiv.org/abs/2505.19415)|null|
+|**2025-05-27**|**CDPDNet: Integrating Text Guidance with Hybrid Vision Encoders for Medical Image Segmentation**|Jiong Wu et.al.|[2505.18958](http://arxiv.org/abs/2505.18958)|null|
+|**2025-05-24**|**Climate Implications of Diffusion-based Generative Visual AI Systems and their Mass Adoption**|Vanessa Utz et.al.|[2505.18892](http://arxiv.org/abs/2505.18892)|null|
+|**2025-05-27**|**Chain-of-Zoom: Extreme Super-Resolution via Scale Autoregression and Preference Alignment**|Bryan Sangwoo Kim et.al.|[2505.18600](http://arxiv.org/abs/2505.18600)|null|
 |**2025-05-23**|**Segment Anyword: Mask Prompt Inversion for Open-Set Grounded Segmentation**|Zhihua Liu et.al.|[2505.17994](http://arxiv.org/abs/2505.17994)|null|
 |**2025-05-23**|**AutoMiSeg: Automatic Medical Image Segmentation via Test-Time Adaptation of Foundation Models**|Xingjian Li et.al.|[2505.17931](http://arxiv.org/abs/2505.17931)|null|
 |**2025-05-23**|**ICPL-ReID: Identity-Conditional Prompt Learning for Multi-Spectral Object Re-Identification**|Shihao Li et.al.|[2505.17821](http://arxiv.org/abs/2505.17821)|null|
@@ -664,6 +683,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-26**|**Energy-based Preference Optimization for Test-time Adaptation**|Yewon Han et.al.|[2505.19607](http://arxiv.org/abs/2505.19607)|null|
+|**2025-05-25**|**JEDI: The Force of Jensen-Shannon Divergence in Disentangling Diffusion Models**|Eric Tillmann Bill et.al.|[2505.19166](http://arxiv.org/abs/2505.19166)|null|
+|**2025-05-24**|**Think Twice before Adaptation: Improving Adaptability of DeepFake Detection via Online Test-Time Adaptation**|Hong-Hanh Nguyen-Le et.al.|[2505.18787](http://arxiv.org/abs/2505.18787)|null|
+|**2025-05-24**|**MADCAT: Combating Malware Detection Under Concept Drift with Test-Time Adaptation**|Eunjin Roh et.al.|[2505.18734](http://arxiv.org/abs/2505.18734)|null|
+|**2025-05-24**|**Test-Time Adaptation with Binary Feedback**|Taeckyung Lee et.al.|[2505.18514](http://arxiv.org/abs/2505.18514)|null|
+|**2025-05-23**|**DART $^3$ : Leveraging Distance for Test Time Adaptation in Person Re-Identification**|Rajarshi Bhattacharya et.al.|[2505.18337](http://arxiv.org/abs/2505.18337)|null|
 |**2025-05-23**|**AutoMiSeg: Automatic Medical Image Segmentation via Test-Time Adaptation of Foundation Models**|Xingjian Li et.al.|[2505.17931](http://arxiv.org/abs/2505.17931)|null|
 |**2025-05-23**|**Sparse Diffusion Autoencoder for Test-time Adapting Prediction of Complex Systems**|Jingwen Cheng et.al.|[2505.17459](http://arxiv.org/abs/2505.17459)|null|
 |**2025-05-23**|**Dynamic Manipulation of Deformable Objects in 3D: Simulation, Benchmark and Learning Strategy**|Guanzhou Lan et.al.|[2505.17434](http://arxiv.org/abs/2505.17434)|null|
