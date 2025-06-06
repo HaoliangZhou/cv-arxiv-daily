@@ -1,4 +1,4 @@
-## Updated on 2025.06.05
+## Updated on 2025.06.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -45,12 +45,16 @@
 |**2024-12-02**|**AnySynth: Harnessing the Power of Image Synthetic Data Generation for Generalized Vision-Language Tasks**|You Li et.al.|[2411.16749](http://arxiv.org/abs/2411.16749)|null|
 |**2024-10-31**|**MoTaDual: Modality-Task Dual Alignment for Enhanced Zero-shot Composed Image Retrieval**|Haiwen Li et.al.|[2410.23736](http://arxiv.org/abs/2410.23736)|null|
 
-<p align=right>(<a href=#updated-on-20250605>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250606>back to top</a>)</p>
 
 ## Continual Learning
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-04**|**A Generative Adaptive Replay Continual Learning Model for Temporal Knowledge Graph Reasoning**|Zhiyu Zhang et.al.|[2506.04083](http://arxiv.org/abs/2506.04083)|null|
+|**2025-06-05**|**Adapt before Continual Learning**|Aojun Lu et.al.|[2506.03956](http://arxiv.org/abs/2506.03956)|**[link](https://github.com/byyx666/ACL_code)**|
+|**2025-06-05**|**Rethinking the Stability-Plasticity Trade-off in Continual Learning from an Architectural Perspective**|Aojun Lu et.al.|[2506.03951](http://arxiv.org/abs/2506.03951)|**[link](https://github.com/byyx666/Dual-Arch)**|
+|**2025-06-03**|**The Future of Continual Learning in the Era of Foundation Models: Three Key Directions**|Jack Bell et.al.|[2506.03320](http://arxiv.org/abs/2506.03320)|null|
 |**2025-06-03**|**Learned Controllers for Agile Quadrotors in Pursuit-Evasion Games**|Alejandro Sanchez Roncero et.al.|[2506.02849](http://arxiv.org/abs/2506.02849)|null|
 |**2025-06-01**|**EWGN: Elastic Weight Generation and Context Switching in Deep Learning**|Shriraj P. Sawant et.al.|[2506.02065](http://arxiv.org/abs/2506.02065)|null|
 |**2025-06-02**|**Class Incremental Learning for Algorithm Selection**|Mate Botond Nemeth et.al.|[2506.01545](http://arxiv.org/abs/2506.01545)|null|
@@ -419,12 +423,15 @@
 |**2025-02-10**|**Prompt-Driven Continual Graph Learning**|Qi Wang et.al.|[2502.06327](http://arxiv.org/abs/2502.06327)|null|
 |**2025-02-10**|**Position: Continual Learning Benefits from An Evolving Population over An Unified Model**|Aojun Lu et.al.|[2502.06210](http://arxiv.org/abs/2502.06210)|null|
 
-<p align=right>(<a href=#updated-on-20250605>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250606>back to top</a>)</p>
 
 ## Vision-Language Prompting
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-04**|**Zero-Shot Temporal Interaction Localization for Egocentric Videos**|Erhang Zhang et.al.|[2506.03662](http://arxiv.org/abs/2506.03662)|null|
+|**2025-06-04**|**ControlThinker: Unveiling Latent Semantics for Controllable Image Generation through Visual Reasoning**|Feng Han et.al.|[2506.03596](http://arxiv.org/abs/2506.03596)|null|
+|**2025-06-03**|**Rethinking Whole-Body CT Image Interpretation: An Abnormality-Centric Approach**|Ziheng Zhao et.al.|[2506.03238](http://arxiv.org/abs/2506.03238)|null|
 |**2025-06-03**|**RelationAdapter: Learning and Transferring Visual Relation with Diffusion Transformers**|Yan Gong et.al.|[2506.02528](http://arxiv.org/abs/2506.02528)|null|
 |**2025-06-03**|**VPI-Bench: Visual Prompt Injection Attacks for Computer-Use Agents**|Tri Cao et.al.|[2506.02456](http://arxiv.org/abs/2506.02456)|null|
 |**2025-06-03**|**Video-Level Language-Driven Video-Based Visible-Infrared Person Re-Identification**|Shuang Li et.al.|[2506.02439](http://arxiv.org/abs/2506.02439)|null|
@@ -716,7 +723,7 @@
 |**2025-02-08**|**Diverse Image Generation with Diffusion Models and Cross Class Label Learning for Polyp Classification**|Vanshali Sharma et.al.|[2502.05444](http://arxiv.org/abs/2502.05444)|**[link](https://github.com/vanshali/pathopolyp-diff)**|
 |**2025-02-07**|**FlashVideo:Flowing Fidelity to Detail for Efficient High-Resolution Video Generation**|Shilong Zhang et.al.|[2502.05179](http://arxiv.org/abs/2502.05179)|**[link](https://github.com/foundationvision/flashvideo)**|
 
-<p align=right>(<a href=#updated-on-20250605>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250606>back to top</a>)</p>
 
 ## Facial Expression Recognition
 
@@ -763,12 +770,13 @@
 |**2024-12-16**|**Impact of Face Alignment on Face Image Quality**|Eren Onaran et.al.|[2412.11779](http://arxiv.org/abs/2412.11779)|null|
 |**2024-12-15**|**Unimodal and Multimodal Static Facial Expression Recognition for Virtual Reality Users with EmoHeVRDB**|Thorben Ortmann et.al.|[2412.11306](http://arxiv.org/abs/2412.11306)|**[link](https://github.com/thorbenortmann/emohevrdb-sfer)**|
 
-<p align=right>(<a href=#updated-on-20250605>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250606>back to top</a>)</p>
 
 ## Test-Time Adaptation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-31**|**MINT: Memory-Infused Prompt Tuning at Test-time for CLIP**|Jiaming Yi et.al.|[2506.03190](http://arxiv.org/abs/2506.03190)|null|
 |**2025-06-03**|**Small Aid, Big Leap: Efficient Test-Time Adaptation for Vision-Language Models with AdaptNet**|Xiao Chen et.al.|[2506.02671](http://arxiv.org/abs/2506.02671)|null|
 |**2025-06-03**|**Efficient Test-time Adaptive Object Detection via Sensitivity-Guided Pruning**|Kunyu Wang et.al.|[2506.02462](http://arxiv.org/abs/2506.02462)|null|
 |**2025-06-03**|**PAID: Pairwise Angular-Invariant Decomposition for Continual Test-Time Adaptation**|Kunyu Wang et.al.|[2506.02453](http://arxiv.org/abs/2506.02453)|null|
@@ -853,7 +861,7 @@
 |**2025-01-31**|**Test-time Loss Landscape Adaptation for Zero-Shot Generalization in Vision-Language Models**|Aodi Li et.al.|[2501.18864](http://arxiv.org/abs/2501.18864)|null|
 |**2025-02-03**|**Advances in Multimodal Adaptation and Generalization: From Traditional Approaches to Foundation Models**|Hao Dong et.al.|[2501.18592](http://arxiv.org/abs/2501.18592)|**[link](https://github.com/donghao51/awesome-multimodal-adaptation)**|
 
-<p align=right>(<a href=#updated-on-20250605>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250606>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
