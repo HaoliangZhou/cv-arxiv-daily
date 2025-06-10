@@ -2,14 +2,14 @@
 layout: default
 ---
 
-## Updated on 2025.06.07
+## Updated on 2025.06.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Cross-Modal Image Retrieval
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-05-27**|**ConText-CIR: Learning from Concepts in Text for Composed Image Retrieval**|Eric Xing et.al.|[2505.20764](http://arxiv.org/abs/2505.20764)|null|
+|**2025-05-27**|**ConText-CIR: Learning from Concepts in Text for Composed Image Retrieval**|Eric Xing et.al.|[2505.20764](http://arxiv.org/abs/2505.20764)|**[link](https://github.com/mvrl/context-cir)**|
 |**2025-05-26**|**Multimodal Reasoning Agent for Zero-Shot Composed Image Retrieval**|Rong-Cheng Tu et.al.|[2505.19952](http://arxiv.org/abs/2505.19952)|null|
 |**2025-05-26**|**MLLM-Guided VLM Fine-Tuning with Joint Inference for Zero-Shot Composed Image Retrieval**|Rong-Cheng Tu et.al.|[2505.19707](http://arxiv.org/abs/2505.19707)|null|
 |**2025-05-23**|**DetailFusion: A Dual-branch Framework with Detail Enhancement for Composed Image Retrieval**|Yuxin Yang et.al.|[2505.17796](http://arxiv.org/abs/2505.17796)|null|
@@ -42,6 +42,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-06**|**Dynamic Mixture of Progressive Parameter-Efficient Expert Library for Lifelong Robot Learning**|Yuheng Lei et.al.|[2506.05985](http://arxiv.org/abs/2506.05985)|null|
+|**2025-06-06**|**Generalized Incremental Learning under Concept Drift across Evolving Data Streams**|En Yu et.al.|[2506.05736](http://arxiv.org/abs/2506.05736)|null|
+|**2025-06-06**|**Action-Adaptive Continual Learning: Enabling Policy Generalization under Dynamic Action Spaces**|Chaofan Pan et.al.|[2506.05702](http://arxiv.org/abs/2506.05702)|null|
+|**2025-06-05**|**MLLM-CL: Continual Learning for Multimodal Large Language Models**|Hongbo Zhao et.al.|[2506.05453](http://arxiv.org/abs/2506.05453)|null|
 |**2025-06-05**|**Federated Isolation Forest for Efficient Anomaly Detection on Edge IoT Systems**|Pavle Vasiljevic et.al.|[2506.05138](http://arxiv.org/abs/2506.05138)|null|
 |**2025-06-05**|**Lifelong Evolution: Collaborative Learning between Large and Small Language Models for Continuous Emergent Fake News Detection**|Ziyi Zhou et.al.|[2506.04739](http://arxiv.org/abs/2506.04739)|null|
 |**2025-06-05**|**Hierarchical-Task-Aware Multi-modal Mixture of Incremental LoRA Experts for Embodied Continual Learning**|Ziqi Jia et.al.|[2506.04595](http://arxiv.org/abs/2506.04595)|null|
@@ -423,13 +427,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-06**|**WhisQ: Cross-Modal Representation Learning for Text-to-Music MOS Prediction**|Jakaria Islam Emon et.al.|[2506.05899](http://arxiv.org/abs/2506.05899)|null|
+|**2025-06-03**|**Talk2SAM: Text-Guided Semantic Enhancement for Complex-Shaped Object Segmentation**|Luka Vetoshkin et.al.|[2506.05396](http://arxiv.org/abs/2506.05396)|null|
 |**2025-06-05**|**ContentV: Efficient Training of Video Generation Models with Limited Compute**|Wenfeng Lin et.al.|[2506.05343](http://arxiv.org/abs/2506.05343)|null|
 |**2025-06-05**|**Video World Models with Long-term Spatial Memory**|Tong Wu et.al.|[2506.05284](http://arxiv.org/abs/2506.05284)|null|
 |**2025-06-05**|**OpenMaskDINO3D : Reasoning 3D Segmentation via Large Language Model**|Kunshen Zhang et.al.|[2506.04837](http://arxiv.org/abs/2506.04837)|null|
 |**2025-06-04**|**Is Perturbation-Based Image Protection Disruptive to Image Editing?**|Qiuyu Tang et.al.|[2506.04394](http://arxiv.org/abs/2506.04394)|null|
 |**2025-06-04**|**HuGeDiff: 3D Human Generation via Diffusion with Gaussian Splatting**|Maksym Ivashechkin et.al.|[2506.04351](http://arxiv.org/abs/2506.04351)|null|
 |**2025-06-04**|**RSVP: Reasoning Segmentation via Visual Prompting and Multi-modal Chain-of-Thought**|Yi Lu et.al.|[2506.04277](http://arxiv.org/abs/2506.04277)|null|
-|**2025-06-04**|**Zero-Shot Temporal Interaction Localization for Egocentric Videos**|Erhang Zhang et.al.|[2506.03662](http://arxiv.org/abs/2506.03662)|null|
+|**2025-06-04**|**Zero-Shot Temporal Interaction Localization for Egocentric Videos**|Erhang Zhang et.al.|[2506.03662](http://arxiv.org/abs/2506.03662)|**[link](https://github.com/irmvlab/egoloc)**|
 |**2025-06-04**|**ControlThinker: Unveiling Latent Semantics for Controllable Image Generation through Visual Reasoning**|Feng Han et.al.|[2506.03596](http://arxiv.org/abs/2506.03596)|null|
 |**2025-06-03**|**Rethinking Whole-Body CT Image Interpretation: An Abnormality-Centric Approach**|Ziheng Zhao et.al.|[2506.03238](http://arxiv.org/abs/2506.03238)|null|
 |**2025-06-03**|**RelationAdapter: Learning and Transferring Visual Relation with Diffusion Transformers**|Yan Gong et.al.|[2506.02528](http://arxiv.org/abs/2506.02528)|null|
@@ -780,7 +786,7 @@ layout: default
 |**2025-06-02**|**RATFM: Retrieval-augmented Time Series Foundation Model for Anomaly Detection**|Chihiro Maru et.al.|[2506.02081](http://arxiv.org/abs/2506.02081)|null|
 |**2025-06-02**|**AdaRewriter: Unleashing the Power of Prompting-based Conversational Query Reformulation via Test-Time Adaptation**|Yilong Lai et.al.|[2506.01381](http://arxiv.org/abs/2506.01381)|null|
 |**2025-05-31**|**SSAM: Self-Supervised Association Modeling for Test-Time Adaption**|Yaxiong Wang et.al.|[2506.00513](http://arxiv.org/abs/2506.00513)|null|
-|**2025-05-31**|**$\texttt{AVROBUSTBENCH}$ : Benchmarking the Robustness of Audio-Visual Recognition Models at Test-Time**|Sarthak Kumar Maharana et.al.|[2506.00358](http://arxiv.org/abs/2506.00358)|null|
+|**2025-05-31**|**$\texttt{AVROBUSTBENCH}$ : Benchmarking the Robustness of Audio-Visual Recognition Models at Test-Time**|Sarthak Kumar Maharana et.al.|[2506.00358](http://arxiv.org/abs/2506.00358)|**[link](https://github.com/sarthaxxxxx/av-c-robustness-benchmark)**|
 |**2025-05-28**|**From Controlled Scenarios to Real-World: Cross-Domain Degradation Pattern Matching for All-in-One Image Restoration**|Junyu Fan et.al.|[2505.22284](http://arxiv.org/abs/2505.22284)|null|
 |**2025-05-28**|**Test-Time Adaptation of Vision-Language Models for Open-Vocabulary Semantic Segmentation**|Mehrdad Noori et.al.|[2505.21844](http://arxiv.org/abs/2505.21844)|null|
 |**2025-05-27**|**Frequency Composition for Compressed and Domain-Adaptive Neural Networks**|Yoojin Kwon et.al.|[2505.20890](http://arxiv.org/abs/2505.20890)|null|
