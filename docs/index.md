@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2025.06.10
+## Updated on 2025.06.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Cross-Modal Image Retrieval
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-07**|**Zero Shot Composed Image Retrieval**|Santhosh Kakarla et.al.|[2506.06602](http://arxiv.org/abs/2506.06602)|null|
 |**2025-05-27**|**ConText-CIR: Learning from Concepts in Text for Composed Image Retrieval**|Eric Xing et.al.|[2505.20764](http://arxiv.org/abs/2505.20764)|**[link](https://github.com/mvrl/context-cir)**|
 |**2025-05-26**|**Multimodal Reasoning Agent for Zero-Shot Composed Image Retrieval**|Rong-Cheng Tu et.al.|[2505.19952](http://arxiv.org/abs/2505.19952)|null|
 |**2025-05-26**|**MLLM-Guided VLM Fine-Tuning with Joint Inference for Zero-Shot Composed Image Retrieval**|Rong-Cheng Tu et.al.|[2505.19707](http://arxiv.org/abs/2505.19707)|null|
@@ -42,6 +43,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-09**|**DPFormer: Dynamic Prompt Transformer for Continual Learning**|Sheng-Kai Huang et.al.|[2506.07414](http://arxiv.org/abs/2506.07414)|null|
+|**2025-06-07**|**Contextual Experience Replay for Self-Improvement of Language Agents**|Yitao Liu et.al.|[2506.06698](http://arxiv.org/abs/2506.06698)|null|
+|**2025-06-07**|**Breaking Data Silos: Towards Open and Scalable Mobility Foundation Models via Generative Continual Learning**|Yuan Yuan et.al.|[2506.06694](http://arxiv.org/abs/2506.06694)|null|
+|**2025-06-07**|**Non-Intrusive Load Monitoring Based on Image Load Signatures and Continual Learning**|Olimjon Toirov et.al.|[2506.06637](http://arxiv.org/abs/2506.06637)|null|
+|**2025-06-06**|**Optimal Rates in Continual Linear Regression via Increasing Regularization**|Ran Levinstein et.al.|[2506.06501](http://arxiv.org/abs/2506.06501)|null|
 |**2025-06-06**|**Dynamic Mixture of Progressive Parameter-Efficient Expert Library for Lifelong Robot Learning**|Yuheng Lei et.al.|[2506.05985](http://arxiv.org/abs/2506.05985)|null|
 |**2025-06-06**|**Generalized Incremental Learning under Concept Drift across Evolving Data Streams**|En Yu et.al.|[2506.05736](http://arxiv.org/abs/2506.05736)|null|
 |**2025-06-06**|**Action-Adaptive Continual Learning: Enabling Policy Generalization under Dynamic Action Spaces**|Chaofan Pan et.al.|[2506.05702](http://arxiv.org/abs/2506.05702)|null|
@@ -427,6 +433,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-09**|**PairEdit: Learning Semantic Variations for Exemplar-based Image Editing**|Haoguang Lu et.al.|[2506.07992](http://arxiv.org/abs/2506.07992)|null|
+|**2025-06-09**|**Rethinking Cross-Modal Interaction in Multimodal Diffusion Transformers**|Zhengyao Lv et.al.|[2506.07986](http://arxiv.org/abs/2506.07986)|null|
+|**2025-06-10**|**OneIG-Bench: Omni-dimensional Nuanced Evaluation for Image Generation**|Jingjing Chang et.al.|[2506.07977](http://arxiv.org/abs/2506.07977)|null|
+|**2025-06-09**|**OpenDance: Multimodal Controllable 3D Dance Generation Using Large-scale Internet Data**|Jinlu Zhang et.al.|[2506.07565](http://arxiv.org/abs/2506.07565)|null|
+|**2025-06-09**|**Text-guided multi-stage cross-perception network for medical image segmentation**|Gaoyu Chen et.al.|[2506.07475](http://arxiv.org/abs/2506.07475)|null|
+|**2025-06-09**|**GUIPilot: A Consistency-based Mobile GUI Testing Approach for Detecting Application-specific Bugs**|Ruofan Liu et.al.|[2506.07385](http://arxiv.org/abs/2506.07385)|null|
+|**2025-06-08**|**HOI-PAGE: Zero-Shot Human-Object Interaction Generation with Part Affordance Guidance**|Lei Li et.al.|[2506.07209](http://arxiv.org/abs/2506.07209)|null|
+|**2025-06-07**|**Controllable Coupled Image Generation via Diffusion Models**|Chenfei Yuan et.al.|[2506.06826](http://arxiv.org/abs/2506.06826)|null|
+|**2025-06-07**|**Exploring Visual Prompting: Robustness Inheritance and Beyond**|Qi Li et.al.|[2506.06823](http://arxiv.org/abs/2506.06823)|null|
+|**2025-06-07**|**Stepwise Decomposition and Dual-stream Focus: A Novel Approach for Training-free Camouflaged Object Segmentation**|Chao Yin et.al.|[2506.06818](http://arxiv.org/abs/2506.06818)|null|
 |**2025-06-06**|**WhisQ: Cross-Modal Representation Learning for Text-to-Music MOS Prediction**|Jakaria Islam Emon et.al.|[2506.05899](http://arxiv.org/abs/2506.05899)|null|
 |**2025-06-03**|**Talk2SAM: Text-Guided Semantic Enhancement for Complex-Shaped Object Segmentation**|Luka Vetoshkin et.al.|[2506.05396](http://arxiv.org/abs/2506.05396)|null|
 |**2025-06-05**|**ContentV: Efficient Training of Video Generation Models with Limited Compute**|Wenfeng Lin et.al.|[2506.05343](http://arxiv.org/abs/2506.05343)|null|
@@ -778,6 +794,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-09**|**CyberV: Cybernetics for Test-time Scaling in Video Understanding**|Jiahao Meng et.al.|[2506.07971](http://arxiv.org/abs/2506.07971)|null|
+|**2025-06-08**|**E-BATS: Efficient Backpropagation-Free Test-Time Adaptation for Speech Foundation Models**|Jiaheng Dong et.al.|[2506.07078](http://arxiv.org/abs/2506.07078)|null|
+|**2025-06-07**|**Stepwise Decomposition and Dual-stream Focus: A Novel Approach for Training-free Camouflaged Object Segmentation**|Chao Yin et.al.|[2506.06818](http://arxiv.org/abs/2506.06818)|null|
+|**2025-06-07**|**Feature-Based Instance Neighbor Discovery: Advanced Stable Test-Time Adaptation in Dynamic World**|Qinting Jiang et.al.|[2506.06782](http://arxiv.org/abs/2506.06782)|null|
 |**2025-06-05**|**SAM-aware Test-time Adaptation for Universal Medical Image Segmentation**|Jianghao Wu et.al.|[2506.05221](http://arxiv.org/abs/2506.05221)|null|
 |**2025-05-31**|**MINT: Memory-Infused Prompt Tuning at Test-time for CLIP**|Jiaming Yi et.al.|[2506.03190](http://arxiv.org/abs/2506.03190)|null|
 |**2025-06-03**|**Small Aid, Big Leap: Efficient Test-Time Adaptation for Vision-Language Models with AdaptNet**|Xiao Chen et.al.|[2506.02671](http://arxiv.org/abs/2506.02671)|null|
