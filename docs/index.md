@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.12
+## Updated on 2025.06.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Cross-Modal Image Retrieval
@@ -43,6 +43,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-11**|**Analytic Task Scheduler: Recursive Least Squares Based Method for Continual Learning in Embodied Foundation Models**|Lipei Xie et.al.|[2506.09623](http://arxiv.org/abs/2506.09623)|null|
+|**2025-06-11**|**ErrorEraser: Unlearning Data Bias for Improved Continual Learning**|Xuemei Cao et.al.|[2506.09347](http://arxiv.org/abs/2506.09347)|null|
 |**2025-06-10**|**Online Learning Control Strategies for Industrial Processes with Application for Loosening and Conditioning**|Yue Wu et.al.|[2506.08983](http://arxiv.org/abs/2506.08983)|null|
 |**2025-06-10**|**Hyperbolic Dual Feature Augmentation for Open-Environment**|Peilin Yu et.al.|[2506.08906](http://arxiv.org/abs/2506.08906)|null|
 |**2025-06-10**|**LLaVA-c: Continual Improved Visual Instruction Tuning**|Wenzhuo Liu et.al.|[2506.08666](http://arxiv.org/abs/2506.08666)|null|
@@ -439,6 +441,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-11**|**VideoMat: Extracting PBR Materials from Video Diffusion Models**|Jacob Munkberg et.al.|[2506.09665](http://arxiv.org/abs/2506.09665)|null|
+|**2025-06-11**|**AD^2-Bench: A Hierarchical CoT Benchmark for MLLM in Autonomous Driving under Adverse Conditions**|Zhaoyang Wei et.al.|[2506.09557](http://arxiv.org/abs/2506.09557)|null|
+|**2025-06-10**|**BakuFlow: A Streamlining Semi-Automatic Label Generation Tool**|Jerry Lin et.al.|[2506.09083](http://arxiv.org/abs/2506.09083)|null|
 |**2025-06-10**|**Do Concept Replacement Techniques Really Erase Unacceptable Concepts?**|Anudeep Das et.al.|[2506.08991](http://arxiv.org/abs/2506.08991)|null|
 |**2025-06-10**|**SakugaFlow: A Stagewise Illustration Framework Emulating the Human Drawing Process and Providing Interactive Tutoring for Novice Drawing Skills**|Kazuki Kawamura et.al.|[2506.08443](http://arxiv.org/abs/2506.08443)|null|
 |**2025-06-09**|**PairEdit: Learning Semantic Variations for Exemplar-based Image Editing**|Haoguang Lu et.al.|[2506.07992](http://arxiv.org/abs/2506.07992)|null|
