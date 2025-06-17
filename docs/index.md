@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.16
+## Updated on 2025.06.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Cross-Modal Image Retrieval
@@ -43,11 +43,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-13**|**Dynamic Mixture of Curriculum LoRA Experts for Continual Multimodal Instruction Tuning**|Chendi Ge et.al.|[2506.11672](http://arxiv.org/abs/2506.11672)|null|
+|**2025-06-10**|**Trustworthy AI for Medicine: Continuous Hallucination Detection and Elimination with CHECK**|Carlos Garcia-Fernandez et.al.|[2506.11129](http://arxiv.org/abs/2506.11129)|null|
 |**2025-06-12**|**Continual Hyperbolic Learning of Instances and Classes**|Melika Ayoughi et.al.|[2506.10710](http://arxiv.org/abs/2506.10710)|null|
-|**2025-06-13**|**Saturation Self-Organizing Map**|Igor Urbanik et.al.|[2506.10680](http://arxiv.org/abs/2506.10680)|null|
+|**2025-06-13**|**Saturation Self-Organizing Map**|Igor Urbanik et.al.|[2506.10680](http://arxiv.org/abs/2506.10680)|**[link](https://github.com/radinyn/satsom)**|
 |**2025-06-12**|**Class-Incremental Learning for Honey Botanical Origin Classification with Hyperspectral Images: A Study with Continual Backpropagation**|Guyang Zhang et.al.|[2506.10489](http://arxiv.org/abs/2506.10489)|null|
 |**2025-06-12**|**EXPEREPAIR: Dual-Memory Enhanced LLM-based Repository-Level Program Repair**|Fangwen Mu et.al.|[2506.10484](http://arxiv.org/abs/2506.10484)|null|
-|**2025-06-12**|**TreeLoRA: Efficient Continual Learning via Layer-Wise LoRAs Guided by a Hierarchical Gradient-Similarity Tree**|Yu-Yang Qian et.al.|[2506.10355](http://arxiv.org/abs/2506.10355)|null|
+|**2025-06-12**|**TreeLoRA: Efficient Continual Learning via Layer-Wise LoRAs Guided by a Hierarchical Gradient-Similarity Tree**|Yu-Yang Qian et.al.|[2506.10355](http://arxiv.org/abs/2506.10355)|**[link](https://github.com/zinyy/treelora)**|
 |**2025-06-11**|**Analytic Task Scheduler: Recursive Least Squares Based Method for Continual Learning in Embodied Foundation Models**|Lipei Xie et.al.|[2506.09623](http://arxiv.org/abs/2506.09623)|null|
 |**2025-06-11**|**ErrorEraser: Unlearning Data Bias for Improved Continual Learning**|Xuemei Cao et.al.|[2506.09347](http://arxiv.org/abs/2506.09347)|null|
 |**2025-06-10**|**Online Learning Control Strategies for Industrial Processes with Application for Loosening and Conditioning**|Yue Wu et.al.|[2506.08983](http://arxiv.org/abs/2506.08983)|null|
@@ -447,10 +449,10 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-06-12**|**BNMusic: Blending Environmental Noises into Personalized Music**|Chi Zuo et.al.|[2506.10754](http://arxiv.org/abs/2506.10754)|null|
-|**2025-06-13**|**IQE-CLIP: Instance-aware Query Embedding for Zero-/Few-shot Anomaly Detection in Medical Domain**|Hong Huang et.al.|[2506.10730](http://arxiv.org/abs/2506.10730)|null|
+|**2025-06-13**|**IQE-CLIP: Instance-aware Query Embedding for Zero-/Few-shot Anomaly Detection in Medical Domain**|Hong Huang et.al.|[2506.10730](http://arxiv.org/abs/2506.10730)|**[link](https://github.com/hongh0/iqe-clip)**|
 |**2025-06-12**|**Unsourced Adversarial CAPTCHA: A Bi-Phase Adversarial CAPTCHA Framework**|Xia Du et.al.|[2506.10685](http://arxiv.org/abs/2506.10685)|null|
 |**2025-06-11**|**Fine-Grained control over Music Generation with Activation Steering**|Dipanshu Panda et.al.|[2506.10225](http://arxiv.org/abs/2506.10225)|null|
-|**2025-06-11**|**VideoMat: Extracting PBR Materials from Video Diffusion Models**|Jacob Munkberg et.al.|[2506.09665](http://arxiv.org/abs/2506.09665)|null|
+|**2025-06-16**|**VideoMat: Extracting PBR Materials from Video Diffusion Models**|Jacob Munkberg et.al.|[2506.09665](http://arxiv.org/abs/2506.09665)|null|
 |**2025-06-11**|**AD^2-Bench: A Hierarchical CoT Benchmark for MLLM in Autonomous Driving under Adverse Conditions**|Zhaoyang Wei et.al.|[2506.09557](http://arxiv.org/abs/2506.09557)|null|
 |**2025-06-10**|**BakuFlow: A Streamlining Semi-Automatic Label Generation Tool**|Jerry Lin et.al.|[2506.09083](http://arxiv.org/abs/2506.09083)|null|
 |**2025-06-10**|**Do Concept Replacement Techniques Really Erase Unacceptable Concepts?**|Anudeep Das et.al.|[2506.08991](http://arxiv.org/abs/2506.08991)|null|
@@ -817,6 +819,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-10**|**SUTA-LM: Bridging Test-Time Adaptation and Language Model Rescoring for Robust ASR**|Wei-Ping Huang et.al.|[2506.11121](http://arxiv.org/abs/2506.11121)|null|
 |**2025-06-11**|**Test-Time Adaptation for Generalizable Task Progress Estimation**|Christos Ziakas et.al.|[2506.10085](http://arxiv.org/abs/2506.10085)|null|
 |**2025-06-09**|**CyberV: Cybernetics for Test-time Scaling in Video Understanding**|Jiahao Meng et.al.|[2506.07971](http://arxiv.org/abs/2506.07971)|**[link](https://github.com/marinero4972/cyberv)**|
 |**2025-06-08**|**E-BATS: Efficient Backpropagation-Free Test-Time Adaptation for Speech Foundation Models**|Jiaheng Dong et.al.|[2506.07078](http://arxiv.org/abs/2506.07078)|null|
