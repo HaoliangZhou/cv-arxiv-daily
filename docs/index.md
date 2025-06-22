@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.21
+## Updated on 2025.06.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Cross-Modal Image Retrieval
@@ -47,7 +47,7 @@ layout: default
 |**2025-06-18**|**DAILOC: Domain-Incremental Learning for Indoor Localization using Smartphones**|Akhil Singampalli et.al.|[2506.15554](http://arxiv.org/abs/2506.15554)|null|
 |**2025-06-18**|**An efficient forgetting-aware fine-tuning framework for pretrained universal machine-learning interatomic potentials**|Jisu Kim et.al.|[2506.15223](http://arxiv.org/abs/2506.15223)|null|
 |**2025-06-17**|**MEAL: A Benchmark for Continual Multi-Agent Reinforcement Learning**|Tristan Tomilin et.al.|[2506.14990](http://arxiv.org/abs/2506.14990)|null|
-|**2025-06-18**|**A Comprehensive Survey on Continual Learning in Generative Models**|Haiyang Guo et.al.|[2506.13045](http://arxiv.org/abs/2506.13045)|null|
+|**2025-06-18**|**A Comprehensive Survey on Continual Learning in Generative Models**|Haiyang Guo et.al.|[2506.13045](http://arxiv.org/abs/2506.13045)|**[link](https://github.com/ghy0501/awesome-continual-learning-in-generative-models)**|
 |**2025-06-14**|**Branch, or Layer? Zeroth-Order Optimization for Continual Learning of Vision-Language Models**|Ziwei Liu et.al.|[2506.12409](http://arxiv.org/abs/2506.12409)|null|
 |**2025-06-14**|**EKPC: Elastic Knowledge Preservation and Compensation for Class-Incremental Learning**|Huaijie Wang et.al.|[2506.12351](http://arxiv.org/abs/2506.12351)|null|
 |**2025-06-13**|**Quantum-Inspired Differentiable Integral Neural Networks (QIDINNs): A Feynman-Based Architecture for Continuous Learning Over Streaming Data**|Oscar Boullosa Dapena et.al.|[2506.12111](http://arxiv.org/abs/2506.12111)|null|
@@ -841,7 +841,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-06-14**|**Exploring Audio Cues for Enhanced Test-Time Video Model Adaptation**|Runhao Zeng et.al.|[2506.12481](http://arxiv.org/abs/2506.12481)|null|
-|**2025-06-10**|**SUTA-LM: Bridging Test-Time Adaptation and Language Model Rescoring for Robust ASR**|Wei-Ping Huang et.al.|[2506.11121](http://arxiv.org/abs/2506.11121)|null|
+|**2025-06-10**|**SUTA-LM: Bridging Test-Time Adaptation and Language Model Rescoring for Robust ASR**|Wei-Ping Huang et.al.|[2506.11121](http://arxiv.org/abs/2506.11121)|**[link](https://github.com/hhhaaahhhaa/asr-tta)**|
 |**2025-06-11**|**Test-Time Adaptation for Generalizable Task Progress Estimation**|Christos Ziakas et.al.|[2506.10085](http://arxiv.org/abs/2506.10085)|null|
 |**2025-06-09**|**CyberV: Cybernetics for Test-time Scaling in Video Understanding**|Jiahao Meng et.al.|[2506.07971](http://arxiv.org/abs/2506.07971)|**[link](https://github.com/marinero4972/cyberv)**|
 |**2025-06-08**|**E-BATS: Efficient Backpropagation-Free Test-Time Adaptation for Speech Foundation Models**|Jiaheng Dong et.al.|[2506.07078](http://arxiv.org/abs/2506.07078)|null|
