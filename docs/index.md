@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.24
+## Updated on 2025.06.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Cross-Modal Image Retrieval
@@ -43,6 +43,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-22**|**RL for Reasoning by Adaptively Revealing Rationales**|Mohammad Hossein Amani et.al.|[2506.18110](http://arxiv.org/abs/2506.18110)|null|
+|**2025-06-22**|**Leveraging Large Language Model for Intelligent Log Processing and Autonomous Debugging in Cloud AI Platforms**|Cheng Ji et.al.|[2506.17900](http://arxiv.org/abs/2506.17900)|null|
+|**2025-06-21**|**Pathway-based Progressive Inference (PaPI) for Energy-Efficient Continual Learning**|Suyash Gaurav et.al.|[2506.17848](http://arxiv.org/abs/2506.17848)|null|
+|**2025-06-21**|**VLA-OS: Structuring and Dissecting Planning Representations and Paradigms in Vision-Language-Action Models**|Chongkai Gao et.al.|[2506.17561](http://arxiv.org/abs/2506.17561)|null|
 |**2025-06-20**|**Continual Learning with Columnar Spiking Neural Networks**|Denis Larionov et.al.|[2506.17169](http://arxiv.org/abs/2506.17169)|null|
 |**2025-06-20**|**The Importance of Being Lazy: Scaling Limits of Continual Learning**|Jacopo Graldi et.al.|[2506.16884](http://arxiv.org/abs/2506.16884)|null|
 |**2025-06-19**|**Energy-Based Transfer for Reinforcement Learning**|Zeyun Deng et.al.|[2506.16590](http://arxiv.org/abs/2506.16590)|null|
@@ -461,6 +465,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-22**|**Evaluating Prompt-Based and Fine-Tuned Approaches to Czech Anaphora Resolution**|Patrik Stano et.al.|[2506.18091](http://arxiv.org/abs/2506.18091)|null|
+|**2025-06-21**|**Programmable-Room: Interactive Textured 3D Room Meshes Generation Empowered by Large Language Models**|Jihyun Kim et.al.|[2506.17707](http://arxiv.org/abs/2506.17707)|null|
+|**2025-06-21**|**DreamJourney: Perpetual View Generation with Video Diffusion Models**|Bo Pan et.al.|[2506.17705](http://arxiv.org/abs/2506.17705)|null|
 |**2025-06-19**|**SafeTriage: Facial Video De-identification for Privacy-Preserving Stroke Triage**|Tongan Cai et.al.|[2506.16578](http://arxiv.org/abs/2506.16578)|null|
 |**2025-06-19**|**FastInit: Fast Noise Initialization for Temporally Consistent Video Generation**|Chengyu Bai et.al.|[2506.16119](http://arxiv.org/abs/2506.16119)|null|
 |**2025-06-19**|**AutoV: Learning to Retrieve Visual Prompt for Large Vision-Language Models**|Yuan Zhang et.al.|[2506.16112](http://arxiv.org/abs/2506.16112)|null|
@@ -848,8 +855,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-06-20**|**Loupe: A Generalizable and Adaptive Framework for Image Forgery Detection**|Yuchu Jiang et.al.|[2506.16819](http://arxiv.org/abs/2506.16819)|null|
-|**2025-06-20**|**On Training-Test (Mis)alignment in Unsupervised Combinatorial Optimization: Observation, Empirical Exploration, and Analysis**|Fanchen Bu et.al.|[2506.16732](http://arxiv.org/abs/2506.16732)|null|
+|**2025-06-20**|**Keeping Medical AI Healthy: A Review of Detection and Correction Methods for System Degradation**|Hao Guan et.al.|[2506.17442](http://arxiv.org/abs/2506.17442)|null|
+|**2025-06-20**|**Loupe: A Generalizable and Adaptive Framework for Image Forgery Detection**|Yuchu Jiang et.al.|[2506.16819](http://arxiv.org/abs/2506.16819)|**[link](https://github.com/kamichanw/loupe)**|
+|**2025-06-20**|**On Training-Test (Mis)alignment in Unsupervised Combinatorial Optimization: Observation, Empirical Exploration, and Analysis**|Fanchen Bu et.al.|[2506.16732](http://arxiv.org/abs/2506.16732)|**[link](https://github.com/bokveizen/uco_derand)**|
 |**2025-06-14**|**Exploring Audio Cues for Enhanced Test-Time Video Model Adaptation**|Runhao Zeng et.al.|[2506.12481](http://arxiv.org/abs/2506.12481)|null|
 |**2025-06-10**|**SUTA-LM: Bridging Test-Time Adaptation and Language Model Rescoring for Robust ASR**|Wei-Ping Huang et.al.|[2506.11121](http://arxiv.org/abs/2506.11121)|**[link](https://github.com/hhhaaahhhaa/asr-tta)**|
 |**2025-06-11**|**Test-Time Adaptation for Generalizable Task Progress Estimation**|Christos Ziakas et.al.|[2506.10085](http://arxiv.org/abs/2506.10085)|null|
