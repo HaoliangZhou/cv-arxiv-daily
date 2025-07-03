@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.07.02
+## Updated on 2025.07.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Cross-Modal Image Retrieval
@@ -49,7 +49,7 @@ layout: default
 |**2025-06-29**|**GATSim: Urban Mobility Simulation with Generative Agents**|Qi Liu et.al.|[2506.23306](http://arxiv.org/abs/2506.23306)|null|
 |**2025-06-27**|**Advancements and Challenges in Continual Reinforcement Learning: A Comprehensive Review**|Amara Zuffer et.al.|[2506.21899](http://arxiv.org/abs/2506.21899)|null|
 |**2025-06-27**|**A Survey of Continual Reinforcement Learning**|Chaofan Pan et.al.|[2506.21872](http://arxiv.org/abs/2506.21872)|null|
-|**2025-06-26**|**Why Neural Network Can Discover Symbolic Structures with Gradient-based Training: An Algebraic and Geometric Foundation for Neurosymbolic Reasoning**|Peihao Wang et.al.|[2506.21797](http://arxiv.org/abs/2506.21797)|null|
+|**2025-07-01**|**Why Neural Network Can Discover Symbolic Structures with Gradient-based Training: An Algebraic and Geometric Foundation for Neurosymbolic Reasoning**|Peihao Wang et.al.|[2506.21797](http://arxiv.org/abs/2506.21797)|null|
 |**2025-06-26**|**Continual Self-Supervised Learning with Masked Autoencoders in Remote Sensing**|Lars Möllenbrok et.al.|[2506.21312](http://arxiv.org/abs/2506.21312)|null|
 |**2025-06-26**|**DuET: Dual Incremental Object Detection via Exemplar-Free Task Arithmetic**|Munish Monga et.al.|[2506.21260](http://arxiv.org/abs/2506.21260)|null|
 |**2025-06-26**|**CL-Splats: Continual Learning of Gaussian Splatting with Local Optimization**|Jan Ackermann et.al.|[2506.21117](http://arxiv.org/abs/2506.21117)|null|
