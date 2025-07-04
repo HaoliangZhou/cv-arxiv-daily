@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.07.03
+## Updated on 2025.07.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Cross-Modal Image Retrieval
@@ -43,6 +43,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-02**|**How Weight Resampling and Optimizers Shape the Dynamics of Continual Learning and Forgetting in Neural Networks**|Lapo Frati et.al.|[2507.01559](http://arxiv.org/abs/2507.01559)|null|
+|**2025-06-30**|**Is It Safe To Learn And Share? On Psychological Safety and Social Learning in (Agile) Communities of Practice**|Christiaan Verwijs et.al.|[2507.01065](http://arxiv.org/abs/2507.01065)|null|
+|**2025-07-01**|**NIRANTAR: Continual Learning with New Languages and Domains on Real-world Speech Data**|Tahir Javed et.al.|[2507.00534](http://arxiv.org/abs/2507.00534)|null|
+|**2025-07-01**|**Bisecle: Binding and Separation in Continual Learning for Video Language Understanding**|Yue Tan et.al.|[2507.00469](http://arxiv.org/abs/2507.00469)|null|
+|**2025-06-30**|**LIMAO: A Framework for Lifelong Modular Learned Query Optimization**|Qihan Zhang et.al.|[2507.00188](http://arxiv.org/abs/2507.00188)|null|
 |**2025-06-30**|**Ella: Embodied Social Agents with Lifelong Memory**|Hongxin Zhang et.al.|[2506.24019](http://arxiv.org/abs/2506.24019)|null|
 |**2025-06-30**|**More Efficient Real-Valued Gray-Box Optimization through Incremental Distribution Estimation in RV-GOMEA**|Renzo J. Scholman et.al.|[2506.23738](http://arxiv.org/abs/2506.23738)|null|
 |**2025-06-30**|**Reinforcement Fine-Tuning Enables MLLMs Learning Novel Tasks Stably**|Zhihao Zhang et.al.|[2506.23508](http://arxiv.org/abs/2506.23508)|null|
@@ -481,6 +486,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-01**|**OptiPrune: Boosting Prompt-Image Consistency with Attention-Guided Noise and Dynamic Token Selection**|Ziji Lu et.al.|[2507.00789](http://arxiv.org/abs/2507.00789)|null|
+|**2025-07-01**|**UMDATrack: Unified Multi-Domain Adaptive Tracking Under Adverse Weather Conditions**|Siyuan Yao et.al.|[2507.00648](http://arxiv.org/abs/2507.00648)|null|
+|**2025-07-01**|**Context-Aware Academic Emotion Dataset and Benchmark**|Luming Zhao et.al.|[2507.00586](http://arxiv.org/abs/2507.00586)|null|
+|**2025-07-01**|**SCING:Towards More Efficient and Robust Person Re-Identification through Selective Cross-modal Prompt Tuning**|Yunfei Xie et.al.|[2507.00506](http://arxiv.org/abs/2507.00506)|null|
+|**2025-06-30**|**FreeLong++: Training-Free Long Video Generation via Multi-band SpectralFusion**|Yu Lu et.al.|[2507.00162](http://arxiv.org/abs/2507.00162)|null|
 |**2025-06-30**|**TextMesh4D: High-Quality Text-to-4D Mesh Generation**|Sisi Dai et.al.|[2506.24121](http://arxiv.org/abs/2506.24121)|null|
 |**2025-06-30**|**Navigating with Annealing Guidance Scale in Diffusion Space**|Shai Yehezkel et.al.|[2506.24108](http://arxiv.org/abs/2506.24108)|null|
 |**2025-06-30**|**GroundingDINO-US-SAM: Text-Prompted Multi-Organ Segmentation in Ultrasound with LoRA-Tuned Vision-Language Models**|Hamza Rasaee et.al.|[2506.23903](http://arxiv.org/abs/2506.23903)|null|
@@ -843,6 +853,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-02**|**Facial Emotion Learning with Text-Guided Multiview Fusion via Vision-Language Model for 3D/4D Facial Expression Recognition**|Muzammil Behzad et.al.|[2507.01673](http://arxiv.org/abs/2507.01673)|null|
+|**2025-07-01**|**Context-Aware Academic Emotion Dataset and Benchmark**|Luming Zhao et.al.|[2507.00586](http://arxiv.org/abs/2507.00586)|null|
 |**2025-06-26**|**Multimodal Prompt Alignment for Facial Expression Recognition**|Fuyan Ma et.al.|[2506.21017](http://arxiv.org/abs/2506.21017)|null|
 |**2025-06-25**|**Enhancing Ambiguous Dynamic Facial Expression Recognition with Soft Label-based Data Augmentation**|Ryosuke Kawamura et.al.|[2506.20867](http://arxiv.org/abs/2506.20867)|null|
 |**2025-06-12**|**Using Vision Language Models to Detect Students' Academic Emotion through Facial Expressions**|Deliang Wang et.al.|[2506.10334](http://arxiv.org/abs/2506.10334)|null|
@@ -891,6 +903,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-01**|**Thinking Beyond Tokens: From Brain-Inspired Intelligence to Cognitive Foundations for Artificial General Intelligence and its Societal Impact**|Rizwan Qureshi et.al.|[2507.00951](http://arxiv.org/abs/2507.00951)|null|
+|**2025-07-02**|**ExPaMoE: An Expandable Parallel Mixture of Experts for Continual Test-Time Adaptation**|JianChao Zhao et.al.|[2507.00502](http://arxiv.org/abs/2507.00502)|null|
+|**2025-07-01**|**Unleashing the Potential of All Test Samples: Mean-Shift Guided Test-Time Adaptation**|Jizhou Han et.al.|[2507.00462](http://arxiv.org/abs/2507.00462)|null|
 |**2025-06-30**|**Continual Adaptation: Environment-Conditional Parameter Generation for Object Detection in Dynamic Scenarios**|Deng Li et.al.|[2506.24063](http://arxiv.org/abs/2506.24063)|null|
 |**2025-06-30**|**The Illusion of Progress? A Critical Look at Test-Time Adaptation for Vision-Language Models**|Lijun Sheng et.al.|[2506.24000](http://arxiv.org/abs/2506.24000)|null|
 |**2025-06-30**|**When Small Guides Large: Cross-Model Co-Learning for Test-Time Adaptation**|Chang'an Yi et.al.|[2506.23724](http://arxiv.org/abs/2506.23724)|null|
