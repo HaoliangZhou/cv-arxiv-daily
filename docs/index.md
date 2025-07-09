@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.07.08
+## Updated on 2025.07.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Cross-Modal Image Retrieval
@@ -43,6 +43,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-07**|**Recovering Plasticity of Neural Networks via Soft Weight Rescaling**|Seungwon Oh et.al.|[2507.04683](http://arxiv.org/abs/2507.04683)|null|
+|**2025-07-07**|**DRAE: Dynamic Retrieval-Augmented Expert Networks for Lifelong Learning and Task Adaptation in Robotics**|Yayu Long et.al.|[2507.04661](http://arxiv.org/abs/2507.04661)|null|
+|**2025-07-06**|**Thousand-Brains Systems: Sensorimotor Intelligence for Rapid, Robust Learning and Inference**|Niels Leadholm et.al.|[2507.04494](http://arxiv.org/abs/2507.04494)|null|
+|**2025-07-06**|**Reconstructing Biological Pathways by Applying Selective Incremental Learning to (Very) Small Language Models**|Pranta Saha et.al.|[2507.04432](http://arxiv.org/abs/2507.04432)|null|
+|**2025-07-05**|**Addressing The Devastating Effects Of Single-Task Data Poisoning In Exemplar-Free Continual Learning**|Stanisław Pawlak et.al.|[2507.04106](http://arxiv.org/abs/2507.04106)|null|
+|**2025-07-05**|**Are Learning-Based Approaches Ready for Real-World Indoor Navigation? A Case for Imitation Learning**|Nigitha Selvaraj et.al.|[2507.04086](http://arxiv.org/abs/2507.04086)|null|
+|**2025-07-05**|**Temporal Continual Learning with Prior Compensation for Human Motion Prediction**|Jianwei Tang et.al.|[2507.04060](http://arxiv.org/abs/2507.04060)|null|
+|**2025-07-05**|**Exploring Kolmogorov-Arnold Network Expansions in Vision Transformers for Mitigating Catastrophic Forgetting in Continual Learning**|Zahid Ullah et.al.|[2507.04020](http://arxiv.org/abs/2507.04020)|null|
+|**2025-07-05**|**Continual Recommender Systems**|Hyunsik Yoo et.al.|[2507.03861](http://arxiv.org/abs/2507.03861)|null|
+|**2025-07-08**|**MemOS: A Memory OS for AI System**|Zhiyu Li et.al.|[2507.03724](http://arxiv.org/abs/2507.03724)|null|
 |**2025-07-03**|**Continual Gradient Low-Rank Projection Fine-Tuning for LLMs**|Chenxu Wang et.al.|[2507.02503](http://arxiv.org/abs/2507.02503)|null|
 |**2025-07-03**|**Continual Multiple Instance Learning with Enhanced Localization for Histopathological Whole Slide Image Analysis**|Byung Hyun Lee et.al.|[2507.02395](http://arxiv.org/abs/2507.02395)|null|
 |**2025-07-03**|**Holistic Continual Learning under Concept Drift with Adaptive Memory Realignment**|Alif Ashrafee et.al.|[2507.02310](http://arxiv.org/abs/2507.02310)|null|
@@ -489,6 +499,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-07**|**Semantic Frame Interpolation**|Yijia Hong et.al.|[2507.05173](http://arxiv.org/abs/2507.05173)|null|
+|**2025-07-07**|**InterGSEdit: Interactive 3D Gaussian Splatting Editing with 3D Geometry-Consistent Attention Prior**|Minghao Wen et.al.|[2507.04961](http://arxiv.org/abs/2507.04961)|null|
+|**2025-07-07**|**EXPOTION: Facial Expression and Motion Control for Multimodal Music Generation**|Fathinah Izzati et.al.|[2507.04955](http://arxiv.org/abs/2507.04955)|null|
+|**2025-07-07**|**Music Boomerang: Reusing Diffusion Models for Data Augmentation and Audio Manipulation**|Alexander Fichtinger et.al.|[2507.04864](http://arxiv.org/abs/2507.04864)|null|
+|**2025-07-07**|**ChangeBridge: Spatiotemporal Image Generation with Multimodal Controls for Remote Sensing**|Zhenghui Zhao et.al.|[2507.04678](http://arxiv.org/abs/2507.04678)|null|
+|**2025-07-06**|**A Training-Free Style-Personalization via Scale-wise Autoregressive Model**|Kyoungmin Lee et.al.|[2507.04482](http://arxiv.org/abs/2507.04482)|null|
+|**2025-07-06**|**DreamPoster: A Unified Framework for Image-Conditioned Generative Poster Design**|Xiwei Hu et.al.|[2507.04218](http://arxiv.org/abs/2507.04218)|null|
+|**2025-07-04**|**Helping CLIP See Both the Forest and the Trees: A Decomposition and Description Approach**|Leyan Xue et.al.|[2507.03458](http://arxiv.org/abs/2507.03458)|null|
 |**2025-07-03**|**AnyI2V: Animating Any Conditional Image with Motion Control**|Ziye Li et.al.|[2507.02857](http://arxiv.org/abs/2507.02857)|null|
 |**2025-07-05**|**No time to train! Training-Free Reference-Based Instance Segmentation**|Miguel Espinosa et.al.|[2507.02798](http://arxiv.org/abs/2507.02798)|null|
 |**2025-07-03**|**RichControl: Structure- and Appearance-Rich Training-Free Spatial Control for Text-to-Image Generation**|Liheng Zhang et.al.|[2507.02792](http://arxiv.org/abs/2507.02792)|null|
@@ -911,6 +929,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-06**|**Context Tuning for In-Context Optimization**|Jack Lu et.al.|[2507.04221](http://arxiv.org/abs/2507.04221)|null|
+|**2025-07-04**|**Dynamic Multimodal Prototype Learning in Vision-Language Models**|Xingyu Zhu et.al.|[2507.03657](http://arxiv.org/abs/2507.03657)|null|
+|**2025-07-04**|**Helping CLIP See Both the Forest and the Trees: A Decomposition and Description Approach**|Leyan Xue et.al.|[2507.03458](http://arxiv.org/abs/2507.03458)|null|
 |**2025-07-03**|**Time-Masked Transformers with Lightweight Test-Time Adaptation for Neural Speech Decoding**|Ebrahim Feghhi et.al.|[2507.02800](http://arxiv.org/abs/2507.02800)|null|
 |**2025-07-03**|**F^2TTA: Free-Form Test-Time Adaptation on Cross-Domain Medical Image Classification via Image-Level Disentangled Prompt Tuning**|Wei Li et.al.|[2507.02437](http://arxiv.org/abs/2507.02437)|null|
 |**2025-07-01**|**Thinking Beyond Tokens: From Brain-Inspired Intelligence to Cognitive Foundations for Artificial General Intelligence and its Societal Impact**|Rizwan Qureshi et.al.|[2507.00951](http://arxiv.org/abs/2507.00951)|null|
