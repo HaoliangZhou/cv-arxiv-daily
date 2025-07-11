@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.07.10
+## Updated on 2025.07.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Cross-Modal Image Retrieval
@@ -45,6 +45,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-09**|**Addressing Imbalanced Domain-Incremental Learning through Dual-Balance Collaborative Experts**|Lan Li et.al.|[2507.07100](http://arxiv.org/abs/2507.07100)|null|
+|**2025-07-09**|**On the Hardness of Unsupervised Domain Adaptation: Optimal Learners and Information-Theoretic Perspective**|Zhiyi Dong et.al.|[2507.06552](http://arxiv.org/abs/2507.06552)|null|
 |**2025-07-08**|**Remember Past, Anticipate Future: Learning Continual Multimodal Misinformation Detectors**|Bing Wang et.al.|[2507.05939](http://arxiv.org/abs/2507.05939)|null|
 |**2025-07-08**|**PSAT: Pediatric Segmentation Approaches via Adult Augmentations and Transfer Learning**|Tristan Kirscher et.al.|[2507.05764](http://arxiv.org/abs/2507.05764)|null|
 |**2025-07-07**|**Reinforcement Fine-Tuning Naturally Mitigates Forgetting in Continual Post-Training**|Song Lai et.al.|[2507.05386](http://arxiv.org/abs/2507.05386)|null|
@@ -504,6 +506,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-09**|**Text-promptable Object Counting via Quantity Awareness Enhancement**|Miaojing Shi et.al.|[2507.06679](http://arxiv.org/abs/2507.06679)|null|
+|**2025-07-09**|**FedDifRC: Unlocking the Potential of Text-to-Image Diffusion Models in Heterogeneous Federated Learning**|Huan Wang et.al.|[2507.06482](http://arxiv.org/abs/2507.06482)|null|
 |**2025-07-07**|**Semantic Frame Interpolation**|Yijia Hong et.al.|[2507.05173](http://arxiv.org/abs/2507.05173)|null|
 |**2025-07-07**|**InterGSEdit: Interactive 3D Gaussian Splatting Editing with 3D Geometry-Consistent Attention Prior**|Minghao Wen et.al.|[2507.04961](http://arxiv.org/abs/2507.04961)|null|
 |**2025-07-07**|**EXPOTION: Facial Expression and Motion Control for Multimodal Music Generation**|Fathinah Izzati et.al.|[2507.04955](http://arxiv.org/abs/2507.04955)|null|
@@ -934,12 +938,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-09**|**Free on the Fly: Enhancing Flexibility in Test-Time Adaptation with Online EM**|Qiyuan Dai et.al.|[2507.06973](http://arxiv.org/abs/2507.06973)|null|
 |**2025-07-06**|**Context Tuning for In-Context Optimization**|Jack Lu et.al.|[2507.04221](http://arxiv.org/abs/2507.04221)|null|
 |**2025-07-04**|**Dynamic Multimodal Prototype Learning in Vision-Language Models**|Xingyu Zhu et.al.|[2507.03657](http://arxiv.org/abs/2507.03657)|null|
 |**2025-07-04**|**Helping CLIP See Both the Forest and the Trees: A Decomposition and Description Approach**|Leyan Xue et.al.|[2507.03458](http://arxiv.org/abs/2507.03458)|null|
 |**2025-07-03**|**Time-Masked Transformers with Lightweight Test-Time Adaptation for Neural Speech Decoding**|Ebrahim Feghhi et.al.|[2507.02800](http://arxiv.org/abs/2507.02800)|null|
 |**2025-07-03**|**F^2TTA: Free-Form Test-Time Adaptation on Cross-Domain Medical Image Classification via Image-Level Disentangled Prompt Tuning**|Wei Li et.al.|[2507.02437](http://arxiv.org/abs/2507.02437)|null|
-|**2025-07-01**|**Thinking Beyond Tokens: From Brain-Inspired Intelligence to Cognitive Foundations for Artificial General Intelligence and its Societal Impact**|Rizwan Qureshi et.al.|[2507.00951](http://arxiv.org/abs/2507.00951)|null|
+|**2025-07-09**|**Thinking Beyond Tokens: From Brain-Inspired Intelligence to Cognitive Foundations for Artificial General Intelligence and its Societal Impact**|Rizwan Qureshi et.al.|[2507.00951](http://arxiv.org/abs/2507.00951)|null|
 |**2025-07-02**|**ExPaMoE: An Expandable Parallel Mixture of Experts for Continual Test-Time Adaptation**|JianChao Zhao et.al.|[2507.00502](http://arxiv.org/abs/2507.00502)|null|
 |**2025-07-01**|**Unleashing the Potential of All Test Samples: Mean-Shift Guided Test-Time Adaptation**|Jizhou Han et.al.|[2507.00462](http://arxiv.org/abs/2507.00462)|null|
 |**2025-06-30**|**Continual Adaptation: Environment-Conditional Parameter Generation for Object Detection in Dynamic Scenarios**|Deng Li et.al.|[2506.24063](http://arxiv.org/abs/2506.24063)|null|
