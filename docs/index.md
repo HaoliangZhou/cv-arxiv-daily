@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2025.07.17
+## Updated on 2025.07.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Cross-Modal Image Retrieval
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-16**|**QuRe: Query-Relevant Retrieval through Hard Negative Sampling in Composed Image Retrieval**|Jaehyun Kwak et.al.|[2507.12416](http://arxiv.org/abs/2507.12416)|null|
 |**2025-07-08**|**FACap: A Large-scale Fashion Dataset for Fine-grained Composed Image Retrieval**|François Gardères et.al.|[2507.07135](http://arxiv.org/abs/2507.07135)|null|
 |**2025-07-08**|**Automatic Synthesis of High-Quality Triplet Data for Composed Image Retrieval**|Haiwen Li et.al.|[2507.05970](http://arxiv.org/abs/2507.05970)|null|
 |**2025-07-08**|**OFFSET: Segmentation-based Focus Shift Revision for Composed Image Retrieval**|Zhiwei Chen et.al.|[2507.05631](http://arxiv.org/abs/2507.05631)|null|
@@ -46,6 +47,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-16**|**PROL : Rehearsal Free Continual Learning in Streaming Data via Prompt Online Learning**|M. Anwar Ma'sum et.al.|[2507.12305](http://arxiv.org/abs/2507.12305)|null|
+|**2025-07-16**|**RegCL: Continual Adaptation of Segment Anything Model via Model Merging**|Yuan-Chen Shu et.al.|[2507.12297](http://arxiv.org/abs/2507.12297)|null|
+|**2025-07-16**|**Information-Theoretic Generalization Bounds of Replay-based Continual Learning**|Wen Wen et.al.|[2507.12043](http://arxiv.org/abs/2507.12043)|null|
+|**2025-07-15**|**Cross-lingual Few-shot Learning for Persian Sentiment Analysis with Incremental Adaptation**|Farideh Majidi et.al.|[2507.11634](http://arxiv.org/abs/2507.11634)|null|
 |**2025-07-15**|**A Neural Network Model of Complementary Learning Systems: Pattern Separation and Completion for Continual Learning**|James P Jun et.al.|[2507.11393](http://arxiv.org/abs/2507.11393)|null|
 |**2025-07-15**|**Fast Last-Iterate Convergence of SGD in the Smooth Interpolation Regime**|Amit Attia et.al.|[2507.11274](http://arxiv.org/abs/2507.11274)|null|
 |**2025-07-15**|**Using Continual Learning for Real-Time Detection of Vulnerable Road Users in Complex Traffic Scenarios**|Faryal Aurooj Nasir et.al.|[2507.11046](http://arxiv.org/abs/2507.11046)|null|
@@ -528,6 +533,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-16**|**Assessing the Value of Visual Input: A Benchmark of Multimodal Large Language Models for Robotic Path Planning**|Jacinto Colan et.al.|[2507.12391](http://arxiv.org/abs/2507.12391)|null|
+|**2025-07-16**|**LidarPainter: One-Step Away From Any Lidar View To Novel Guidance**|Yuzhou Ji et.al.|[2507.12114](http://arxiv.org/abs/2507.12114)|null|
+|**2025-07-16**|**Style Composition within Distinct LoRA modules for Traditional Art**|Jaehyun Lee et.al.|[2507.11986](http://arxiv.org/abs/2507.11986)|null|
+|**2025-07-16**|**GS-Bias: Global-Spatial Bias Learner for Single-Image Test-Time Adaptation of Vision-Language Models**|Zhaohong Huang et.al.|[2507.11969](http://arxiv.org/abs/2507.11969)|null|
 |**2025-07-15**|**The Devil behind the mask: An emergent safety vulnerability of Diffusion LLMs**|Zichen Wen et.al.|[2507.11097](http://arxiv.org/abs/2507.11097)|null|
 |**2025-07-15**|**Personalized OVSS: Understanding Personal Concept in Open-Vocabulary Semantic Segmentation**|Sunghyun Park et.al.|[2507.11030](http://arxiv.org/abs/2507.11030)|null|
 |**2025-07-14**|**Versatile and Generalizable Manipulation via Goal-Conditioned Reinforcement Learning with Grounded Object Detection**|Huiyi Wang et.al.|[2507.10814](http://arxiv.org/abs/2507.10814)|null|
@@ -927,6 +936,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-16**|**From Coarse to Nuanced: Cross-Modal Alignment of Fine-Grained Linguistic Cues and Visual Salient Regions for Dynamic Emotion Recognition**|Yu Liu et.al.|[2507.11892](http://arxiv.org/abs/2507.11892)|null|
 |**2025-07-14**|**Auditing Facial Emotion Recognition Datasets for Posed Expressions and Racial Bias**|Rina Khan et.al.|[2507.10755](http://arxiv.org/abs/2507.10755)|null|
 |**2025-07-10**|**Action Unit Enhance Dynamic Facial Expression Recognition**|Feng Liu et.al.|[2507.07678](http://arxiv.org/abs/2507.07678)|null|
 |**2025-07-10**|**Bridging the gap in FER: addressing age bias in deep learning**|F. Xavier Gaya-Morey et.al.|[2507.07638](http://arxiv.org/abs/2507.07638)|null|
@@ -980,6 +990,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-16**|**GS-Bias: Global-Spatial Bias Learner for Single-Image Test-Time Adaptation of Vision-Language Models**|Zhaohong Huang et.al.|[2507.11969](http://arxiv.org/abs/2507.11969)|null|
 |**2025-07-14**|**MCGA: Mixture of Codebooks Hyperspectral Reconstruction via Grayscale-Aware Attention**|Zhanjiang Yang et.al.|[2507.09885](http://arxiv.org/abs/2507.09885)|null|
 |**2025-07-13**|**Advancing Reliable Test-Time Adaptation of Vision-Language Models under Visual Variations**|Yiwen Liang et.al.|[2507.09500](http://arxiv.org/abs/2507.09500)|null|
 |**2025-07-11**|**Monitoring Risks in Test-Time Adaptation**|Mona Schirmer et.al.|[2507.08721](http://arxiv.org/abs/2507.08721)|null|
