@@ -31,6 +31,6 @@ keywords:
     "Vision-Language Prompting":
         filters: ["Visual Prompt", "Text Prompt", "Vision-Language Prompt"]
     "Facial Expression Recognition":
-        filters: ["Facial Expression Recognition", "Micro-Expression Recognition", "Micro-Expression Recognition"]
+        filters: ["Facial Expression Recognition", "Micro-Expression Recognition", "Micro Expression Recognition"]
     "Test-Time Adaptation":
         filters: ["Test-Time Adaptation", "Test Time Adaptation"]
