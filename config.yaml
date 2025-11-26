@@ -22,6 +22,8 @@ md_wechat_path: './docs/wechat.md'
 
 # keywords to search
 keywords:
+    "Multimodal Large Language Model":
+        filters: ["Multimodal Large Language Model","Vision-Language Reasoning Model","Multimodal Chain-of-Thought Reasoning", "Multimodal Chain-of-Thought"]
     "Cross-Modal Image Retrieval":
         filters: ["Cross-Modal Image Retrieval","Cross-Modal Retrieval","Composed Image Retrieval", "Zero-shot Composed Image Retrieval"]
     "Continual Learning":
