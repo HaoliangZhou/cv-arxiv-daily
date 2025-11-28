@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.11.27
+## Updated on 2025.11.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Cross-Modal Image Retrieval
@@ -62,6 +62,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-26**|**Agentic Learner with Grow-and-Refine Multimodal Semantic Memory**|Weihao Bo et.al.|[2511.21678](http://arxiv.org/abs/2511.21678)|null|
+|**2025-11-26**|**Event-driven eligibility propagation in large sparse networks: efficiency shaped by biological realism**|Agnes Korcsak-Gorzo et.al.|[2511.21674](http://arxiv.org/abs/2511.21674)|null|
+|**2025-11-26**|**Escaping the Verifier: Learning to Reason via Demonstrations**|Locke Cai et.al.|[2511.21667](http://arxiv.org/abs/2511.21667)|null|
+|**2025-11-26**|**Continual Error Correction on Low-Resource Devices**|Kirill Paramonov et.al.|[2511.21652](http://arxiv.org/abs/2511.21652)|null|
+|**2025-11-26**|**Closed Form HJB Solution for Continuous-Time Optimal Control of a Non-Linear Input-Affine System**|Akash Vyas et.al.|[2511.21593](http://arxiv.org/abs/2511.21593)|null|
 |**2025-11-26**|**Learning When to Stop: Adaptive Latent Reasoning via Reinforcement Learning**|Alex Ning et.al.|[2511.21581](http://arxiv.org/abs/2511.21581)|null|
 |**2025-11-26**|**$\mathcal{E}_0$ : Enhancing Generalization and Fine-Grained Control in VLA Models via Continuized Discrete Diffusion**|Zhihao Zhan et.al.|[2511.21542](http://arxiv.org/abs/2511.21542)|null|
 |**2025-11-26**|**Lost in Time? A Meta-Learning Framework for Time-Shift-Tolerant Physiological Signal Transformation**|Qian Hong et.al.|[2511.21500](http://arxiv.org/abs/2511.21500)|null|
@@ -577,6 +582,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-26**|**Canvas-to-Image: Compositional Image Generation with Multimodal Controls**|Yusuf Dalva et.al.|[2511.21691](http://arxiv.org/abs/2511.21691)|null|
+|**2025-11-26**|**Auxiliary Metrics Help Decoding Skill Neurons in the Wild**|Yixiu Zhao et.al.|[2511.21610](http://arxiv.org/abs/2511.21610)|null|
 |**2025-11-26**|**Multimodal Robust Prompt Distillation for 3D Point Cloud Models**|Xiang Gu et.al.|[2511.21574](http://arxiv.org/abs/2511.21574)|null|
 |**2025-11-26**|**Seeing Twice: How Side-by-Side T2I Comparison Changes Auditing Strategies**|Matheus Kunzler Maldaner et.al.|[2511.21547](http://arxiv.org/abs/2511.21547)|null|
 |**2025-11-26**|**DiverseVAR: Balancing Diversity and Quality of Next-Scale Visual Autoregressive Models**|Mingue Park et.al.|[2511.21415](http://arxiv.org/abs/2511.21415)|null|
@@ -1224,6 +1231,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-26**|**G $^2$ VLM: Geometry Grounded Vision Language Model with Unified 3D Reconstruction and Spatial Reasoning**|Wenbo Hu et.al.|[2511.21688](http://arxiv.org/abs/2511.21688)|null|
+|**2025-11-26**|**Qwen3-VL Technical Report**|Shuai Bai et.al.|[2511.21631](http://arxiv.org/abs/2511.21631)|null|
 |**2025-11-26**|**SpatialBench: Benchmarking Multimodal Large Language Models for Spatial Cognition**|Peiran Xu et.al.|[2511.21471](http://arxiv.org/abs/2511.21471)|null|
 |**2025-11-26**|**Do Reasoning Vision-Language Models Inversely Scale in Test-Time Compute? A Distractor-centric Empirical Analysis**|Jiyun Bae et.al.|[2511.21397](http://arxiv.org/abs/2511.21397)|null|
 |**2025-11-26**|**Monet: Reasoning in Latent Visual Space Beyond Images and Language**|Qixun Wang et.al.|[2511.21395](http://arxiv.org/abs/2511.21395)|null|
