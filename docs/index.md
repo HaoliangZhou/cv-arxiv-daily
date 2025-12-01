@@ -2,13 +2,17 @@
 layout: default
 ---
 
-## Updated on 2025.11.30
+## Updated on 2025.12.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Cross-Modal Image Retrieval
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-27**|**UNION: A Lightweight Target Representation for Efficient Zero-Shot Image-Guided Retrieval with Optional Textual Queries**|Hoang-Bao Le et.al.|[2511.22253](http://arxiv.org/abs/2511.22253)|null|
+|**2025-11-27**|**FIGROTD: A Friendly-to-Handle Dataset for Image Guided Retrieval with Optional Text**|Hoang-Bao Le et.al.|[2511.22247](http://arxiv.org/abs/2511.22247)|null|
+|**2025-11-27**|**Bridging the Modality Gap by Similarity Standardization with Pseudo-Positive Samples**|Shuhei Yamashita et.al.|[2511.22141](http://arxiv.org/abs/2511.22141)|null|
+|**2025-11-26**|**Evaluating Strategies for Synthesizing Clinical Notes for Medical Multimodal AI**|Niccolo Marini et.al.|[2511.21827](http://arxiv.org/abs/2511.21827)|null|
 |**2025-11-26**|**The More, the Merrier: Contrastive Fusion for Higher-Order Multimodal Alignment**|Stefanos Koutoupis et.al.|[2511.21331](http://arxiv.org/abs/2511.21331)|null|
 |**2025-11-26**|**Knowledge Completes the Vision: A Multimodal Entity-aware Retrieval-Augmented Generation Framework for News Image Captioning**|Xiaoxing You et.al.|[2511.21002](http://arxiv.org/abs/2511.21002)|null|
 |**2025-11-25**|**New York Smells: A Large Multimodal Dataset for Olfaction**|Ege Ozguroglu et.al.|[2511.20544](http://arxiv.org/abs/2511.20544)|null|
@@ -62,6 +66,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-27**|**U Net LSTM with incremental time-stepping for robust long-horizon unsteady flow prediction**|Blaise Madiega et.al.|[2511.22730](http://arxiv.org/abs/2511.22730)|null|
+|**2025-11-27**|**Stable-Drift: A Patient-Aware Latent Drift Replay Method for Stabilizing Representations in Continual Learning**|Paraskevi-Antonia Theofilou et.al.|[2511.22615](http://arxiv.org/abs/2511.22615)|null|
+|**2025-11-27**|**Super-resolution of satellite-derived SST data via Generative Adversarial Networks**|Claudia Fanelli et.al.|[2511.22610](http://arxiv.org/abs/2511.22610)|null|
+|**2025-11-27**|**Predicting and Interpolating Spatiotemporal Environmental Data: A Case Study of Groundwater Storage in Bangladesh**|Anna Pazola et.al.|[2511.22378](http://arxiv.org/abs/2511.22378)|null|
+|**2025-11-27**|**SuRe: Surprise-Driven Prioritised Replay for Continual LLM Learning**|Hugo Hazard et.al.|[2511.22367](http://arxiv.org/abs/2511.22367)|null|
+|**2025-11-27**|**Enhanced Conditional Generation of Double Perovskite by Knowledge-Guided Language Model Feedback**|Inhyo Lee et.al.|[2511.22307](http://arxiv.org/abs/2511.22307)|null|
+|**2025-11-27**|**PULSE-ICU: A Pretrained Unified Long-Sequence Encoder for Multi-task Prediction in Intensive Care Units**|Sejeong Jang et.al.|[2511.22199](http://arxiv.org/abs/2511.22199)|null|
+|**2025-11-27**|**Textual semantics and machine learning methods for data product pricing**|Ruize Gao et.al.|[2511.22185](http://arxiv.org/abs/2511.22185)|null|
+|**2025-11-27**|**An energy-efficient spiking neural network with continuous learning for self-adaptive brain-machine interface**|Zhou Biyan et.al.|[2511.22108](http://arxiv.org/abs/2511.22108)|null|
+|**2025-11-27**|**MRI-Based Brain Age Estimation with Supervised Contrastive Learning of Continuous Representation**|Simon Joseph Clément Crête et.al.|[2511.22102](http://arxiv.org/abs/2511.22102)|null|
 |**2025-11-26**|**Agentic Learner with Grow-and-Refine Multimodal Semantic Memory**|Weihao Bo et.al.|[2511.21678](http://arxiv.org/abs/2511.21678)|null|
 |**2025-11-26**|**Event-driven eligibility propagation in large sparse networks: efficiency shaped by biological realism**|Agnes Korcsak-Gorzo et.al.|[2511.21674](http://arxiv.org/abs/2511.21674)|null|
 |**2025-11-26**|**Escaping the Verifier: Learning to Reason via Demonstrations**|Locke Cai et.al.|[2511.21667](http://arxiv.org/abs/2511.21667)|null|
@@ -582,6 +596,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-27**|**VaMP: Variational Multi-Modal Prompt Learning for Vision-Language Models**|Silin Cheng et.al.|[2511.22664](http://arxiv.org/abs/2511.22664)|null|
+|**2025-11-27**|**Structured Extraction from Business Process Diagrams Using Vision-Language Models**|Pritam Deka et.al.|[2511.22448](http://arxiv.org/abs/2511.22448)|null|
+|**2025-11-27**|**ABounD: Adversarial Boundary-Driven Few-Shot Learning for Multi-Class Anomaly Detection**|Runzhi Deng et.al.|[2511.22436](http://arxiv.org/abs/2511.22436)|null|
+|**2025-11-27**|**Wukong's 72 Transformations: High-fidelity Textured 3D Morphing via Flow Models**|Minghao Yin et.al.|[2511.22425](http://arxiv.org/abs/2511.22425)|null|
+|**2025-11-27**|**Semantic-Aware Caching for Efficient Image Generation in Edge Computing**|Hanshuai Cui et.al.|[2511.22421](http://arxiv.org/abs/2511.22421)|null|
+|**2025-11-27**|**INSIGHT: An Interpretable Neural Vision-Language Framework for Reasoning of Generative Artifacts**|Anshul Bagaria et.al.|[2511.22351](http://arxiv.org/abs/2511.22351)|null|
+|**2025-11-27**|**Unexplored flaws in multiple-choice VQA evaluations**|Fabio Rosenthal et.al.|[2511.22341](http://arxiv.org/abs/2511.22341)|null|
+|**2025-11-27**|**Prompt-based Consistent Video Colorization**|Silvia Dani et.al.|[2511.22330](http://arxiv.org/abs/2511.22330)|null|
+|**2025-11-27**|**Match-and-Fuse: Consistent Generation from Unstructured Image Sets**|Kate Feingold et.al.|[2511.22287](http://arxiv.org/abs/2511.22287)|null|
+|**2025-11-27**|**UNION: A Lightweight Target Representation for Efficient Zero-Shot Image-Guided Retrieval with Optional Textual Queries**|Hoang-Bao Le et.al.|[2511.22253](http://arxiv.org/abs/2511.22253)|null|
 |**2025-11-26**|**Canvas-to-Image: Compositional Image Generation with Multimodal Controls**|Yusuf Dalva et.al.|[2511.21691](http://arxiv.org/abs/2511.21691)|null|
 |**2025-11-26**|**Auxiliary Metrics Help Decoding Skill Neurons in the Wild**|Yixiu Zhao et.al.|[2511.21610](http://arxiv.org/abs/2511.21610)|null|
 |**2025-11-26**|**Multimodal Robust Prompt Distillation for 3D Point Cloud Models**|Xiang Gu et.al.|[2511.21574](http://arxiv.org/abs/2511.21574)|null|
@@ -1016,6 +1040,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-27**|**AI killed the video star. Audio-driven diffusion model for expressive talking head generation**|Baptiste Chopin et.al.|[2511.22488](http://arxiv.org/abs/2511.22488)|null|
+|**2025-11-27**|**Orthogonal Disentanglement with Projected Feature Alignment for Multimodal Emotion Recognition in Conversation**|Xinyi Che et.al.|[2511.22463](http://arxiv.org/abs/2511.22463)|null|
+|**2025-11-27**|**Angle-Optimized Partial Disentanglement for Multimodal Emotion Recognition in Conversation**|Xinyi Che et.al.|[2511.22447](http://arxiv.org/abs/2511.22447)|null|
+|**2025-11-27**|**ARPGNet: Appearance- and Relation-aware Parallel Graph Attention Fusion Network for Facial Expression Recognition**|Yan Li et.al.|[2511.22188](http://arxiv.org/abs/2511.22188)|null|
 |**2025-11-26**|**FIELDS: Face reconstruction with accurate Inference of Expression using Learning with Direct Supervision**|Chen Ling et.al.|[2511.21245](http://arxiv.org/abs/2511.21245)|null|
 |**2025-11-25**|**Modular Deep Learning Framework for Assistive Perception: Gaze, Affect, and Speaker Identification**|Akshit Pramod Anchan et.al.|[2511.20474](http://arxiv.org/abs/2511.20474)|null|
 |**2025-11-23**|**RigAnyFace: Scaling Neural Facial Mesh Auto-Rigging with Unlabeled Data**|Wenchao Ma et.al.|[2511.18601](http://arxiv.org/abs/2511.18601)|null|
@@ -1085,6 +1113,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-27**|**Fin3R: Fine-tuning Feed-forward 3D Reconstruction Models via Monocular Knowledge Distillation**|Weining Ren et.al.|[2511.22429](http://arxiv.org/abs/2511.22429)|null|
+|**2025-11-27**|**Test Time Training for AC Power Flow Surrogates via Physics and Operational Constraint Refinement**|Panteleimon Dogoulis et.al.|[2511.22343](http://arxiv.org/abs/2511.22343)|null|
+|**2025-11-27**|**FLUX: Efficient Descriptor-Driven Clustered Federated Learning under Arbitrary Distribution Shifts**|Dario Fenoglio et.al.|[2511.22305](http://arxiv.org/abs/2511.22305)|null|
+|**2025-11-27**|**Calibration-Free EEG-based Driver Drowsiness Detection with Online Test-Time Adaptation**|Geun-Deok Jang et.al.|[2511.22030](http://arxiv.org/abs/2511.22030)|null|
+|**2025-11-26**|**LILAD: Learning In-context Lyapunov-stable Adaptive Dynamics Models**|Amit Jena et.al.|[2511.21846](http://arxiv.org/abs/2511.21846)|null|
 |**2025-11-26**|**Learning Across Experiments and Time: Tackling Heterogeneity in A/B Testing**|Xinran Li et.al.|[2511.21282](http://arxiv.org/abs/2511.21282)|null|
 |**2025-11-26**|**Progress by Pieces: Test-Time Scaling for Autoregressive Image Generation**|Joonhyung Park et.al.|[2511.21185](http://arxiv.org/abs/2511.21185)|null|
 |**2025-11-26**|**The FAST-SETI Milky Way Globular Cluster Survey I: A Pilot Multibeam On-the-Fly Search of Five Globular Clusters at L-Band**|Bo-Lun Huang et.al.|[2511.21085](http://arxiv.org/abs/2511.21085)|null|
@@ -1231,6 +1264,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-27**|**ReAG: Reasoning-Augmented Generation for Knowledge-based Visual Question Answering**|Alberto Compagnoni et.al.|[2511.22715](http://arxiv.org/abs/2511.22715)|null|
+|**2025-11-27**|**Geometrically-Constrained Agent for Spatial Reasoning**|Zeren Chen et.al.|[2511.22659](http://arxiv.org/abs/2511.22659)|null|
+|**2025-11-27**|**GeoZero: Incentivizing Reasoning from Scratch on Geospatial Scenes**|Di Wang et.al.|[2511.22645](http://arxiv.org/abs/2511.22645)|null|
+|**2025-11-27**|**REASONEDIT: Towards Reasoning-Enhanced Image Editing Models**|Fukun Yin et.al.|[2511.22625](http://arxiv.org/abs/2511.22625)|null|
+|**2025-11-27**|**Revisiting the Necessity of Lengthy Chain-of-Thought in Vision-centric Reasoning Generalization**|Yifan Du et.al.|[2511.22586](http://arxiv.org/abs/2511.22586)|null|
+|**2025-11-27**|**CoT4AD: A Vision-Language-Action Model with Explicit Chain-of-Thought Reasoning for Autonomous Driving**|Zhaohui Wang et.al.|[2511.22532](http://arxiv.org/abs/2511.22532)|null|
+|**2025-11-27**|**RoadSceneBench: A Lightweight Benchmark for Mid-Level Road Scene Understanding**|Xiyan Liu et.al.|[2511.22466](http://arxiv.org/abs/2511.22466)|null|
+|**2025-11-27**|**GEO-Detective: Unveiling Location Privacy Risks in Images with LLM Agents**|Xinyu Zhang et.al.|[2511.22441](http://arxiv.org/abs/2511.22441)|null|
+|**2025-11-27**|**Asking like Socrates: Socrates helps VLMs understand remote sensing images**|Run Shao et.al.|[2511.22396](http://arxiv.org/abs/2511.22396)|null|
+|**2025-11-27**|**INSIGHT: An Interpretable Neural Vision-Language Framework for Reasoning of Generative Artifacts**|Anshul Bagaria et.al.|[2511.22351](http://arxiv.org/abs/2511.22351)|null|
 |**2025-11-26**|**G $^2$ VLM: Geometry Grounded Vision Language Model with Unified 3D Reconstruction and Spatial Reasoning**|Wenbo Hu et.al.|[2511.21688](http://arxiv.org/abs/2511.21688)|null|
 |**2025-11-26**|**Qwen3-VL Technical Report**|Shuai Bai et.al.|[2511.21631](http://arxiv.org/abs/2511.21631)|null|
 |**2025-11-26**|**SpatialBench: Benchmarking Multimodal Large Language Models for Spatial Cognition**|Peiran Xu et.al.|[2511.21471](http://arxiv.org/abs/2511.21471)|null|
