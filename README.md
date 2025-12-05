@@ -1,4 +1,4 @@
-## Updated on 2025.12.04
+## Updated on 2025.12.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -17,6 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-03**|**UniLight: A Unified Representation for Lighting**|Zitian Zhang et.al.|[2512.04267](http://arxiv.org/abs/2512.04267)|null|
 |**2025-12-03**|**M3DR: Towards Universal Multilingual Multimodal Document Retrieval**|Adithya S Kolavi et.al.|[2512.03514](http://arxiv.org/abs/2512.03514)|null|
 |**2025-12-03**|**Multi-Aspect Knowledge-Enhanced Medical Vision-Language Pretraining with Multi-Agent Data Generation**|Xieji Li et.al.|[2512.03445](http://arxiv.org/abs/2512.03445)|null|
 |**2025-12-02**|**HUD: Hierarchical Uncertainty-Aware Disambiguation Network for Composed Video Retrieval**|Zhiwei Chen et.al.|[2512.02792](http://arxiv.org/abs/2512.02792)|null|
@@ -83,12 +84,22 @@
 |**2024-12-02**|**AnySynth: Harnessing the Power of Image Synthetic Data Generation for Generalized Vision-Language Tasks**|You Li et.al.|[2411.16749](http://arxiv.org/abs/2411.16749)|null|
 |**2024-10-31**|**MoTaDual: Modality-Task Dual Alignment for Enhanced Zero-shot Composed Image Retrieval**|Haiwen Li et.al.|[2410.23736](http://arxiv.org/abs/2410.23736)|null|
 
-<p align=right>(<a href=#updated-on-20251204>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251205>back to top</a>)</p>
 
 ## Continual Learning
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-04**|**Foundations of Diffusion Models in General State Spaces: A Self-Contained Introduction**|Vincent Pauline et.al.|[2512.05092](http://arxiv.org/abs/2512.05092)|null|
+|**2025-12-04**|**Model-Free Assessment of Simulator Fidelity via Quantile Curves**|Garud Iyengar et.al.|[2512.05024](http://arxiv.org/abs/2512.05024)|null|
+|**2025-12-04**|**Environment-Aware Channel Inference via Cross-Modal Flow: From Multimodal Sensing to Wireless Channels**|Guangming Liang et.al.|[2512.04966](http://arxiv.org/abs/2512.04966)|null|
+|**2025-12-04**|**You Only Train Once (YOTO): A Retraining-Free Object Detection Framework**|Priyanto Hidayatullah et.al.|[2512.04888](http://arxiv.org/abs/2512.04888)|null|
+|**2025-12-04**|**SEAL: Self-Evolving Agentic Learning for Conversational Question Answering over Knowledge Graphs**|Hao Wang et.al.|[2512.04868](http://arxiv.org/abs/2512.04868)|null|
+|**2025-12-04**|**Tokenizing Buildings: A Transformer for Layout Synthesis**|Manuel Ladron de Guevara et.al.|[2512.04832](http://arxiv.org/abs/2512.04832)|null|
+|**2025-12-04**|**SIMA 2: A Generalist Embodied Agent for Virtual Worlds**|SIMA team et.al.|[2512.04797](http://arxiv.org/abs/2512.04797)|null|
+|**2025-12-04**|**YingMusic-SVC: Real-World Robust Zero-Shot Singing Voice Conversion with Flow-GRPO and Singing-Specific Inductive Biases**|Gongyu Chen et.al.|[2512.04793](http://arxiv.org/abs/2512.04793)|null|
+|**2025-12-04**|**LaFiTe: A Generative Latent Field for 3D Native Texturing**|Chia-Hao Chen et.al.|[2512.04786](http://arxiv.org/abs/2512.04786)|null|
+|**2025-12-04**|**EtCon: Edit-then-Consolidate for Reliable Knowledge Editing**|Ruilin Li et.al.|[2512.04753](http://arxiv.org/abs/2512.04753)|null|
 |**2025-12-03**|**SpaceTools: Tool-Augmented Spatial Reasoning via Double Interactive RL**|Siyi Chen et.al.|[2512.04069](http://arxiv.org/abs/2512.04069)|null|
 |**2025-12-03**|**Convergence for Discrete Parameter Updates**|Paul Wilson et.al.|[2512.04051](http://arxiv.org/abs/2512.04051)|null|
 |**2025-12-03**|**Teaching Old Tokenizers New Words: Efficient Tokenizer Adaptation for Pre-trained Models**|Taido Purason et.al.|[2512.03989](http://arxiv.org/abs/2512.03989)|null|
@@ -635,12 +646,22 @@
 |**2025-02-10**|**Prompt-Driven Continual Graph Learning**|Qi Wang et.al.|[2502.06327](http://arxiv.org/abs/2502.06327)|null|
 |**2025-02-10**|**Position: Continual Learning Benefits from An Evolving Population over An Unified Model**|Aojun Lu et.al.|[2502.06210](http://arxiv.org/abs/2502.06210)|null|
 
-<p align=right>(<a href=#updated-on-20251204>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251205>back to top</a>)</p>
 
 ## Vision-Language Prompting
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-04**|**DraCo: Draft as CoT for Text-to-Image Preview and Rare Concept Generation**|Dongzhi Jiang et.al.|[2512.05112](http://arxiv.org/abs/2512.05112)|null|
+|**2025-12-04**|**TV2TV: A Unified Framework for Interleaved Language and Video Generation**|Xiaochuang Han et.al.|[2512.05103](http://arxiv.org/abs/2512.05103)|null|
+|**2025-12-04**|**SuperActivators: Only the Tail of the Distribution Contains Reliable Concept Signals**|Cassandra Goldberg et.al.|[2512.05038](http://arxiv.org/abs/2512.05038)|null|
+|**2025-12-04**|**Aligned but Stereotypical? The Hidden Influence of System Prompts on Social Bias in LVLM-Based Text-to-Image Models**|NaHyeon Park et.al.|[2512.04981](http://arxiv.org/abs/2512.04981)|null|
+|**2025-12-04**|**HiPPO: Exploring A Novel Hierarchical Pronunciation Assessment Approach for Spoken Languages**|Bi-Cheng Yan et.al.|[2512.04964](http://arxiv.org/abs/2512.04964)|null|
+|**2025-12-04**|**Chameleon: Adaptive Adversarial Agents for Scaling-Based Visual Prompt Injection in Multimodal AI Systems**|M Zeeshan et.al.|[2512.04895](http://arxiv.org/abs/2512.04895)|null|
+|**2025-12-04**|**SP-Det: Self-Prompted Dual-Text Fusion for Generalized Multi-Label Lesion Detection**|Qing Xu et.al.|[2512.04875](http://arxiv.org/abs/2512.04875)|null|
+|**2025-12-04**|**ASTRIDE: A Security Threat Modeling Platform for Agentic-AI Applications**|Eranga Bandara et.al.|[2512.04785](http://arxiv.org/abs/2512.04785)|null|
+|**2025-12-04**|**Malicious Image Analysis via Vision-Language Segmentation Fusion: Detection, Element, and Location in One-shot**|Sheng Hang et.al.|[2512.04599](http://arxiv.org/abs/2512.04599)|null|
+|**2025-12-04**|**SAM3-I: Segment Anything with Instructions**|Jingjing Li et.al.|[2512.04585](http://arxiv.org/abs/2512.04585)|null|
 |**2025-12-03**|**SpaceTools: Tool-Augmented Spatial Reasoning via Double Interactive RL**|Siyi Chen et.al.|[2512.04069](http://arxiv.org/abs/2512.04069)|null|
 |**2025-12-03**|**DirectDrag: High-Fidelity, Mask-Free, Prompt-Free Drag-based Image Editing via Readout-Guided Feature Alignment**|Sheng-Hao Liao et.al.|[2512.03981](http://arxiv.org/abs/2512.03981)|null|
 |**2025-12-03**|**Training and Evaluation of Guideline-Based Medical Reasoning in LLMs**|Michael Staniek et.al.|[2512.03838](http://arxiv.org/abs/2512.03838)|null|
@@ -1101,12 +1122,13 @@
 |**2025-02-08**|**Diverse Image Generation with Diffusion Models and Cross Class Label Learning for Polyp Classification**|Vanshali Sharma et.al.|[2502.05444](http://arxiv.org/abs/2502.05444)|**[link](https://github.com/vanshali/pathopolyp-diff)**|
 |**2025-02-07**|**FlashVideo:Flowing Fidelity to Detail for Efficient High-Resolution Video Generation**|Shilong Zhang et.al.|[2502.05179](http://arxiv.org/abs/2502.05179)|**[link](https://github.com/foundationvision/flashvideo)**|
 
-<p align=right>(<a href=#updated-on-20251204>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251205>back to top</a>)</p>
 
 ## Facial Expression Recognition
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-04**|**Measuring the Unspoken: A Disentanglement Model and Benchmark for Psychological Analysis in the Wild**|Yigui Feng et.al.|[2512.04728](http://arxiv.org/abs/2512.04728)|null|
 |**2025-11-30**|**Weakly Supervised Continuous Micro-Expression Intensity Estimation Using Temporal Deep Neural Network**|Riyadh Mohammed Almushrafy et.al.|[2512.01145](http://arxiv.org/abs/2512.01145)|null|
 |**2025-11-29**|**Graph-Attention Network with Adversarial Domain Alignment for Robust Cross-Domain Facial Expression Recognition**|Razieh Ghaedi et.al.|[2512.00641](http://arxiv.org/abs/2512.00641)|null|
 |**2025-11-29**|**CausalAffect: Causal Discovery for Facial Affective Understanding**|Guanyu Hu et.al.|[2512.00456](http://arxiv.org/abs/2512.00456)|null|
@@ -1179,12 +1201,21 @@
 |**2024-12-16**|**Impact of Face Alignment on Face Image Quality**|Eren Onaran et.al.|[2412.11779](http://arxiv.org/abs/2412.11779)|null|
 |**2024-12-15**|**Unimodal and Multimodal Static Facial Expression Recognition for Virtual Reality Users with EmoHeVRDB**|Thorben Ortmann et.al.|[2412.11306](http://arxiv.org/abs/2412.11306)|**[link](https://github.com/thorbenortmann/emohevrdb-sfer)**|
 
-<p align=right>(<a href=#updated-on-20251204>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251205>back to top</a>)</p>
 
 ## Test-Time Adaptation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-04**|**MALLORN: Many Artificial LSST Lightcurves based on Observations of Real Nuclear transients**|Dylan Magill et.al.|[2512.04946](http://arxiv.org/abs/2512.04946)|null|
+|**2025-12-04**|**Model Whisper: Steering Vectors Unlock Large Language Models' Potential in Test-time**|Xinyue Kang et.al.|[2512.04748](http://arxiv.org/abs/2512.04748)|null|
+|**2025-12-04**|**Boundary-Aware Test-Time Adaptation for Zero-Shot Medical Image Segmentation**|Chenlin Xu et.al.|[2512.04520](http://arxiv.org/abs/2512.04520)|null|
+|**2025-12-04**|**Quantum-Accelerated Deep Reinforcement Learning for Frequency Regulation Enhancement**|Amin Masoumi et.al.|[2512.04439](http://arxiv.org/abs/2512.04439)|null|
+|**2025-12-04**|**Learning to Orchestrate Agents in Natural Language with the Conductor**|Stefan Nielsen et.al.|[2512.04388](http://arxiv.org/abs/2512.04388)|null|
+|**2025-12-04**|**Targeted Testing of Compiler Optimizations via Grammar-Level Composition Styles**|Zitong Zhou et.al.|[2512.04344](http://arxiv.org/abs/2512.04344)|null|
+|**2025-12-04**|**Long-Horizon Model-Based Offline Reinforcement Learning Without Conservatism**|Tianwei Ni et.al.|[2512.04341](http://arxiv.org/abs/2512.04341)|null|
+|**2025-12-03**|**One Detector Fits All: Robust and Adaptive Detection of Malicious Packages from PyPI to Enterprises**|Biagio Montaruli et.al.|[2512.04338](http://arxiv.org/abs/2512.04338)|null|
+|**2025-12-03**|**Differential Filtering in a Common Basic Cycle: Multi-Major Trajectories and Structural Bottlenecks in Exact Sciences and Engineering Degrees**|H. R. Paz et.al.|[2512.04285](http://arxiv.org/abs/2512.04285)|null|
 |**2025-12-03**|**TARA Test-by-Adaptive-Ranks for Quantum Anomaly Detection with Conformal Prediction Guarantees**|Davut Emre Tasar et.al.|[2512.04016](http://arxiv.org/abs/2512.04016)|null|
 |**2025-12-03**|**Highly Efficient Test-Time Scaling for T2I Diffusion Models with Text Embedding Perturbation**|Hang Xu et.al.|[2512.03996](http://arxiv.org/abs/2512.03996)|null|
 |**2025-12-03**|**Statistical hypothesis testing for differences between layers in dynamic multiplex networks**|Maximilian Baum et.al.|[2512.03983](http://arxiv.org/abs/2512.03983)|null|
@@ -1348,12 +1379,22 @@
 |**2025-01-31**|**Test-time Loss Landscape Adaptation for Zero-Shot Generalization in Vision-Language Models**|Aodi Li et.al.|[2501.18864](http://arxiv.org/abs/2501.18864)|null|
 |**2025-02-03**|**Advances in Multimodal Adaptation and Generalization: From Traditional Approaches to Foundation Models**|Hao Dong et.al.|[2501.18592](http://arxiv.org/abs/2501.18592)|**[link](https://github.com/donghao51/awesome-multimodal-adaptation)**|
 
-<p align=right>(<a href=#updated-on-20251204>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251205>back to top</a>)</p>
 
 ## Multimodal Large Language Model
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-04**|**DraCo: Draft as CoT for Text-to-Image Preview and Rare Concept Generation**|Dongzhi Jiang et.al.|[2512.05112](http://arxiv.org/abs/2512.05112)|null|
+|**2025-12-04**|**ARM-Thinker: Reinforcing Multimodal Generative Reward Models with Agentic Tool Use and Visual Reasoning**|Shengyuan Ding et.al.|[2512.05111](http://arxiv.org/abs/2512.05111)|null|
+|**2025-12-04**|**TV2TV: A Unified Framework for Interleaved Language and Video Generation**|Xiaochuang Han et.al.|[2512.05103](http://arxiv.org/abs/2512.05103)|null|
+|**2025-12-04**|**Visual Reasoning Tracer: Object-Level Grounded Reasoning Benchmark**|Haobo Yuan et.al.|[2512.05091](http://arxiv.org/abs/2512.05091)|null|
+|**2025-12-04**|**Chameleon: Adaptive Adversarial Agents for Scaling-Based Visual Prompt Injection in Multimodal AI Systems**|M Zeeshan et.al.|[2512.04895](http://arxiv.org/abs/2512.04895)|null|
+|**2025-12-04**|**ASTRIDE: A Security Threat Modeling Platform for Agentic-AI Applications**|Eranga Bandara et.al.|[2512.04785](http://arxiv.org/abs/2512.04785)|null|
+|**2025-12-04**|**MemLoRA: Distilling Expert Adapters for On-Device Memory Systems**|Massimo Bini et.al.|[2512.04763](http://arxiv.org/abs/2512.04763)|null|
+|**2025-12-04**|**E3AD: An Emotion-Aware Vision-Language-Action Model for Human-Centric End-to-End Autonomous Driving**|Yihong Tang et.al.|[2512.04733](http://arxiv.org/abs/2512.04733)|null|
+|**2025-12-04**|**Measuring the Unspoken: A Disentanglement Model and Benchmark for Psychological Analysis in the Wild**|Yigui Feng et.al.|[2512.04728](http://arxiv.org/abs/2512.04728)|null|
+|**2025-12-04**|**Towards Cross-View Point Correspondence in Vision-Language Models**|Yipu Wang et.al.|[2512.04686](http://arxiv.org/abs/2512.04686)|null|
 |**2025-12-03**|**SpaceTools: Tool-Augmented Spatial Reasoning via Double Interactive RL**|Siyi Chen et.al.|[2512.04069](http://arxiv.org/abs/2512.04069)|null|
 |**2025-12-03**|**TempR1: Improving Temporal Understanding of MLLMs via Temporal-Aware Multi-Task Reinforcement Learning**|Tao Wu et.al.|[2512.03963](http://arxiv.org/abs/2512.03963)|null|
 |**2025-12-03**|**Hierarchical Vision Language Action Model Using Success and Failure Demonstrations**|Jeongeun Park et.al.|[2512.03913](http://arxiv.org/abs/2512.03913)|null|
@@ -1407,7 +1448,7 @@
 |**2025-11-25**|**Bootstrapping Physics-Grounded Video Generation through VLM-Guided Iterative Self-Refinement**|Yang Liu et.al.|[2511.20280](http://arxiv.org/abs/2511.20280)|null|
 |**2025-11-25**|**VKnowU: Evaluating Visual Knowledge Understanding in Multimodal LLMs**|Tianxiang Jiang et.al.|[2511.20272](http://arxiv.org/abs/2511.20272)|null|
 
-<p align=right>(<a href=#updated-on-20251204>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251205>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
