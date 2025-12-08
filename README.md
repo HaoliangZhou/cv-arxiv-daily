@@ -1,4 +1,4 @@
-## Updated on 2025.12.07
+## Updated on 2025.12.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -17,6 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-05**|**Natural Language Summarization Enables Multi-Repository Bug Localization by LLMs in Microservice Architectures**|Amirkia Rafiei Oskooei et.al.|[2512.05908](http://arxiv.org/abs/2512.05908)|null|
 |**2025-12-03**|**UniLight: A Unified Representation for Lighting**|Zitian Zhang et.al.|[2512.04267](http://arxiv.org/abs/2512.04267)|null|
 |**2025-12-03**|**M3DR: Towards Universal Multilingual Multimodal Document Retrieval**|Adithya S Kolavi et.al.|[2512.03514](http://arxiv.org/abs/2512.03514)|null|
 |**2025-12-03**|**Multi-Aspect Knowledge-Enhanced Medical Vision-Language Pretraining with Multi-Agent Data Generation**|Xieji Li et.al.|[2512.03445](http://arxiv.org/abs/2512.03445)|null|
@@ -84,12 +85,22 @@
 |**2024-12-02**|**AnySynth: Harnessing the Power of Image Synthetic Data Generation for Generalized Vision-Language Tasks**|You Li et.al.|[2411.16749](http://arxiv.org/abs/2411.16749)|null|
 |**2024-10-31**|**MoTaDual: Modality-Task Dual Alignment for Enhanced Zero-shot Composed Image Retrieval**|Haiwen Li et.al.|[2410.23736](http://arxiv.org/abs/2410.23736)|null|
 
-<p align=right>(<a href=#updated-on-20251207>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251208>back to top</a>)</p>
 
 ## Continual Learning
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-05**|**World Models That Know When They Don't Know: Controllable Video Generation with Calibrated Uncertainty**|Zhiting Mei et.al.|[2512.05927](http://arxiv.org/abs/2512.05927)|null|
+|**2025-12-05**|**InstructMPC: A Human-LLM-in-the-Loop Framework for Context-Aware Power Grid Control**|Ruixiang Wu et.al.|[2512.05876](http://arxiv.org/abs/2512.05876)|null|
+|**2025-12-05**|**Bring Your Dreams to Life: Continual Text-to-Video Customization**|Jiahua Dong et.al.|[2512.05802](http://arxiv.org/abs/2512.05802)|null|
+|**2025-12-05**|**Meta-Learning Multi-armed Bandits for Beam Tracking in 5G and 6G Networks**|Alexander Mattick et.al.|[2512.05680](http://arxiv.org/abs/2512.05680)|null|
+|**2025-12-05**|**Inexact Uzawa-Double Deep Ritz Method for Weak Adversarial Neural Networks**|Emin Benny-Chacko et.al.|[2512.05673](http://arxiv.org/abs/2512.05673)|null|
+|**2025-12-05**|**Self-Supervised AI-Generated Image Detection: A Camera Metadata Perspective**|Nan Zhong et.al.|[2512.05651](http://arxiv.org/abs/2512.05651)|null|
+|**2025-12-05**|**IDK-S: Incremental Distributional Kernel for Streaming Anomaly Detection**|Yang Xu et.al.|[2512.05531](http://arxiv.org/abs/2512.05531)|null|
+|**2025-12-05**|**EmoStyle: Emotion-Driven Image Stylization**|Jingyuan Yang et.al.|[2512.05478](http://arxiv.org/abs/2512.05478)|null|
+|**2025-12-05**|**Sepsis Prediction Using Graph Convolutional Networks over Patient-Feature-Value Triplets**|Bozhi Dan et.al.|[2512.05416](http://arxiv.org/abs/2512.05416)|null|
+|**2025-12-04**|**Enhancing Deep Deterministic Policy Gradients on Continuous Control Tasks with Decoupled Prioritized Experience Replay**|Mehmet Efe Lorasdagi et.al.|[2512.05320](http://arxiv.org/abs/2512.05320)|null|
 |**2025-12-04**|**Foundations of Diffusion Models in General State Spaces: A Self-Contained Introduction**|Vincent Pauline et.al.|[2512.05092](http://arxiv.org/abs/2512.05092)|null|
 |**2025-12-04**|**Model-Free Assessment of Simulator Fidelity via Quantile Curves**|Garud Iyengar et.al.|[2512.05024](http://arxiv.org/abs/2512.05024)|null|
 |**2025-12-04**|**Environment-Aware Channel Inference via Cross-Modal Flow: From Multimodal Sensing to Wireless Channels**|Guangming Liang et.al.|[2512.04966](http://arxiv.org/abs/2512.04966)|null|
@@ -646,12 +657,22 @@
 |**2025-02-10**|**Prompt-Driven Continual Graph Learning**|Qi Wang et.al.|[2502.06327](http://arxiv.org/abs/2502.06327)|null|
 |**2025-02-10**|**Position: Continual Learning Benefits from An Evolving Population over An Unified Model**|Aojun Lu et.al.|[2502.06210](http://arxiv.org/abs/2502.06210)|null|
 
-<p align=right>(<a href=#updated-on-20251207>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251208>back to top</a>)</p>
 
 ## Vision-Language Prompting
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-05**|**ARGUS: Defending Against Multimodal Indirect Prompt Injection via Steering Instruction-Following Behavior**|Weikai Lu et.al.|[2512.05745](http://arxiv.org/abs/2512.05745)|null|
+|**2025-12-05**|**Distilling Expert Surgical Knowledge: How to train local surgical VLMs for anatomy explanation in Complete Mesocolic Excision**|Lennart Maack et.al.|[2512.05740](http://arxiv.org/abs/2512.05740)|null|
+|**2025-12-05**|**Efficient Text Classification with Conformal In-Context Learning**|Ippokratis Pantelidis et.al.|[2512.05732](http://arxiv.org/abs/2512.05732)|null|
+|**2025-12-05**|**Evaluating Concept Filtering Defenses against Child Sexual Abuse Material Generation by Text-to-Image Models**|Ana-Maria Cretu et.al.|[2512.05707](http://arxiv.org/abs/2512.05707)|null|
+|**2025-12-05**|**Feasibility of AI-Assisted Programming for End-User Development**|Irene Weber et.al.|[2512.05666](http://arxiv.org/abs/2512.05666)|null|
+|**2025-12-05**|**ProPhy: Progressive Physical Alignment for Dynamic World Simulation**|Zijun Wang et.al.|[2512.05564](http://arxiv.org/abs/2512.05564)|null|
+|**2025-12-05**|**2K-Characters-10K-Stories: A Quality-Gated Stylized Narrative Dataset with Disentangled Control and Sequence Consistency**|Xingxi Yin et.al.|[2512.05557](http://arxiv.org/abs/2512.05557)|null|
+|**2025-12-05**|**Eye of the Beholder: Towards Measuring Visualization Complexity**|Johannes Ellemose et.al.|[2512.05536](http://arxiv.org/abs/2512.05536)|null|
+|**2025-12-05**|**See in Depth: Training-Free Surgical Scene Segmentation with Monocular Depth Priors**|Kunyi Yang et.al.|[2512.05529](http://arxiv.org/abs/2512.05529)|null|
+|**2025-12-05**|**User Negotiations of Authenticity, Ownership, and Governance on AI-Generated Video Platforms: Evidence from Sora**|Bohui Shen et.al.|[2512.05519](http://arxiv.org/abs/2512.05519)|null|
 |**2025-12-04**|**DraCo: Draft as CoT for Text-to-Image Preview and Rare Concept Generation**|Dongzhi Jiang et.al.|[2512.05112](http://arxiv.org/abs/2512.05112)|null|
 |**2025-12-04**|**TV2TV: A Unified Framework for Interleaved Language and Video Generation**|Xiaochuang Han et.al.|[2512.05103](http://arxiv.org/abs/2512.05103)|null|
 |**2025-12-04**|**SuperActivators: Only the Tail of the Distribution Contains Reliable Concept Signals**|Cassandra Goldberg et.al.|[2512.05038](http://arxiv.org/abs/2512.05038)|null|
@@ -1122,12 +1143,14 @@
 |**2025-02-08**|**Diverse Image Generation with Diffusion Models and Cross Class Label Learning for Polyp Classification**|Vanshali Sharma et.al.|[2502.05444](http://arxiv.org/abs/2502.05444)|**[link](https://github.com/vanshali/pathopolyp-diff)**|
 |**2025-02-07**|**FlashVideo:Flowing Fidelity to Detail for Efficient High-Resolution Video Generation**|Shilong Zhang et.al.|[2502.05179](http://arxiv.org/abs/2502.05179)|**[link](https://github.com/foundationvision/flashvideo)**|
 
-<p align=right>(<a href=#updated-on-20251207>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251208>back to top</a>)</p>
 
 ## Facial Expression Recognition
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-05**|**A Comparative Study on Synthetic Facial Data Generation Techniques for Face Recognition**|Pedro Vidal et.al.|[2512.05928](http://arxiv.org/abs/2512.05928)|null|
+|**2025-12-05**|**Deep Learning-Based Real-Time Sequential Facial Expression Analysis Using Geometric Features**|Talha Enes Koksal et.al.|[2512.05669](http://arxiv.org/abs/2512.05669)|null|
 |**2025-12-04**|**Measuring the Unspoken: A Disentanglement Model and Benchmark for Psychological Analysis in the Wild**|Yigui Feng et.al.|[2512.04728](http://arxiv.org/abs/2512.04728)|null|
 |**2025-11-30**|**Weakly Supervised Continuous Micro-Expression Intensity Estimation Using Temporal Deep Neural Network**|Riyadh Mohammed Almushrafy et.al.|[2512.01145](http://arxiv.org/abs/2512.01145)|null|
 |**2025-11-29**|**Graph-Attention Network with Adversarial Domain Alignment for Robust Cross-Domain Facial Expression Recognition**|Razieh Ghaedi et.al.|[2512.00641](http://arxiv.org/abs/2512.00641)|null|
@@ -1201,12 +1224,15 @@
 |**2024-12-16**|**Impact of Face Alignment on Face Image Quality**|Eren Onaran et.al.|[2412.11779](http://arxiv.org/abs/2412.11779)|null|
 |**2024-12-15**|**Unimodal and Multimodal Static Facial Expression Recognition for Virtual Reality Users with EmoHeVRDB**|Thorben Ortmann et.al.|[2412.11306](http://arxiv.org/abs/2412.11306)|**[link](https://github.com/thorbenortmann/emohevrdb-sfer)**|
 
-<p align=right>(<a href=#updated-on-20251207>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251208>back to top</a>)</p>
 
 ## Test-Time Adaptation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-05**|**Zoom in, Click out: Unlocking and Evaluating the Potential of Zooming for GUI Grounding**|Zhiyuan Jiang et.al.|[2512.05941](http://arxiv.org/abs/2512.05941)|null|
+|**2025-12-05**|**From Text to Returns: Using Large Language Models for Mutual Fund Portfolio Optimization and Risk-Adjusted Allocation**|Abrar Hossain Mufakir Qamar Ansari Haziq Jeelani Monia Digra Fayeq Jeelani Syed et.al.|[2512.05907](http://arxiv.org/abs/2512.05907)|null|
+|**2025-12-05**|**Bring Your Dreams to Life: Continual Text-to-Video Customization**|Jiahua Dong et.al.|[2512.05802](http://arxiv.org/abs/2512.05802)|null|
 |**2025-12-04**|**MALLORN: Many Artificial LSST Lightcurves based on Observations of Real Nuclear transients**|Dylan Magill et.al.|[2512.04946](http://arxiv.org/abs/2512.04946)|null|
 |**2025-12-04**|**Model Whisper: Steering Vectors Unlock Large Language Models' Potential in Test-time**|Xinyue Kang et.al.|[2512.04748](http://arxiv.org/abs/2512.04748)|null|
 |**2025-12-04**|**Boundary-Aware Test-Time Adaptation for Zero-Shot Medical Image Segmentation**|Chenlin Xu et.al.|[2512.04520](http://arxiv.org/abs/2512.04520)|null|
@@ -1379,12 +1405,22 @@
 |**2025-01-31**|**Test-time Loss Landscape Adaptation for Zero-Shot Generalization in Vision-Language Models**|Aodi Li et.al.|[2501.18864](http://arxiv.org/abs/2501.18864)|null|
 |**2025-02-03**|**Advances in Multimodal Adaptation and Generalization: From Traditional Approaches to Foundation Models**|Hao Dong et.al.|[2501.18592](http://arxiv.org/abs/2501.18592)|**[link](https://github.com/donghao51/awesome-multimodal-adaptation)**|
 
-<p align=right>(<a href=#updated-on-20251207>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251208>back to top</a>)</p>
 
 ## Multimodal Large Language Model
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-05**|**M4-RAG: A Massive-Scale Multilingual Multi-Cultural Multimodal RAG**|David Anugraha et.al.|[2512.05959](http://arxiv.org/abs/2512.05959)|null|
+|**2025-12-05**|**SIMPACT: Simulation-Enabled Action Planning using Vision-Language Models**|Haowen Liu et.al.|[2512.05955](http://arxiv.org/abs/2512.05955)|null|
+|**2025-12-05**|**TRACE: A Framework for Analyzing and Enhancing Stepwise Reasoning in Vision-Language Models**|Shima Imani et.al.|[2512.05943](http://arxiv.org/abs/2512.05943)|null|
+|**2025-12-05**|**PRiSM: An Agentic Multimodal Benchmark for Scientific Reasoning via Python-Grounded Evaluation**|Shima Imani et.al.|[2512.05930](http://arxiv.org/abs/2512.05930)|null|
+|**2025-12-05**|**VRSA: Jailbreaking Multimodal Large Language Models through Visual Reasoning Sequential Attack**|Shiji Zhao et.al.|[2512.05853](http://arxiv.org/abs/2512.05853)|null|
+|**2025-12-05**|**Probing the effectiveness of World Models for Spatial Reasoning through Test-time Scaling**|Saurav Jha et.al.|[2512.05809](http://arxiv.org/abs/2512.05809)|null|
+|**2025-12-05**|**ARGUS: Defending Against Multimodal Indirect Prompt Injection via Steering Instruction-Following Behavior**|Weikai Lu et.al.|[2512.05745](http://arxiv.org/abs/2512.05745)|null|
+|**2025-12-05**|**MedTutor-R1: Socratic Personalized Medical Teaching with Multi-Agent Simulation**|Zhitao He et.al.|[2512.05671](http://arxiv.org/abs/2512.05671)|null|
+|**2025-12-05**|**Interleaved Latent Visual Reasoning with Selective Perceptual Modeling**|Shuai Dong et.al.|[2512.05665](http://arxiv.org/abs/2512.05665)|null|
+|**2025-12-05**|**ProPhy: Progressive Physical Alignment for Dynamic World Simulation**|Zijun Wang et.al.|[2512.05564](http://arxiv.org/abs/2512.05564)|null|
 |**2025-12-04**|**DraCo: Draft as CoT for Text-to-Image Preview and Rare Concept Generation**|Dongzhi Jiang et.al.|[2512.05112](http://arxiv.org/abs/2512.05112)|null|
 |**2025-12-04**|**ARM-Thinker: Reinforcing Multimodal Generative Reward Models with Agentic Tool Use and Visual Reasoning**|Shengyuan Ding et.al.|[2512.05111](http://arxiv.org/abs/2512.05111)|null|
 |**2025-12-04**|**TV2TV: A Unified Framework for Interleaved Language and Video Generation**|Xiaochuang Han et.al.|[2512.05103](http://arxiv.org/abs/2512.05103)|null|
@@ -1448,7 +1484,7 @@
 |**2025-11-25**|**Bootstrapping Physics-Grounded Video Generation through VLM-Guided Iterative Self-Refinement**|Yang Liu et.al.|[2511.20280](http://arxiv.org/abs/2511.20280)|null|
 |**2025-11-25**|**VKnowU: Evaluating Visual Knowledge Understanding in Multimodal LLMs**|Tianxiang Jiang et.al.|[2511.20272](http://arxiv.org/abs/2511.20272)|null|
 
-<p align=right>(<a href=#updated-on-20251207>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251208>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
