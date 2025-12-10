@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2025.12.09
+## Updated on 2025.12.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Cross-Modal Image Retrieval
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-09**|**Towards Effective and Efficient Long Video Understanding of Multimodal Large Language Models via One-shot Clip Retrieval**|Tao Chen et.al.|[2512.08410](http://arxiv.org/abs/2512.08410)|null|
 |**2025-12-06**|**Enhancing Medical Cross-Modal Hashing Retrieval using Dropout-Voting Mixture-of-Experts Fusion**|Jaewon Ahn et.al.|[2512.06449](http://arxiv.org/abs/2512.06449)|null|
 |**2025-12-05**|**Natural Language Summarization Enables Multi-Repository Bug Localization by LLMs in Microservice Architectures**|Amirkia Rafiei Oskooei et.al.|[2512.05908](http://arxiv.org/abs/2512.05908)|null|
 |**2025-12-03**|**UniLight: A Unified Representation for Lighting**|Zitian Zhang et.al.|[2512.04267](http://arxiv.org/abs/2512.04267)|null|
@@ -82,6 +83,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-09**|**Robust Finetuning of Vision-Language-Action Robot Policies via Parameter Merging**|Yajat Yadav et.al.|[2512.08333](http://arxiv.org/abs/2512.08333)|null|
+|**2025-12-09**|**Developing a Strong CPS Defender: An Evolutionary Approach**|Qingyuan Hu et.al.|[2512.08320](http://arxiv.org/abs/2512.08320)|null|
+|**2025-12-09**|**rSIM: Incentivizing Reasoning Capabilities of LLMs via Reinforced Strategy Injection**|Sijia Chen et.al.|[2512.08300](http://arxiv.org/abs/2512.08300)|null|
+|**2025-12-08**|**CIP-Net: Continual Interpretable Prototype-based Network**|Federico Di Valerio et.al.|[2512.07981](http://arxiv.org/abs/2512.07981)|null|
+|**2025-12-08**|**Multi-Generator Continual Learning for Robust Delay Prediction in 6G**|Xiaoyu Lan et.al.|[2512.07726](http://arxiv.org/abs/2512.07726)|null|
+|**2025-12-08**|**Asymptotic analysis of shallow and deep forgetting in replay with Neural Collapse**|Giulia Lanzillotta et.al.|[2512.07400](http://arxiv.org/abs/2512.07400)|null|
+|**2025-12-08**|**Investigating Training and Generalization in Faithful Self-Explanations of Large Language Models**|Tomoki Doi et.al.|[2512.07288](http://arxiv.org/abs/2512.07288)|null|
 |**2025-12-07**|**CADE: Continual Weakly-supervised Video Anomaly Detection with Ensembles**|Satoshi Hashimoto et.al.|[2512.06840](http://arxiv.org/abs/2512.06840)|null|
 |**2025-12-06**|**Learning Without Time-Based Embodiment Resets in Soft-Actor Critic**|Homayoon Farrahi et.al.|[2512.06252](http://arxiv.org/abs/2512.06252)|null|
 |**2025-12-05**|**World Models That Know When They Don't Know: Controllable Video Generation with Calibrated Uncertainty**|Zhiting Mei et.al.|[2512.05927](http://arxiv.org/abs/2512.05927)|null|
@@ -658,6 +666,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-08**|**InterAgent: Physics-based Multi-agent Command Execution via Diffusion on Interaction Graphs**|Bin Li et.al.|[2512.07410](http://arxiv.org/abs/2512.07410)|null|
+|**2025-12-08**|**Coherent Audio-Visual Editing via Conditional Audio Generation Following Video Edits**|Masato Ishii et.al.|[2512.07209](http://arxiv.org/abs/2512.07209)|null|
+|**2025-12-08**|**Geometric Prior-Guided Federated Prompt Calibration**|Fei Luo et.al.|[2512.07208](http://arxiv.org/abs/2512.07208)|null|
 |**2025-12-07**|**Scaling Zero-Shot Reference-to-Video Generation**|Zijian Zhou et.al.|[2512.06905](http://arxiv.org/abs/2512.06905)|null|
 |**2025-12-05**|**ARGUS: Defending Against Multimodal Indirect Prompt Injection via Steering Instruction-Following Behavior**|Weikai Lu et.al.|[2512.05745](http://arxiv.org/abs/2512.05745)|null|
 |**2025-12-05**|**Distilling Expert Surgical Knowledge: How to train local surgical VLMs for anatomy explanation in Complete Mesocolic Excision**|Lennart Maack et.al.|[2512.05740](http://arxiv.org/abs/2512.05740)|null|
@@ -1228,6 +1239,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-09**|**Instance-Aware Test-Time Segmentation for Continual Domain Shifts**|Seunghwan Lee et.al.|[2512.08569](http://arxiv.org/abs/2512.08569)|null|
+|**2025-12-08**|**Mask to Adapt: Simple Random Masking Enables Robust Continual Test-Time Learning**|Chandler Timm C. Doloriel et.al.|[2512.08048](http://arxiv.org/abs/2512.08048)|null|
+|**2025-12-08**|**Towards Reliable Test-Time Adaptation: Style Invariance as a Correctness Likelihood**|Gilhyun Nam et.al.|[2512.07390](http://arxiv.org/abs/2512.07390)|null|
 |**2025-12-07**|**Adaptive Test-Time Training for Predicting Need for Invasive Mechanical Ventilation in Multi-Center Cohorts**|Xiaolei Lu et.al.|[2512.06652](http://arxiv.org/abs/2512.06652)|null|
 |**2025-12-05**|**ARCANE: A Multi-Agent Framework for Interpretable and Configurable Alignment**|Charlie Masters et.al.|[2512.06196](http://arxiv.org/abs/2512.06196)|null|
 |**2025-12-05**|**Zoom in, Click out: Unlocking and Evaluating the Potential of Zooming for GUI Grounding**|Zhiyuan Jiang et.al.|[2512.05941](http://arxiv.org/abs/2512.05941)|null|
@@ -1413,6 +1427,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-09**|**Multi-Agent Intelligence for Multidisciplinary Decision-Making in Gastrointestinal Oncology**|Rongzhao Zhang et.al.|[2512.08674](http://arxiv.org/abs/2512.08674)|null|
+|**2025-12-09**|**See-Control: A Multimodal Agent Framework for Smartphone Interaction with a Robotic Arm**|Haoyu Zhao et.al.|[2512.08629](http://arxiv.org/abs/2512.08629)|null|
+|**2025-12-09**|**Towards Effective and Efficient Long Video Understanding of Multimodal Large Language Models via One-shot Clip Retrieval**|Tao Chen et.al.|[2512.08410](http://arxiv.org/abs/2512.08410)|null|
+|**2025-12-09**|**The Unseen Bias: How Norm Discrepancy in Pre-Norm MLLMs Leads to Visual Information Loss**|Bozhou Li et.al.|[2512.08374](http://arxiv.org/abs/2512.08374)|null|
+|**2025-12-08**|**SAVE: Sparse Autoencoder-Driven Visual Information Enhancement for Mitigating Object Hallucination**|Sangha Park et.al.|[2512.07730](http://arxiv.org/abs/2512.07730)|null|
+|**2025-12-08**|**HalluShift++: Bridging Language and Vision through Internal Representation Shifts for Hierarchical Hallucinations in MLLMs**|Sujoy Nath et.al.|[2512.07687](http://arxiv.org/abs/2512.07687)|null|
+|**2025-12-08**|**From Show Programmes to Data: Designing a Workflow to Make Performing Arts Ephemera Accessible Through Language Models**|Clarisse Bardiot et.al.|[2512.07452](http://arxiv.org/abs/2512.07452)|null|
+|**2025-12-08**|**START: Spatial and Textual Learning for Chart Understanding**|Zhuoming Liu et.al.|[2512.07186](http://arxiv.org/abs/2512.07186)|null|
+|**2025-12-08**|**When Privacy Meets Recovery: The Overlooked Half of Surrogate-Driven Privacy Preservation for MLLM Editing**|Siyuan Xu et.al.|[2512.07166](http://arxiv.org/abs/2512.07166)|null|
+|**2025-12-07**|**Singing Timbre Popularity Assessment Based on Multimodal Large Foundation Model**|Zihao Wang et.al.|[2512.06999](http://arxiv.org/abs/2512.06999)|null|
 |**2025-12-07**|**NeuroABench: A Multimodal Evaluation Benchmark for Neurosurgical Anatomy Identification**|Ziyang Song et.al.|[2512.06921](http://arxiv.org/abs/2512.06921)|null|
 |**2025-12-07**|**MMDuet2: Enhancing Proactive Interaction of Video MLLMs with Multi-Turn Reinforcement Learning**|Yueqian Wang et.al.|[2512.06810](http://arxiv.org/abs/2512.06810)|null|
 |**2025-12-07**|**The Role of Entropy in Visual Grounding: Analysis and Optimization**|Shuo Li et.al.|[2512.06726](http://arxiv.org/abs/2512.06726)|null|
