@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.12.10
+## Updated on 2025.12.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Cross-Modal Image Retrieval
@@ -83,6 +83,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-10**|**Efficient Continual Learning in Neural Machine Translation: A Low-Rank Adaptation Approach**|Salvador Carrión et.al.|[2512.09910](http://arxiv.org/abs/2512.09910)|null|
+|**2025-12-10**|**Representation Calibration and Uncertainty Guidance for Class-Incremental Learning based on Vision Language Model**|Jiantao Tan et.al.|[2512.09441](http://arxiv.org/abs/2512.09441)|null|
+|**2025-12-09**|**Prompt-Based Continual Compositional Zero-Shot Learning**|Sauda Maryam et.al.|[2512.09172](http://arxiv.org/abs/2512.09172)|null|
 |**2025-12-09**|**Robust Finetuning of Vision-Language-Action Robot Policies via Parameter Merging**|Yajat Yadav et.al.|[2512.08333](http://arxiv.org/abs/2512.08333)|null|
 |**2025-12-09**|**Developing a Strong CPS Defender: An Evolutionary Approach**|Qingyuan Hu et.al.|[2512.08320](http://arxiv.org/abs/2512.08320)|null|
 |**2025-12-09**|**rSIM: Incentivizing Reasoning Capabilities of LLMs via Reinforced Strategy Injection**|Sijia Chen et.al.|[2512.08300](http://arxiv.org/abs/2512.08300)|null|
@@ -666,6 +669,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-10**|**IF-Bench: Benchmarking and Enhancing MLLMs for Infrared Images with Generative Visual Prompting**|Tao Zhang et.al.|[2512.09663](http://arxiv.org/abs/2512.09663)|null|
+|**2025-12-10**|**Defect-aware Hybrid Prompt Optimization via Progressive Tuning for Zero-Shot Multi-type Anomaly Detection and Segmentation**|Nadeem Nazer et.al.|[2512.09446](http://arxiv.org/abs/2512.09446)|null|
 |**2025-12-08**|**InterAgent: Physics-based Multi-agent Command Execution via Diffusion on Interaction Graphs**|Bin Li et.al.|[2512.07410](http://arxiv.org/abs/2512.07410)|null|
 |**2025-12-08**|**Coherent Audio-Visual Editing via Conditional Audio Generation Following Video Edits**|Masato Ishii et.al.|[2512.07209](http://arxiv.org/abs/2512.07209)|null|
 |**2025-12-08**|**Geometric Prior-Guided Federated Prompt Calibration**|Fei Luo et.al.|[2512.07208](http://arxiv.org/abs/2512.07208)|null|
@@ -1157,6 +1162,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-10**|**CS3D: An Efficient Facial Expression Recognition via Event Vision**|Zhe Wang et.al.|[2512.09592](http://arxiv.org/abs/2512.09592)|null|
 |**2025-12-06**|**A Perception CNN for Facial Expression Recognition**|Chunwei Tian et.al.|[2512.06422](http://arxiv.org/abs/2512.06422)|null|
 |**2025-12-06**|**OCFER-Net: Recognizing Facial Expression in Online Learning System**|Yi Huo et.al.|[2512.06379](http://arxiv.org/abs/2512.06379)|null|
 |**2025-12-06**|**VAD-Net: Multidimensional Facial Expression Recognition in Intelligent Education System**|Yi Huo et.al.|[2512.06377](http://arxiv.org/abs/2512.06377)|null|
@@ -1427,6 +1433,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-10**|**MedForget: Hierarchy-Aware Multimodal Unlearning Testbed for Medical AI**|Fengli Wu et.al.|[2512.09867](http://arxiv.org/abs/2512.09867)|null|
+|**2025-12-10**|**IF-Bench: Benchmarking and Enhancing MLLMs for Infrared Images with Generative Visual Prompting**|Tao Zhang et.al.|[2512.09663](http://arxiv.org/abs/2512.09663)|null|
+|**2025-12-10**|**Rethinking Chain-of-Thought Reasoning for Videos**|Yiwu Zhong et.al.|[2512.09616](http://arxiv.org/abs/2512.09616)|null|
+|**2025-12-10**|**Video-QTR: Query-Driven Temporal Reasoning Framework for Lightweight Video Understanding**|Xinkui Zhao et.al.|[2512.09354](http://arxiv.org/abs/2512.09354)|null|
+|**2025-12-10**|**GLACIA: Instance-Aware Positional Reasoning for Glacial Lake Segmentation via Multimodal Large Language Model**|Lalit Maurya et.al.|[2512.09251](http://arxiv.org/abs/2512.09251)|null|
+|**2025-12-09**|**Same Content, Different Answers: Cross-Modal Inconsistency in MLLMs**|Angela van Sprang et.al.|[2512.08923](http://arxiv.org/abs/2512.08923)|null|
 |**2025-12-09**|**Multi-Agent Intelligence for Multidisciplinary Decision-Making in Gastrointestinal Oncology**|Rongzhao Zhang et.al.|[2512.08674](http://arxiv.org/abs/2512.08674)|null|
 |**2025-12-09**|**See-Control: A Multimodal Agent Framework for Smartphone Interaction with a Robotic Arm**|Haoyu Zhao et.al.|[2512.08629](http://arxiv.org/abs/2512.08629)|null|
 |**2025-12-09**|**Towards Effective and Efficient Long Video Understanding of Multimodal Large Language Models via One-shot Clip Retrieval**|Tao Chen et.al.|[2512.08410](http://arxiv.org/abs/2512.08410)|null|
