@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.12.12
+## Updated on 2025.12.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Cross-Modal Image Retrieval
@@ -1445,6 +1445,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-11**|**Computational emotion analysis with multimodal LLMs: Current evidence on an emerging methodological opportunity**|Hauke Licht et.al.|[2512.10882](http://arxiv.org/abs/2512.10882)|null|
 |**2025-12-11**|**LDP: Parameter-Efficient Fine-Tuning of Multimodal LLM for Medical Report Generation**|Tianyu Zhou et.al.|[2512.10750](http://arxiv.org/abs/2512.10750)|null|
 |**2025-12-11**|**TriDF: Evaluating Perception, Detection, and Hallucination for Interpretable DeepFake Detection**|Jian-Yu Jiang-Lin et.al.|[2512.10652](http://arxiv.org/abs/2512.10652)|null|
 |**2025-12-11**|**AgriGPT-Omni: A Unified Speech-Vision-Text Framework for Multilingual Agricultural Intelligence**|Bo Yang et.al.|[2512.10624](http://arxiv.org/abs/2512.10624)|null|
