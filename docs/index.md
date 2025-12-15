@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2025.12.14
+## Updated on 2025.12.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Cross-Modal Image Retrieval
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-12**|**VLM2GeoVec: Toward Universal Multimodal Embeddings for Remote Sensing**|Emanuel Sánchez Aimar et.al.|[2512.11490](http://arxiv.org/abs/2512.11490)|null|
 |**2025-12-11**|**Beyond Pixels: A Training-Free, Text-to-Text Framework for Remote Sensing Image Retrieval**|J. Xiao et.al.|[2512.10596](http://arxiv.org/abs/2512.10596)|null|
 |**2025-12-11**|**Cross-modal Retrieval Models for Stripped Binary Analysis**|Guoqiang Chen et.al.|[2512.10393](http://arxiv.org/abs/2512.10393)|null|
 |**2025-12-09**|**Towards Effective and Efficient Long Video Understanding of Multimodal Large Language Models via One-shot Clip Retrieval**|Tao Chen et.al.|[2512.08410](http://arxiv.org/abs/2512.08410)|null|
@@ -85,9 +86,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-12**|**CogniSNN: Enabling Neuron-Expandability, Pathway-Reusability, and Dynamic-Configurability with Random Graph Architectures in Spiking Neural Networks**|Yongsheng Huang et.al.|[2512.11743](http://arxiv.org/abs/2512.11743)|null|
+|**2025-12-12**|**ECCO: Leveraging Cross-Camera Correlations for Efficient Live Video Continuous Learning**|Yuze He et.al.|[2512.11727](http://arxiv.org/abs/2512.11727)|null|
+|**2025-12-12**|**Bridging Streaming Continual Learning via In-Context Large Tabular Models**|Afonso Lourenço et.al.|[2512.11668](http://arxiv.org/abs/2512.11668)|null|
+|**2025-12-12**|**Condensation-Concatenation Framework for Dynamic Graph Continual Learning**|Tingxu Yan et.al.|[2512.11317](http://arxiv.org/abs/2512.11317)|null|
+|**2025-12-12**|**Task-Aware Multi-Expert Architecture For Lifelong Deep Learning**|Jianyu Wang et.al.|[2512.11243](http://arxiv.org/abs/2512.11243)|null|
+|**2025-12-11**|**An Efficient Variant of One-Class SVM with Lifelong Online Learning Guarantees**|Joe Suk et.al.|[2512.11052](http://arxiv.org/abs/2512.11052)|null|
 |**2025-12-11**|**Remember Me, Refine Me: A Dynamic Procedural Memory Framework for Experience-Driven Agent Evolution**|Zouying Cao et.al.|[2512.10696](http://arxiv.org/abs/2512.10696)|null|
 |**2025-12-11**|**Adaptive Intrusion Detection System Leveraging Dynamic Neural Models with Adversarial Learning for 5G/6G Networks**|Neha et.al.|[2512.10637](http://arxiv.org/abs/2512.10637)|null|
-|**2025-12-11**|**Confucius Code Agent: An Open-sourced AI Software Engineer at Industrial Scale**|Zhaodong Wang et.al.|[2512.10398](http://arxiv.org/abs/2512.10398)|null|
+|**2025-12-12**|**Confucius Code Agent: An Open-sourced AI Software Engineer at Industrial Scale**|Zhaodong Wang et.al.|[2512.10398](http://arxiv.org/abs/2512.10398)|null|
 |**2025-12-11**|**User-Feedback-Driven Continual Adaptation for Vision-and-Language Navigation**|Yongqiang Yu et.al.|[2512.10322](http://arxiv.org/abs/2512.10322)|null|
 |**2025-12-10**|**Unforgotten Safety: Preserving Safety Alignment of Large Language Models with Continual Learning**|Lama Alssum et.al.|[2512.10150](http://arxiv.org/abs/2512.10150)|null|
 |**2025-12-10**|**Efficient Continual Learning in Neural Machine Translation: A Low-Rank Adaptation Approach**|Salvador Carrión et.al.|[2512.09910](http://arxiv.org/abs/2512.09910)|null|
@@ -676,13 +683,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-12**|**Cross-modal Context-aware Learning for Visual Prompt Guided Multimodal Image Understanding in Remote Sensing**|Xu Zhang et.al.|[2512.11680](http://arxiv.org/abs/2512.11680)|null|
+|**2025-12-12**|**CADKnitter: Compositional CAD Generation from Text and Geometry Guidance**|Tri Le et.al.|[2512.11199](http://arxiv.org/abs/2512.11199)|null|
+|**2025-12-11**|**Learning Category-level Last-meter Navigation from RGB Demonstrations of a Single-instance**|Tzu-Hsien Lee et.al.|[2512.11173](http://arxiv.org/abs/2512.11173)|null|
 |**2025-12-11**|**SpaceDrive: Infusing Spatial Awareness into VLM-based Autonomous Driving**|Peizheng Li et.al.|[2512.10719](http://arxiv.org/abs/2512.10719)|null|
 |**2025-12-11**|**CLASH: Collaborative Large-Small Hierarchical Framework for Continuous Vision-and-Language Navigation**|Liuyi Wang et.al.|[2512.10360](http://arxiv.org/abs/2512.10360)|null|
 |**2025-12-11**|**Topology-Agnostic Animal Motion Generation from Text Prompt**|Keyi Chen et.al.|[2512.10352](http://arxiv.org/abs/2512.10352)|null|
 |**2025-12-11**|**MR-FlowDPO: Multi-Reward Direct Preference Optimization for Flow-Matching Text-to-Music Generation**|Alon Ziv et.al.|[2512.10264](http://arxiv.org/abs/2512.10264)|null|
 |**2025-12-10**|**IF-Bench: Benchmarking and Enhancing MLLMs for Infrared Images with Generative Visual Prompting**|Tao Zhang et.al.|[2512.09663](http://arxiv.org/abs/2512.09663)|null|
 |**2025-12-10**|**Defect-aware Hybrid Prompt Optimization via Progressive Tuning for Zero-Shot Multi-type Anomaly Detection and Segmentation**|Nadeem Nazer et.al.|[2512.09446](http://arxiv.org/abs/2512.09446)|null|
-|**2025-12-08**|**InterAgent: Physics-based Multi-agent Command Execution via Diffusion on Interaction Graphs**|Bin Li et.al.|[2512.07410](http://arxiv.org/abs/2512.07410)|null|
+|**2025-12-12**|**InterAgent: Physics-based Multi-agent Command Execution via Diffusion on Interaction Graphs**|Bin Li et.al.|[2512.07410](http://arxiv.org/abs/2512.07410)|null|
 |**2025-12-08**|**Coherent Audio-Visual Editing via Conditional Audio Generation Following Video Edits**|Masato Ishii et.al.|[2512.07209](http://arxiv.org/abs/2512.07209)|null|
 |**2025-12-08**|**Geometric Prior-Guided Federated Prompt Calibration**|Fei Luo et.al.|[2512.07208](http://arxiv.org/abs/2512.07208)|null|
 |**2025-12-07**|**Scaling Zero-Shot Reference-to-Video Generation**|Zijian Zhou et.al.|[2512.06905](http://arxiv.org/abs/2512.06905)|null|
@@ -1256,6 +1266,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-12**|**Boosting Skeleton-based Zero-Shot Action Recognition with Training-Free Test-Time Adaptation**|Jingmin Zhu et.al.|[2512.11458](http://arxiv.org/abs/2512.11458)|null|
 |**2025-12-11**|**Neural Collapse in Test-Time Adaptation**|Xiao Chen et.al.|[2512.10421](http://arxiv.org/abs/2512.10421)|null|
 |**2025-12-09**|**Instance-Aware Test-Time Segmentation for Continual Domain Shifts**|Seunghwan Lee et.al.|[2512.08569](http://arxiv.org/abs/2512.08569)|null|
 |**2025-12-08**|**Mask to Adapt: Simple Random Masking Enables Robust Continual Test-Time Learning**|Chandler Timm C. Doloriel et.al.|[2512.08048](http://arxiv.org/abs/2512.08048)|null|
@@ -1445,6 +1456,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-12**|**DentalGPT: Incentivizing Multimodal Complex Reasoning in Dentistry**|Zhenyang Cai et.al.|[2512.11558](http://arxiv.org/abs/2512.11558)|null|
+|**2025-12-12**|**HFS: Holistic Query-Aware Frame Selection for Efficient Video Reasoning**|Yiqing Yang et.al.|[2512.11534](http://arxiv.org/abs/2512.11534)|null|
+|**2025-12-12**|**Reconstruction as a Bridge for Event-Based Visual Question Answering**|Hanyue Lou et.al.|[2512.11510](http://arxiv.org/abs/2512.11510)|null|
+|**2025-12-12**|**Exploring MLLM-Diffusion Information Transfer with MetaCanvas**|Han Lin et.al.|[2512.11464](http://arxiv.org/abs/2512.11464)|null|
+|**2025-12-12**|**KeyframeFace: From Text to Expressive Facial Keyframes**|Jingchao Wu et.al.|[2512.11321](http://arxiv.org/abs/2512.11321)|null|
+|**2025-12-12**|**SmokeBench: Evaluating Multimodal Large Language Models for Wildfire Smoke Detection**|Tianye Qi et.al.|[2512.11215](http://arxiv.org/abs/2512.11215)|null|
+|**2025-12-11**|**VGent: Visual Grounding via Modular Design for Disentangling Reasoning and Prediction**|Weitai Kang et.al.|[2512.11099](http://arxiv.org/abs/2512.11099)|null|
 |**2025-12-11**|**Computational emotion analysis with multimodal LLMs: Current evidence on an emerging methodological opportunity**|Hauke Licht et.al.|[2512.10882](http://arxiv.org/abs/2512.10882)|null|
 |**2025-12-11**|**LDP: Parameter-Efficient Fine-Tuning of Multimodal LLM for Medical Report Generation**|Tianyu Zhou et.al.|[2512.10750](http://arxiv.org/abs/2512.10750)|null|
 |**2025-12-11**|**TriDF: Evaluating Perception, Detection, and Hallucination for Interpretable DeepFake Detection**|Jian-Yu Jiang-Lin et.al.|[2512.10652](http://arxiv.org/abs/2512.10652)|null|
