@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2025.12.16
+## Updated on 2025.12.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Cross-Modal Image Retrieval
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-16**|**A Semantically Enhanced Generative Foundation Model Improves Pathological Image Synthesis**|Xianchao Guan et.al.|[2512.13164](http://arxiv.org/abs/2512.13164)|null|
 |**2025-12-12**|**VLM2GeoVec: Toward Universal Multimodal Embeddings for Remote Sensing**|Emanuel Sánchez Aimar et.al.|[2512.11490](http://arxiv.org/abs/2512.11490)|null|
 |**2025-12-11**|**Beyond Pixels: A Training-Free, Text-to-Text Framework for Remote Sensing Image Retrieval**|J. Xiao et.al.|[2512.10596](http://arxiv.org/abs/2512.10596)|null|
 |**2025-12-11**|**Cross-modal Retrieval Models for Stripped Binary Analysis**|Guoqiang Chen et.al.|[2512.10393](http://arxiv.org/abs/2512.10393)|null|
@@ -86,6 +87,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-16**|**Continual Learning at the Edge: An Agnostic IIoT Architecture**|Pablo García-Santaclara et.al.|[2512.14311](http://arxiv.org/abs/2512.14311)|null|
+|**2025-12-15**|**Beyond Procedural Compliance: Human Oversight as a Dimension of Well-being Efficacy in AI Governance**|Yao Xie et.al.|[2512.13768](http://arxiv.org/abs/2512.13768)|null|
+|**2025-12-15**|**On-Device Continual Learning for Unsupervised Visual Anomaly Detection in Dynamic Manufacturing**|Haoyu Ren et.al.|[2512.13497](http://arxiv.org/abs/2512.13497)|null|
+|**2025-12-15**|**Link-Aware Energy-Frugal Continual Learning for Fault Detection in IoT Networks**|Henrik C. M. Frederiksen et.al.|[2512.13340](http://arxiv.org/abs/2512.13340)|null|
+|**2025-12-15**|**Forging a Dynamic Memory: Retrieval-Guided Continual Learning for Generalist Medical Foundation Models**|Zizhi Chen et.al.|[2512.13072](http://arxiv.org/abs/2512.13072)|null|
+|**2025-12-14**|**Optimal Resource Allocation for ML Model Training and Deployment under Concept Drift**|Hasan Burhan Beytur et.al.|[2512.12816](http://arxiv.org/abs/2512.12816)|null|
+|**2025-12-14**|**A Disproof of Large Language Model Consciousness: The Necessity of Continual Learning for Consciousness**|Erik Hoel et.al.|[2512.12802](http://arxiv.org/abs/2512.12802)|null|
+|**2025-12-14**|**Unveiling Statistical Significance of Online Regression over Multiple Datasets**|Mohammad Abu-Shaira et.al.|[2512.12787](http://arxiv.org/abs/2512.12787)|null|
 |**2025-12-13**|**Feature Aggregation for Efficient Continual Learning of Complex Facial Expressions**|Thibault Geoffroy et.al.|[2512.12277](http://arxiv.org/abs/2512.12277)|null|
 |**2025-12-13**|**Open Horizons: Evaluating Deep Models in the Wild**|Ayush Vaibhav Bhatti et.al.|[2512.12146](http://arxiv.org/abs/2512.12146)|null|
 |**2025-12-12**|**CogniSNN: Enabling Neuron-Expandability, Pathway-Reusability, and Dynamic-Configurability with Random Graph Architectures in Spiking Neural Networks**|Yongsheng Huang et.al.|[2512.11743](http://arxiv.org/abs/2512.11743)|null|
@@ -685,6 +694,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-16**|**Dual Attention Guided Defense Against Malicious Edits**|Jie Zhang et.al.|[2512.14333](http://arxiv.org/abs/2512.14333)|null|
+|**2025-12-16**|**Selective, Controlled and Domain-Agnostic Unlearning in Pretrained CLIP: A Training- and Data-Free Approach**|Ashish Mishra et.al.|[2512.14113](http://arxiv.org/abs/2512.14113)|null|
+|**2025-12-16**|**Bridging Fidelity-Reality with Controllable One-Step Diffusion for Image Super-Resolution**|Hao Chen et.al.|[2512.14061](http://arxiv.org/abs/2512.14061)|null|
+|**2025-12-15**|**Soul: Breathe Life into Digital Human for High-fidelity Long-term Multimodal Animation**|Jiangning Zhang et.al.|[2512.13495](http://arxiv.org/abs/2512.13495)|null|
+|**2025-12-15**|**MineTheGap: Automatic Mining of Biases in Text-to-Image Models**|Noa Cohen et.al.|[2512.13427](http://arxiv.org/abs/2512.13427)|null|
+|**2025-12-16**|**Bi-Erasing: A Bidirectional Framework for Concept Removal in Diffusion Models**|Hao Chen et.al.|[2512.13039](http://arxiv.org/abs/2512.13039)|null|
+|**2025-12-15**|**JoDiffusion: Jointly Diffusing Image with Pixel-Level Annotations for Semantic Segmentation Promotion**|Haoyu Wang et.al.|[2512.13014](http://arxiv.org/abs/2512.13014)|null|
 |**2025-12-14**|**Animus3D: Text-driven 3D Animation via Motion Score Distillation**|Qi Sun et.al.|[2512.12534](http://arxiv.org/abs/2512.12534)|null|
 |**2025-12-13**|**V-Warper: Appearance-Consistent Video Diffusion Personalization via Value Warping**|Hyunkoo Lee et.al.|[2512.12375](http://arxiv.org/abs/2512.12375)|null|
 |**2025-12-13**|**WeDetect: Fast Open-Vocabulary Object Detection as Retrieval**|Shenghao Fu et.al.|[2512.12309](http://arxiv.org/abs/2512.12309)|null|
@@ -1272,6 +1288,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-16**|**DISCODE: Distribution-Aware Score Decoder for Robust Automatic Evaluation of Image Captioning**|Nakamasa Inoue et.al.|[2512.14420](http://arxiv.org/abs/2512.14420)|null|
 |**2025-12-14**|**Progressive Conditioned Scale-Shift Recalibration of Self-Attention for Online Test-time Adaptation**|Yushun Tang et.al.|[2512.12673](http://arxiv.org/abs/2512.12673)|null|
 |**2025-12-14**|**From Tokens to Photons: Test-Time Physical Prompting for Vison-Language Models**|Boyeong Im et.al.|[2512.12571](http://arxiv.org/abs/2512.12571)|null|
 |**2025-12-13**|**MetaTPT: Meta Test-time Prompt Tuning for Vision-Language Models**|Yuqing Lei et.al.|[2512.12268](http://arxiv.org/abs/2512.12268)|null|
@@ -1465,6 +1482,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-16**|**Semantic Mismatch and Perceptual Degradation: A New Perspective on Image Editing Immunity**|Shuai Dong et.al.|[2512.14320](http://arxiv.org/abs/2512.14320)|null|
+|**2025-12-16**|**Incentivizing Tool-augmented Thinking with Images for Medical Image Analysis**|Yankai Jiang et.al.|[2512.14157](http://arxiv.org/abs/2512.14157)|null|
+|**2025-12-16**|**HyperVL: An Efficient and Dynamic Multimodal Large Language Model for Edge Devices**|HyperAI Team et.al.|[2512.14052](http://arxiv.org/abs/2512.14052)|null|
+|**2025-12-16**|**ChartAgent: A Chart Understanding Framework with Tool Integrated Reasoning**|Boran Wang et.al.|[2512.14040](http://arxiv.org/abs/2512.14040)|null|
+|**2025-12-16**|**KFS-Bench: Comprehensive Evaluation of Key Frame Sampling in Long Video Understanding**|Zongyao Li et.al.|[2512.14017](http://arxiv.org/abs/2512.14017)|null|
+|**2025-12-15**|**STAR: STacked AutoRegressive Scheme for Unified Multimodal Learning**|Jie Qin et.al.|[2512.13752](http://arxiv.org/abs/2512.13752)|null|
+|**2025-12-15**|**Why Text Prevails: Vision May Undermine Multimodal Medical Decision Making**|Siyuan Dai et.al.|[2512.13747](http://arxiv.org/abs/2512.13747)|null|
+|**2025-12-15**|**Ego-EXTRA: video-language Egocentric Dataset for EXpert-TRAinee assistance**|Francesco Ragusa et.al.|[2512.13238](http://arxiv.org/abs/2512.13238)|null|
 |**2025-12-14**|**FysicsWorld: A Unified Full-Modality Benchmark for Any-to-Any Understanding, Generation, and Reasoning**|Yue Jiang et.al.|[2512.12756](http://arxiv.org/abs/2512.12756)|null|
 |**2025-12-14**|**DiG: Differential Grounding for Enhancing Fine-Grained Perception in Multimodal Large Language Model**|Zhou Tao et.al.|[2512.12633](http://arxiv.org/abs/2512.12633)|null|
 |**2025-12-14**|**Reasoning Within the Mind: Dynamic Multimodal Interleaving in Latent Space**|Chengzhi Liu et.al.|[2512.12623](http://arxiv.org/abs/2512.12623)|null|
