@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.12.19
+## Updated on 2025.12.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Cross-Modal Image Retrieval
@@ -89,6 +89,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-18**|**Sequencing to Mitigate Catastrophic Forgetting in Continual Learning**|Hesham G. Moussa et.al.|[2512.16871](http://arxiv.org/abs/2512.16871)|null|
 |**2025-12-18**|**Bridging the Reality Gap: Efficient Adaptation of ASR systems for Challenging Low-Resource Domains**|Darshil Chauhan et.al.|[2512.16401](http://arxiv.org/abs/2512.16401)|null|
 |**2025-12-17**|**PPSEBM: An Energy-Based Model with Progressive Parameter Selection for Continual Learning**|Xiaodi Li et.al.|[2512.15658](http://arxiv.org/abs/2512.15658)|null|
 |**2025-12-17**|**MECAD: A multi-expert architecture for continual anomaly detection**|Malihe Dahmardeh et.al.|[2512.15323](http://arxiv.org/abs/2512.15323)|null|
@@ -1497,6 +1498,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-18**|**AdaTooler-V: Adaptive Tool-Use for Images and Videos**|Chaoyang Wang et.al.|[2512.16918](http://arxiv.org/abs/2512.16918)|null|
 |**2025-12-18**|**Do Multi-Agents Solve Better Than Single? Evaluating Agentic Frameworks for Diagram-Grounded Geometry Problem Solving and Reasoning**|Mahbub E Sobhani et.al.|[2512.16698](http://arxiv.org/abs/2512.16698)|null|
 |**2025-12-18**|**Sketch-in-Latents: Eliciting Unified Reasoning in MLLMs**|Jintao Tong et.al.|[2512.16584](http://arxiv.org/abs/2512.16584)|null|
 |**2025-12-18**|**Code-in-the-Loop Forensics: Agentic Tool Use for Image Forgery Detection**|Fanrui Zhang et.al.|[2512.16300](http://arxiv.org/abs/2512.16300)|null|
