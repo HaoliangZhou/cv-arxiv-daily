@@ -1,4 +1,4 @@
-## Updated on 2025.12.21
+## Updated on 2025.12.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -17,6 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-19**|**STAR: Semantic-Traffic Alignment and Retrieval for Zero-Shot HTTPS Website Fingerprinting**|Yifei Cheng et.al.|[2512.17667](http://arxiv.org/abs/2512.17667)|null|
 |**2025-12-17**|**An Efficient and Effective Encoder Model for Vision and Language Tasks in the Remote Sensing Domain**|João Daniel Silva et.al.|[2512.15531](http://arxiv.org/abs/2512.15531)|null|
 |**2025-12-16**|**Visual-textual Dermatoglyphic Animal Biometrics: A First Case Study on Panthera tigris**|Wenshuo Li et.al.|[2512.14878](http://arxiv.org/abs/2512.14878)|null|
 |**2025-12-16**|**A Semantically Enhanced Generative Foundation Model Improves Pathological Image Synthesis**|Xianchao Guan et.al.|[2512.13164](http://arxiv.org/abs/2512.13164)|null|
@@ -93,12 +94,14 @@
 |**2024-12-02**|**AnySynth: Harnessing the Power of Image Synthetic Data Generation for Generalized Vision-Language Tasks**|You Li et.al.|[2411.16749](http://arxiv.org/abs/2411.16749)|null|
 |**2024-10-31**|**MoTaDual: Modality-Task Dual Alignment for Enhanced Zero-shot Composed Image Retrieval**|Haiwen Li et.al.|[2410.23736](http://arxiv.org/abs/2410.23736)|null|
 
-<p align=right>(<a href=#updated-on-20251221>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251222>back to top</a>)</p>
 
 ## Continual Learning
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-19**|**M2RU: Memristive Minion Recurrent Unit for Continual Learning at the Edge**|Abdullah M. Zyarah et.al.|[2512.17299](http://arxiv.org/abs/2512.17299)|null|
+|**2025-12-18**|**Compression is Routing: Reconstruction Error as an Intrinsic Signal for Modular Language Models**|Zhongpan Tang et.al.|[2512.16963](http://arxiv.org/abs/2512.16963)|null|
 |**2025-12-18**|**Sequencing to Mitigate Catastrophic Forgetting in Continual Learning**|Hesham G. Moussa et.al.|[2512.16871](http://arxiv.org/abs/2512.16871)|null|
 |**2025-12-18**|**Bridging the Reality Gap: Efficient Adaptation of ASR systems for Challenging Low-Resource Domains**|Darshil Chauhan et.al.|[2512.16401](http://arxiv.org/abs/2512.16401)|null|
 |**2025-12-17**|**PPSEBM: An Energy-Based Model with Progressive Parameter Selection for Continual Learning**|Xiaodi Li et.al.|[2512.15658](http://arxiv.org/abs/2512.15658)|null|
@@ -710,12 +713,15 @@
 |**2025-02-10**|**Prompt-Driven Continual Graph Learning**|Qi Wang et.al.|[2502.06327](http://arxiv.org/abs/2502.06327)|null|
 |**2025-02-10**|**Position: Continual Learning Benefits from An Evolving Population over An Unified Model**|Aojun Lu et.al.|[2502.06210](http://arxiv.org/abs/2502.06210)|null|
 
-<p align=right>(<a href=#updated-on-20251221>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251222>back to top</a>)</p>
 
 ## Vision-Language Prompting
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-19**|**Visually Prompted Benchmarks Are Surprisingly Fragile**|Haiwen Feng et.al.|[2512.17875](http://arxiv.org/abs/2512.17875)|null|
+|**2025-12-19**|**InfSplign: Inference-Time Spatial Alignment of Text-to-Image Diffusion Models**|Sarah Rastegar et.al.|[2512.17851](http://arxiv.org/abs/2512.17851)|null|
+|**2025-12-19**|**ImagineNav++: Prompting Vision-Language Models as Embodied Navigator through Scene Imagination**|Teng Wang et.al.|[2512.17435](http://arxiv.org/abs/2512.17435)|null|
 |**2025-12-16**|**InpaintDPO: Mitigating Spatial Relationship Hallucinations in Foreground-conditioned Inpainting via Diverse Preference Optimization**|Qirui Li et.al.|[2512.15644](http://arxiv.org/abs/2512.15644)|null|
 |**2025-12-17**|**PMMD: A pose-guided multi-view multi-modal diffusion for person generation**|Ziyu Shang et.al.|[2512.15069](http://arxiv.org/abs/2512.15069)|null|
 |**2025-12-16**|**MemFlow: Flowing Adaptive Memory for Consistent and Efficient Long Video Narratives**|Sihui Ji et.al.|[2512.14699](http://arxiv.org/abs/2512.14699)|null|
@@ -1225,7 +1231,7 @@
 |**2025-02-08**|**Diverse Image Generation with Diffusion Models and Cross Class Label Learning for Polyp Classification**|Vanshali Sharma et.al.|[2502.05444](http://arxiv.org/abs/2502.05444)|**[link](https://github.com/vanshali/pathopolyp-diff)**|
 |**2025-02-07**|**FlashVideo:Flowing Fidelity to Detail for Efficient High-Resolution Video Generation**|Shilong Zhang et.al.|[2502.05179](http://arxiv.org/abs/2502.05179)|**[link](https://github.com/foundationvision/flashvideo)**|
 
-<p align=right>(<a href=#updated-on-20251221>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251222>back to top</a>)</p>
 
 ## Facial Expression Recognition
 
@@ -1312,7 +1318,7 @@
 |**2024-12-16**|**Impact of Face Alignment on Face Image Quality**|Eren Onaran et.al.|[2412.11779](http://arxiv.org/abs/2412.11779)|null|
 |**2024-12-15**|**Unimodal and Multimodal Static Facial Expression Recognition for Virtual Reality Users with EmoHeVRDB**|Thorben Ortmann et.al.|[2412.11306](http://arxiv.org/abs/2412.11306)|**[link](https://github.com/thorbenortmann/emohevrdb-sfer)**|
 
-<p align=right>(<a href=#updated-on-20251221>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251222>back to top</a>)</p>
 
 ## Test-Time Adaptation
 
@@ -1510,12 +1516,20 @@
 |**2025-01-31**|**Test-time Loss Landscape Adaptation for Zero-Shot Generalization in Vision-Language Models**|Aodi Li et.al.|[2501.18864](http://arxiv.org/abs/2501.18864)|null|
 |**2025-02-03**|**Advances in Multimodal Adaptation and Generalization: From Traditional Approaches to Foundation Models**|Hao Dong et.al.|[2501.18592](http://arxiv.org/abs/2501.18592)|**[link](https://github.com/donghao51/awesome-multimodal-adaptation)**|
 
-<p align=right>(<a href=#updated-on-20251221>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251222>back to top</a>)</p>
 
 ## Multimodal Large Language Model
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-19**|**HeadHunt-VAD: Hunting Robust Anomaly-Sensitive Heads in MLLM for Tuning-Free Video Anomaly Detection**|Zhaolin Cai et.al.|[2512.17601](http://arxiv.org/abs/2512.17601)|null|
+|**2025-12-19**|**Enabling Disaggregated Multi-Stage MLLM Inference via GPU-Internal Scheduling and Resource Sharing**|Lingxiao Zhao et.al.|[2512.17574](http://arxiv.org/abs/2512.17574)|null|
+|**2025-12-19**|**Robust-R1: Degradation-Aware Reasoning for Robust Visual Understanding**|Jiaqi Tang et.al.|[2512.17532](http://arxiv.org/abs/2512.17532)|null|
+|**2025-12-19**|**GroundingME: Exposing the Visual Grounding Gap in MLLMs through Multi-Dimensional Evaluation**|Rang Li et.al.|[2512.17495](http://arxiv.org/abs/2512.17495)|null|
+|**2025-12-19**|**Zero-Shot Recognition of Dysarthric Speech Using Commercial Automatic Speech Recognition and Multimodal Large Language Models**|Ali Alsayegh et.al.|[2512.17474](http://arxiv.org/abs/2512.17474)|null|
+|**2025-12-19**|**A Benchmark for Ultra-High-Resolution Remote Sensing MLLMs**|Yunkai Dang et.al.|[2512.17319](http://arxiv.org/abs/2512.17319)|null|
+|**2025-12-19**|**Learning When to Look: A Disentangled Curriculum for Strategic Perception in Multimodal Reasoning**|Siqi Yang et.al.|[2512.17227](http://arxiv.org/abs/2512.17227)|null|
+|**2025-12-19**|**InstructDubber: Instruction-based Alignment for Zero-shot Movie Dubbing**|Zhedong Zhang et.al.|[2512.17154](http://arxiv.org/abs/2512.17154)|null|
 |**2025-12-18**|**AdaTooler-V: Adaptive Tool-Use for Images and Videos**|Chaoyang Wang et.al.|[2512.16918](http://arxiv.org/abs/2512.16918)|null|
 |**2025-12-18**|**Do Multi-Agents Solve Better Than Single? Evaluating Agentic Frameworks for Diagram-Grounded Geometry Problem Solving and Reasoning**|Mahbub E Sobhani et.al.|[2512.16698](http://arxiv.org/abs/2512.16698)|null|
 |**2025-12-18**|**Sketch-in-Latents: Eliciting Unified Reasoning in MLLMs**|Jintao Tong et.al.|[2512.16584](http://arxiv.org/abs/2512.16584)|null|
@@ -1658,7 +1672,7 @@
 |**2025-11-25**|**Bootstrapping Physics-Grounded Video Generation through VLM-Guided Iterative Self-Refinement**|Yang Liu et.al.|[2511.20280](http://arxiv.org/abs/2511.20280)|null|
 |**2025-11-25**|**VKnowU: Evaluating Visual Knowledge Understanding in Multimodal LLMs**|Tianxiang Jiang et.al.|[2511.20272](http://arxiv.org/abs/2511.20272)|null|
 
-<p align=right>(<a href=#updated-on-20251221>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251222>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2025.12.21
+## Updated on 2025.12.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Cross-Modal Image Retrieval
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-19**|**STAR: Semantic-Traffic Alignment and Retrieval for Zero-Shot HTTPS Website Fingerprinting**|Yifei Cheng et.al.|[2512.17667](http://arxiv.org/abs/2512.17667)|null|
 |**2025-12-17**|**An Efficient and Effective Encoder Model for Vision and Language Tasks in the Remote Sensing Domain**|João Daniel Silva et.al.|[2512.15531](http://arxiv.org/abs/2512.15531)|null|
 |**2025-12-16**|**Visual-textual Dermatoglyphic Animal Biometrics: A First Case Study on Panthera tigris**|Wenshuo Li et.al.|[2512.14878](http://arxiv.org/abs/2512.14878)|null|
 |**2025-12-16**|**A Semantically Enhanced Generative Foundation Model Improves Pathological Image Synthesis**|Xianchao Guan et.al.|[2512.13164](http://arxiv.org/abs/2512.13164)|null|
@@ -89,6 +90,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-19**|**M2RU: Memristive Minion Recurrent Unit for Continual Learning at the Edge**|Abdullah M. Zyarah et.al.|[2512.17299](http://arxiv.org/abs/2512.17299)|null|
+|**2025-12-18**|**Compression is Routing: Reconstruction Error as an Intrinsic Signal for Modular Language Models**|Zhongpan Tang et.al.|[2512.16963](http://arxiv.org/abs/2512.16963)|null|
 |**2025-12-18**|**Sequencing to Mitigate Catastrophic Forgetting in Continual Learning**|Hesham G. Moussa et.al.|[2512.16871](http://arxiv.org/abs/2512.16871)|null|
 |**2025-12-18**|**Bridging the Reality Gap: Efficient Adaptation of ASR systems for Challenging Low-Resource Domains**|Darshil Chauhan et.al.|[2512.16401](http://arxiv.org/abs/2512.16401)|null|
 |**2025-12-17**|**PPSEBM: An Energy-Based Model with Progressive Parameter Selection for Continual Learning**|Xiaodi Li et.al.|[2512.15658](http://arxiv.org/abs/2512.15658)|null|
@@ -704,6 +707,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-19**|**Visually Prompted Benchmarks Are Surprisingly Fragile**|Haiwen Feng et.al.|[2512.17875](http://arxiv.org/abs/2512.17875)|null|
+|**2025-12-19**|**InfSplign: Inference-Time Spatial Alignment of Text-to-Image Diffusion Models**|Sarah Rastegar et.al.|[2512.17851](http://arxiv.org/abs/2512.17851)|null|
+|**2025-12-19**|**ImagineNav++: Prompting Vision-Language Models as Embodied Navigator through Scene Imagination**|Teng Wang et.al.|[2512.17435](http://arxiv.org/abs/2512.17435)|null|
 |**2025-12-16**|**InpaintDPO: Mitigating Spatial Relationship Hallucinations in Foreground-conditioned Inpainting via Diverse Preference Optimization**|Qirui Li et.al.|[2512.15644](http://arxiv.org/abs/2512.15644)|null|
 |**2025-12-17**|**PMMD: A pose-guided multi-view multi-modal diffusion for person generation**|Ziyu Shang et.al.|[2512.15069](http://arxiv.org/abs/2512.15069)|null|
 |**2025-12-16**|**MemFlow: Flowing Adaptive Memory for Consistent and Efficient Long Video Narratives**|Sihui Ji et.al.|[2512.14699](http://arxiv.org/abs/2512.14699)|null|
@@ -1498,6 +1504,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-19**|**HeadHunt-VAD: Hunting Robust Anomaly-Sensitive Heads in MLLM for Tuning-Free Video Anomaly Detection**|Zhaolin Cai et.al.|[2512.17601](http://arxiv.org/abs/2512.17601)|null|
+|**2025-12-19**|**Enabling Disaggregated Multi-Stage MLLM Inference via GPU-Internal Scheduling and Resource Sharing**|Lingxiao Zhao et.al.|[2512.17574](http://arxiv.org/abs/2512.17574)|null|
+|**2025-12-19**|**Robust-R1: Degradation-Aware Reasoning for Robust Visual Understanding**|Jiaqi Tang et.al.|[2512.17532](http://arxiv.org/abs/2512.17532)|null|
+|**2025-12-19**|**GroundingME: Exposing the Visual Grounding Gap in MLLMs through Multi-Dimensional Evaluation**|Rang Li et.al.|[2512.17495](http://arxiv.org/abs/2512.17495)|null|
+|**2025-12-19**|**Zero-Shot Recognition of Dysarthric Speech Using Commercial Automatic Speech Recognition and Multimodal Large Language Models**|Ali Alsayegh et.al.|[2512.17474](http://arxiv.org/abs/2512.17474)|null|
+|**2025-12-19**|**A Benchmark for Ultra-High-Resolution Remote Sensing MLLMs**|Yunkai Dang et.al.|[2512.17319](http://arxiv.org/abs/2512.17319)|null|
+|**2025-12-19**|**Learning When to Look: A Disentangled Curriculum for Strategic Perception in Multimodal Reasoning**|Siqi Yang et.al.|[2512.17227](http://arxiv.org/abs/2512.17227)|null|
+|**2025-12-19**|**InstructDubber: Instruction-based Alignment for Zero-shot Movie Dubbing**|Zhedong Zhang et.al.|[2512.17154](http://arxiv.org/abs/2512.17154)|null|
 |**2025-12-18**|**AdaTooler-V: Adaptive Tool-Use for Images and Videos**|Chaoyang Wang et.al.|[2512.16918](http://arxiv.org/abs/2512.16918)|null|
 |**2025-12-18**|**Do Multi-Agents Solve Better Than Single? Evaluating Agentic Frameworks for Diagram-Grounded Geometry Problem Solving and Reasoning**|Mahbub E Sobhani et.al.|[2512.16698](http://arxiv.org/abs/2512.16698)|null|
 |**2025-12-18**|**Sketch-in-Latents: Eliciting Unified Reasoning in MLLMs**|Jintao Tong et.al.|[2512.16584](http://arxiv.org/abs/2512.16584)|null|
