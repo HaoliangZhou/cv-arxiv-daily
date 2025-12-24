@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2025.12.23
+## Updated on 2025.12.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Cross-Modal Image Retrieval
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-22**|**Beyond CLIP: Knowledge-Enhanced Multimodal Transformers for Cross-Modal Alignment in Diabetic Retinopathy Diagnosis**|Argha Kamal Samanta et.al.|[2512.19663](http://arxiv.org/abs/2512.19663)|null|
 |**2025-12-19**|**STAR: Semantic-Traffic Alignment and Retrieval for Zero-Shot HTTPS Website Fingerprinting**|Yifei Cheng et.al.|[2512.17667](http://arxiv.org/abs/2512.17667)|null|
 |**2025-12-17**|**An Efficient and Effective Encoder Model for Vision and Language Tasks in the Remote Sensing Domain**|João Daniel Silva et.al.|[2512.15531](http://arxiv.org/abs/2512.15531)|null|
 |**2025-12-16**|**Visual-textual Dermatoglyphic Animal Biometrics: A First Case Study on Panthera tigris**|Wenshuo Li et.al.|[2512.14878](http://arxiv.org/abs/2512.14878)|null|
@@ -90,6 +91,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-23**|**Rethinking Knowledge Distillation in Collaborative Machine Learning: Memory, Knowledge, and Their Interactions**|Pengchao Han et.al.|[2512.19972](http://arxiv.org/abs/2512.19972)|null|
+|**2025-12-22**|**Steering Vision-Language Pre-trained Models for Incremental Face Presentation Attack Detection**|Haoze Li et.al.|[2512.19022](http://arxiv.org/abs/2512.19022)|null|
+|**2025-12-22**|**DTCCL: Disengagement-Triggered Contrastive Continual Learning for Autonomous Bus Planners**|Yanding Yang et.al.|[2512.18988](http://arxiv.org/abs/2512.18988)|null|
 |**2025-12-22**|**When Less is More: 8-bit Quantization Improves Continual Learning in Large Language Models**|Michael S. Zhang et.al.|[2512.18934](http://arxiv.org/abs/2512.18934)|null|
 |**2025-12-21**|**Demonstration-Guided Continual Reinforcement Learning in Dynamic Environments**|Xue Yang et.al.|[2512.18670](http://arxiv.org/abs/2512.18670)|null|
 |**2025-12-20**|**The Geometry of Abstraction: Continual Learning via Recursive Quotienting**|Xin Li et.al.|[2512.18471](http://arxiv.org/abs/2512.18471)|null|
@@ -97,7 +101,7 @@ layout: default
 |**2025-12-19**|**M2RU: Memristive Minion Recurrent Unit for Continual Learning at the Edge**|Abdullah M. Zyarah et.al.|[2512.17299](http://arxiv.org/abs/2512.17299)|null|
 |**2025-12-18**|**Compression is Routing: Reconstruction Error as an Intrinsic Signal for Modular Language Models**|Zhongpan Tang et.al.|[2512.16963](http://arxiv.org/abs/2512.16963)|null|
 |**2025-12-18**|**Sequencing to Mitigate Catastrophic Forgetting in Continual Learning**|Hesham G. Moussa et.al.|[2512.16871](http://arxiv.org/abs/2512.16871)|null|
-|**2025-12-18**|**Bridging the Reality Gap: Efficient Adaptation of ASR systems for Challenging Low-Resource Domains**|Darshil Chauhan et.al.|[2512.16401](http://arxiv.org/abs/2512.16401)|null|
+|**2025-12-22**|**Navigating the Reality Gap: Privacy-Preserving Adaptation of ASR for Challenging Low-Resource Domains**|Darshil Chauhan et.al.|[2512.16401](http://arxiv.org/abs/2512.16401)|null|
 |**2025-12-17**|**PPSEBM: An Energy-Based Model with Progressive Parameter Selection for Continual Learning**|Xiaodi Li et.al.|[2512.15658](http://arxiv.org/abs/2512.15658)|null|
 |**2025-12-17**|**MECAD: A multi-expert architecture for continual anomaly detection**|Malihe Dahmardeh et.al.|[2512.15323](http://arxiv.org/abs/2512.15323)|null|
 |**2025-12-17**|**Distillation-Guided Structural Transfer for Continual Learning Beyond Sparse Distributed Memory**|Huiyan Xue et.al.|[2512.15267](http://arxiv.org/abs/2512.15267)|null|
@@ -711,6 +715,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-23**|**Bring My Cup! Personalizing Vision-Language-Action Models with Visual Attentive Prompting**|Sangoh Lee et.al.|[2512.20014](http://arxiv.org/abs/2512.20014)|null|
+|**2025-12-22**|**Visual-Aware CoT: Achieving High-Fidelity Visual Consistency in Unified Models**|Zixuan Ye et.al.|[2512.19686](http://arxiv.org/abs/2512.19686)|null|
+|**2025-12-22**|**Over++: Generative Video Compositing for Layer Interaction Effects**|Luchao Qi et.al.|[2512.19661](http://arxiv.org/abs/2512.19661)|null|
+|**2025-12-22**|**Emotion-Director: Bridging Affective Shortcut in Emotion-Oriented Image Generation**|Guoli Jia et.al.|[2512.19479](http://arxiv.org/abs/2512.19479)|null|
+|**2025-12-22**|**Distinguishing Visually Similar Actions: Prompt-Guided Semantic Prototype Modulation for Few-Shot Action Recognition**|Xiaoyang Li et.al.|[2512.19036](http://arxiv.org/abs/2512.19036)|null|
 |**2025-12-22**|**Point What You Mean: Visually Grounded Instruction Policy**|Hang Yu et.al.|[2512.18933](http://arxiv.org/abs/2512.18933)|null|
 |**2025-12-19**|**Visually Prompted Benchmarks Are Surprisingly Fragile**|Haiwen Feng et.al.|[2512.17875](http://arxiv.org/abs/2512.17875)|null|
 |**2025-12-19**|**InfSplign: Inference-Time Spatial Alignment of Text-to-Image Diffusion Models**|Sarah Rastegar et.al.|[2512.17851](http://arxiv.org/abs/2512.17851)|null|
@@ -1512,6 +1521,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-23**|**Cube Bench: A Benchmark for Spatial Visual Reasoning in MLLMs**|Dhruv Anand et.al.|[2512.20595](http://arxiv.org/abs/2512.20595)|null|
+|**2025-12-23**|**A DeepSeek-Powered AI System for Automated Chest Radiograph Interpretation in Clinical Practice**|Yaowei Bai et.al.|[2512.20344](http://arxiv.org/abs/2512.20344)|null|
+|**2025-12-23**|**TongSIM: A General Platform for Simulating Intelligent Machines**|Zhe Sun et.al.|[2512.20206](http://arxiv.org/abs/2512.20206)|null|
+|**2025-12-23**|**Odysseus: Jailbreaking Commercial Multimodal LLM-integrated Systems via Dual Steganography**|Songze Li et.al.|[2512.20168](http://arxiv.org/abs/2512.20168)|null|
+|**2025-12-23**|**M $^3$ KG-RAG: Multi-hop Multimodal Knowledge Graph-enhanced Retrieval-Augmented Generation**|Hyeongcheol Park et.al.|[2512.20136](http://arxiv.org/abs/2512.20136)|null|
+|**2025-12-22**|**PRISM: A Personality-Driven Multi-Agent Framework for Social Media Simulation**|Zhixiang Lu et.al.|[2512.19933](http://arxiv.org/abs/2512.19933)|null|
+|**2025-12-22**|**Widget2Code: From Visual Widgets to UI Code via Multimodal LLMs**|Houston H. Zhang et.al.|[2512.19918](http://arxiv.org/abs/2512.19918)|null|
+|**2025-12-22**|**From Indoor to Open World: Revealing the Spatial Reasoning Gap in MLLMs**|Mingrui Wu et.al.|[2512.19683](http://arxiv.org/abs/2512.19683)|null|
+|**2025-12-22**|**Multimodal LLMs for Historical Dataset Construction from Archival Image Scans: German Patents (1877-1918)**|Niclas Griesshaber et.al.|[2512.19675](http://arxiv.org/abs/2512.19675)|null|
+|**2025-12-22**|**MapTrace: Scalable Data Generation for Route Tracing on Maps**|Artemis Panagopoulou et.al.|[2512.19609](http://arxiv.org/abs/2512.19609)|null|
 |**2025-12-21**|**Delta-LLaVA: Base-then-Specialize Alignment for Token-Efficient Vision-Language Models**|Mohamad Zamini et.al.|[2512.18910](http://arxiv.org/abs/2512.18910)|null|
 |**2025-12-21**|**CrashChat: A Multimodal Large Language Model for Multitask Traffic Crash Video Analysis**|Kaidi Liang et.al.|[2512.18878](http://arxiv.org/abs/2512.18878)|null|
 |**2025-12-21**|**VizDefender: Unmasking Visualization Tampering through Proactive Localization and Intent Inference**|Sicheng Song et.al.|[2512.18853](http://arxiv.org/abs/2512.18853)|null|
