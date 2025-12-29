@@ -1,4 +1,4 @@
-## Updated on 2025.12.28
+## Updated on 2025.12.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -96,12 +96,16 @@
 |**2024-12-02**|**AnySynth: Harnessing the Power of Image Synthetic Data Generation for Generalized Vision-Language Tasks**|You Li et.al.|[2411.16749](http://arxiv.org/abs/2411.16749)|null|
 |**2024-10-31**|**MoTaDual: Modality-Task Dual Alignment for Enhanced Zero-shot Composed Image Retrieval**|Haiwen Li et.al.|[2410.23736](http://arxiv.org/abs/2410.23736)|null|
 
-<p align=right>(<a href=#updated-on-20251228>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251229>back to top</a>)</p>
 
 ## Continual Learning
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-26**|**Learning continually with representational drift**|Suzanne van der Veldt et.al.|[2512.22045](http://arxiv.org/abs/2512.22045)|null|
+|**2025-12-26**|**LibContinual: A Comprehensive Library towards Realistic Continual Learning**|Wenbin Li et.al.|[2512.22029](http://arxiv.org/abs/2512.22029)|null|
+|**2025-12-26**|**Scalable Class-Incremental Learning Based on Parametric Neural Collapse**|Chuangxin Zhang et.al.|[2512.21845](http://arxiv.org/abs/2512.21845)|null|
+|**2025-12-25**|**Dynamic Feedback Engines: Layer-Wise Control for Self-Regulating Continual Learning**|Hengyi Wu et.al.|[2512.21743](http://arxiv.org/abs/2512.21743)|null|
 |**2025-12-24**|**LLM-Empowered Agentic AI for QoE-Aware Network Slicing Management in Industrial IoT**|Xudong Wang et.al.|[2512.20997](http://arxiv.org/abs/2512.20997)|null|
 |**2025-12-24**|**X-ray Insights Unleashed: Pioneering the Enhancement of Multi-Label Long-Tail Data**|Xinquan Yang et.al.|[2512.20980](http://arxiv.org/abs/2512.20980)|null|
 |**2025-12-23**|**ASCHOPLEX encounters Dafne: a federated continuous learning project for the generalizability of the Choroid Plexus automatic segmentation**|Valentina Visani et.al.|[2512.20741](http://arxiv.org/abs/2512.20741)|null|
@@ -725,12 +729,13 @@
 |**2025-02-10**|**Prompt-Driven Continual Graph Learning**|Qi Wang et.al.|[2502.06327](http://arxiv.org/abs/2502.06327)|null|
 |**2025-02-10**|**Position: Continual Learning Benefits from An Evolving Population over An Unified Model**|Aojun Lu et.al.|[2502.06210](http://arxiv.org/abs/2502.06210)|null|
 
-<p align=right>(<a href=#updated-on-20251228>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251229>back to top</a>)</p>
 
 ## Vision-Language Prompting
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-26**|**Yume-1.5: A Text-Controlled Interactive World Generation Model**|Xiaofeng Mao et.al.|[2512.22096](http://arxiv.org/abs/2512.22096)|null|
 |**2025-12-23**|**Bring My Cup! Personalizing Vision-Language-Action Models with Visual Attentive Prompting**|Sangoh Lee et.al.|[2512.20014](http://arxiv.org/abs/2512.20014)|null|
 |**2025-12-22**|**Visual-Aware CoT: Achieving High-Fidelity Visual Consistency in Unified Models**|Zixuan Ye et.al.|[2512.19686](http://arxiv.org/abs/2512.19686)|null|
 |**2025-12-22**|**Over++: Generative Video Compositing for Layer Interaction Effects**|Luchao Qi et.al.|[2512.19661](http://arxiv.org/abs/2512.19661)|null|
@@ -1249,7 +1254,7 @@
 |**2025-02-08**|**Diverse Image Generation with Diffusion Models and Cross Class Label Learning for Polyp Classification**|Vanshali Sharma et.al.|[2502.05444](http://arxiv.org/abs/2502.05444)|**[link](https://github.com/vanshali/pathopolyp-diff)**|
 |**2025-02-07**|**FlashVideo:Flowing Fidelity to Detail for Efficient High-Resolution Video Generation**|Shilong Zhang et.al.|[2502.05179](http://arxiv.org/abs/2502.05179)|**[link](https://github.com/foundationvision/flashvideo)**|
 
-<p align=right>(<a href=#updated-on-20251228>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251229>back to top</a>)</p>
 
 ## Facial Expression Recognition
 
@@ -1337,12 +1342,13 @@
 |**2024-12-16**|**Impact of Face Alignment on Face Image Quality**|Eren Onaran et.al.|[2412.11779](http://arxiv.org/abs/2412.11779)|null|
 |**2024-12-15**|**Unimodal and Multimodal Static Facial Expression Recognition for Virtual Reality Users with EmoHeVRDB**|Thorben Ortmann et.al.|[2412.11306](http://arxiv.org/abs/2412.11306)|**[link](https://github.com/thorbenortmann/emohevrdb-sfer)**|
 
-<p align=right>(<a href=#updated-on-20251228>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251229>back to top</a>)</p>
 
 ## Test-Time Adaptation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-25**|**EraseLoRA: MLLM-Driven Foreground Exclusion and Background Subtype Aggregation for Dataset-Free Object Removal**|Sanghyun Jo et.al.|[2512.21545](http://arxiv.org/abs/2512.21545)|null|
 |**2025-12-20**|**CTTA-T: Continual Test-Time Adaptation for Text Understanding via Teacher-Student with a Domain-aware and Generalized Teacher**|Tianlun Liu et.al.|[2512.18321](http://arxiv.org/abs/2512.18321)|null|
 |**2025-12-20**|**Atlas is Your Perfect Context: One-Shot Customization for Generalizable Foundational Medical Image Segmentation**|Ziyu Zhang et.al.|[2512.18176](http://arxiv.org/abs/2512.18176)|null|
 |**2025-12-18**|**TTP: Test-Time Padding for Adversarial Detection and Robust Adaptation on Vision-Language Models**|Zhiwei Li et.al.|[2512.16523](http://arxiv.org/abs/2512.16523)|null|
@@ -1537,12 +1543,16 @@
 |**2025-01-31**|**Test-time Loss Landscape Adaptation for Zero-Shot Generalization in Vision-Language Models**|Aodi Li et.al.|[2501.18864](http://arxiv.org/abs/2501.18864)|null|
 |**2025-02-03**|**Advances in Multimodal Adaptation and Generalization: From Traditional Approaches to Foundation Models**|Hao Dong et.al.|[2501.18592](http://arxiv.org/abs/2501.18592)|**[link](https://github.com/donghao51/awesome-multimodal-adaptation)**|
 
-<p align=right>(<a href=#updated-on-20251228>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251229>back to top</a>)</p>
 
 ## Multimodal Large Language Model
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-26**|**iSHIFT: Lightweight Slow-Fast GUI Agent with Adaptive Perception**|Sarthak Mehrotra et.al.|[2512.22009](http://arxiv.org/abs/2512.22009)|null|
+|**2025-12-25**|**UniPercept: Towards Unified Perceptual-Level Image Understanding across Aesthetics, Quality, Structure, and Texture**|Shuo Cao et.al.|[2512.21675](http://arxiv.org/abs/2512.21675)|null|
+|**2025-12-25**|**TAMEing Long Contexts in Personalization: Towards Training-Free and State-Aware MLLM Personalized Assistant**|Rongpei Hong et.al.|[2512.21616](http://arxiv.org/abs/2512.21616)|null|
+|**2025-12-25**|**EraseLoRA: MLLM-Driven Foreground Exclusion and Background Subtype Aggregation for Dataset-Free Object Removal**|Sanghyun Jo et.al.|[2512.21545](http://arxiv.org/abs/2512.21545)|null|
 |**2025-12-24**|**Pioneering Multimodal Emotion Recognition in the Era of Large Models: From Closed Sets to Open Vocabularies**|Jing Han et.al.|[2512.20938](http://arxiv.org/abs/2512.20938)|null|
 |**2025-12-24**|**MMSRARec: Summarization and Retrieval Augumented Sequential Recommendation Based on Multimodal Large Language Model**|Haoyu Wang et.al.|[2512.20916](http://arxiv.org/abs/2512.20916)|null|
 |**2025-12-23**|**Soft Filtering: Guiding Zero-shot Composed Image Retrieval with Prescriptive and Proscriptive Constraints**|Youjin Jung et.al.|[2512.20781](http://arxiv.org/abs/2512.20781)|null|
@@ -1715,7 +1725,7 @@
 |**2025-11-25**|**Bootstrapping Physics-Grounded Video Generation through VLM-Guided Iterative Self-Refinement**|Yang Liu et.al.|[2511.20280](http://arxiv.org/abs/2511.20280)|null|
 |**2025-11-25**|**VKnowU: Evaluating Visual Knowledge Understanding in Multimodal LLMs**|Tianxiang Jiang et.al.|[2511.20272](http://arxiv.org/abs/2511.20272)|null|
 
-<p align=right>(<a href=#updated-on-20251228>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251229>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

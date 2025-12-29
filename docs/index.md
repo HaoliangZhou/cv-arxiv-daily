@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.12.28
+## Updated on 2025.12.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Cross-Modal Image Retrieval
@@ -92,6 +92,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-26**|**Learning continually with representational drift**|Suzanne van der Veldt et.al.|[2512.22045](http://arxiv.org/abs/2512.22045)|null|
+|**2025-12-26**|**LibContinual: A Comprehensive Library towards Realistic Continual Learning**|Wenbin Li et.al.|[2512.22029](http://arxiv.org/abs/2512.22029)|null|
+|**2025-12-26**|**Scalable Class-Incremental Learning Based on Parametric Neural Collapse**|Chuangxin Zhang et.al.|[2512.21845](http://arxiv.org/abs/2512.21845)|null|
+|**2025-12-25**|**Dynamic Feedback Engines: Layer-Wise Control for Self-Regulating Continual Learning**|Hengyi Wu et.al.|[2512.21743](http://arxiv.org/abs/2512.21743)|null|
 |**2025-12-24**|**LLM-Empowered Agentic AI for QoE-Aware Network Slicing Management in Industrial IoT**|Xudong Wang et.al.|[2512.20997](http://arxiv.org/abs/2512.20997)|null|
 |**2025-12-24**|**X-ray Insights Unleashed: Pioneering the Enhancement of Multi-Label Long-Tail Data**|Xinquan Yang et.al.|[2512.20980](http://arxiv.org/abs/2512.20980)|null|
 |**2025-12-23**|**ASCHOPLEX encounters Dafne: a federated continuous learning project for the generalizability of the Choroid Plexus automatic segmentation**|Valentina Visani et.al.|[2512.20741](http://arxiv.org/abs/2512.20741)|null|
@@ -719,6 +723,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-26**|**Yume-1.5: A Text-Controlled Interactive World Generation Model**|Xiaofeng Mao et.al.|[2512.22096](http://arxiv.org/abs/2512.22096)|null|
 |**2025-12-23**|**Bring My Cup! Personalizing Vision-Language-Action Models with Visual Attentive Prompting**|Sangoh Lee et.al.|[2512.20014](http://arxiv.org/abs/2512.20014)|null|
 |**2025-12-22**|**Visual-Aware CoT: Achieving High-Fidelity Visual Consistency in Unified Models**|Zixuan Ye et.al.|[2512.19686](http://arxiv.org/abs/2512.19686)|null|
 |**2025-12-22**|**Over++: Generative Video Compositing for Layer Interaction Effects**|Luchao Qi et.al.|[2512.19661](http://arxiv.org/abs/2512.19661)|null|
@@ -1327,6 +1332,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-25**|**EraseLoRA: MLLM-Driven Foreground Exclusion and Background Subtype Aggregation for Dataset-Free Object Removal**|Sanghyun Jo et.al.|[2512.21545](http://arxiv.org/abs/2512.21545)|null|
 |**2025-12-20**|**CTTA-T: Continual Test-Time Adaptation for Text Understanding via Teacher-Student with a Domain-aware and Generalized Teacher**|Tianlun Liu et.al.|[2512.18321](http://arxiv.org/abs/2512.18321)|null|
 |**2025-12-20**|**Atlas is Your Perfect Context: One-Shot Customization for Generalizable Foundational Medical Image Segmentation**|Ziyu Zhang et.al.|[2512.18176](http://arxiv.org/abs/2512.18176)|null|
 |**2025-12-18**|**TTP: Test-Time Padding for Adversarial Detection and Robust Adaptation on Vision-Language Models**|Zhiwei Li et.al.|[2512.16523](http://arxiv.org/abs/2512.16523)|null|
@@ -1525,6 +1531,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-26**|**iSHIFT: Lightweight Slow-Fast GUI Agent with Adaptive Perception**|Sarthak Mehrotra et.al.|[2512.22009](http://arxiv.org/abs/2512.22009)|null|
+|**2025-12-25**|**UniPercept: Towards Unified Perceptual-Level Image Understanding across Aesthetics, Quality, Structure, and Texture**|Shuo Cao et.al.|[2512.21675](http://arxiv.org/abs/2512.21675)|null|
+|**2025-12-25**|**TAMEing Long Contexts in Personalization: Towards Training-Free and State-Aware MLLM Personalized Assistant**|Rongpei Hong et.al.|[2512.21616](http://arxiv.org/abs/2512.21616)|null|
+|**2025-12-25**|**EraseLoRA: MLLM-Driven Foreground Exclusion and Background Subtype Aggregation for Dataset-Free Object Removal**|Sanghyun Jo et.al.|[2512.21545](http://arxiv.org/abs/2512.21545)|null|
 |**2025-12-24**|**Pioneering Multimodal Emotion Recognition in the Era of Large Models: From Closed Sets to Open Vocabularies**|Jing Han et.al.|[2512.20938](http://arxiv.org/abs/2512.20938)|null|
 |**2025-12-24**|**MMSRARec: Summarization and Retrieval Augumented Sequential Recommendation Based on Multimodal Large Language Model**|Haoyu Wang et.al.|[2512.20916](http://arxiv.org/abs/2512.20916)|null|
 |**2025-12-23**|**Soft Filtering: Guiding Zero-shot Composed Image Retrieval with Prescriptive and Proscriptive Constraints**|Youjin Jung et.al.|[2512.20781](http://arxiv.org/abs/2512.20781)|null|
