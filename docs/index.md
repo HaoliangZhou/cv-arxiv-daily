@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2025.12.29
+## Updated on 2025.12.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Cross-Modal Image Retrieval
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-29**|**Multimodal Interpretation of Remote Sensing Images: Dynamic Resolution Input Strategy and Multi-scale Vision-Language Alignment Mechanism**|Siyu Zhang et.al.|[2512.23243](http://arxiv.org/abs/2512.23243)|null|
 |**2025-12-23**|**Soft Filtering: Guiding Zero-shot Composed Image Retrieval with Prescriptive and Proscriptive Constraints**|Youjin Jung et.al.|[2512.20781](http://arxiv.org/abs/2512.20781)|null|
 |**2025-12-22**|**Beyond CLIP: Knowledge-Enhanced Multimodal Transformers for Cross-Modal Alignment in Diabetic Retinopathy Diagnosis**|Argha Kamal Samanta et.al.|[2512.19663](http://arxiv.org/abs/2512.19663)|null|
 |**2025-12-19**|**STAR: Semantic-Traffic Alignment and Retrieval for Zero-Shot HTTPS Website Fingerprinting**|Yifei Cheng et.al.|[2512.17667](http://arxiv.org/abs/2512.17667)|null|
@@ -92,6 +93,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-28**|**Merge before Forget: A Single LoRA Continual Learning via Continual Merging**|Fuli Qiao et.al.|[2512.23017](http://arxiv.org/abs/2512.23017)|null|
+|**2025-12-28**|**YOLO-IOD: Towards Real Time Incremental Object Detection**|Shizhou Zhang et.al.|[2512.22973](http://arxiv.org/abs/2512.22973)|null|
+|**2025-12-28**|**MetaCD: A Meta Learning Framework for Cognitive Diagnosis based on Continual Learning**|Jin Wu et.al.|[2512.22904](http://arxiv.org/abs/2512.22904)|null|
 |**2025-12-26**|**Learning continually with representational drift**|Suzanne van der Veldt et.al.|[2512.22045](http://arxiv.org/abs/2512.22045)|null|
 |**2025-12-26**|**LibContinual: A Comprehensive Library towards Realistic Continual Learning**|Wenbin Li et.al.|[2512.22029](http://arxiv.org/abs/2512.22029)|null|
 |**2025-12-26**|**Scalable Class-Incremental Learning Based on Parametric Neural Collapse**|Chuangxin Zhang et.al.|[2512.21845](http://arxiv.org/abs/2512.21845)|null|
@@ -723,6 +727,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-28**|**Reverse Personalization**|Han-Wei Kung et.al.|[2512.22984](http://arxiv.org/abs/2512.22984)|null|
+|**2025-12-28**|**M-ErasureBench: A Comprehensive Multimodal Evaluation Benchmark for Concept Erasure in Diffusion Models**|Ju-Hsuan Weng et.al.|[2512.22877](http://arxiv.org/abs/2512.22877)|null|
+|**2025-12-28**|**VPTracker: Global Vision-Language Tracking via Visual Prompt and MLLM**|Jingchao Wang et.al.|[2512.22799](http://arxiv.org/abs/2512.22799)|null|
+|**2025-12-27**|**DreamOmni3: Scribble-based Editing and Generation**|Bin Xia et.al.|[2512.22525](http://arxiv.org/abs/2512.22525)|null|
+|**2025-12-26**|**DeMoGen: Towards Decompositional Human Motion Generation with Energy-Based Diffusion Models**|Jianrong Zhang et.al.|[2512.22324](http://arxiv.org/abs/2512.22324)|null|
+|**2025-12-25**|**Human-Aligned Generative Perception: Bridging Psychophysics and Generative Models**|Antara Titikhsha et.al.|[2512.22272](http://arxiv.org/abs/2512.22272)|null|
 |**2025-12-26**|**Yume-1.5: A Text-Controlled Interactive World Generation Model**|Xiaofeng Mao et.al.|[2512.22096](http://arxiv.org/abs/2512.22096)|null|
 |**2025-12-23**|**Bring My Cup! Personalizing Vision-Language-Action Models with Visual Attentive Prompting**|Sangoh Lee et.al.|[2512.20014](http://arxiv.org/abs/2512.20014)|null|
 |**2025-12-22**|**Visual-Aware CoT: Achieving High-Fidelity Visual Consistency in Unified Models**|Zixuan Ye et.al.|[2512.19686](http://arxiv.org/abs/2512.19686)|null|
@@ -1531,6 +1541,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-29**|**MedGemma vs GPT-4: Open-Source and Proprietary Zero-shot Medical Disease Classification from Images**|Md. Sazzadul Islam Prottasha et.al.|[2512.23304](http://arxiv.org/abs/2512.23304)|null|
+|**2025-12-29**|**MM-UAVBench: How Well Do Multimodal Large Language Models See, Think, and Plan in Low-Altitude UAV Scenarios?**|Shiqi Dai et.al.|[2512.23219](http://arxiv.org/abs/2512.23219)|null|
+|**2025-12-29**|**REVEALER: Reinforcement-Guided Visual Reasoning for Element-Level Text-Image Alignment Evaluation**|Fulin Shi et.al.|[2512.23169](http://arxiv.org/abs/2512.23169)|null|
+|**2025-12-28**|**With Great Context Comes Great Prediction Power: Classifying Objects via Geo-Semantic Scene Graphs**|Ciprian Constantinescu et.al.|[2512.23024](http://arxiv.org/abs/2512.23024)|null|
+|**2025-12-28**|**JavisGPT: A Unified Multi-modal LLM for Sounding-Video Comprehension and Generation**|Kai Liu et.al.|[2512.22905](http://arxiv.org/abs/2512.22905)|null|
+|**2025-12-28**|**VPTracker: Global Vision-Language Tracking via Visual Prompt and MLLM**|Jingchao Wang et.al.|[2512.22799](http://arxiv.org/abs/2512.22799)|null|
+|**2025-12-27**|**Modality Inflation: Energy Characterization and Optimization Opportunities for MLLM Inference**|Mona Moghadampanah et.al.|[2512.22695](http://arxiv.org/abs/2512.22695)|null|
+|**2025-12-26**|**VULCAN: Tool-Augmented Multi Agents for Iterative 3D Object Arrangement**|Zhengfei Kuang et.al.|[2512.22351](http://arxiv.org/abs/2512.22351)|null|
+|**2025-12-26**|**VideoZoomer: Reinforcement-Learned Temporal Focusing for Long Video Reasoning**|Yang Ding et.al.|[2512.22315](http://arxiv.org/abs/2512.22315)|null|
 |**2025-12-26**|**iSHIFT: Lightweight Slow-Fast GUI Agent with Adaptive Perception**|Sarthak Mehrotra et.al.|[2512.22009](http://arxiv.org/abs/2512.22009)|null|
 |**2025-12-25**|**UniPercept: Towards Unified Perceptual-Level Image Understanding across Aesthetics, Quality, Structure, and Texture**|Shuo Cao et.al.|[2512.21675](http://arxiv.org/abs/2512.21675)|null|
 |**2025-12-25**|**TAMEing Long Contexts in Personalization: Towards Training-Free and State-Aware MLLM Personalized Assistant**|Rongpei Hong et.al.|[2512.21616](http://arxiv.org/abs/2512.21616)|null|
