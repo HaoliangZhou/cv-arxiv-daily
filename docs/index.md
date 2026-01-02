@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.01.01
+## Updated on 2026.01.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Cross-Modal Image Retrieval
@@ -94,9 +94,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-31**|**Bi-C2R: Bidirectional Continual Compatible Representation for Re-indexing Free Lifelong Person Re-identification**|Zhenyu Cui et.al.|[2512.25000](http://arxiv.org/abs/2512.25000)|null|
+|**2025-12-31**|**Semi-Supervised Diversity-Aware Domain Adaptation for 3D Object detection**|Bartłomiej Olber et.al.|[2512.24922](http://arxiv.org/abs/2512.24922)|null|
 |**2025-12-31**|**Nested Learning: The Illusion of Deep Learning Architectures**|Ali Behrouz et.al.|[2512.24695](http://arxiv.org/abs/2512.24695)|null|
 |**2025-12-29**|**CASCADE: Cumulative Agentic Skill Creation through Autonomous Development and Evolution**|Xu Huang et.al.|[2512.23880](http://arxiv.org/abs/2512.23880)|null|
-|**2025-12-29**|**End-to-End Test-Time Training for Long Context**|Arnuv Tandon et.al.|[2512.23675](http://arxiv.org/abs/2512.23675)|null|
+|**2025-12-31**|**End-to-End Test-Time Training for Long Context**|Arnuv Tandon et.al.|[2512.23675](http://arxiv.org/abs/2512.23675)|null|
 |**2025-12-29**|**The World Is Bigger! A Computationally-Embedded Perspective on the Big World Hypothesis**|Alex Lewandowski et.al.|[2512.23419](http://arxiv.org/abs/2512.23419)|null|
 |**2025-12-28**|**Merge before Forget: A Single LoRA Continual Learning via Continual Merging**|Fuli Qiao et.al.|[2512.23017](http://arxiv.org/abs/2512.23017)|null|
 |**2025-12-28**|**YOLO-IOD: Towards Real Time Incremental Object Detection**|Shizhou Zhang et.al.|[2512.22973](http://arxiv.org/abs/2512.22973)|null|
@@ -1552,6 +1554,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-31**|**FinMMDocR: Benchmarking Financial Multimodal Reasoning with Scenario Awareness, Document Understanding, and Multi-Step Computation**|Zichen Tang et.al.|[2512.24903](http://arxiv.org/abs/2512.24903)|null|
+|**2025-12-31**|**VLN-MME: Diagnosing MLLMs as Language-guided Visual Navigation agents**|Xunyi Zhao et.al.|[2512.24851](http://arxiv.org/abs/2512.24851)|null|
 |**2025-12-30**|**Taming Hallucinations: Boosting MLLMs' Video Understanding via Counterfactual Video Generation**|Zhe Huang et.al.|[2512.24271](http://arxiv.org/abs/2512.24271)|null|
 |**2025-12-30**|**DiffThinker: Towards Generative Multimodal Reasoning with Diffusion Models**|Zefeng He et.al.|[2512.24165](http://arxiv.org/abs/2512.24165)|null|
 |**2025-12-30**|**RSAgent: Learning to Reason and Act for Text-Guided Segmentation via Multi-Turn Tool Invocations**|Xingqi He et.al.|[2512.24023](http://arxiv.org/abs/2512.24023)|null|
