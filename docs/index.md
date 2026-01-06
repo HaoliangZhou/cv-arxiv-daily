@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.01.05
+## Updated on 2026.01.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Cross-Modal Image Retrieval
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-04**|**Achieving Fine-grained Cross-modal Understanding through Brain-inspired Hierarchical Representation Learning**|Weihang You et.al.|[2601.01339](http://arxiv.org/abs/2601.01339)|null|
 |**2026-01-02**|**Wave2Word: A Multimodal Transformer Framework for Joint EEG-Text Alignment and Multi-Task Representation Learning in Neurocritical Care**|Argha Kamal Samanta et.al.|[2601.00670](http://arxiv.org/abs/2601.00670)|null|
 |**2025-12-30**|**Neighbor-aware Instance Refining with Noisy Labels for Cross-Modal Retrieval**|Yizhi Liu et.al.|[2512.24064](http://arxiv.org/abs/2512.24064)|null|
 |**2025-12-29**|**Multimodal Interpretation of Remote Sensing Images: Dynamic Resolution Input Strategy and Multi-scale Vision-Language Alignment Mechanism**|Siyu Zhang et.al.|[2512.23243](http://arxiv.org/abs/2512.23243)|null|
@@ -95,6 +96,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-03**|**Beyond P-Values: Importing Quantitative Finance's Risk and Regret Metrics for AI in Learning Health Systems**|Richik Chakraborty et.al.|[2601.01116](http://arxiv.org/abs/2601.01116)|null|
 |**2026-01-02**|**Memory Bank Compression for Continual Adaptation of Large Language Models**|Thomas Katraouras et.al.|[2601.00756](http://arxiv.org/abs/2601.00756)|null|
 |**2026-01-02**|**Multi-Level Feature Fusion for Continual Learning in Visual Quality Inspection**|Johannes C. Bauer et.al.|[2601.00725](http://arxiv.org/abs/2601.00725)|null|
 |**2026-01-01**|**Controllable Concept Bottleneck Models**|Hongbin Lin et.al.|[2601.00451](http://arxiv.org/abs/2601.00451)|null|
@@ -738,6 +740,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-03**|**GenCAMO: Scene-Graph Contextual Decoupling for Environment-aware and Mask-free Camouflage Image-Dense Annotation Generation**|Chenglizhao Chen et.al.|[2601.01181](http://arxiv.org/abs/2601.01181)|null|
 |**2026-01-02**|**Investigating the Viability of Employing Multi-modal Large Language Models in the Context of Audio Deepfake Detection**|Akanksha Chuchra et.al.|[2601.00777](http://arxiv.org/abs/2601.00777)|null|
 |**2026-01-02**|**SafeMo: Linguistically Grounded Unlearning for Trustworthy Text-to-Motion Generation**|Yiling Wang et.al.|[2601.00590](http://arxiv.org/abs/2601.00590)|null|
 |**2025-12-31**|**It's Never Too Late: Noise Optimization for Collapse Recovery in Trained Diffusion Models**|Anne Harrington et.al.|[2601.00090](http://arxiv.org/abs/2601.00090)|null|
@@ -1367,7 +1370,7 @@ layout: default
 |**2025-12-20**|**Atlas is Your Perfect Context: One-Shot Customization for Generalizable Foundational Medical Image Segmentation**|Ziyu Zhang et.al.|[2512.18176](http://arxiv.org/abs/2512.18176)|null|
 |**2025-12-18**|**TTP: Test-Time Padding for Adversarial Detection and Robust Adaptation on Vision-Language Models**|Zhiwei Li et.al.|[2512.16523](http://arxiv.org/abs/2512.16523)|null|
 |**2025-12-12**|**Cross-Sample Augmented Test-Time Adaptation for Personalized Intraoperative Hypotension Prediction**|Kanxue Li et.al.|[2512.15762](http://arxiv.org/abs/2512.15762)|null|
-|**2025-12-16**|**DISCODE: Distribution-Aware Score Decoder for Robust Automatic Evaluation of Image Captioning**|Nakamasa Inoue et.al.|[2512.14420](http://arxiv.org/abs/2512.14420)|null|
+|**2026-01-03**|**DISCODE: Distribution-Aware Score Decoder for Robust Automatic Evaluation of Image Captioning**|Nakamasa Inoue et.al.|[2512.14420](http://arxiv.org/abs/2512.14420)|null|
 |**2025-12-14**|**Progressive Conditioned Scale-Shift Recalibration of Self-Attention for Online Test-time Adaptation**|Yushun Tang et.al.|[2512.12673](http://arxiv.org/abs/2512.12673)|null|
 |**2025-12-14**|**From Tokens to Photons: Test-Time Physical Prompting for Vison-Language Models**|Boyeong Im et.al.|[2512.12571](http://arxiv.org/abs/2512.12571)|null|
 |**2025-12-13**|**MetaTPT: Meta Test-time Prompt Tuning for Vision-Language Models**|Yuqing Lei et.al.|[2512.12268](http://arxiv.org/abs/2512.12268)|null|
@@ -1561,6 +1564,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-05**|**Yuan3.0 Flash: An Open Multimodal Large Language Model for Enterprise Applications**|YuanLab. ai et.al.|[2601.01718](http://arxiv.org/abs/2601.01718)|null|
+|**2026-01-04**|**OpenRT: An Open-Source Red Teaming Framework for Multimodal LLMs**|Xin Wang et.al.|[2601.01592](http://arxiv.org/abs/2601.01592)|null|
+|**2026-01-04**|**MOSS Transcribe Diarize: Accurate Transcription with Speaker Diarization**|Donghua Yu et.al.|[2601.01554](http://arxiv.org/abs/2601.01554)|null|
+|**2026-01-04**|**KGCE: Knowledge-Augmented Dual-Graph Evaluator for Cross-Platform Educational Agent Benchmarking with Multimodal Language Models**|Zixian Liu et.al.|[2601.01366](http://arxiv.org/abs/2601.01366)|null|
+|**2026-01-04**|**A unified multimodal understanding and generation model for cross-disciplinary scientific research**|Xiaomeng Yang et.al.|[2601.01363](http://arxiv.org/abs/2601.01363)|null|
+|**2026-01-03**|**NarrativeTrack: Evaluating Video Language Models Beyond the Frame**|Hyeonjeong Ha et.al.|[2601.01095](http://arxiv.org/abs/2601.01095)|null|
 |**2026-01-02**|**Investigating the Viability of Employing Multi-modal Large Language Models in the Context of Audio Deepfake Detection**|Akanksha Chuchra et.al.|[2601.00777](http://arxiv.org/abs/2601.00777)|null|
 |**2026-01-02**|**Grading Handwritten Engineering Exams with Multimodal Large Language Models**|Janez Perš et.al.|[2601.00730](http://arxiv.org/abs/2601.00730)|null|
 |**2026-01-02**|**DA-DPO: Cost-efficient Difficulty-aware Preference Optimization for Reducing MLLM Hallucinations**|Longtian Qiu et.al.|[2601.00623](http://arxiv.org/abs/2601.00623)|null|
