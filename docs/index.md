@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.01.06
+## Updated on 2026.01.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Cross-Modal Image Retrieval
@@ -96,6 +96,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-06**|**Study of Class-Incremental Radio Frequency Fingerprint Recognition Without Storing Exemplars**|Rundong Jiang et.al.|[2601.03063](http://arxiv.org/abs/2601.03063)|null|
+|**2026-01-06**|**MixTTE: Multi-Level Mixture-of-Experts for Scalable and Adaptive Travel Time Estimation**|Wenzhao Jiang et.al.|[2601.02943](http://arxiv.org/abs/2601.02943)|null|
+|**2026-01-06**|**CREAM: Continual Retrieval on Dynamic Streaming Corpora with Adaptive Soft Memory**|HuiJeong Son et.al.|[2601.02708](http://arxiv.org/abs/2601.02708)|null|
+|**2026-01-05**|**GEM-Style Constraints for PEFT with Dual Gradient Projection in LoRA**|Brian Tekmen et.al.|[2601.02500](http://arxiv.org/abs/2601.02500)|null|
+|**2026-01-05**|**The Rise of Agentic Testing: Multi-Agent Systems for Robust Software Quality Assurance**|Saba Naqvi et.al.|[2601.02454](http://arxiv.org/abs/2601.02454)|null|
+|**2026-01-05**|**BEDS: Bayesian Emergent Dissipative Structures**|Laurent Caraffa et.al.|[2601.02329](http://arxiv.org/abs/2601.02329)|null|
+|**2026-01-05**|**ELLA: Efficient Lifelong Learning for Adapters in Large Language Models**|Shristi Das Biswas et.al.|[2601.02232](http://arxiv.org/abs/2601.02232)|null|
+|**2026-01-05**|**Forget Less by Learning Together through Concept Consolidation**|Arjun Ramesh Kaushik et.al.|[2601.01963](http://arxiv.org/abs/2601.01963)|null|
+|**2026-01-05**|**MacVQA: Adaptive Memory Allocation and Global Noise Filtering for Continual Visual Question Answering**|Zhifei Li et.al.|[2601.01926](http://arxiv.org/abs/2601.01926)|null|
 |**2026-01-03**|**Beyond P-Values: Importing Quantitative Finance's Risk and Regret Metrics for AI in Learning Health Systems**|Richik Chakraborty et.al.|[2601.01116](http://arxiv.org/abs/2601.01116)|null|
 |**2026-01-02**|**Memory Bank Compression for Continual Adaptation of Large Language Models**|Thomas Katraouras et.al.|[2601.00756](http://arxiv.org/abs/2601.00756)|null|
 |**2026-01-02**|**Multi-Level Feature Fusion for Continual Learning in Visual Quality Inspection**|Johannes C. Bauer et.al.|[2601.00725](http://arxiv.org/abs/2601.00725)|null|
@@ -740,6 +749,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-05**|**DiffProxy: Multi-View Human Mesh Recovery via Diffusion-Generated Dense Proxies**|Renke Wang et.al.|[2601.02267](http://arxiv.org/abs/2601.02267)|null|
 |**2026-01-03**|**GenCAMO: Scene-Graph Contextual Decoupling for Environment-aware and Mask-free Camouflage Image-Dense Annotation Generation**|Chenglizhao Chen et.al.|[2601.01181](http://arxiv.org/abs/2601.01181)|null|
 |**2026-01-02**|**Investigating the Viability of Employing Multi-modal Large Language Models in the Context of Audio Deepfake Detection**|Akanksha Chuchra et.al.|[2601.00777](http://arxiv.org/abs/2601.00777)|null|
 |**2026-01-02**|**SafeMo: Linguistically Grounded Unlearning for Trustworthy Text-to-Motion Generation**|Yiling Wang et.al.|[2601.00590](http://arxiv.org/abs/2601.00590)|null|
@@ -1362,6 +1372,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-05**|**BiPrompt: Bilateral Prompt Optimization for Visual and Textual Debiasing in Vision-Language Models**|Sunny Gupta et.al.|[2601.02147](http://arxiv.org/abs/2601.02147)|null|
+|**2026-01-05**|**DermoGPT: Open Weights and Open Data for Morphology-Grounded Dermatological Reasoning MLLMs**|Jinghan Ru et.al.|[2601.01868](http://arxiv.org/abs/2601.01868)|null|
 |**2025-12-31**|**SLM-TTA: A Framework for Test-Time Adaptation of Generative Spoken Language Models**|Yuan-Kuei Wu et.al.|[2512.24739](http://arxiv.org/abs/2512.24739)|null|
 |**2025-12-30**|**Align While Search: Belief-Guided Exploratory Inference for World-Grounded Embodied Agents**|Seohui Bae et.al.|[2512.24461](http://arxiv.org/abs/2512.24461)|null|
 |**2025-12-29**|**ECG-RAMBA: Zero-Shot ECG Generalization by Morphology-Rhythm Disentanglement and Long-Range Modeling**|Hai Duong Nguyen et.al.|[2512.23347](http://arxiv.org/abs/2512.23347)|null|
@@ -1564,6 +1576,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-06**|**Empowering Reliable Visual-Centric Instruction Following in MLLMs**|Weilei He et.al.|[2601.03198](http://arxiv.org/abs/2601.03198)|null|
+|**2026-01-06**|**AnatomiX, an Anatomy-Aware Grounded Multimodal Large Language Model for Chest X-Ray Interpretation**|Anees Ur Rehman Hashmi et.al.|[2601.03191](http://arxiv.org/abs/2601.03191)|null|
+|**2026-01-06**|**Text-Guided Layer Fusion Mitigates Hallucination in Multimodal LLMs**|Chenchen Lin et.al.|[2601.03100](http://arxiv.org/abs/2601.03100)|null|
+|**2026-01-06**|**Towards Faithful Reasoning in Comics for Small MLLMs**|Chengcheng Feng et.al.|[2601.02991](http://arxiv.org/abs/2601.02991)|null|
+|**2026-01-06**|**Rationale-Grounded In-Context Learning for Time Series Reasoning with Multimodal Large Language Models**|Qingxiang Liu et.al.|[2601.02968](http://arxiv.org/abs/2601.02968)|null|
+|**2026-01-06**|**PrismVAU: Prompt-Refined Inference System for Multimodal Video Anomaly Understanding**|Iñaki Erregue et.al.|[2601.02927](http://arxiv.org/abs/2601.02927)|null|
+|**2026-01-06**|**ClearAIR: A Human-Visual-Perception-Inspired All-in-One Image Restoration**|Xu Zhang et.al.|[2601.02763](http://arxiv.org/abs/2601.02763)|null|
+|**2026-01-06**|**Unveiling and Bridging the Functional Perception Gap in MLLMs: Atomic Visual Alignment and Hierarchical Evaluation via PET-Bench**|Zanting Ye et.al.|[2601.02737](http://arxiv.org/abs/2601.02737)|null|
+|**2026-01-06**|**Uni-FinLLM: A Unified Multimodal Large Language Model with Modular Task Heads for Micro-Level Stock Prediction and Macro-Level Systemic Risk Assessment**|Gongao Zhang et.al.|[2601.02677](http://arxiv.org/abs/2601.02677)|null|
+|**2026-01-05**|**InternVLA-A1: Unifying Understanding, Generation and Action for Robotic Manipulation**|Junhao Cai et.al.|[2601.02456](http://arxiv.org/abs/2601.02456)|null|
 |**2026-01-05**|**Yuan3.0 Flash: An Open Multimodal Large Language Model for Enterprise Applications**|YuanLab. ai et.al.|[2601.01718](http://arxiv.org/abs/2601.01718)|null|
 |**2026-01-04**|**OpenRT: An Open-Source Red Teaming Framework for Multimodal LLMs**|Xin Wang et.al.|[2601.01592](http://arxiv.org/abs/2601.01592)|null|
 |**2026-01-04**|**MOSS Transcribe Diarize: Accurate Transcription with Speaker Diarization**|Donghua Yu et.al.|[2601.01554](http://arxiv.org/abs/2601.01554)|null|
