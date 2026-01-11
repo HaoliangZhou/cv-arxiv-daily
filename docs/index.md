@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.01.09
+## Updated on 2026.01.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Cross-Modal Image Retrieval
@@ -756,6 +756,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-08**|**RoboVIP: Multi-View Video Generation with Visual Identity Prompting Augments Robot Manipulation**|Boyang Wang et.al.|[2601.05241](http://arxiv.org/abs/2601.05241)|null|
 |**2026-01-08**|**Re-Align: Structured Reasoning-guided Alignment for In-Context Image Generation and Editing**|Runze He et.al.|[2601.05124](http://arxiv.org/abs/2601.05124)|null|
 |**2026-01-08**|**Leveraging Prediction Entropy for Automatic Prompt Weighting in Zero-Shot Audio-Language Classification**|Karim El Khoury et.al.|[2601.05011](http://arxiv.org/abs/2601.05011)|null|
 |**2026-01-08**|**HyperAlign: Hyperbolic Entailment Cones for Adaptive Text-to-Image Alignment Assessment**|Wenzhi Chen et.al.|[2601.04614](http://arxiv.org/abs/2601.04614)|null|
