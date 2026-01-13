@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.01.12
+## Updated on 2026.01.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Cross-Modal Image Retrieval
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-11**|**CLIMP: Contrastive Language-Image Mamba Pretraining**|Nimrod Shabtay et.al.|[2601.06891](http://arxiv.org/abs/2601.06891)|null|
 |**2026-01-08**|**Multi-task Cross-modal Learning for Chest X-ray Image Retrieval**|Zhaohui Liang et.al.|[2601.05399](http://arxiv.org/abs/2601.05399)|null|
 |**2026-01-07**|**CSMCIR: CoT-Enhanced Symmetric Alignment with Memory Bank for Composed Image Retrieval**|Zhipeng Qian et.al.|[2601.03728](http://arxiv.org/abs/2601.03728)|null|
 |**2026-01-04**|**Achieving Fine-grained Cross-modal Understanding through Brain-inspired Hierarchical Representation Learning**|Weihang You et.al.|[2601.01339](http://arxiv.org/abs/2601.01339)|null|
@@ -98,6 +99,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-12**|**Few-shot Class-Incremental Learning via Generative Co-Memory Regularization**|Kexin Bao et.al.|[2601.07117](http://arxiv.org/abs/2601.07117)|null|
+|**2026-01-11**|**ImmuniFraug: A Metacognitive Intervention Anti-Fraud Approach to Enhance Undergraduate Students' Cyber Fraud Awareness**|Xiangzhe Yuan et.al.|[2601.06774](http://arxiv.org/abs/2601.06774)|null|
+|**2026-01-11**|**A Backpropagation-Free Feedback-Hebbian Network for Continual Learning Dynamics**|Josh Li et.al.|[2601.06758](http://arxiv.org/abs/2601.06758)|null|
+|**2026-01-11**|**Federated Continual Learning for Privacy-Preserving Hospital Imaging Classification**|Anay Sinhal et.al.|[2601.06742](http://arxiv.org/abs/2601.06742)|null|
+|**2026-01-09**|**LDTC: Lifelong deep temporal clustering for multivariate time series**|Zhi Wang et.al.|[2601.06221](http://arxiv.org/abs/2601.06221)|null|
 |**2026-01-09**|**Continual-learning for Modelling Low-Resource Languages from Large Language Models**|Santosh Srinath K et.al.|[2601.05874](http://arxiv.org/abs/2601.05874)|null|
 |**2026-01-09**|**Continual Learning of Achieving Forgetting-free and Positive Knowledge Transfer**|Zhi Wang et.al.|[2601.05623](http://arxiv.org/abs/2601.05623)|null|
 |**2026-01-09**|**Generalizable and Adaptive Continual Learning Framework for AI-generated Image Detection**|Hanyi Wang et.al.|[2601.05580](http://arxiv.org/abs/2601.05580)|null|
@@ -760,6 +766,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-11**|**OSCAR: Optical-aware Semantic Control for Aleatoric Refinement in Sar-to-Optical Translation**|Hyunseo Lee et.al.|[2601.06835](http://arxiv.org/abs/2601.06835)|null|
+|**2026-01-09**|**Circuit Mechanisms for Spatial Relation Generation in Diffusion Transformers**|Binxu Wang et.al.|[2601.06338](http://arxiv.org/abs/2601.06338)|null|
+|**2026-01-09**|**SAPL: Semantic-Agnostic Prompt Learning in CLIP for Weakly Supervised Image Manipulation Localization**|Xinghao Wang et.al.|[2601.06222](http://arxiv.org/abs/2601.06222)|null|
 |**2026-01-09**|**SPAM: Style Prompt Adherence Metric for Prompt-based TTS**|Chanhee Cho et.al.|[2601.05554](http://arxiv.org/abs/2601.05554)|null|
 |**2026-01-08**|**RoboVIP: Multi-View Video Generation with Visual Identity Prompting Augments Robot Manipulation**|Boyang Wang et.al.|[2601.05241](http://arxiv.org/abs/2601.05241)|null|
 |**2026-01-08**|**Re-Align: Structured Reasoning-guided Alignment for In-Context Image Generation and Editing**|Runze He et.al.|[2601.05124](http://arxiv.org/abs/2601.05124)|null|
@@ -1304,6 +1313,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-10**|**SRFlow: A Dataset and Regularization Model for High-Resolution Facial Optical Flow via Splatting Rasterization**|JiaLin Zhang et.al.|[2601.06479](http://arxiv.org/abs/2601.06479)|null|
 |**2026-01-09**|**Semi-Supervised Facial Expression Recognition based on Dynamic Threshold and Negative Learning**|Zhongpeng Cai et.al.|[2601.05556](http://arxiv.org/abs/2601.05556)|null|
 |**2025-12-19**|**FOODER: Real-time Facial Authentication and Expression Recognition**|Sabri Mustafa Kahya et.al.|[2512.18057](http://arxiv.org/abs/2512.18057)|null|
 |**2025-12-18**|**Smile on the Face, Sadness in the Eyes: Bridging the Emotion Gap with a Multimodal Dataset of Eye and Facial Behaviors**|Kejun Liu et.al.|[2512.16485](http://arxiv.org/abs/2512.16485)|null|
@@ -1597,6 +1607,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-11**|**SketchJudge: A Diagnostic Benchmark for Grading Hand-drawn Diagrams with Multimodal Large Language Models**|Yuhang Su et.al.|[2601.06944](http://arxiv.org/abs/2601.06944)|null|
+|**2026-01-11**|**Watching, Reasoning, and Searching: A Video Deep Research Benchmark on Open Web for Agentic Video Reasoning**|Chengwen Liu et.al.|[2601.06943](http://arxiv.org/abs/2601.06943)|null|
+|**2026-01-11**|**DaQ-MSA: Denoising and Qualifying Diffusion Augmentations for Multimodal Sentiment Analysis**|Jiazhang Liang et.al.|[2601.06870](http://arxiv.org/abs/2601.06870)|null|
+|**2026-01-11**|**Explainable Multimodal Aspect-Based Sentiment Analysis with Dependency-guided Large Language Model**|Zhongzheng Wang et.al.|[2601.06848](http://arxiv.org/abs/2601.06848)|null|
+|**2026-01-11**|**Speak While Watching: Unleashing TRUE Real-Time Video Understanding Capability of Multimodal Large Language Models**|Junyan Lin et.al.|[2601.06843](http://arxiv.org/abs/2601.06843)|null|
+|**2026-01-11**|**MTMCS-Bench: Evaluating Contextual Safety of Multimodal Large Language Models in Multi-Turn Dialogues**|Zheyuan Liu et.al.|[2601.06757](http://arxiv.org/abs/2601.06757)|null|
+|**2026-01-11**|**Benchmarking Egocentric Clinical Intent Understanding Capability for Medical Multimodal Large Language Models**|Shaonan Liu et.al.|[2601.06750](http://arxiv.org/abs/2601.06750)|null|
+|**2026-01-10**|**Probing Multimodal Large Language Models on Cognitive Biases in Chinese Short-Video Misinformation**|Jen-tse Huang et.al.|[2601.06600](http://arxiv.org/abs/2601.06600)|null|
+|**2026-01-10**|**Spec-o3: A Tool-Augmented Vision-Language Agent for Rare Celestial Object Candidate Vetting via Automated Spectral Inspection**|Minghui Jia et.al.|[2601.06498](http://arxiv.org/abs/2601.06498)|null|
 |**2026-01-09**|**SketchVL: Policy Optimization via Fine-Grained Credit Assignment for Chart Understanding and More**|Muye Huang et.al.|[2601.05688](http://arxiv.org/abs/2601.05688)|null|
 |**2026-01-09**|**SceneAlign: Aligning Multimodal Reasoning to Scene Graphs in Complex Visual Scenes**|Chuhan Wang et.al.|[2601.05600](http://arxiv.org/abs/2601.05600)|null|
 |**2026-01-08**|**VideoAuto-R1: Video Auto Reasoning via Thinking Once, Answering Twice**|Shuming Liu et.al.|[2601.05175](http://arxiv.org/abs/2601.05175)|null|
