@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.01.14
+## Updated on 2026.01.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Cross-Modal Image Retrieval
@@ -99,10 +99,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-14**|**CLARE: Continual Learning for Vision-Language-Action Models via Autonomous Adapter Routing and Expansion**|Ralf Römer et.al.|[2601.09512](http://arxiv.org/abs/2601.09512)|null|
+|**2026-01-14**|**Progressive Mixture-of-Experts with autoencoder routing for continual RANS turbulence modelling**|Haoyu Ji et.al.|[2601.09305](http://arxiv.org/abs/2601.09305)|null|
+|**2026-01-14**|**The AI Hippocampus: How Far are We From Human Memory?**|Zixia Jia et.al.|[2601.09113](http://arxiv.org/abs/2601.09113)|null|
+|**2026-01-13**|**Adaptive few-shot learning for robust part quality classification in two-photon lithography**|Sixian Jia et.al.|[2601.08885](http://arxiv.org/abs/2601.08885)|null|
 |**2026-01-13**|**CD^2: Constrained Dataset Distillation for Few-Shot Class-Incremental Learning**|Kexin Bao et.al.|[2601.08519](http://arxiv.org/abs/2601.08519)|null|
 |**2026-01-13**|**PKI: Prior Knowledge-Infused Neural Network for Few-Shot Class-Incremental Learning**|Kexin Baoa et.al.|[2601.08493](http://arxiv.org/abs/2601.08493)|null|
 |**2026-01-13**|**Divide and Conquer: Static-Dynamic Collaboration for Few-Shot Class-Incremental Learning**|Kexin Bao et.al.|[2601.08448](http://arxiv.org/abs/2601.08448)|null|
-|**2026-01-13**|**Large Multimodal Models for Embodied Intelligent Driving: The Next Frontier in Self-Driving?**|Long Zhang et.al.|[2601.08434](http://arxiv.org/abs/2601.08434)|null|
+|**2026-01-14**|**Large Multimodal Models for Embodied Intelligent Driving: The Next Frontier in Self-Driving?**|Long Zhang et.al.|[2601.08434](http://arxiv.org/abs/2601.08434)|null|
 |**2026-01-13**|**The Agent's First Day: Benchmarking Learning, Exploration, and Scheduling in the Workplace Scenarios**|Daocheng Fu et.al.|[2601.08173](http://arxiv.org/abs/2601.08173)|null|
 |**2026-01-12**|**Beyond Sharpness: A Flatness Decomposition Framework for Efficient Continual Learning**|Yanan Chen et.al.|[2601.07636](http://arxiv.org/abs/2601.07636)|null|
 |**2026-01-12**|**DarwinTOD: LLM Driven Lifelong Self Evolution for Task Oriented Dialog Systems**|Shuyu Zhang et.al.|[2601.07248](http://arxiv.org/abs/2601.07248)|null|
@@ -773,6 +777,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-14**|**Population-Aligned Audio Reproduction With LLM-Based Equalizers**|Ioannis Stylianou et.al.|[2601.09448](http://arxiv.org/abs/2601.09448)|null|
+|**2026-01-14**|**SSVP: Synergistic Semantic-Visual Prompting for Industrial Zero-Shot Anomaly Detection**|Chenhao Fu et.al.|[2601.09147](http://arxiv.org/abs/2601.09147)|null|
 |**2026-01-13**|**SoC: Semantic Orthogonal Calibration for Test-Time Prompt Tuning**|Leo Fillioux et.al.|[2601.08617](http://arxiv.org/abs/2601.08617)|null|
 |**2026-01-13**|**Rewriting Video: Text-Driven Reauthoring of Video Footage**|Sitong Wang et.al.|[2601.08565](http://arxiv.org/abs/2601.08565)|null|
 |**2026-01-13**|**BenchOverflow: Measuring Overflow in Large Language Models via Plain-Text Prompts**|Erin Feiglin et.al.|[2601.08490](http://arxiv.org/abs/2601.08490)|null|
@@ -1327,6 +1333,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-14**|**Video Joint-Embedding Predictive Architectures for Facial Expression Recognition**|Lennart Eing et.al.|[2601.09524](http://arxiv.org/abs/2601.09524)|null|
 |**2026-01-10**|**SRFlow: A Dataset and Regularization Model for High-Resolution Facial Optical Flow via Splatting Rasterization**|JiaLin Zhang et.al.|[2601.06479](http://arxiv.org/abs/2601.06479)|null|
 |**2026-01-09**|**Semi-Supervised Facial Expression Recognition based on Dynamic Threshold and Negative Learning**|Zhongpeng Cai et.al.|[2601.05556](http://arxiv.org/abs/2601.05556)|null|
 |**2025-12-19**|**FOODER: Real-time Facial Authentication and Expression Recognition**|Sabri Mustafa Kahya et.al.|[2512.18057](http://arxiv.org/abs/2512.18057)|null|
@@ -1624,10 +1631,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-01-13**|**M3CoTBench: Benchmark Chain-of-Thought of MLLMs in Medical Image Understanding**|Juntao Jiang et.al.|[2601.08758](http://arxiv.org/abs/2601.08758)|null|
+|**2026-01-14**|**Omni-R1: Towards the Unified Generative Paradigm for Multimodal Reasoning**|Dongjie Cheng et.al.|[2601.09536](http://arxiv.org/abs/2601.09536)|null|
+|**2026-01-14**|**Personalized Multimodal Feedback Using Multiple External Representations: Strategy Profiles and Learning in High School Physics**|Natalia Revenga-Lozano et.al.|[2601.09470](http://arxiv.org/abs/2601.09470)|null|
+|**2026-01-14**|**Video-MSR: Benchmarking Multi-hop Spatial Reasoning Capabilities of MLLMs**|Rui Zhu et.al.|[2601.09430](http://arxiv.org/abs/2601.09430)|null|
+|**2026-01-14**|**SLAM-LLM: A Modular, Open-Source Multimodal Large Language Model Framework and Best Practice for Speech, Language, Audio and Music Processing**|Ziyang Ma et.al.|[2601.09385](http://arxiv.org/abs/2601.09385)|null|
+|**2026-01-14**|**See More, Store Less: Memory-Efficient Resolution for Video Moment Retrieval**|Mingyu Jeon et.al.|[2601.09350](http://arxiv.org/abs/2601.09350)|null|
+|**2026-01-14**|**MCGA: A Multi-task Classical Chinese Literary Genre Audio Corpus**|Yexing Du et.al.|[2601.09270](http://arxiv.org/abs/2601.09270)|null|
+|**2026-01-14**|**M3CoTBench: Benchmark Chain-of-Thought of MLLMs in Medical Image Understanding**|Juntao Jiang et.al.|[2601.08758](http://arxiv.org/abs/2601.08758)|null|
 |**2026-01-13**|**Incentivizing Cardiologist-Like Reasoning in MLLMs for Interpretable Echocardiographic Diagnosis**|Yi Qin et.al.|[2601.08440](http://arxiv.org/abs/2601.08440)|null|
 |**2026-01-13**|**KidVis: Do Multimodal Large Language Models Possess the Visual Perceptual Capabilities of a 6-Year-Old?**|Xianfeng Wang et.al.|[2601.08292](http://arxiv.org/abs/2601.08292)|null|
-|**2026-01-13**|**GI-Bench: A Panoramic Benchmark Revealing the Knowledge-Experience Dissociation of Multimodal Large Language Models in Gastrointestinal Endoscopy Against Clinical Standards**|Yan Zhu et.al.|[2601.08183](http://arxiv.org/abs/2601.08183)|null|
+|**2026-01-14**|**GI-Bench: A Panoramic Benchmark Revealing the Knowledge-Experience Dissociation of Multimodal Large Language Models in Gastrointestinal Endoscopy Against Clinical Standards**|Yan Zhu et.al.|[2601.08183](http://arxiv.org/abs/2601.08183)|null|
 |**2026-01-13**|**Where Does Vision Meet Language? Understanding and Refining Visual Fusion in MLLMs via Contrastive Attention**|Shezheng Song et.al.|[2601.08151](http://arxiv.org/abs/2601.08151)|null|
 |**2026-01-12**|**PlaM: Training-Free Plateau-Guided Model Merging for Better Visual Grounding in MLLMs**|Zijing Wang et.al.|[2601.07645](http://arxiv.org/abs/2601.07645)|null|
 |**2026-01-12**|**Seeing Right but Saying Wrong: Inter- and Intra-Layer Refinement in MLLMs without Training**|Shezheng Song et.al.|[2601.07359](http://arxiv.org/abs/2601.07359)|null|
