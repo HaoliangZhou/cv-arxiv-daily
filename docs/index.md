@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.01.18
+## Updated on 2026.01.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Cross-Modal Image Retrieval
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-16**|**Heterogeneous Uncertainty-Guided Composed Image Retrieval with Fine-Grained Probabilistic Learning**|Haomiao Tang et.al.|[2601.11393](http://arxiv.org/abs/2601.11393)|null|
 |**2026-01-15**|**DanQing: An Up-to-Date Large-Scale Chinese Vision-Language Pre-training Dataset**|Hengyu Shen et.al.|[2601.10305](http://arxiv.org/abs/2601.10305)|null|
 |**2026-01-11**|**CLIMP: Contrastive Language-Image Mamba Pretraining**|Nimrod Shabtay et.al.|[2601.06891](http://arxiv.org/abs/2601.06891)|null|
 |**2026-01-08**|**Multi-task Cross-modal Learning for Chest X-ray Image Retrieval**|Zhaohui Liang et.al.|[2601.05399](http://arxiv.org/abs/2601.05399)|null|
@@ -781,6 +782,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-16**|**CoDance: An Unbind-Rebind Paradigm for Robust Multi-Subject Animation**|Shuai Tan et.al.|[2601.11096](http://arxiv.org/abs/2601.11096)|null|
+|**2026-01-16**|**Generation of Chest CT pulmonary Nodule Images by Latent Diffusion Models using the LIDC-IDRI Dataset**|Kaito Urata et.al.|[2601.11085](http://arxiv.org/abs/2601.11085)|null|
+|**2026-01-16**|**Data-driven Prediction of Ionic Conductivity in Solid-State Electrolytes with Machine Learning and Large Language Models**|Haewon Kim et.al.|[2601.10997](http://arxiv.org/abs/2601.10997)|null|
+|**2026-01-15**|**FrankenMotion: Part-level Human Motion Generation and Composition**|Chuqiao Li et.al.|[2601.10909](http://arxiv.org/abs/2601.10909)|null|
+|**2026-01-15**|**Medical SAM3: A Foundation Model for Universal Prompt-Driven Medical Image Segmentation**|Chongcong Jiang et.al.|[2601.10880](http://arxiv.org/abs/2601.10880)|null|
 |**2026-01-15**|**Enhancing Visual In-Context Learning by Multi-Faceted Fusion**|Wenwen Liao et.al.|[2601.10107](http://arxiv.org/abs/2601.10107)|null|
 |**2026-01-14**|**Population-Aligned Audio Reproduction With LLM-Based Equalizers**|Ioannis Stylianou et.al.|[2601.09448](http://arxiv.org/abs/2601.09448)|null|
 |**2026-01-14**|**SSVP: Synergistic Semantic-Visual Prompting for Industrial Zero-Shot Anomaly Detection**|Chenhao Fu et.al.|[2601.09147](http://arxiv.org/abs/2601.09147)|null|
@@ -1427,6 +1433,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-16**|**Predict the Retrieval! Test time adaptation for Retrieval Augmented Generation**|Xin Sun et.al.|[2601.11443](http://arxiv.org/abs/2601.11443)|null|
+|**2026-01-16**|**Matching High-Dimensional Geometric Quantiles for Test-Time Adaptation of Transformers and Convolutional Networks Alike**|Sravan Danda et.al.|[2601.11022](http://arxiv.org/abs/2601.11022)|null|
 |**2026-01-13**|**Subspace Alignment for Vision-Language Model Test-time Adaptation**|Zhichen Zeng et.al.|[2601.08139](http://arxiv.org/abs/2601.08139)|null|
 |**2026-01-12**|**Backpropagation-Free Test-Time Adaptation for Lightweight EEG-Based Brain-Computer Interfaces**|Siyang Li et.al.|[2601.07556](http://arxiv.org/abs/2601.07556)|null|
 |**2026-01-12**|**Test-time Adaptive Hierarchical Co-enhanced Denoising Network for Reliable Multimodal Classification**|Shu Shen et.al.|[2601.07163](http://arxiv.org/abs/2601.07163)|null|
@@ -1636,8 +1644,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-01-15**|**A Safety Report on GPT-5.2, Gemini 3 Pro, Qwen3-VL, Doubao 1.8, Grok 4.1 Fast, Nano Banana Pro, and Seedream 4.5**|Xingjun Ma et.al.|[2601.10527](http://arxiv.org/abs/2601.10527)|null|
-|**2026-01-15**|**ChartComplete: A Taxonomy-based Inclusive Chart Dataset**|Ahmad Mustapha et.al.|[2601.10462](http://arxiv.org/abs/2601.10462)|null|
+|**2026-01-16**|**A Safety Report on GPT-5.2, Gemini 3 Pro, Qwen3-VL, Grok 4.1 Fast, Nano Banana Pro, and Seedream 4.5**|Xingjun Ma et.al.|[2601.10527](http://arxiv.org/abs/2601.10527)|null|
+|**2026-01-16**|**ChartComplete: A Taxonomy-based Inclusive Chart Dataset**|Ahmad Mustapha et.al.|[2601.10462](http://arxiv.org/abs/2601.10462)|null|
 |**2026-01-15**|**Fine-Grained Human Pose Editing Assessment via Layer-Selective MLLMs**|Ningyu Sun et.al.|[2601.10369](http://arxiv.org/abs/2601.10369)|null|
 |**2026-01-15**|**ROMA: Real-time Omni-Multimodal Assistant with Interactive Streaming Understanding**|Xueyun Tian et.al.|[2601.10323](http://arxiv.org/abs/2601.10323)|null|
 |**2026-01-15**|**MoST: Mixing Speech and Text with Modality-Aware Mixture of Experts**|Yuxuan Lou et.al.|[2601.10272](http://arxiv.org/abs/2601.10272)|null|

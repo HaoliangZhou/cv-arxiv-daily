@@ -1,4 +1,4 @@
-## Updated on 2026.01.18
+## Updated on 2026.01.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -17,6 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-16**|**Heterogeneous Uncertainty-Guided Composed Image Retrieval with Fine-Grained Probabilistic Learning**|Haomiao Tang et.al.|[2601.11393](http://arxiv.org/abs/2601.11393)|null|
 |**2026-01-15**|**DanQing: An Up-to-Date Large-Scale Chinese Vision-Language Pre-training Dataset**|Hengyu Shen et.al.|[2601.10305](http://arxiv.org/abs/2601.10305)|null|
 |**2026-01-11**|**CLIMP: Contrastive Language-Image Mamba Pretraining**|Nimrod Shabtay et.al.|[2601.06891](http://arxiv.org/abs/2601.06891)|null|
 |**2026-01-08**|**Multi-task Cross-modal Learning for Chest X-ray Image Retrieval**|Zhaohui Liang et.al.|[2601.05399](http://arxiv.org/abs/2601.05399)|null|
@@ -104,7 +105,7 @@
 |**2024-12-02**|**AnySynth: Harnessing the Power of Image Synthetic Data Generation for Generalized Vision-Language Tasks**|You Li et.al.|[2411.16749](http://arxiv.org/abs/2411.16749)|null|
 |**2024-10-31**|**MoTaDual: Modality-Task Dual Alignment for Enhanced Zero-shot Composed Image Retrieval**|Haiwen Li et.al.|[2410.23736](http://arxiv.org/abs/2410.23736)|null|
 
-<p align=right>(<a href=#updated-on-20260118>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260119>back to top</a>)</p>
 
 ## Continual Learning
 
@@ -787,12 +788,17 @@
 |**2025-02-10**|**Prompt-Driven Continual Graph Learning**|Qi Wang et.al.|[2502.06327](http://arxiv.org/abs/2502.06327)|null|
 |**2025-02-10**|**Position: Continual Learning Benefits from An Evolving Population over An Unified Model**|Aojun Lu et.al.|[2502.06210](http://arxiv.org/abs/2502.06210)|null|
 
-<p align=right>(<a href=#updated-on-20260118>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260119>back to top</a>)</p>
 
 ## Vision-Language Prompting
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-16**|**CoDance: An Unbind-Rebind Paradigm for Robust Multi-Subject Animation**|Shuai Tan et.al.|[2601.11096](http://arxiv.org/abs/2601.11096)|null|
+|**2026-01-16**|**Generation of Chest CT pulmonary Nodule Images by Latent Diffusion Models using the LIDC-IDRI Dataset**|Kaito Urata et.al.|[2601.11085](http://arxiv.org/abs/2601.11085)|null|
+|**2026-01-16**|**Data-driven Prediction of Ionic Conductivity in Solid-State Electrolytes with Machine Learning and Large Language Models**|Haewon Kim et.al.|[2601.10997](http://arxiv.org/abs/2601.10997)|null|
+|**2026-01-15**|**FrankenMotion: Part-level Human Motion Generation and Composition**|Chuqiao Li et.al.|[2601.10909](http://arxiv.org/abs/2601.10909)|null|
+|**2026-01-15**|**Medical SAM3: A Foundation Model for Universal Prompt-Driven Medical Image Segmentation**|Chongcong Jiang et.al.|[2601.10880](http://arxiv.org/abs/2601.10880)|null|
 |**2026-01-15**|**Enhancing Visual In-Context Learning by Multi-Faceted Fusion**|Wenwen Liao et.al.|[2601.10107](http://arxiv.org/abs/2601.10107)|null|
 |**2026-01-14**|**Population-Aligned Audio Reproduction With LLM-Based Equalizers**|Ioannis Stylianou et.al.|[2601.09448](http://arxiv.org/abs/2601.09448)|null|
 |**2026-01-14**|**SSVP: Synergistic Semantic-Visual Prompting for Industrial Zero-Shot Anomaly Detection**|Chenhao Fu et.al.|[2601.09147](http://arxiv.org/abs/2601.09147)|null|
@@ -1346,7 +1352,7 @@
 |**2025-02-08**|**Diverse Image Generation with Diffusion Models and Cross Class Label Learning for Polyp Classification**|Vanshali Sharma et.al.|[2502.05444](http://arxiv.org/abs/2502.05444)|**[link](https://github.com/vanshali/pathopolyp-diff)**|
 |**2025-02-07**|**FlashVideo:Flowing Fidelity to Detail for Efficient High-Resolution Video Generation**|Shilong Zhang et.al.|[2502.05179](http://arxiv.org/abs/2502.05179)|**[link](https://github.com/foundationvision/flashvideo)**|
 
-<p align=right>(<a href=#updated-on-20260118>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260119>back to top</a>)</p>
 
 ## Facial Expression Recognition
 
@@ -1437,12 +1443,14 @@
 |**2024-12-16**|**Impact of Face Alignment on Face Image Quality**|Eren Onaran et.al.|[2412.11779](http://arxiv.org/abs/2412.11779)|null|
 |**2024-12-15**|**Unimodal and Multimodal Static Facial Expression Recognition for Virtual Reality Users with EmoHeVRDB**|Thorben Ortmann et.al.|[2412.11306](http://arxiv.org/abs/2412.11306)|**[link](https://github.com/thorbenortmann/emohevrdb-sfer)**|
 
-<p align=right>(<a href=#updated-on-20260118>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260119>back to top</a>)</p>
 
 ## Test-Time Adaptation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-16**|**Predict the Retrieval! Test time adaptation for Retrieval Augmented Generation**|Xin Sun et.al.|[2601.11443](http://arxiv.org/abs/2601.11443)|null|
+|**2026-01-16**|**Matching High-Dimensional Geometric Quantiles for Test-Time Adaptation of Transformers and Convolutional Networks Alike**|Sravan Danda et.al.|[2601.11022](http://arxiv.org/abs/2601.11022)|null|
 |**2026-01-13**|**Subspace Alignment for Vision-Language Model Test-time Adaptation**|Zhichen Zeng et.al.|[2601.08139](http://arxiv.org/abs/2601.08139)|null|
 |**2026-01-12**|**Backpropagation-Free Test-Time Adaptation for Lightweight EEG-Based Brain-Computer Interfaces**|Siyang Li et.al.|[2601.07556](http://arxiv.org/abs/2601.07556)|null|
 |**2026-01-12**|**Test-time Adaptive Hierarchical Co-enhanced Denoising Network for Reliable Multimodal Classification**|Shu Shen et.al.|[2601.07163](http://arxiv.org/abs/2601.07163)|null|
@@ -1648,14 +1656,14 @@
 |**2025-01-31**|**Test-time Loss Landscape Adaptation for Zero-Shot Generalization in Vision-Language Models**|Aodi Li et.al.|[2501.18864](http://arxiv.org/abs/2501.18864)|null|
 |**2025-02-03**|**Advances in Multimodal Adaptation and Generalization: From Traditional Approaches to Foundation Models**|Hao Dong et.al.|[2501.18592](http://arxiv.org/abs/2501.18592)|**[link](https://github.com/donghao51/awesome-multimodal-adaptation)**|
 
-<p align=right>(<a href=#updated-on-20260118>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260119>back to top</a>)</p>
 
 ## Multimodal Large Language Model
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-01-15**|**A Safety Report on GPT-5.2, Gemini 3 Pro, Qwen3-VL, Doubao 1.8, Grok 4.1 Fast, Nano Banana Pro, and Seedream 4.5**|Xingjun Ma et.al.|[2601.10527](http://arxiv.org/abs/2601.10527)|null|
-|**2026-01-15**|**ChartComplete: A Taxonomy-based Inclusive Chart Dataset**|Ahmad Mustapha et.al.|[2601.10462](http://arxiv.org/abs/2601.10462)|null|
+|**2026-01-16**|**A Safety Report on GPT-5.2, Gemini 3 Pro, Qwen3-VL, Grok 4.1 Fast, Nano Banana Pro, and Seedream 4.5**|Xingjun Ma et.al.|[2601.10527](http://arxiv.org/abs/2601.10527)|null|
+|**2026-01-16**|**ChartComplete: A Taxonomy-based Inclusive Chart Dataset**|Ahmad Mustapha et.al.|[2601.10462](http://arxiv.org/abs/2601.10462)|null|
 |**2026-01-15**|**Fine-Grained Human Pose Editing Assessment via Layer-Selective MLLMs**|Ningyu Sun et.al.|[2601.10369](http://arxiv.org/abs/2601.10369)|null|
 |**2026-01-15**|**ROMA: Real-time Omni-Multimodal Assistant with Interactive Streaming Understanding**|Xueyun Tian et.al.|[2601.10323](http://arxiv.org/abs/2601.10323)|null|
 |**2026-01-15**|**MoST: Mixing Speech and Text with Modality-Aware Mixture of Experts**|Yuxuan Lou et.al.|[2601.10272](http://arxiv.org/abs/2601.10272)|null|
@@ -1915,7 +1923,7 @@
 |**2025-11-25**|**Bootstrapping Physics-Grounded Video Generation through VLM-Guided Iterative Self-Refinement**|Yang Liu et.al.|[2511.20280](http://arxiv.org/abs/2511.20280)|null|
 |**2025-11-25**|**VKnowU: Evaluating Visual Knowledge Understanding in Multimodal LLMs**|Tianxiang Jiang et.al.|[2511.20272](http://arxiv.org/abs/2511.20272)|null|
 
-<p align=right>(<a href=#updated-on-20260118>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260119>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
