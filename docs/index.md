@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.01.20
+## Updated on 2026.01.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Cross-Modal Image Retrieval
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-18**|**CytoCLIP: Learning Cytoarchitectural Characteristics in Developing Human Brain Using Contrastive Language Image Pre-Training**|Pralaypati Ta et.al.|[2601.12282](http://arxiv.org/abs/2601.12282)|null|
 |**2026-01-16**|**Heterogeneous Uncertainty-Guided Composed Image Retrieval with Fine-Grained Probabilistic Learning**|Haomiao Tang et.al.|[2601.11393](http://arxiv.org/abs/2601.11393)|null|
 |**2026-01-15**|**DanQing: An Up-to-Date Large-Scale Chinese Vision-Language Pre-training Dataset**|Hengyu Shen et.al.|[2601.10305](http://arxiv.org/abs/2601.10305)|null|
 |**2026-01-11**|**CLIMP: Contrastive Language-Image Mamba Pretraining**|Nimrod Shabtay et.al.|[2601.06891](http://arxiv.org/abs/2601.06891)|null|
@@ -111,7 +112,7 @@ layout: default
 |**2026-01-13**|**CD^2: Constrained Dataset Distillation for Few-Shot Class-Incremental Learning**|Kexin Bao et.al.|[2601.08519](http://arxiv.org/abs/2601.08519)|null|
 |**2026-01-13**|**PKI: Prior Knowledge-Infused Neural Network for Few-Shot Class-Incremental Learning**|Kexin Baoa et.al.|[2601.08493](http://arxiv.org/abs/2601.08493)|null|
 |**2026-01-13**|**Divide and Conquer: Static-Dynamic Collaboration for Few-Shot Class-Incremental Learning**|Kexin Bao et.al.|[2601.08448](http://arxiv.org/abs/2601.08448)|null|
-|**2026-01-14**|**Large Multimodal Models for Embodied Intelligent Driving: The Next Frontier in Self-Driving?**|Long Zhang et.al.|[2601.08434](http://arxiv.org/abs/2601.08434)|null|
+|**2026-01-17**|**Large Multimodal Models for Embodied Intelligent Driving: The Next Frontier in Self-Driving?**|Long Zhang et.al.|[2601.08434](http://arxiv.org/abs/2601.08434)|null|
 |**2026-01-13**|**The Agent's First Day: Benchmarking Learning, Exploration, and Scheduling in the Workplace Scenarios**|Daocheng Fu et.al.|[2601.08173](http://arxiv.org/abs/2601.08173)|null|
 |**2026-01-12**|**Beyond Sharpness: A Flatness Decomposition Framework for Efficient Continual Learning**|Yanan Chen et.al.|[2601.07636](http://arxiv.org/abs/2601.07636)|null|
 |**2026-01-12**|**DarwinTOD: LLM Driven Lifelong Self Evolution for Task Oriented Dialog Systems**|Shuyu Zhang et.al.|[2601.07248](http://arxiv.org/abs/2601.07248)|null|
@@ -782,6 +783,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-18**|**Proc3D: Procedural 3D Generation and Parametric Editing of 3D Shapes with Large Language Models**|Fadlullah Raji et.al.|[2601.12234](http://arxiv.org/abs/2601.12234)|null|
+|**2026-01-17**|**VidTune: Creating Video Soundtracks with Generative Music and Contextual Thumbnails**|Mina Huh et.al.|[2601.12180](http://arxiv.org/abs/2601.12180)|null|
 |**2026-01-16**|**CoDance: An Unbind-Rebind Paradigm for Robust Multi-Subject Animation**|Shuai Tan et.al.|[2601.11096](http://arxiv.org/abs/2601.11096)|null|
 |**2026-01-16**|**Generation of Chest CT pulmonary Nodule Images by Latent Diffusion Models using the LIDC-IDRI Dataset**|Kaito Urata et.al.|[2601.11085](http://arxiv.org/abs/2601.11085)|null|
 |**2026-01-16**|**Data-driven Prediction of Ionic Conductivity in Solid-State Electrolytes with Machine Learning and Large Language Models**|Haewon Kim et.al.|[2601.10997](http://arxiv.org/abs/2601.10997)|null|
@@ -1433,6 +1436,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-18**|**Histopath-C: Towards Realistic Domain Shifts for Histopathology Vision-Language Adaptation**|Mehrdad Noori et.al.|[2601.12493](http://arxiv.org/abs/2601.12493)|null|
+|**2026-01-18**|**Adversarial Defense in Vision-Language Models: An Overview**|Xiaowei Fu et.al.|[2601.12443](http://arxiv.org/abs/2601.12443)|null|
+|**2026-01-17**|**Nip Rumors in the Bud: Retrieval-Guided Topic-Level Adaptation for Test-Time Fake News Video Detection**|Jian Lang et.al.|[2601.11981](http://arxiv.org/abs/2601.11981)|null|
 |**2026-01-16**|**Predict the Retrieval! Test time adaptation for Retrieval Augmented Generation**|Xin Sun et.al.|[2601.11443](http://arxiv.org/abs/2601.11443)|null|
 |**2026-01-16**|**Matching High-Dimensional Geometric Quantiles for Test-Time Adaptation of Transformers and Convolutional Networks Alike**|Sravan Danda et.al.|[2601.11022](http://arxiv.org/abs/2601.11022)|null|
 |**2026-01-13**|**Subspace Alignment for Vision-Language Model Test-time Adaptation**|Zhichen Zeng et.al.|[2601.08139](http://arxiv.org/abs/2601.08139)|null|
@@ -1644,6 +1650,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-18**|**Do MLLMs See What We See? Analyzing Visualization Literacy Barriers in AI Systems**|Mengli et.al.|[2601.12585](http://arxiv.org/abs/2601.12585)|null|
+|**2026-01-18**|**DoPE: Decoy Oriented Perturbation Encapsulation Human-Readable, AI-Hostile Documents for Academic Integrity**|Ashish Raj Shekhar et.al.|[2601.12505](http://arxiv.org/abs/2601.12505)|null|
+|**2026-01-18**|**Concepts from Representations: Post-hoc Concept Bottleneck Models via Sparse Decomposition of Visual Representations**|Shizhan Gong et.al.|[2601.12303](http://arxiv.org/abs/2601.12303)|null|
+|**2026-01-18**|**Docs2Synth: A Synthetic Data Trained Retriever Framework for Scanned Visually Rich Documents Understanding**|Yihao Ding et.al.|[2601.12260](http://arxiv.org/abs/2601.12260)|null|
+|**2026-01-17**|**Listen, Look, Drive: Coupling Audio Instructions for User-aware VLA-based Autonomous Driving**|Ziang Guo et.al.|[2601.12142](http://arxiv.org/abs/2601.12142)|null|
+|**2026-01-17**|**MuseAgent-1: Interactive Grounded Multimodal Understanding of Music Scores and Performance Audio**|Qihao Zhao et.al.|[2601.11968](http://arxiv.org/abs/2601.11968)|null|
 |**2026-01-16**|**A Safety Report on GPT-5.2, Gemini 3 Pro, Qwen3-VL, Grok 4.1 Fast, Nano Banana Pro, and Seedream 4.5**|Xingjun Ma et.al.|[2601.10527](http://arxiv.org/abs/2601.10527)|null|
 |**2026-01-16**|**ChartComplete: A Taxonomy-based Inclusive Chart Dataset**|Ahmad Mustapha et.al.|[2601.10462](http://arxiv.org/abs/2601.10462)|null|
 |**2026-01-15**|**Fine-Grained Human Pose Editing Assessment via Layer-Selective MLLMs**|Ningyu Sun et.al.|[2601.10369](http://arxiv.org/abs/2601.10369)|null|
