@@ -1,4 +1,4 @@
-## Updated on 2026.01.21
+## Updated on 2026.01.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -17,6 +17,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-20**|**XR: Cross-Modal Agents for Composed Image Retrieval**|Zhongyu Yang et.al.|[2601.14245](http://arxiv.org/abs/2601.14245)|null|
+|**2026-01-20**|**Fine-Grained Zero-Shot Composed Image Retrieval with Complementary Visual-Semantic Integration**|Yongcong Ye et.al.|[2601.14060](http://arxiv.org/abs/2601.14060)|null|
 |**2026-01-18**|**CytoCLIP: Learning Cytoarchitectural Characteristics in Developing Human Brain Using Contrastive Language Image Pre-Training**|Pralaypati Ta et.al.|[2601.12282](http://arxiv.org/abs/2601.12282)|null|
 |**2026-01-16**|**Heterogeneous Uncertainty-Guided Composed Image Retrieval with Fine-Grained Probabilistic Learning**|Haomiao Tang et.al.|[2601.11393](http://arxiv.org/abs/2601.11393)|null|
 |**2026-01-15**|**DanQing: An Up-to-Date Large-Scale Chinese Vision-Language Pre-training Dataset**|Hengyu Shen et.al.|[2601.10305](http://arxiv.org/abs/2601.10305)|null|
@@ -106,12 +108,21 @@
 |**2024-12-02**|**AnySynth: Harnessing the Power of Image Synthetic Data Generation for Generalized Vision-Language Tasks**|You Li et.al.|[2411.16749](http://arxiv.org/abs/2411.16749)|null|
 |**2024-10-31**|**MoTaDual: Modality-Task Dual Alignment for Enhanced Zero-shot Composed Image Retrieval**|Haiwen Li et.al.|[2410.23736](http://arxiv.org/abs/2410.23736)|null|
 
-<p align=right>(<a href=#updated-on-20260121>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260122>back to top</a>)</p>
 
 ## Continual Learning
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-21**|**Inverse-Hessian Regularization for Continual Learning in ASR**|Steven Vander Eeckt et.al.|[2601.14751](http://arxiv.org/abs/2601.14751)|null|
+|**2026-01-20**|**Unsupervised Video Class-Incremental Learning via Deep Embedded Clustering Management**|Nattapong Kurpukdee et.al.|[2601.14069](http://arxiv.org/abs/2601.14069)|null|
+|**2026-01-20**|**Towards Modality-Agnostic Continual Domain-Incremental Brain Lesion Segmentation**|Yousef Sadegheih et.al.|[2601.13927](http://arxiv.org/abs/2601.13927)|null|
+|**2026-01-20**|**Optimal L2 Regularization in High-dimensional Continual Linear Regression**|Gilad Karpel et.al.|[2601.13844](http://arxiv.org/abs/2601.13844)|null|
+|**2026-01-20**|**IGAA: Intent-Driven General Agentic AI for Edge Services Scheduling using Generative Meta Learning**|Yan Sun et.al.|[2601.13702](http://arxiv.org/abs/2601.13702)|null|
+|**2026-01-19**|**PASs-MoE: Mitigating Misaligned Co-drift among Router and Experts via Pathway Activation Subspaces for Continual Learning**|Zhiyan Hou et.al.|[2601.13020](http://arxiv.org/abs/2601.13020)|null|
+|**2026-01-19**|**Online Continual Learning for Time Series: a Natural Score-driven Approach**|Edoardo Urettini et.al.|[2601.12931](http://arxiv.org/abs/2601.12931)|null|
+|**2026-01-19**|**Fisher-Orthogonal Projected Natural Gradient Descent for Continual Learning**|Ishir Garg et.al.|[2601.12816](http://arxiv.org/abs/2601.12816)|null|
+|**2026-01-19**|**P2L-CA: An Effective Parameter Tuning Framework for Rehearsal-Free Multi-Label Class-Incremental Learning**|Songlin Dong et.al.|[2601.12714](http://arxiv.org/abs/2601.12714)|null|
 |**2026-01-15**|**We Need a More Robust Classifier: Dual Causal Learning Empowers Domain-Incremental Time Series Classification**|Zhipeng Liu et.al.|[2601.10312](http://arxiv.org/abs/2601.10312)|null|
 |**2026-01-15**|**Resistive Memory based Efficient Machine Unlearning and Continual Learning**|Ning Lin et.al.|[2601.10037](http://arxiv.org/abs/2601.10037)|null|
 |**2026-01-15**|**SPRInG: Continual LLM Personalization via Selective Parametric Adaptation and Retrieval-Interpolated Generation**|Seoyeon Kim et.al.|[2601.09974](http://arxiv.org/abs/2601.09974)|null|
@@ -789,12 +800,20 @@
 |**2025-02-10**|**Prompt-Driven Continual Graph Learning**|Qi Wang et.al.|[2502.06327](http://arxiv.org/abs/2502.06327)|null|
 |**2025-02-10**|**Position: Continual Learning Benefits from An Evolving Population over An Unified Model**|Aojun Lu et.al.|[2502.06210](http://arxiv.org/abs/2502.06210)|null|
 
-<p align=right>(<a href=#updated-on-20260121>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260122>back to top</a>)</p>
 
 ## Vision-Language Prompting
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-21**|**ScenDi: 3D-to-2D Scene Diffusion Cascades for Urban Generation**|Hanlei Guo et.al.|[2601.15221](http://arxiv.org/abs/2601.15221)|null|
+|**2026-01-21**|**BREPS: Bounding-Box Robustness Evaluation of Promptable Segmentation**|Andrey Moskalenko et.al.|[2601.15123](http://arxiv.org/abs/2601.15123)|null|
+|**2026-01-21**|**3D Space as a Scratchpad for Editable Text-to-Image Generation**|Oindrila Saha et.al.|[2601.14602](http://arxiv.org/abs/2601.14602)|null|
+|**2026-01-20**|**Transformer Architectures for Respiratory Sound Analysis and Multimodal Diagnosis**|Theodore Aptekarev et.al.|[2601.14227](http://arxiv.org/abs/2601.14227)|null|
+|**2026-01-20**|**Copy-Trasform-Paste: Zero-Shot Object-Object Alignment Guided by Vision-Language and Geometric Constraints**|Rotem Gatenyo et.al.|[2601.14207](http://arxiv.org/abs/2601.14207)|null|
+|**2026-01-20**|**Vision Also You Need: Navigating Out-of-Distribution Detection with Multimodal Large Language Model**|Haoran Xu et.al.|[2601.14052](http://arxiv.org/abs/2601.14052)|null|
+|**2026-01-20**|**OCCAM: Class-Agnostic, Training-Free, Prior-Free and Multi-Class Object Counting**|Michail Spanakis et.al.|[2601.13871](http://arxiv.org/abs/2601.13871)|null|
+|**2026-01-19**|**MirrorGuard: Toward Secure Computer-Use Agents via Simulation-to-Real Reasoning Correction**|Wenqi Zhang et.al.|[2601.12822](http://arxiv.org/abs/2601.12822)|null|
 |**2026-01-18**|**Proc3D: Procedural 3D Generation and Parametric Editing of 3D Shapes with Large Language Models**|Fadlullah Raji et.al.|[2601.12234](http://arxiv.org/abs/2601.12234)|null|
 |**2026-01-17**|**VidTune: Creating Video Soundtracks with Generative Music and Contextual Thumbnails**|Mina Huh et.al.|[2601.12180](http://arxiv.org/abs/2601.12180)|null|
 |**2026-01-16**|**CoDance: An Unbind-Rebind Paradigm for Robust Multi-Subject Animation**|Shuai Tan et.al.|[2601.11096](http://arxiv.org/abs/2601.11096)|null|
@@ -1355,7 +1374,7 @@
 |**2025-02-08**|**Diverse Image Generation with Diffusion Models and Cross Class Label Learning for Polyp Classification**|Vanshali Sharma et.al.|[2502.05444](http://arxiv.org/abs/2502.05444)|**[link](https://github.com/vanshali/pathopolyp-diff)**|
 |**2025-02-07**|**FlashVideo:Flowing Fidelity to Detail for Efficient High-Resolution Video Generation**|Shilong Zhang et.al.|[2502.05179](http://arxiv.org/abs/2502.05179)|**[link](https://github.com/foundationvision/flashvideo)**|
 
-<p align=right>(<a href=#updated-on-20260121>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260122>back to top</a>)</p>
 
 ## Facial Expression Recognition
 
@@ -1446,12 +1465,15 @@
 |**2024-12-16**|**Impact of Face Alignment on Face Image Quality**|Eren Onaran et.al.|[2412.11779](http://arxiv.org/abs/2412.11779)|null|
 |**2024-12-15**|**Unimodal and Multimodal Static Facial Expression Recognition for Virtual Reality Users with EmoHeVRDB**|Thorben Ortmann et.al.|[2412.11306](http://arxiv.org/abs/2412.11306)|**[link](https://github.com/thorbenortmann/emohevrdb-sfer)**|
 
-<p align=right>(<a href=#updated-on-20260121>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260122>back to top</a>)</p>
 
 ## Test-Time Adaptation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-21**|**Test-Time Adaptation For Speech Enhancement Via Mask Polarization**|Tobias Raichle et.al.|[2601.14770](http://arxiv.org/abs/2601.14770)|null|
+|**2026-01-19**|**Gated Differentiable Working Memory for Long-Context Language Modeling**|Lingrui Mei et.al.|[2601.12906](http://arxiv.org/abs/2601.12906)|null|
+|**2026-01-19**|**AdaNODEs: Test Time Adaptation for Time Series Forecasting Using Neural ODEs**|Ting Dang et.al.|[2601.12893](http://arxiv.org/abs/2601.12893)|null|
 |**2026-01-18**|**Histopath-C: Towards Realistic Domain Shifts for Histopathology Vision-Language Adaptation**|Mehrdad Noori et.al.|[2601.12493](http://arxiv.org/abs/2601.12493)|null|
 |**2026-01-18**|**Adversarial Defense in Vision-Language Models: An Overview**|Xiaowei Fu et.al.|[2601.12443](http://arxiv.org/abs/2601.12443)|null|
 |**2026-01-17**|**Nip Rumors in the Bud: Retrieval-Guided Topic-Level Adaptation for Test-Time Fake News Video Detection**|Jian Lang et.al.|[2601.11981](http://arxiv.org/abs/2601.11981)|null|
@@ -1662,12 +1684,22 @@
 |**2025-01-31**|**Test-time Loss Landscape Adaptation for Zero-Shot Generalization in Vision-Language Models**|Aodi Li et.al.|[2501.18864](http://arxiv.org/abs/2501.18864)|null|
 |**2025-02-03**|**Advances in Multimodal Adaptation and Generalization: From Traditional Approaches to Foundation Models**|Hao Dong et.al.|[2501.18592](http://arxiv.org/abs/2501.18592)|**[link](https://github.com/donghao51/awesome-multimodal-adaptation)**|
 
-<p align=right>(<a href=#updated-on-20260121>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260122>back to top</a>)</p>
 
 ## Multimodal Large Language Model
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-21**|**RSNA Large Language Model Benchmark Dataset for Chest Radiographs of Cardiothoracic Disease: Radiologist Evaluation and Validation Enhanced by AI Labels (REVEAL-CXR)**|Yishu Wei et.al.|[2601.15129](http://arxiv.org/abs/2601.15129)|null|
+|**2026-01-21**|**LiViBench: An Omnimodal Benchmark for Interactive Livestream Video Understanding**|Xiaodong Wang et.al.|[2601.15016](http://arxiv.org/abs/2601.15016)|null|
+|**2026-01-21**|**HERMES: KV Cache as Hierarchical Memory for Efficient Streaming Video Understanding**|Haowei Zhang et.al.|[2601.14724](http://arxiv.org/abs/2601.14724)|null|
+|**2026-01-21**|**Social Caption: Evaluating Social Understanding in Multimodal Models**|Bhaavanaa Thumu et.al.|[2601.14569](http://arxiv.org/abs/2601.14569)|null|
+|**2026-01-20**|**The Side Effects of Being Smart: Safety Risks in MLLMs' Multi-Image Reasoning**|Renmiao Chen et.al.|[2601.14127](http://arxiv.org/abs/2601.14127)|null|
+|**2026-01-20**|**NewsRECON: News article REtrieval for image CONtextualization**|Jonathan Tonglet et.al.|[2601.14121](http://arxiv.org/abs/2601.14121)|null|
+|**2026-01-20**|**Vision Also You Need: Navigating Out-of-Distribution Detection with Multimodal Large Language Model**|Haoran Xu et.al.|[2601.14052](http://arxiv.org/abs/2601.14052)|null|
+|**2026-01-20**|**FantasyVLN: Unified Multimodal Chain-of-Thought Reasoning for Vision-Language Navigation**|Jing Zuo et.al.|[2601.13976](http://arxiv.org/abs/2601.13976)|null|
+|**2026-01-21**|**Chain-of-Thought Compression Should Not Be Blind: V-Skip for Efficient Multimodal Reasoning via Dual-Path Anchoring**|Dongxu Zhang et.al.|[2601.13879](http://arxiv.org/abs/2601.13879)|null|
+|**2026-01-21**|**QKVQA: Question-Focused Filtering for Knowledge-based VQA**|Wei Ye et.al.|[2601.13856](http://arxiv.org/abs/2601.13856)|null|
 |**2026-01-18**|**Do MLLMs See What We See? Analyzing Visualization Literacy Barriers in AI Systems**|Mengli et.al.|[2601.12585](http://arxiv.org/abs/2601.12585)|null|
 |**2026-01-18**|**DoPE: Decoy Oriented Perturbation Encapsulation Human-Readable, AI-Hostile Documents for Academic Integrity**|Ashish Raj Shekhar et.al.|[2601.12505](http://arxiv.org/abs/2601.12505)|null|
 |**2026-01-18**|**Concepts from Representations: Post-hoc Concept Bottleneck Models via Sparse Decomposition of Visual Representations**|Shizhan Gong et.al.|[2601.12303](http://arxiv.org/abs/2601.12303)|null|
@@ -1935,7 +1967,7 @@
 |**2025-11-25**|**Bootstrapping Physics-Grounded Video Generation through VLM-Guided Iterative Self-Refinement**|Yang Liu et.al.|[2511.20280](http://arxiv.org/abs/2511.20280)|null|
 |**2025-11-25**|**VKnowU: Evaluating Visual Knowledge Understanding in Multimodal LLMs**|Tianxiang Jiang et.al.|[2511.20272](http://arxiv.org/abs/2511.20272)|null|
 
-<p align=right>(<a href=#updated-on-20260121>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260122>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
