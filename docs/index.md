@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.01.26
+## Updated on 2026.01.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Cross-Modal Image Retrieval
@@ -106,6 +106,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-25**|**Learning Transferable Skills in Action RPGs via Directed Skill Graphs and Selective Adaptation**|Ali Najar et.al.|[2601.17923](http://arxiv.org/abs/2601.17923)|null|
+|**2026-01-25**|**Feature-Space Generative Models for One-Shot Class-Incremental Learning**|Jack Foster et.al.|[2601.17905](http://arxiv.org/abs/2601.17905)|null|
+|**2026-01-24**|**Split-on-Share: Mixture of Sparse Experts for Task-Agnostic Continual Learning**|Fatema Siddika et.al.|[2601.17616](http://arxiv.org/abs/2601.17616)|null|
+|**2026-01-24**|**Athena: Synergizing Data Prefetching and Off-Chip Prediction via Online Reinforcement Learning**|Rahul Bera et.al.|[2601.17615](http://arxiv.org/abs/2601.17615)|null|
+|**2026-01-24**|**Real-Time Trend Prediction via Continually-Aligned LLM Query Generation**|Zijing Hui et.al.|[2601.17567](http://arxiv.org/abs/2601.17567)|null|
+|**2026-01-23**|**E2PL: Effective and Efficient Prompt Learning for Incomplete Multi-view Multi-Label Class Incremental Learning**|Jiajun Chen et.al.|[2601.17076](http://arxiv.org/abs/2601.17076)|null|
 |**2026-01-23**|**CASP: Few-Shot Class-Incremental Learning with CLS Token Attention Steering Prompts**|Shuai Huang et.al.|[2601.16773](http://arxiv.org/abs/2601.16773)|null|
 |**2026-01-22**|**Learning to Discover at Test Time**|Mert Yuksekgonul et.al.|[2601.16175](http://arxiv.org/abs/2601.16175)|null|
 |**2026-01-22**|**Domain-Incremental Continual Learning for Robust and Efficient Keyword Spotting in Resource Constrained Systems**|Prakash Dhungana et.al.|[2601.16158](http://arxiv.org/abs/2601.16158)|null|
@@ -800,6 +806,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-25**|**The Script is All You Need: An Agentic Framework for Long-Horizon Dialogue-to-Cinematic Video Generation**|Chenyu Mu et.al.|[2601.17737](http://arxiv.org/abs/2601.17737)|null|
+|**2026-01-24**|**HAAF: Hierarchical Adaptation and Alignment of Foundation Models for Few-Shot Pathology Anomaly Detection**|Chunze Yang et.al.|[2601.17405](http://arxiv.org/abs/2601.17405)|null|
+|**2026-01-24**|**Physical Prompt Injection Attacks on Large Vision-Language Models**|Chen Ling et.al.|[2601.17383](http://arxiv.org/abs/2601.17383)|null|
 |**2026-01-23**|**Edge-Aware Image Manipulation via Diffusion Models with a Novel Structure-Preservation Loss**|Minsu Gong et.al.|[2601.16645](http://arxiv.org/abs/2601.16645)|null|
 |**2026-01-23**|**On The Robustness of Foundational 3D Medical Image Segmentation Models Against Imprecise Visual Prompts**|Soumitri Chattopadhyay et.al.|[2601.16383](http://arxiv.org/abs/2601.16383)|null|
 |**2026-01-22**|**ActionMesh: Animated 3D Mesh Generation with Temporal 3D Diffusion**|Remy Sabathier et.al.|[2601.16148](http://arxiv.org/abs/2601.16148)|null|
@@ -1467,6 +1476,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-25**|**Domain Generalization with Quantum Enhancement for Medical Image Classification: A Lightweight Approach for Cross-Center Deployment**|Jingsong Xia et.al.|[2601.17862](http://arxiv.org/abs/2601.17862)|null|
+|**2026-01-24**|**Elastic Attention: Test-time Adaptive Sparsity Ratios for Efficient Transformers**|Zecheng Tang et.al.|[2601.17367](http://arxiv.org/abs/2601.17367)|null|
 |**2026-01-21**|**Test-Time Adaptation for Speech Emotion Recognition**|Jiaheng Dong et.al.|[2601.16240](http://arxiv.org/abs/2601.16240)|null|
 |**2026-01-22**|**RDumb++: Drift-Aware Continual Test-Time Adaptation**|Himanshu Mishra et.al.|[2601.15544](http://arxiv.org/abs/2601.15544)|null|
 |**2026-01-21**|**Test-Time Adaptation For Speech Enhancement Via Mask Polarization**|Tobias Raichle et.al.|[2601.14770](http://arxiv.org/abs/2601.14770)|null|
@@ -1686,6 +1697,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-25**|**MMR-Bench: A Comprehensive Benchmark for Multimodal LLM Routing**|Haoxuan Ma et.al.|[2601.17814](http://arxiv.org/abs/2601.17814)|null|
+|**2026-01-25**|**Athanor: Authoring Action Modification-based Interactions on Static Visualizations via Natural Language**|Can Liu et.al.|[2601.17736](http://arxiv.org/abs/2601.17736)|null|
+|**2026-01-25**|**EntWorld: A Holistic Environment and Benchmark for Verifiable Enterprise GUI Agents**|Ying Mo et.al.|[2601.17722](http://arxiv.org/abs/2601.17722)|null|
+|**2026-01-25**|**AVMeme Exam: A Multimodal Multilingual Multicultural Benchmark for LLMs' Contextual and Cultural Knowledge and Thinking**|Xilin Jiang et.al.|[2601.17645](http://arxiv.org/abs/2601.17645)|null|
+|**2026-01-23**|**GRASP: Guided Region-Aware Sparse Prompting for Adapting MLLMs to Remote Sensing**|Qigan Sun et.al.|[2601.17089](http://arxiv.org/abs/2601.17089)|null|
 |**2026-01-23**|**OnlineSI: Taming Large Language Model for Online 3D Understanding and Grounding**|Zixian Liu et.al.|[2601.16538](http://arxiv.org/abs/2601.16538)|null|
 |**2026-01-23**|**TangramPuzzle: Evaluating Multimodal Large Language Models with Compositional Spatial Reasoning**|Daixian Liu et.al.|[2601.16520](http://arxiv.org/abs/2601.16520)|null|
 |**2026-01-23**|**Emotion-LLaMAv2 and MMEVerse: A New Framework and Benchmark for Multimodal Emotion Understanding**|Xiaojiang Peng et.al.|[2601.16449](http://arxiv.org/abs/2601.16449)|null|
