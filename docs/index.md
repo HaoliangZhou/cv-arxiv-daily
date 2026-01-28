@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2026.01.27
+## Updated on 2026.01.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Cross-Modal Image Retrieval
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-27**|**GMS-CAVP: Improving Audio-Video Correspondence with Multi-Scale Contrastive and Generative Pretraining**|Shentong Mo et.al.|[2601.19606](http://arxiv.org/abs/2601.19606)|null|
+|**2026-01-27**|**TIGaussian: Disentangle Gaussians for Spatial-Awared Text-Image-3D Alignment**|Jiarun Liu et.al.|[2601.19247](http://arxiv.org/abs/2601.19247)|null|
 |**2026-01-23**|**X-Aligner: Composed Visual Retrieval without the Bells and Whistles**|Yuqian Zheng et.al.|[2601.16582](http://arxiv.org/abs/2601.16582)|null|
 |**2026-01-22**|**Rethinking Composed Image Retrieval Evaluation: A Fine-Grained Benchmark from Image Editing**|Tingyu Song et.al.|[2601.16125](http://arxiv.org/abs/2601.16125)|null|
 |**2026-01-20**|**XR: Cross-Modal Agents for Composed Image Retrieval**|Zhongyu Yang et.al.|[2601.14245](http://arxiv.org/abs/2601.14245)|null|
@@ -106,6 +108,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-27**|**KeepLoRA: Continual Learning with Residual Gradient Adaptation**|Mao-Lin Luo et.al.|[2601.19659](http://arxiv.org/abs/2601.19659)|null|
+|**2026-01-27**|**Teaching Machine Learning Fundamentals with LEGO Robotics**|Viacheslav Sydora et.al.|[2601.19376](http://arxiv.org/abs/2601.19376)|null|
+|**2026-01-27**|**OWLEYE: Zero-Shot Learner for Cross-Domain Graph Data Anomaly Detection**|Lecheng Zheng et.al.|[2601.19102](http://arxiv.org/abs/2601.19102)|null|
+|**2026-01-26**|**Mechanistic Analysis of Catastrophic Forgetting in Large Language Models During Continual Fine-tuning**|Olaf Yunus Laitinen Imanov et.al.|[2601.18699](http://arxiv.org/abs/2601.18699)|null|
+|**2026-01-26**|**Just-In-Time Reinforcement Learning: Continual Learning in LLM Agents Without Gradient Updates**|Yibo Li et.al.|[2601.18510](http://arxiv.org/abs/2601.18510)|null|
+|**2026-01-26**|**Analytic Incremental Learning For Sound Source Localization With Imbalance Rectification**|Zexia Fan et.al.|[2601.18335](http://arxiv.org/abs/2601.18335)|null|
+|**2026-01-26**|**Efficient Rehearsal for Continual Learning in ASR via Singular Value Tuning**|Steven Vander Eeckt et.al.|[2601.18266](http://arxiv.org/abs/2601.18266)|null|
+|**2026-01-26**|**FGGM: Fisher-Guided Gradient Masking for Continual Learning**|Chao-Hong Tan et.al.|[2601.18261](http://arxiv.org/abs/2601.18261)|null|
+|**2026-01-26**|**Beyond Retention: Orchestrating Structural Safety and Plasticity in Continual Learning for LLMs**|Fei Meng et.al.|[2601.18255](http://arxiv.org/abs/2601.18255)|null|
 |**2026-01-25**|**Learning Transferable Skills in Action RPGs via Directed Skill Graphs and Selective Adaptation**|Ali Najar et.al.|[2601.17923](http://arxiv.org/abs/2601.17923)|null|
 |**2026-01-25**|**Feature-Space Generative Models for One-Shot Class-Incremental Learning**|Jack Foster et.al.|[2601.17905](http://arxiv.org/abs/2601.17905)|null|
 |**2026-01-24**|**Split-on-Share: Mixture of Sparse Experts for Task-Agnostic Continual Learning**|Fatema Siddika et.al.|[2601.17616](http://arxiv.org/abs/2601.17616)|null|
@@ -806,7 +817,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-01-25**|**The Script is All You Need: An Agentic Framework for Long-Horizon Dialogue-to-Cinematic Video Generation**|Chenyu Mu et.al.|[2601.17737](http://arxiv.org/abs/2601.17737)|null|
+|**2026-01-27**|**Bridging Gulfs in UI Generation through Semantic Guidance**|Seokhyeon Park et.al.|[2601.19171](http://arxiv.org/abs/2601.19171)|null|
+|**2026-01-27**|**FBSDiff++: Improved Frequency Band Substitution of Diffusion Features for Efficient and Highly Controllable Text-Driven Image-to-Image Translation**|Xiang Gao et.al.|[2601.19115](http://arxiv.org/abs/2601.19115)|null|
+|**2026-01-25**|**Generative metamaterials based on large language models**|Zhenyang Gao et.al.|[2601.17997](http://arxiv.org/abs/2601.17997)|null|
+|**2026-01-27**|**The Script is All You Need: An Agentic Framework for Long-Horizon Dialogue-to-Cinematic Video Generation**|Chenyu Mu et.al.|[2601.17737](http://arxiv.org/abs/2601.17737)|null|
 |**2026-01-24**|**HAAF: Hierarchical Adaptation and Alignment of Foundation Models for Few-Shot Pathology Anomaly Detection**|Chunze Yang et.al.|[2601.17405](http://arxiv.org/abs/2601.17405)|null|
 |**2026-01-24**|**Physical Prompt Injection Attacks on Large Vision-Language Models**|Chen Ling et.al.|[2601.17383](http://arxiv.org/abs/2601.17383)|null|
 |**2026-01-23**|**Edge-Aware Image Manipulation via Diffusion Models with a Novel Structure-Preservation Loss**|Minsu Gong et.al.|[2601.16645](http://arxiv.org/abs/2601.16645)|null|
@@ -1697,6 +1711,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-27**|**Out-of-Distribution Generalization via Invariant Trajectories for Multimodal Large Language Model Editing**|Jiajie Su et.al.|[2601.19700](http://arxiv.org/abs/2601.19700)|null|
+|**2026-01-27**|**Video-KTR: Reinforcing Video Reasoning via Key Token Attribution**|Ziyue Wang et.al.|[2601.19686](http://arxiv.org/abs/2601.19686)|null|
+|**2026-01-27**|**A Benchmark for Audio Reasoning Capabilities of Multimodal Large Language Models**|Iwona Christop et.al.|[2601.19673](http://arxiv.org/abs/2601.19673)|null|
+|**2026-01-27**|**Innovator-VL: A Multimodal Large Language Model for Scientific Discovery**|Zichen Wen et.al.|[2601.19325](http://arxiv.org/abs/2601.19325)|null|
+|**2026-01-27**|**DiaDem: Advancing Dialogue Descriptions in Audiovisual Video Captioning for Multimodal Large Language Models**|Xinlong Chen et.al.|[2601.19267](http://arxiv.org/abs/2601.19267)|null|
+|**2026-01-27**|**Towards Pixel-Level VLM Perception via Simple Points Prediction**|Tianhui Song et.al.|[2601.19228](http://arxiv.org/abs/2601.19228)|null|
+|**2026-01-27**|**UniPCB: A Unified Vision-Language Benchmark for Open-Ended PCB Quality Inspection**|Fuxiang Sun et.al.|[2601.19222](http://arxiv.org/abs/2601.19222)|null|
+|**2026-01-26**|**Advances and Innovations in the Multi-Agent Robotic System (MARS) Challenge**|Li Kang et.al.|[2601.18733](http://arxiv.org/abs/2601.18733)|null|
+|**2026-01-26**|**AdaReasoner: Dynamic Tool Orchestration for Iterative Visual Reasoning**|Mingyang Song et.al.|[2601.18631](http://arxiv.org/abs/2601.18631)|null|
+|**2026-01-26**|**GenAgent: Scaling Text-to-Image Generation via Agentic Multimodal Reasoning**|Kaixun Jiang et.al.|[2601.18543](http://arxiv.org/abs/2601.18543)|null|
 |**2026-01-25**|**MMR-Bench: A Comprehensive Benchmark for Multimodal LLM Routing**|Haoxuan Ma et.al.|[2601.17814](http://arxiv.org/abs/2601.17814)|null|
 |**2026-01-25**|**Athanor: Authoring Action Modification-based Interactions on Static Visualizations via Natural Language**|Can Liu et.al.|[2601.17736](http://arxiv.org/abs/2601.17736)|null|
 |**2026-01-25**|**EntWorld: A Holistic Environment and Benchmark for Verifiable Enterprise GUI Agents**|Ying Mo et.al.|[2601.17722](http://arxiv.org/abs/2601.17722)|null|
