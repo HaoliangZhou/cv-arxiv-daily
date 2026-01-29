@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.01.28
+## Updated on 2026.01.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Cross-Modal Image Retrieval
@@ -108,6 +108,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-28**|**Continual GUI Agents**|Ziwei Liu et.al.|[2601.20732](http://arxiv.org/abs/2601.20732)|null|
+|**2026-01-28**|**StructAlign: Structured Cross-Modal Alignment for Continual Text-to-Video Retrieval**|Shaokun Wang et.al.|[2601.20597](http://arxiv.org/abs/2601.20597)|null|
+|**2026-01-28**|**TeleStyle: Content-Preserving Style Transfer in Images and Videos**|Shiwen Zhang et.al.|[2601.20175](http://arxiv.org/abs/2601.20175)|null|
+|**2026-01-27**|**Self-Distillation Enables Continual Learning**|Idan Shenfeld et.al.|[2601.19897](http://arxiv.org/abs/2601.19897)|null|
+|**2026-01-27**|**Knowledge-Aware Evolution for Streaming Federated Continual Learning with Category Overlap and without Task Identifiers**|Sixing Tan et.al.|[2601.19788](http://arxiv.org/abs/2601.19788)|null|
+|**2026-01-27**|**The Effect of Architecture During Continual Learning**|Allyson Hahn et.al.|[2601.19766](http://arxiv.org/abs/2601.19766)|null|
 |**2026-01-27**|**KeepLoRA: Continual Learning with Residual Gradient Adaptation**|Mao-Lin Luo et.al.|[2601.19659](http://arxiv.org/abs/2601.19659)|null|
 |**2026-01-27**|**Teaching Machine Learning Fundamentals with LEGO Robotics**|Viacheslav Sydora et.al.|[2601.19376](http://arxiv.org/abs/2601.19376)|null|
 |**2026-01-27**|**OWLEYE: Zero-Shot Learner for Cross-Domain Graph Data Anomaly Detection**|Lecheng Zheng et.al.|[2601.19102](http://arxiv.org/abs/2601.19102)|null|
@@ -817,6 +823,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-28**|**TABED: Test-Time Adaptive Ensemble Drafting for Robust Speculative Decoding in LVLMs**|Minjae Lee et.al.|[2601.20357](http://arxiv.org/abs/2601.20357)|null|
+|**2026-01-28**|**Visual Prompt-Agnostic Evolution**|Junze Wang et.al.|[2601.20232](http://arxiv.org/abs/2601.20232)|null|
+|**2026-01-27**|**Generative Latent Alignment for Interpretable Radar Based Occupancy Detection in Ambient Assisted Living**|Huy Trinh et.al.|[2601.19853](http://arxiv.org/abs/2601.19853)|null|
+|**2026-01-27**|**EgoHandICL: Egocentric 3D Hand Reconstruction with In-Context Learning**|Binzhu Xie et.al.|[2601.19850](http://arxiv.org/abs/2601.19850)|null|
 |**2026-01-27**|**Bridging Gulfs in UI Generation through Semantic Guidance**|Seokhyeon Park et.al.|[2601.19171](http://arxiv.org/abs/2601.19171)|null|
 |**2026-01-27**|**FBSDiff++: Improved Frequency Band Substitution of Diffusion Features for Efficient and Highly Controllable Text-Driven Image-to-Image Translation**|Xiang Gao et.al.|[2601.19115](http://arxiv.org/abs/2601.19115)|null|
 |**2026-01-25**|**Generative metamaterials based on large language models**|Zhenyang Gao et.al.|[2601.17997](http://arxiv.org/abs/2601.17997)|null|
@@ -1490,8 +1500,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-28**|**TABED: Test-Time Adaptive Ensemble Drafting for Robust Speculative Decoding in LVLMs**|Minjae Lee et.al.|[2601.20357](http://arxiv.org/abs/2601.20357)|null|
+|**2026-01-28**|**Test-Time Adaptation for Anomaly Segmentation via Topology-Aware Optimal Transport Chaining**|Ali Zia et.al.|[2601.20333](http://arxiv.org/abs/2601.20333)|null|
 |**2026-01-25**|**Domain Generalization with Quantum Enhancement for Medical Image Classification: A Lightweight Approach for Cross-Center Deployment**|Jingsong Xia et.al.|[2601.17862](http://arxiv.org/abs/2601.17862)|null|
-|**2026-01-24**|**Elastic Attention: Test-time Adaptive Sparsity Ratios for Efficient Transformers**|Zecheng Tang et.al.|[2601.17367](http://arxiv.org/abs/2601.17367)|null|
+|**2026-01-28**|**Elastic Attention: Test-time Adaptive Sparsity Ratios for Efficient Transformers**|Zecheng Tang et.al.|[2601.17367](http://arxiv.org/abs/2601.17367)|null|
 |**2026-01-21**|**Test-Time Adaptation for Speech Emotion Recognition**|Jiaheng Dong et.al.|[2601.16240](http://arxiv.org/abs/2601.16240)|null|
 |**2026-01-22**|**RDumb++: Drift-Aware Continual Test-Time Adaptation**|Himanshu Mishra et.al.|[2601.15544](http://arxiv.org/abs/2601.15544)|null|
 |**2026-01-21**|**Test-Time Adaptation For Speech Enhancement Via Mask Polarization**|Tobias Raichle et.al.|[2601.14770](http://arxiv.org/abs/2601.14770)|null|
@@ -1711,6 +1723,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-28**|**Compression Tells Intelligence: Visual Coding, Visual Token Technology, and the Unification**|Xin Jin et.al.|[2601.20742](http://arxiv.org/abs/2601.20742)|null|
+|**2026-01-28**|**Decoupling Perception and Calibration: Label-Efficient Image Quality Assessment Framework**|Xinyue Li et.al.|[2601.20689](http://arxiv.org/abs/2601.20689)|null|
+|**2026-01-28**|**When Vision Meets Texts in Listwise Reranking**|Hongyi Cai et.al.|[2601.20623](http://arxiv.org/abs/2601.20623)|null|
+|**2026-01-28**|**Context Tokens are Anchors: Understanding the Repetition Curse in dMLLMs from an Information Flow Perspective**|Qiyan Zhao et.al.|[2601.20520](http://arxiv.org/abs/2601.20520)|null|
+|**2026-01-28**|**ECG-Agent: On-Device Tool-Calling Agent for ECG Multi-Turn Dialogue**|Hyunseung Chung et.al.|[2601.20323](http://arxiv.org/abs/2601.20323)|null|
+|**2026-01-28**|**Unit-Based Agent for Semi-Cascaded Full-Duplex Dialogue Systems**|Haoyuan Yu et.al.|[2601.20230](http://arxiv.org/abs/2601.20230)|null|
+|**2026-01-27**|**Sparse CLIP: Co-Optimizing Interpretability and Performance in Contrastive Learning**|Chuan Qin et.al.|[2601.20075](http://arxiv.org/abs/2601.20075)|null|
+|**2026-01-28**|**Benchmarking Multimodal Large Language Models for Missing Modality Completion in Product Catalogues**|Junchen Fu et.al.|[2601.19750](http://arxiv.org/abs/2601.19750)|null|
 |**2026-01-27**|**Out-of-Distribution Generalization via Invariant Trajectories for Multimodal Large Language Model Editing**|Jiajie Su et.al.|[2601.19700](http://arxiv.org/abs/2601.19700)|null|
 |**2026-01-27**|**Video-KTR: Reinforcing Video Reasoning via Key Token Attribution**|Ziyue Wang et.al.|[2601.19686](http://arxiv.org/abs/2601.19686)|null|
 |**2026-01-27**|**A Benchmark for Audio Reasoning Capabilities of Multimodal Large Language Models**|Iwona Christop et.al.|[2601.19673](http://arxiv.org/abs/2601.19673)|null|
