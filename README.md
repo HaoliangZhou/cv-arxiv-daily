@@ -1,4 +1,4 @@
-## Updated on 2026.01.29
+## Updated on 2026.01.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -112,13 +112,20 @@
 |**2024-12-02**|**AnySynth: Harnessing the Power of Image Synthetic Data Generation for Generalized Vision-Language Tasks**|You Li et.al.|[2411.16749](http://arxiv.org/abs/2411.16749)|null|
 |**2024-10-31**|**MoTaDual: Modality-Task Dual Alignment for Enhanced Zero-shot Composed Image Retrieval**|Haiwen Li et.al.|[2410.23736](http://arxiv.org/abs/2410.23736)|null|
 
-<p align=right>(<a href=#updated-on-20260129>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260130>back to top</a>)</p>
 
 ## Continual Learning
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-01-28**|**Continual GUI Agents**|Ziwei Liu et.al.|[2601.20732](http://arxiv.org/abs/2601.20732)|null|
+|**2026-01-29**|**Learning the Mechanism of Catastrophic Forgetting: A Perspective from Gradient Similarity**|Mutian Yang et.al.|[2601.21577](http://arxiv.org/abs/2601.21577)|null|
+|**2026-01-29**|**Semantic-Guided Dynamic Sparsification for Pre-Trained Model-based Class-Incremental Learning**|Ruiqi Liu et.al.|[2601.21345](http://arxiv.org/abs/2601.21345)|null|
+|**2026-01-29**|**Dynamical Adapter Fusion: Constructing A Global Adapter for Pre-Trained Model-based Class-Incremental Learning**|Ruiqi Liu et.al.|[2601.21341](http://arxiv.org/abs/2601.21341)|null|
+|**2026-01-29**|**QCL-IDS: Quantum Continual Learning for Intrusion Detection with Fidelity-Anchored Stability and Generative Replay**|Zirui Zhu et.al.|[2601.21318](http://arxiv.org/abs/2601.21318)|null|
+|**2026-01-28**|**Is Parameter Isolation Better for Prompt-Based Continual Learning?**|Jiangyang Li et.al.|[2601.20894](http://arxiv.org/abs/2601.20894)|null|
+|**2026-01-28**|**Evolutionary Strategies lead to Catastrophic Forgetting in LLMs**|Immanuel Abdi et.al.|[2601.20861](http://arxiv.org/abs/2601.20861)|null|
+|**2026-01-28**|**C3Box: A CLIP-based Class-Incremental Learning Toolbox**|Hao Sun et.al.|[2601.20852](http://arxiv.org/abs/2601.20852)|null|
+|**2026-01-29**|**Continual GUI Agents**|Ziwei Liu et.al.|[2601.20732](http://arxiv.org/abs/2601.20732)|null|
 |**2026-01-28**|**StructAlign: Structured Cross-Modal Alignment for Continual Text-to-Video Retrieval**|Shaokun Wang et.al.|[2601.20597](http://arxiv.org/abs/2601.20597)|null|
 |**2026-01-28**|**TeleStyle: Content-Preserving Style Transfer in Images and Videos**|Shiwen Zhang et.al.|[2601.20175](http://arxiv.org/abs/2601.20175)|null|
 |**2026-01-27**|**Self-Distillation Enables Continual Learning**|Idan Shenfeld et.al.|[2601.19897](http://arxiv.org/abs/2601.19897)|null|
@@ -829,12 +836,13 @@
 |**2025-02-10**|**Prompt-Driven Continual Graph Learning**|Qi Wang et.al.|[2502.06327](http://arxiv.org/abs/2502.06327)|null|
 |**2025-02-10**|**Position: Continual Learning Benefits from An Evolving Population over An Unified Model**|Aojun Lu et.al.|[2502.06210](http://arxiv.org/abs/2502.06210)|null|
 
-<p align=right>(<a href=#updated-on-20260129>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260130>back to top</a>)</p>
 
 ## Vision-Language Prompting
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-29**|**SemanticAudio: Audio Generation and Editing in Semantic Space**|Zheqi Dai et.al.|[2601.21402](http://arxiv.org/abs/2601.21402)|null|
 |**2026-01-28**|**TABED: Test-Time Adaptive Ensemble Drafting for Robust Speculative Decoding in LVLMs**|Minjae Lee et.al.|[2601.20357](http://arxiv.org/abs/2601.20357)|null|
 |**2026-01-28**|**Visual Prompt-Agnostic Evolution**|Junze Wang et.al.|[2601.20232](http://arxiv.org/abs/2601.20232)|null|
 |**2026-01-27**|**Generative Latent Alignment for Interpretable Radar Based Occupancy Detection in Ambient Assisted Living**|Huy Trinh et.al.|[2601.19853](http://arxiv.org/abs/2601.19853)|null|
@@ -1418,7 +1426,7 @@
 |**2025-02-08**|**Diverse Image Generation with Diffusion Models and Cross Class Label Learning for Polyp Classification**|Vanshali Sharma et.al.|[2502.05444](http://arxiv.org/abs/2502.05444)|**[link](https://github.com/vanshali/pathopolyp-diff)**|
 |**2025-02-07**|**FlashVideo:Flowing Fidelity to Detail for Efficient High-Resolution Video Generation**|Shilong Zhang et.al.|[2502.05179](http://arxiv.org/abs/2502.05179)|**[link](https://github.com/foundationvision/flashvideo)**|
 
-<p align=right>(<a href=#updated-on-20260129>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260130>back to top</a>)</p>
 
 ## Facial Expression Recognition
 
@@ -1510,12 +1518,14 @@
 |**2024-12-16**|**Impact of Face Alignment on Face Image Quality**|Eren Onaran et.al.|[2412.11779](http://arxiv.org/abs/2412.11779)|null|
 |**2024-12-15**|**Unimodal and Multimodal Static Facial Expression Recognition for Virtual Reality Users with EmoHeVRDB**|Thorben Ortmann et.al.|[2412.11306](http://arxiv.org/abs/2412.11306)|**[link](https://github.com/thorbenortmann/emohevrdb-sfer)**|
 
-<p align=right>(<a href=#updated-on-20260129>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260130>back to top</a>)</p>
 
 ## Test-Time Adaptation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-28**|**Test-Time Adaptation for Unsupervised Combinatorial Optimization**|Yiqiao Liao et.al.|[2601.21048](http://arxiv.org/abs/2601.21048)|null|
+|**2026-01-28**|**Order-Aware Test-Time Adaptation: Leveraging Temporal Dynamics for Robust Streaming Inference**|Young Kyung Kim et.al.|[2601.21012](http://arxiv.org/abs/2601.21012)|null|
 |**2026-01-28**|**TABED: Test-Time Adaptive Ensemble Drafting for Robust Speculative Decoding in LVLMs**|Minjae Lee et.al.|[2601.20357](http://arxiv.org/abs/2601.20357)|null|
 |**2026-01-28**|**Test-Time Adaptation for Anomaly Segmentation via Topology-Aware Optimal Transport Chaining**|Ali Zia et.al.|[2601.20333](http://arxiv.org/abs/2601.20333)|null|
 |**2026-01-25**|**Domain Generalization with Quantum Enhancement for Medical Image Classification: A Lightweight Approach for Cross-Center Deployment**|Jingsong Xia et.al.|[2601.17862](http://arxiv.org/abs/2601.17862)|null|
@@ -1735,12 +1745,22 @@
 |**2025-01-31**|**Test-time Loss Landscape Adaptation for Zero-Shot Generalization in Vision-Language Models**|Aodi Li et.al.|[2501.18864](http://arxiv.org/abs/2501.18864)|null|
 |**2025-02-03**|**Advances in Multimodal Adaptation and Generalization: From Traditional Approaches to Foundation Models**|Hao Dong et.al.|[2501.18592](http://arxiv.org/abs/2501.18592)|**[link](https://github.com/donghao51/awesome-multimodal-adaptation)**|
 
-<p align=right>(<a href=#updated-on-20260129>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260130>back to top</a>)</p>
 
 ## Multimodal Large Language Model
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-29**|**MIDI-LLaMA: An Instruction-Following Multimodal LLM for Symbolic Music Understanding**|Meng Yang et.al.|[2601.21740](http://arxiv.org/abs/2601.21740)|null|
+|**2026-01-29**|**ChartE $^{3}$ : A Comprehensive Benchmark for End-to-End Chart Editing**|Shuo Li et.al.|[2601.21694](http://arxiv.org/abs/2601.21694)|null|
+|**2026-01-29**|**TCAP: Tri-Component Attention Profiling for Unsupervised Backdoor Detection in MLLM Fine-Tuning**|Mingzu Liu et.al.|[2601.21692](http://arxiv.org/abs/2601.21692)|null|
+|**2026-01-29**|**SONIC-O1: A Real-World Benchmark for Evaluating Multimodal Large Language Models on Audio-Video Understanding**|Ahmed Y. Radwan et.al.|[2601.21666](http://arxiv.org/abs/2601.21666)|null|
+|**2026-01-29**|**RSGround-R1: Rethinking Remote Sensing Visual Grounding through Spatial Reasoning**|Shiqi Huang et.al.|[2601.21634](http://arxiv.org/abs/2601.21634)|null|
+|**2026-01-29**|**MultiModal Fine-tuning with Synthetic Captions**|Shohei Enomoto et.al.|[2601.21426](http://arxiv.org/abs/2601.21426)|null|
+|**2026-01-29**|**Ostrakon-VL: Towards Domain-Expert MLLM for Food-Service and Retail Stores**|Zhiyong Shen et.al.|[2601.21342](http://arxiv.org/abs/2601.21342)|null|
+|**2026-01-29**|**CausalEmbed: Auto-Regressive Multi-Vector Generation in Latent Space for Visual Document Embedding**|Jiahao Huo et.al.|[2601.21262](http://arxiv.org/abs/2601.21262)|null|
+|**2026-01-29**|**LAMP: Learning Universal Adversarial Perturbations for Multi-Image Tasks via Pre-trained Models**|Alvi Md Ishmam et.al.|[2601.21220](http://arxiv.org/abs/2601.21220)|null|
+|**2026-01-29**|**MAD: Modality-Adaptive Decoding for Mitigating Cross-Modal Hallucinations in Multimodal Large Language Models**|Sangyun Chung et.al.|[2601.21181](http://arxiv.org/abs/2601.21181)|null|
 |**2026-01-28**|**Compression Tells Intelligence: Visual Coding, Visual Token Technology, and the Unification**|Xin Jin et.al.|[2601.20742](http://arxiv.org/abs/2601.20742)|null|
 |**2026-01-28**|**Decoupling Perception and Calibration: Label-Efficient Image Quality Assessment Framework**|Xinyue Li et.al.|[2601.20689](http://arxiv.org/abs/2601.20689)|null|
 |**2026-01-28**|**When Vision Meets Texts in Listwise Reranking**|Hongyi Cai et.al.|[2601.20623](http://arxiv.org/abs/2601.20623)|null|
@@ -2054,7 +2074,7 @@
 |**2025-11-25**|**Bootstrapping Physics-Grounded Video Generation through VLM-Guided Iterative Self-Refinement**|Yang Liu et.al.|[2511.20280](http://arxiv.org/abs/2511.20280)|null|
 |**2025-11-25**|**VKnowU: Evaluating Visual Knowledge Understanding in Multimodal LLMs**|Tianxiang Jiang et.al.|[2511.20272](http://arxiv.org/abs/2511.20272)|null|
 
-<p align=right>(<a href=#updated-on-20260129>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260130>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
