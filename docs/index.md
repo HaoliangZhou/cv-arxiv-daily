@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.02.12
+## Updated on 2026.02.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Cross-Modal Image Retrieval
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-12**|**Arbitrary Ratio Feature Compression via Next Token Prediction**|Yufan Liu et.al.|[2602.11494](http://arxiv.org/abs/2602.11494)|null|
 |**2026-02-09**|**OSCAR: Optimization-Steered Agentic Planning for Composed Image Retrieval**|Teng Wang et.al.|[2602.08603](http://arxiv.org/abs/2602.08603)|null|
 |**2026-02-09**|**A Sketch+Text Composed Image Retrieval Dataset for Thangka**|Jinyu Xu et.al.|[2602.08411](http://arxiv.org/abs/2602.08411)|null|
 |**2026-02-05**|**PhenoLIP: Integrating Phenotype Ontology Knowledge into Medical Vision-Language Pretraining**|Cheng Liang et.al.|[2602.06184](http://arxiv.org/abs/2602.06184)|null|
@@ -118,6 +119,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-12**|**LoRA-based Parameter-Efficient LLMs for Continuous Learning in Edge-based Malware Detection**|Christian Rondanini et.al.|[2602.11655](http://arxiv.org/abs/2602.11655)|null|
+|**2026-02-12**|**Human-Inspired Continuous Learning of Internal Reasoning Processes: Learning How to Think for Adaptive AI Systems**|Hong Su et.al.|[2602.11516](http://arxiv.org/abs/2602.11516)|null|
 |**2026-02-11**|**Towards Long-Lived Robots: Continual Learning VLA Models via Reinforcement Fine-Tuning**|Yuan Liu et.al.|[2602.10503](http://arxiv.org/abs/2602.10503)|null|
 |**2026-02-10**|**Autonomous Continual Learning of Computer-Use Agents for Environment Adaptation**|Tianci Xue et.al.|[2602.10356](http://arxiv.org/abs/2602.10356)|null|
 |**2026-02-10**|**Continual Learning for non-stationary regression via Memory-Efficient Replay**|Pablo García-Santaclara et.al.|[2602.09720](http://arxiv.org/abs/2602.09720)|null|
@@ -884,13 +887,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-12**|**Adaptive Debiasing Tsallis Entropy for Test-Time Adaptation**|Xiangyu Wu et.al.|[2602.11743](http://arxiv.org/abs/2602.11743)|null|
+|**2026-02-12**|**STVG-R1: Incentivizing Instance-Level Reasoning and Grounding in Videos via Reinforcement Learning**|Xiaowen Zhang et.al.|[2602.11730](http://arxiv.org/abs/2602.11730)|null|
 |**2026-02-11**|**Dynamic Frequency Modulation for Controllable Text-driven Image Generation**|Tiandong Shi et.al.|[2602.10662](http://arxiv.org/abs/2602.10662)|null|
 |**2026-02-11**|**Drawing Your Programs: Exploring the Applications of Visual-Prompting with GenAI for Teaching and Assessment**|David H. Smith et.al.|[2602.10529](http://arxiv.org/abs/2602.10529)|null|
 |**2026-02-10**|**ELROND: Exploring and decomposing intrinsic capabilities of diffusion models**|Paweł Skierś et.al.|[2602.10216](http://arxiv.org/abs/2602.10216)|null|
 |**2026-02-10**|**When the Prompt Becomes Visual: Vision-Centric Jailbreak Attacks for Large Image Editing Models**|Jiacheng Hou et.al.|[2602.10179](http://arxiv.org/abs/2602.10179)|null|
 |**2026-02-10**|**Stroke3D: Lifting 2D strokes into rigged 3D model via latent diffusion models**|Ruisi Zhao et.al.|[2602.09713](http://arxiv.org/abs/2602.09713)|null|
 |**2026-02-09**|**Enhancing Generative AI Image Refinement with Scribbles and Annotations: A Comparative Study of Multimodal Prompts**|Hyerim Park et.al.|[2602.08830](http://arxiv.org/abs/2602.08830)|null|
-|**2026-02-09**|**Inspiration Seeds: Learning Non-Literal Visual Combinations for Generative Exploration**|Kfir Goldberg et.al.|[2602.08615](http://arxiv.org/abs/2602.08615)|null|
+|**2026-02-12**|**Inspiration Seeds: Learning Non-Literal Visual Combinations for Generative Exploration**|Kfir Goldberg et.al.|[2602.08615](http://arxiv.org/abs/2602.08615)|null|
 |**2026-02-09**|**Roadmap to Quantum Aesthetics**|Ivan C. H. Liu et.al.|[2602.08363](http://arxiv.org/abs/2602.08363)|null|
 |**2026-02-08**|**Rethinking Latency Denial-of-Service: Attacking the LLM Serving Framework, Not the Model**|Tianyi Wang et.al.|[2602.07878](http://arxiv.org/abs/2602.07878)|null|
 |**2026-02-06**|**RFDM: Residual Flow Diffusion Model for Efficient Causal Video Editing**|Mohammadreza Salehi et.al.|[2602.06871](http://arxiv.org/abs/2602.06871)|null|
@@ -1590,6 +1595,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-12**|**Adaptive Debiasing Tsallis Entropy for Test-Time Adaptation**|Xiangyu Wu et.al.|[2602.11743](http://arxiv.org/abs/2602.11743)|null|
 |**2026-02-10**|**Unsupervised Layer-Wise Dynamic Test Time Adaptation for LLMs**|Longhuan Xu et.al.|[2602.09719](http://arxiv.org/abs/2602.09719)|null|
 |**2026-02-10**|**Time2General: Learning Spatiotemporal Invariant Representations for Domain-Generalization Video Semantic Segmentation**|Siyu Chen et.al.|[2602.09648](http://arxiv.org/abs/2602.09648)|null|
 |**2026-02-09**|**Minimum Distance Summaries for Robust Neural Posterior Estimation**|Sherman Khoo et.al.|[2602.09161](http://arxiv.org/abs/2602.09161)|null|
@@ -1828,6 +1834,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-12**|**DeepSight: An All-in-One LM Safety Toolkit**|Bo Zhang et.al.|[2602.12092](http://arxiv.org/abs/2602.12092)|null|
+|**2026-02-12**|**Spatial Chain-of-Thought: Bridging Understanding and Generation Models for Spatial Reasoning Generation**|Wei Chen et.al.|[2602.11980](http://arxiv.org/abs/2602.11980)|null|
+|**2026-02-12**|**Zooming without Zooming: Region-to-Image Distillation for Fine-Grained Multimodal Perception**|Lai Wei et.al.|[2602.11858](http://arxiv.org/abs/2602.11858)|null|
+|**2026-02-12**|**Mask What Matters: Mitigating Object Hallucinations in Multimodal Large Language Models with Object-Aligned Visual Contrastive Decoding**|Boqi Chen et.al.|[2602.11737](http://arxiv.org/abs/2602.11737)|null|
+|**2026-02-12**|**Thinking with Drafting: Optical Decompression via Logical Reconstruction**|Jingxuan Wei et.al.|[2602.11731](http://arxiv.org/abs/2602.11731)|null|
+|**2026-02-12**|**Beyond Pixels: Vector-to-Graph Transformation for Reliable Schematic Auditing**|Chengwei Ma et.al.|[2602.11678](http://arxiv.org/abs/2602.11678)|null|
+|**2026-02-12**|**Do MLLMs Really Understand Space? A Mathematical Reasoning Evaluation**|Shuo Lu et.al.|[2602.11635](http://arxiv.org/abs/2602.11635)|null|
+|**2026-02-12**|**Multimodal Fact-Level Attribution for Verifiable Reasoning**|David Wan et.al.|[2602.11509](http://arxiv.org/abs/2602.11509)|null|
+|**2026-02-12**|**What if Agents Could Imagine? Reinforcing Open-Vocabulary HOI Comprehension through Generation**|Zhenlong Yuan et.al.|[2602.11499](http://arxiv.org/abs/2602.11499)|null|
+|**2026-02-12**|**Credit Where It is Due: Cross-Modality Connectivity Drives Precise Reinforcement Learning for MLLM Reasoning**|Zhengbo Jiao et.al.|[2602.11455](http://arxiv.org/abs/2602.11455)|null|
 |**2026-02-11**|**RSHallu: Dual-Mode Hallucination Evaluation for Remote-Sensing Multimodal Large Language Models with Domain-Tailored Mitigation**|Zihui Zhou et.al.|[2602.10799](http://arxiv.org/abs/2602.10799)|null|
 |**2026-02-11**|**MetaphorStar: Image Metaphor Understanding and Reasoning with End-to-End Visual Reinforcement Learning**|Chenhao Zhang et.al.|[2602.10575](http://arxiv.org/abs/2602.10575)|null|
 |**2026-02-11**|**Canvas-of-Thought: Grounding Reasoning via Mutable Structured States**|Lingzhuang Sun et.al.|[2602.10494](http://arxiv.org/abs/2602.10494)|null|
