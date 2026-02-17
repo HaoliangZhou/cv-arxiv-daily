@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.02.16
+## Updated on 2026.02.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Cross-Modal Image Retrieval
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-13**|**InfoCIR: Multimedia Analysis for Composed Image Retrieval**|Ioannis Dravilas et.al.|[2602.13402](http://arxiv.org/abs/2602.13402)|null|
 |**2026-02-12**|**Arbitrary Ratio Feature Compression via Next Token Prediction**|Yufan Liu et.al.|[2602.11494](http://arxiv.org/abs/2602.11494)|null|
 |**2026-02-09**|**OSCAR: Optimization-Steered Agentic Planning for Composed Image Retrieval**|Teng Wang et.al.|[2602.08603](http://arxiv.org/abs/2602.08603)|null|
 |**2026-02-09**|**A Sketch+Text Composed Image Retrieval Dataset for Thangka**|Jinyu Xu et.al.|[2602.08411](http://arxiv.org/abs/2602.08411)|null|
@@ -119,6 +120,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-14**|**Advancing Analytic Class-Incremental Learning through Vision-Language Calibration**|Binyu Zhao et.al.|[2602.13670](http://arxiv.org/abs/2602.13670)|null|
+|**2026-02-14**|**SPLIT: Sparse Incremental Learning of Error Dynamics for Control-Oriented Modeling in Autonomous Vehicles**|Yaoyu Li et.al.|[2602.13641](http://arxiv.org/abs/2602.13641)|null|
+|**2026-02-13**|**Learning on the Fly: Replay-Based Continual Object Perception for Indoor Drones**|Sebastian-Ion Nae et.al.|[2602.13440](http://arxiv.org/abs/2602.13440)|null|
 |**2026-02-13**|**Backdoor Attacks on Contrastive Continual Learning for IoT Systems**|Alfous Tim et.al.|[2602.13062](http://arxiv.org/abs/2602.13062)|null|
 |**2026-02-13**|**Drift-Aware Variational Autoencoder-based Anomaly Detection with Two-level Ensembling**|Jin Li et.al.|[2602.12976](http://arxiv.org/abs/2602.12976)|null|
 |**2026-02-13**|**Multi-Head Attention as a Source of Catastrophic Forgetting in MoE Transformers**|Anrui Chen et.al.|[2602.12587](http://arxiv.org/abs/2602.12587)|null|
@@ -891,6 +895,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-13**|**InfoCIR: Multimedia Analysis for Composed Image Retrieval**|Ioannis Dravilas et.al.|[2602.13402](http://arxiv.org/abs/2602.13402)|null|
 |**2026-02-13**|**ImageRAGTurbo: Towards One-step Text-to-Image Generation with Retrieval-Augmented Diffusion Models**|Peijie Qiu et.al.|[2602.12640](http://arxiv.org/abs/2602.12640)|null|
 |**2026-02-12**|**OmniCustom: Sync Audio-Video Customization Via Joint Audio-Video Generation Model**|Maomao Li et.al.|[2602.12304](http://arxiv.org/abs/2602.12304)|null|
 |**2026-02-12**|**SAM3-LiteText: An Anatomical Study of the SAM3 Text Encoder for Efficient Vision-Language Segmentation**|Chengxi Zeng et.al.|[2602.12173](http://arxiv.org/abs/2602.12173)|null|
@@ -1843,6 +1848,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-15**|**Exploring a Multimodal Chatbot as a Facilitator in Therapeutic Art Activity**|Le Lin et.al.|[2602.14183](http://arxiv.org/abs/2602.14183)|null|
+|**2026-02-15**|**UniWeTok: An Unified Binary Tokenizer with Codebook Size $\mathit{2^{128}}$ for Unified Multimodal Large Language Model**|Shaobin Zhuang et.al.|[2602.14178](http://arxiv.org/abs/2602.14178)|null|
+|**2026-02-15**|**Investigation for Relative Voice Impression Estimation**|Keinichi Fujita et.al.|[2602.14172](http://arxiv.org/abs/2602.14172)|null|
+|**2026-02-15**|**DenseMLLM: Standard Multimodal LLMs are Intrinsic Dense Predictors**|Yi Li et.al.|[2602.14134](http://arxiv.org/abs/2602.14134)|null|
+|**2026-02-15**|**EgoSound: Benchmarking Sound Understanding in Egocentric Videos**|Bingwen Zhu et.al.|[2602.14122](http://arxiv.org/abs/2602.14122)|null|
+|**2026-02-15**|**ForgeryVCR: Visual-Centric Reasoning via Efficient Forensic Tools in MLLMs for Image Forgery Detection and Localization**|Youqi Wang et.al.|[2602.14098](http://arxiv.org/abs/2602.14098)|null|
+|**2026-02-15**|**S2SServiceBench: A Multimodal Benchmark for Last-Mile S2S Climate Services**|Chenyue Li et.al.|[2602.14017](http://arxiv.org/abs/2602.14017)|null|
+|**2026-02-14**|**Embed-RL: Reinforcement Learning for Reasoning-Driven Multimodal Embeddings**|Haonan Jiang et.al.|[2602.13823](http://arxiv.org/abs/2602.13823)|null|
+|**2026-02-14**|**OmniScience: A Large-scale Multi-modal Dataset for Scientific Image Understanding**|Haoyi Tao et.al.|[2602.13758](http://arxiv.org/abs/2602.13758)|null|
+|**2026-02-14**|**DMESR: Dual-view MLLM-based Enhancing Framework for Multimodal Sequential Recommendation**|Mingyao Huang et.al.|[2602.13715](http://arxiv.org/abs/2602.13715)|null|
 |**2026-02-13**|**Human-Aligned MLLM Judges for Fine-Grained Image Editing Evaluation: A Benchmark, Framework, and Analysis**|Runzhou Liu et.al.|[2602.13028](http://arxiv.org/abs/2602.13028)|null|
 |**2026-02-13**|**BrowseComp- $V^3$ : A Visual, Vertical, and Verifiable Benchmark for Multimodal Browsing Agents**|Huanyao Zhang et.al.|[2602.12876](http://arxiv.org/abs/2602.12876)|null|
 |**2026-02-13**|**Artic: AI-oriented Real-time Communication for MLLM Video Assistant**|Jiangkai Wu et.al.|[2602.12641](http://arxiv.org/abs/2602.12641)|null|
