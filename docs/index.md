@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.02.17
+## Updated on 2026.02.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Cross-Modal Image Retrieval
@@ -120,6 +120,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-17**|**Task-Agnostic Continual Learning for Chest Radiograph Classification**|Muthu Subash Kavitha et.al.|[2602.15811](http://arxiv.org/abs/2602.15811)|null|
+|**2026-02-16**|**Panini: Continual Learning in Token Space via Structured Memory**|Shreyas Rajesh et.al.|[2602.15156](http://arxiv.org/abs/2602.15156)|null|
+|**2026-02-16**|**SAILS: Segment Anything with Incrementally Learned Semantics for Task-Invariant and Training-Free Continual Learning**|Shishir Muralidhara et.al.|[2602.14767](http://arxiv.org/abs/2602.14767)|null|
 |**2026-02-14**|**Advancing Analytic Class-Incremental Learning through Vision-Language Calibration**|Binyu Zhao et.al.|[2602.13670](http://arxiv.org/abs/2602.13670)|null|
 |**2026-02-14**|**SPLIT: Sparse Incremental Learning of Error Dynamics for Control-Oriented Modeling in Autonomous Vehicles**|Yaoyu Li et.al.|[2602.13641](http://arxiv.org/abs/2602.13641)|null|
 |**2026-02-13**|**Learning on the Fly: Replay-Based Continual Object Perception for Indoor Drones**|Sebastian-Ion Nae et.al.|[2602.13440](http://arxiv.org/abs/2602.13440)|null|
@@ -895,6 +898,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-17**|**Selective Perception for Robot: Task-Aware Attention in Multimodal VLA**|Young-Chae Son et.al.|[2602.15543](http://arxiv.org/abs/2602.15543)|null|
+|**2026-02-17**|**Semantic-Guided 3D Gaussian Splatting for Transient Object Removal**|Aditi Prabakaran et.al.|[2602.15516](http://arxiv.org/abs/2602.15516)|null|
+|**2026-02-17**|**Visual Persuasion: What Influences Decisions of Vision-Language Models?**|Manuel Cherep et.al.|[2602.15278](http://arxiv.org/abs/2602.15278)|null|
+|**2026-02-16**|**EditCtrl: Disentangled Local and Global Control for Real-Time Generative Video Editing**|Yehonathan Litman et.al.|[2602.15031](http://arxiv.org/abs/2602.15031)|null|
 |**2026-02-13**|**InfoCIR: Multimedia Analysis for Composed Image Retrieval**|Ioannis Dravilas et.al.|[2602.13402](http://arxiv.org/abs/2602.13402)|null|
 |**2026-02-13**|**ImageRAGTurbo: Towards One-step Text-to-Image Generation with Retrieval-Augmented Diffusion Models**|Peijie Qiu et.al.|[2602.12640](http://arxiv.org/abs/2602.12640)|null|
 |**2026-02-12**|**OmniCustom: Sync Audio-Video Customization Via Joint Audio-Video Generation Model**|Maomao Li et.al.|[2602.12304](http://arxiv.org/abs/2602.12304)|null|
@@ -1608,12 +1615,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-17**|**Stabilizing Test-Time Adaptation of High-Dimensional Simulation Surrogates via D-Optimal Statistics**|Anna Zimmel et.al.|[2602.15820](http://arxiv.org/abs/2602.15820)|null|
+|**2026-02-16**|**Depth Completion as Parameter-Efficient Test-Time Adaptation**|Bingxin Ke et.al.|[2602.14751](http://arxiv.org/abs/2602.14751)|null|
 |**2026-02-12**|**ZeroDiff++: Substantial Unseen Visual-semantic Correlation in Zero-shot Learning**|Zihan Ye et.al.|[2602.12401](http://arxiv.org/abs/2602.12401)|null|
 |**2026-02-12**|**Adaptive Debiasing Tsallis Entropy for Test-Time Adaptation**|Xiangyu Wu et.al.|[2602.11743](http://arxiv.org/abs/2602.11743)|null|
 |**2026-02-10**|**Unsupervised Layer-Wise Dynamic Test Time Adaptation for LLMs**|Longhuan Xu et.al.|[2602.09719](http://arxiv.org/abs/2602.09719)|null|
 |**2026-02-10**|**Time2General: Learning Spatiotemporal Invariant Representations for Domain-Generalization Video Semantic Segmentation**|Siyu Chen et.al.|[2602.09648](http://arxiv.org/abs/2602.09648)|null|
 |**2026-02-09**|**Minimum Distance Summaries for Robust Neural Posterior Estimation**|Sherman Khoo et.al.|[2602.09161](http://arxiv.org/abs/2602.09161)|null|
-|**2026-02-08**|**LQA: A Lightweight Quantized-Adaptive Framework for Vision-Language Models on the Edge**|Xin Wang et.al.|[2602.07849](http://arxiv.org/abs/2602.07849)|null|
+|**2026-02-17**|**LQA: A Lightweight Quantized-Adaptive Framework for Vision-Language Models on the Edge**|Xin Wang et.al.|[2602.07849](http://arxiv.org/abs/2602.07849)|null|
 |**2026-02-07**|**Revealing the Semantic Selection Gap in DINOv3 through Training-Free Few-Shot Segmentation**|Hussni Mohd Zakir et.al.|[2602.07550](http://arxiv.org/abs/2602.07550)|null|
 |**2026-02-05**|**Tempora: Characterising the Time-Contingent Utility of Online Test-Time Adaptation**|Sudarshan Sreeram et.al.|[2602.06136](http://arxiv.org/abs/2602.06136)|null|
 |**2026-02-05**|**Multi-Scale Global-Instance Prompt Tuning for Continual Test-time Adaptation in Medical Image Segmentation**|Lingrui Li et.al.|[2602.05937](http://arxiv.org/abs/2602.05937)|null|
@@ -1848,6 +1857,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-17**|**ViTaB-A: Evaluating Multimodal Large Language Models on Visual Table Attribution**|Yahia Alqurnawi et.al.|[2602.15769](http://arxiv.org/abs/2602.15769)|null|
+|**2026-02-17**|**ChartEditBench: Evaluating Grounded Multi-Turn Chart Editing in Multimodal Language Models**|Manav Nitin Kapadnis et.al.|[2602.15758](http://arxiv.org/abs/2602.15758)|null|
+|**2026-02-17**|**Improving MLLMs in Embodied Exploration and Question Answering with Human-Inspired Memory Modeling**|Ji Li et.al.|[2602.15513](http://arxiv.org/abs/2602.15513)|null|
+|**2026-02-17**|**Emergent Morphing Attack Detection in Open Multi-modal Large Language Models**|Marija Ivanovska et.al.|[2602.15461](http://arxiv.org/abs/2602.15461)|null|
+|**2026-02-17**|**One Agent to Guide Them All: Empowering MLLMs for Vision-and-Language Navigation via Explicit World Representation**|Zerui Li et.al.|[2602.15400](http://arxiv.org/abs/2602.15400)|null|
+|**2026-02-17**|**EventMemAgent: Hierarchical Event-Centric Memory for Online Video Understanding with Adaptive Tool Use**|Siwei Wen et.al.|[2602.15329](http://arxiv.org/abs/2602.15329)|null|
+|**2026-02-16**|**Diagnosing Knowledge Conflict in Multimodal Long-Chain Reasoning**|Jing Tang et.al.|[2602.14518](http://arxiv.org/abs/2602.14518)|null|
+|**2026-02-16**|**TikArt: Aperture-Guided Observation for Fine-Grained Visual Reasoning via Reinforcement Learning**|Hao Ding et.al.|[2602.14482](http://arxiv.org/abs/2602.14482)|null|
+|**2026-02-15**|**GeoEyes: On-Demand Visual Focusing for Evidence-Grounded Understanding of Ultra-High-Resolution Remote Sensing Imagery**|Fengxiang Wang et.al.|[2602.14201](http://arxiv.org/abs/2602.14201)|null|
 |**2026-02-15**|**Exploring a Multimodal Chatbot as a Facilitator in Therapeutic Art Activity**|Le Lin et.al.|[2602.14183](http://arxiv.org/abs/2602.14183)|null|
 |**2026-02-15**|**UniWeTok: An Unified Binary Tokenizer with Codebook Size $\mathit{2^{128}}$ for Unified Multimodal Large Language Model**|Shaobin Zhuang et.al.|[2602.14178](http://arxiv.org/abs/2602.14178)|null|
 |**2026-02-15**|**Investigation for Relative Voice Impression Estimation**|Keinichi Fujita et.al.|[2602.14172](http://arxiv.org/abs/2602.14172)|null|
