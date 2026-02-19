@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.02.18
+## Updated on 2026.02.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Cross-Modal Image Retrieval
@@ -120,6 +120,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-18**|**Axle Sensor Fusion for Online Continual Wheel Fault Detection in Wayside Railway Monitoring**|Afonso Lourenço et.al.|[2602.16101](http://arxiv.org/abs/2602.16101)|null|
 |**2026-02-17**|**Task-Agnostic Continual Learning for Chest Radiograph Classification**|Muthu Subash Kavitha et.al.|[2602.15811](http://arxiv.org/abs/2602.15811)|null|
 |**2026-02-16**|**Panini: Continual Learning in Token Space via Structured Memory**|Shreyas Rajesh et.al.|[2602.15156](http://arxiv.org/abs/2602.15156)|null|
 |**2026-02-16**|**SAILS: Segment Anything with Incrementally Learned Semantics for Task-Invariant and Training-Free Continual Learning**|Shishir Muralidhara et.al.|[2602.14767](http://arxiv.org/abs/2602.14767)|null|
@@ -1857,6 +1858,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-18**|**ReMoRa: Multimodal Large Language Model based on Refined Motion Representation for Long-Video Understanding**|Daichi Yashima et.al.|[2602.16412](http://arxiv.org/abs/2602.16412)|null|
+|**2026-02-17**|**EarthSpatialBench: Benchmarking Spatial Reasoning Capabilities of Multimodal LLMs on Earth Imagery**|Zelin Xu et.al.|[2602.15918](http://arxiv.org/abs/2602.15918)|null|
 |**2026-02-17**|**ViTaB-A: Evaluating Multimodal Large Language Models on Visual Table Attribution**|Yahia Alqurnawi et.al.|[2602.15769](http://arxiv.org/abs/2602.15769)|null|
 |**2026-02-17**|**ChartEditBench: Evaluating Grounded Multi-Turn Chart Editing in Multimodal Language Models**|Manav Nitin Kapadnis et.al.|[2602.15758](http://arxiv.org/abs/2602.15758)|null|
 |**2026-02-17**|**Improving MLLMs in Embodied Exploration and Question Answering with Human-Inspired Memory Modeling**|Ji Li et.al.|[2602.15513](http://arxiv.org/abs/2602.15513)|null|
