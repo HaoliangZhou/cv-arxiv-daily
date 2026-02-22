@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.02.19
+## Updated on 2026.02.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Cross-Modal Image Retrieval
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-18**|**Xray-Visual Models: Scaling Vision models on Industry Scale Data**|Shlok Mishra et.al.|[2602.16918](http://arxiv.org/abs/2602.16918)|null|
 |**2026-02-13**|**InfoCIR: Multimedia Analysis for Composed Image Retrieval**|Ioannis Dravilas et.al.|[2602.13402](http://arxiv.org/abs/2602.13402)|null|
 |**2026-02-12**|**Arbitrary Ratio Feature Compression via Next Token Prediction**|Yufan Liu et.al.|[2602.11494](http://arxiv.org/abs/2602.11494)|null|
 |**2026-02-09**|**OSCAR: Optimization-Steered Agentic Planning for Composed Image Retrieval**|Teng Wang et.al.|[2602.08603](http://arxiv.org/abs/2602.08603)|null|
@@ -120,6 +121,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-19**|**A Hybrid Federated Learning Based Ensemble Approach for Lung Disease Diagnosis Leveraging Fusion of SWIN Transformer and CNN**|Asif Hasan Chowdhury et.al.|[2602.17566](http://arxiv.org/abs/2602.17566)|null|
+|**2026-02-19**|**Revisiting Weight Regularization for Low-Rank Continual Learning**|Yaoyue Zheng et.al.|[2602.17559](http://arxiv.org/abs/2602.17559)|null|
+|**2026-02-19**|**Continual learning and refinement of causal models through dynamic predicate invention**|Enrique Crespo-Fernandez et.al.|[2602.17217](http://arxiv.org/abs/2602.17217)|null|
+|**2026-02-19**|**Continual uncertainty learning**|Heisei Yonezawa et.al.|[2602.17174](http://arxiv.org/abs/2602.17174)|null|
+|**2026-02-18**|**Narrow fine-tuning erodes safety alignment in vision-language agents**|Idhant Gulati et.al.|[2602.16931](http://arxiv.org/abs/2602.16931)|null|
 |**2026-02-18**|**Axle Sensor Fusion for Online Continual Wheel Fault Detection in Wayside Railway Monitoring**|Afonso Lourenço et.al.|[2602.16101](http://arxiv.org/abs/2602.16101)|null|
 |**2026-02-17**|**Task-Agnostic Continual Learning for Chest Radiograph Classification**|Muthu Subash Kavitha et.al.|[2602.15811](http://arxiv.org/abs/2602.15811)|null|
 |**2026-02-16**|**Panini: Continual Learning in Token Space via Structured Memory**|Shreyas Rajesh et.al.|[2602.15156](http://arxiv.org/abs/2602.15156)|null|
@@ -1858,6 +1864,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-19**|**RetouchIQ: MLLM Agents for Instruction-Based Image Retouching with Generalist Reward**|Qiucheng Wu et.al.|[2602.17558](http://arxiv.org/abs/2602.17558)|null|
+|**2026-02-19**|**GraphThinker: Reinforcing Video Reasoning with Event Graph Thinking**|Zixu Cheng et.al.|[2602.17555](http://arxiv.org/abs/2602.17555)|null|
+|**2026-02-19**|**QuPAINT: Physics-Aware Instruction Tuning Approach to Quantum Material Discovery**|Xuan-Bac Nguyen et.al.|[2602.17478](http://arxiv.org/abs/2602.17478)|null|
+|**2026-02-19**|**EAGLE: Expert-Augmented Attention Guidance for Tuning-Free Industrial Anomaly Detection in Multimodal Large Language Models**|Xiaomeng Peng et.al.|[2602.17419](http://arxiv.org/abs/2602.17419)|null|
+|**2026-02-19**|**EntropyPrune: Matrix Entropy Guided Visual Token Pruning for Multimodal Large Language Models**|Yahong Wang et.al.|[2602.17196](http://arxiv.org/abs/2602.17196)|null|
+|**2026-02-19**|**Characterizing the Predictive Impact of Modalities with Supervised Latent-Variable Modeling**|Divyam Madaan et.al.|[2602.16979](http://arxiv.org/abs/2602.16979)|null|
 |**2026-02-18**|**ReMoRa: Multimodal Large Language Model based on Refined Motion Representation for Long-Video Understanding**|Daichi Yashima et.al.|[2602.16412](http://arxiv.org/abs/2602.16412)|null|
 |**2026-02-17**|**EarthSpatialBench: Benchmarking Spatial Reasoning Capabilities of Multimodal LLMs on Earth Imagery**|Zelin Xu et.al.|[2602.15918](http://arxiv.org/abs/2602.15918)|null|
 |**2026-02-17**|**ViTaB-A: Evaluating Multimodal Large Language Models on Visual Table Attribution**|Yahia Alqurnawi et.al.|[2602.15769](http://arxiv.org/abs/2602.15769)|null|
