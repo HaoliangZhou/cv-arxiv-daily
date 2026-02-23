@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.02.22
+## Updated on 2026.02.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Cross-Modal Image Retrieval
@@ -121,6 +121,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-20**|**Continual-NExT: A Unified Comprehension And Generation Continual Learning Framework**|Jingyang Qiao et.al.|[2602.18055](http://arxiv.org/abs/2602.18055)|null|
 |**2026-02-19**|**A Hybrid Federated Learning Based Ensemble Approach for Lung Disease Diagnosis Leveraging Fusion of SWIN Transformer and CNN**|Asif Hasan Chowdhury et.al.|[2602.17566](http://arxiv.org/abs/2602.17566)|null|
 |**2026-02-19**|**Revisiting Weight Regularization for Low-Rank Continual Learning**|Yaoyue Zheng et.al.|[2602.17559](http://arxiv.org/abs/2602.17559)|null|
 |**2026-02-19**|**Continual learning and refinement of causal models through dynamic predicate invention**|Enrique Crespo-Fernandez et.al.|[2602.17217](http://arxiv.org/abs/2602.17217)|null|
@@ -905,6 +906,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-20**|**Zero-shot Interactive Perception**|Venkatesh Sripada et.al.|[2602.18374](http://arxiv.org/abs/2602.18374)|null|
 |**2026-02-17**|**Selective Perception for Robot: Task-Aware Attention in Multimodal VLA**|Young-Chae Son et.al.|[2602.15543](http://arxiv.org/abs/2602.15543)|null|
 |**2026-02-17**|**Semantic-Guided 3D Gaussian Splatting for Transient Object Removal**|Aditi Prabakaran et.al.|[2602.15516](http://arxiv.org/abs/2602.15516)|null|
 |**2026-02-17**|**Visual Persuasion: What Influences Decisions of Vision-Language Models?**|Manuel Cherep et.al.|[2602.15278](http://arxiv.org/abs/2602.15278)|null|
@@ -1864,6 +1866,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-20**|**3DMedAgent: Unified Perception-to-Understanding for 3D Medical Analysis**|Ziyue Wang et.al.|[2602.18064](http://arxiv.org/abs/2602.18064)|null|
+|**2026-02-20**|**Continual-NExT: A Unified Comprehension And Generation Continual Learning Framework**|Jingyang Qiao et.al.|[2602.18055](http://arxiv.org/abs/2602.18055)|null|
+|**2026-02-20**|**Scaling Audio-Text Retrieval with Multimodal Large Language Models**|Jilan Xu et.al.|[2602.18010](http://arxiv.org/abs/2602.18010)|null|
+|**2026-02-19**|**Learning Compact Video Representations for Efficient Long-form Video Understanding in Large Multimodal Models**|Yuxiao Chen et.al.|[2602.17869](http://arxiv.org/abs/2602.17869)|null|
 |**2026-02-19**|**RetouchIQ: MLLM Agents for Instruction-Based Image Retouching with Generalist Reward**|Qiucheng Wu et.al.|[2602.17558](http://arxiv.org/abs/2602.17558)|null|
 |**2026-02-19**|**GraphThinker: Reinforcing Video Reasoning with Event Graph Thinking**|Zixu Cheng et.al.|[2602.17555](http://arxiv.org/abs/2602.17555)|null|
 |**2026-02-19**|**QuPAINT: Physics-Aware Instruction Tuning Approach to Quantum Material Discovery**|Xuan-Bac Nguyen et.al.|[2602.17478](http://arxiv.org/abs/2602.17478)|null|

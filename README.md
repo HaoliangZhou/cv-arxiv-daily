@@ -1,4 +1,4 @@
-## Updated on 2026.02.22
+## Updated on 2026.02.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -125,12 +125,13 @@
 |**2024-12-02**|**AnySynth: Harnessing the Power of Image Synthetic Data Generation for Generalized Vision-Language Tasks**|You Li et.al.|[2411.16749](http://arxiv.org/abs/2411.16749)|null|
 |**2024-10-31**|**MoTaDual: Modality-Task Dual Alignment for Enhanced Zero-shot Composed Image Retrieval**|Haiwen Li et.al.|[2410.23736](http://arxiv.org/abs/2410.23736)|null|
 
-<p align=right>(<a href=#updated-on-20260222>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260223>back to top</a>)</p>
 
 ## Continual Learning
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-20**|**Continual-NExT: A Unified Comprehension And Generation Continual Learning Framework**|Jingyang Qiao et.al.|[2602.18055](http://arxiv.org/abs/2602.18055)|null|
 |**2026-02-19**|**A Hybrid Federated Learning Based Ensemble Approach for Lung Disease Diagnosis Leveraging Fusion of SWIN Transformer and CNN**|Asif Hasan Chowdhury et.al.|[2602.17566](http://arxiv.org/abs/2602.17566)|null|
 |**2026-02-19**|**Revisiting Weight Regularization for Low-Rank Continual Learning**|Yaoyue Zheng et.al.|[2602.17559](http://arxiv.org/abs/2602.17559)|null|
 |**2026-02-19**|**Continual learning and refinement of causal models through dynamic predicate invention**|Enrique Crespo-Fernandez et.al.|[2602.17217](http://arxiv.org/abs/2602.17217)|null|
@@ -911,12 +912,13 @@
 |**2025-02-10**|**Prompt-Driven Continual Graph Learning**|Qi Wang et.al.|[2502.06327](http://arxiv.org/abs/2502.06327)|null|
 |**2025-02-10**|**Position: Continual Learning Benefits from An Evolving Population over An Unified Model**|Aojun Lu et.al.|[2502.06210](http://arxiv.org/abs/2502.06210)|null|
 
-<p align=right>(<a href=#updated-on-20260222>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260223>back to top</a>)</p>
 
 ## Vision-Language Prompting
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-20**|**Zero-shot Interactive Perception**|Venkatesh Sripada et.al.|[2602.18374](http://arxiv.org/abs/2602.18374)|null|
 |**2026-02-17**|**Selective Perception for Robot: Task-Aware Attention in Multimodal VLA**|Young-Chae Son et.al.|[2602.15543](http://arxiv.org/abs/2602.15543)|null|
 |**2026-02-17**|**Semantic-Guided 3D Gaussian Splatting for Transient Object Removal**|Aditi Prabakaran et.al.|[2602.15516](http://arxiv.org/abs/2602.15516)|null|
 |**2026-02-17**|**Visual Persuasion: What Influences Decisions of Vision-Language Models?**|Manuel Cherep et.al.|[2602.15278](http://arxiv.org/abs/2602.15278)|null|
@@ -1538,7 +1540,7 @@
 |**2025-02-08**|**Diverse Image Generation with Diffusion Models and Cross Class Label Learning for Polyp Classification**|Vanshali Sharma et.al.|[2502.05444](http://arxiv.org/abs/2502.05444)|**[link](https://github.com/vanshali/pathopolyp-diff)**|
 |**2025-02-07**|**FlashVideo:Flowing Fidelity to Detail for Efficient High-Resolution Video Generation**|Shilong Zhang et.al.|[2502.05179](http://arxiv.org/abs/2502.05179)|**[link](https://github.com/foundationvision/flashvideo)**|
 
-<p align=right>(<a href=#updated-on-20260222>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260223>back to top</a>)</p>
 
 ## Facial Expression Recognition
 
@@ -1632,7 +1634,7 @@
 |**2024-12-16**|**Impact of Face Alignment on Face Image Quality**|Eren Onaran et.al.|[2412.11779](http://arxiv.org/abs/2412.11779)|null|
 |**2024-12-15**|**Unimodal and Multimodal Static Facial Expression Recognition for Virtual Reality Users with EmoHeVRDB**|Thorben Ortmann et.al.|[2412.11306](http://arxiv.org/abs/2412.11306)|**[link](https://github.com/thorbenortmann/emohevrdb-sfer)**|
 
-<p align=right>(<a href=#updated-on-20260222>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260223>back to top</a>)</p>
 
 ## Test-Time Adaptation
 
@@ -1876,12 +1878,16 @@
 |**2025-01-31**|**Test-time Loss Landscape Adaptation for Zero-Shot Generalization in Vision-Language Models**|Aodi Li et.al.|[2501.18864](http://arxiv.org/abs/2501.18864)|null|
 |**2025-02-03**|**Advances in Multimodal Adaptation and Generalization: From Traditional Approaches to Foundation Models**|Hao Dong et.al.|[2501.18592](http://arxiv.org/abs/2501.18592)|**[link](https://github.com/donghao51/awesome-multimodal-adaptation)**|
 
-<p align=right>(<a href=#updated-on-20260222>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260223>back to top</a>)</p>
 
 ## Multimodal Large Language Model
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-20**|**3DMedAgent: Unified Perception-to-Understanding for 3D Medical Analysis**|Ziyue Wang et.al.|[2602.18064](http://arxiv.org/abs/2602.18064)|null|
+|**2026-02-20**|**Continual-NExT: A Unified Comprehension And Generation Continual Learning Framework**|Jingyang Qiao et.al.|[2602.18055](http://arxiv.org/abs/2602.18055)|null|
+|**2026-02-20**|**Scaling Audio-Text Retrieval with Multimodal Large Language Models**|Jilan Xu et.al.|[2602.18010](http://arxiv.org/abs/2602.18010)|null|
+|**2026-02-19**|**Learning Compact Video Representations for Efficient Long-form Video Understanding in Large Multimodal Models**|Yuxiao Chen et.al.|[2602.17869](http://arxiv.org/abs/2602.17869)|null|
 |**2026-02-19**|**RetouchIQ: MLLM Agents for Instruction-Based Image Retouching with Generalist Reward**|Qiucheng Wu et.al.|[2602.17558](http://arxiv.org/abs/2602.17558)|null|
 |**2026-02-19**|**GraphThinker: Reinforcing Video Reasoning with Event Graph Thinking**|Zixu Cheng et.al.|[2602.17555](http://arxiv.org/abs/2602.17555)|null|
 |**2026-02-19**|**QuPAINT: Physics-Aware Instruction Tuning Approach to Quantum Material Discovery**|Xuan-Bac Nguyen et.al.|[2602.17478](http://arxiv.org/abs/2602.17478)|null|
@@ -2310,7 +2316,7 @@
 |**2025-11-25**|**Bootstrapping Physics-Grounded Video Generation through VLM-Guided Iterative Self-Refinement**|Yang Liu et.al.|[2511.20280](http://arxiv.org/abs/2511.20280)|null|
 |**2025-11-25**|**VKnowU: Evaluating Visual Knowledge Understanding in Multimodal LLMs**|Tianxiang Jiang et.al.|[2511.20272](http://arxiv.org/abs/2511.20272)|null|
 
-<p align=right>(<a href=#updated-on-20260222>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260223>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
