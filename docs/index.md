@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2026.02.23
+## Updated on 2026.02.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Cross-Modal Image Retrieval
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-22**|**The Power of Decaying Steps: Enhancing Attack Stability and Transferability for Sign-based Optimizers**|Wei Tao et.al.|[2602.19096](http://arxiv.org/abs/2602.19096)|null|
+|**2026-02-22**|**MoBind: Motion Binding for Fine-Grained IMU-Video Pose Alignment**|Duc Duy Nguyen et.al.|[2602.19004](http://arxiv.org/abs/2602.19004)|null|
 |**2026-02-18**|**Xray-Visual Models: Scaling Vision models on Industry Scale Data**|Shlok Mishra et.al.|[2602.16918](http://arxiv.org/abs/2602.16918)|null|
 |**2026-02-13**|**InfoCIR: Multimedia Analysis for Composed Image Retrieval**|Ioannis Dravilas et.al.|[2602.13402](http://arxiv.org/abs/2602.13402)|null|
 |**2026-02-12**|**Arbitrary Ratio Feature Compression via Next Token Prediction**|Yufan Liu et.al.|[2602.11494](http://arxiv.org/abs/2602.11494)|null|
@@ -121,6 +123,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-22**|**Incremental Learning of Sparse Attention Patterns in Transformers**|Oğuz Kaan Yüksel et.al.|[2602.19143](http://arxiv.org/abs/2602.19143)|null|
 |**2026-02-20**|**Continual-NExT: A Unified Comprehension And Generation Continual Learning Framework**|Jingyang Qiao et.al.|[2602.18055](http://arxiv.org/abs/2602.18055)|null|
 |**2026-02-19**|**A Hybrid Federated Learning Based Ensemble Approach for Lung Disease Diagnosis Leveraging Fusion of SWIN Transformer and CNN**|Asif Hasan Chowdhury et.al.|[2602.17566](http://arxiv.org/abs/2602.17566)|null|
 |**2026-02-19**|**Revisiting Weight Regularization for Low-Rank Continual Learning**|Yaoyue Zheng et.al.|[2602.17559](http://arxiv.org/abs/2602.17559)|null|
@@ -906,6 +909,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-22**|**GS-CLIP: Zero-shot 3D Anomaly Detection by Geometry-Aware Prompt and Synergistic View Representation Learning**|Zehao Deng et.al.|[2602.19206](http://arxiv.org/abs/2602.19206)|null|
+|**2026-02-22**|**Visual Prompt Guided Unified Pushing Policy**|Hieu Bui et.al.|[2602.19193](http://arxiv.org/abs/2602.19193)|null|
+|**2026-02-22**|**ChordEdit: One-Step Low-Energy Transport for Image Editing**|Liangsi Lu et.al.|[2602.19083](http://arxiv.org/abs/2602.19083)|null|
+|**2026-02-22**|**TokenTrace: Multi-Concept Attribution through Watermarked Token Recovery**|Li Zhang et.al.|[2602.19019](http://arxiv.org/abs/2602.19019)|null|
+|**2026-02-21**|**Joint Post-Training Quantization of Vision Transformers with Learned Prompt-Guided Data Generation**|Shile Li et.al.|[2602.18861](http://arxiv.org/abs/2602.18861)|null|
+|**2026-02-21**|**Learning Multi-Modal Prototypes for Cross-Domain Few-Shot Object Detection**|Wanqi Wang et.al.|[2602.18811](http://arxiv.org/abs/2602.18811)|null|
 |**2026-02-20**|**Zero-shot Interactive Perception**|Venkatesh Sripada et.al.|[2602.18374](http://arxiv.org/abs/2602.18374)|null|
 |**2026-02-17**|**Selective Perception for Robot: Task-Aware Attention in Multimodal VLA**|Young-Chae Son et.al.|[2602.15543](http://arxiv.org/abs/2602.15543)|null|
 |**2026-02-17**|**Semantic-Guided 3D Gaussian Splatting for Transient Object Removal**|Aditi Prabakaran et.al.|[2602.15516](http://arxiv.org/abs/2602.15516)|null|
@@ -1532,6 +1541,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-21**|**TAG: Thinking with Action Unit Grounding for Facial Expression Recognition**|Haobo Lin et.al.|[2602.18763](http://arxiv.org/abs/2602.18763)|null|
 |**2026-02-11**|**Design, Development, and Use of Maya Robot as an Assistant for the Therapy/Education of Children with Cancer: a Pilot Study**|Alireza Taheri et.al.|[2602.10942](http://arxiv.org/abs/2602.10942)|null|
 |**2026-02-03**|**PriorProbe: Recovering Individual-Level Priors for Personalizing Neural Networks in Facial Expression Recognition**|Haijiang Yan et.al.|[2602.03882](http://arxiv.org/abs/2602.03882)|null|
 |**2026-01-22**|**The Latency Wall: Benchmarking Off-the-Shelf Emotion Recognition for Real-Time Virtual Avatars**|Yarin Benyamin et.al.|[2601.15914](http://arxiv.org/abs/2601.15914)|null|
@@ -1624,12 +1634,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-20**|**Audio-Visual Continual Test-Time Adaptation without Forgetting**|Sarthak Kumar Maharana et.al.|[2602.18528](http://arxiv.org/abs/2602.18528)|null|
 |**2026-02-17**|**Stabilizing Test-Time Adaptation of High-Dimensional Simulation Surrogates via D-Optimal Statistics**|Anna Zimmel et.al.|[2602.15820](http://arxiv.org/abs/2602.15820)|null|
 |**2026-02-16**|**Depth Completion as Parameter-Efficient Test-Time Adaptation**|Bingxin Ke et.al.|[2602.14751](http://arxiv.org/abs/2602.14751)|null|
 |**2026-02-12**|**ZeroDiff++: Substantial Unseen Visual-semantic Correlation in Zero-shot Learning**|Zihan Ye et.al.|[2602.12401](http://arxiv.org/abs/2602.12401)|null|
 |**2026-02-12**|**Adaptive Debiasing Tsallis Entropy for Test-Time Adaptation**|Xiangyu Wu et.al.|[2602.11743](http://arxiv.org/abs/2602.11743)|null|
 |**2026-02-10**|**Unsupervised Layer-Wise Dynamic Test Time Adaptation for LLMs**|Longhuan Xu et.al.|[2602.09719](http://arxiv.org/abs/2602.09719)|null|
-|**2026-02-10**|**Time2General: Learning Spatiotemporal Invariant Representations for Domain-Generalization Video Semantic Segmentation**|Siyu Chen et.al.|[2602.09648](http://arxiv.org/abs/2602.09648)|null|
+|**2026-02-22**|**Time2General: Learning Spatiotemporal Invariant Representations for Domain-Generalization Video Semantic Segmentation**|Siyu Chen et.al.|[2602.09648](http://arxiv.org/abs/2602.09648)|null|
 |**2026-02-09**|**Minimum Distance Summaries for Robust Neural Posterior Estimation**|Sherman Khoo et.al.|[2602.09161](http://arxiv.org/abs/2602.09161)|null|
 |**2026-02-17**|**LQA: A Lightweight Quantized-Adaptive Framework for Vision-Language Models on the Edge**|Xin Wang et.al.|[2602.07849](http://arxiv.org/abs/2602.07849)|null|
 |**2026-02-07**|**Revealing the Semantic Selection Gap in DINOv3 through Training-Free Few-Shot Segmentation**|Hussni Mohd Zakir et.al.|[2602.07550](http://arxiv.org/abs/2602.07550)|null|
@@ -1866,6 +1877,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-22**|**ComUICoder: Component-based Reusable UI Code Generation for Complex Websites via Semantic Segmentation and Element-wise Feedback**|Jingyu Xiao et.al.|[2602.19276](http://arxiv.org/abs/2602.19276)|null|
+|**2026-02-22**|**No Need For Real Anomaly: MLLM Empowered Zero-Shot Video Anomaly Detection**|Zunkai Dai et.al.|[2602.19248](http://arxiv.org/abs/2602.19248)|null|
+|**2026-02-22**|**Universal 3D Shape Matching via Coarse-to-Fine Language Guidance**|Qinfeng Xiao et.al.|[2602.19112](http://arxiv.org/abs/2602.19112)|null|
+|**2026-02-22**|**CREM: Compression-Driven Representation Enhancement for Multimodal Retrieval and Comprehension**|Lihao Liu et.al.|[2602.19091](http://arxiv.org/abs/2602.19091)|null|
+|**2026-02-21**|**TPRU: Advancing Temporal and Procedural Understanding in Large Multimodal Models**|Zhenkun Gao et.al.|[2602.18884](http://arxiv.org/abs/2602.18884)|null|
+|**2026-02-21**|**FOCA: Frequency-Oriented Cross-Domain Forgery Detection, Localization and Explanation via Multi-Modal Large Language Model**|Zhou Liu et.al.|[2602.18880](http://arxiv.org/abs/2602.18880)|null|
+|**2026-02-21**|**Echoes of Ownership: Adversarial-Guided Dual Injection for Copyright Protection in MLLMs**|Chengwei Xia et.al.|[2602.18845](http://arxiv.org/abs/2602.18845)|null|
+|**2026-02-21**|**Beyond Description: A Multimodal Agent Framework for Insightful Chart Summarization**|Yuhang Bai et.al.|[2602.18731](http://arxiv.org/abs/2602.18731)|null|
+|**2026-02-20**|**MapTab: Can MLLMs Master Constrained Route Planning?**|Ziqiao Shang et.al.|[2602.18600](http://arxiv.org/abs/2602.18600)|null|
+|**2026-02-20**|**Rodent-Bench**|Thomas Heap et.al.|[2602.18540](http://arxiv.org/abs/2602.18540)|null|
 |**2026-02-20**|**3DMedAgent: Unified Perception-to-Understanding for 3D Medical Analysis**|Ziyue Wang et.al.|[2602.18064](http://arxiv.org/abs/2602.18064)|null|
 |**2026-02-20**|**Continual-NExT: A Unified Comprehension And Generation Continual Learning Framework**|Jingyang Qiao et.al.|[2602.18055](http://arxiv.org/abs/2602.18055)|null|
 |**2026-02-20**|**Scaling Audio-Text Retrieval with Multimodal Large Language Models**|Jilan Xu et.al.|[2602.18010](http://arxiv.org/abs/2602.18010)|null|
