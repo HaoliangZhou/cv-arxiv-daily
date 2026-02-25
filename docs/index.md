@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2026.02.24
+## Updated on 2026.02.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Cross-Modal Image Retrieval
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-23**|**StructXLIP: Enhancing Vision-language Models with Multimodal Structural Cues**|Zanxi Ruan et.al.|[2602.20089](http://arxiv.org/abs/2602.20089)|null|
+|**2026-02-23**|**Closing the gap in multimodal medical representation alignment**|Eleonora Grassucci et.al.|[2602.20046](http://arxiv.org/abs/2602.20046)|null|
 |**2026-02-22**|**The Power of Decaying Steps: Enhancing Attack Stability and Transferability for Sign-based Optimizers**|Wei Tao et.al.|[2602.19096](http://arxiv.org/abs/2602.19096)|null|
 |**2026-02-22**|**MoBind: Motion Binding for Fine-Grained IMU-Video Pose Alignment**|Duc Duy Nguyen et.al.|[2602.19004](http://arxiv.org/abs/2602.19004)|null|
 |**2026-02-18**|**Xray-Visual Models: Scaling Vision models on Industry Scale Data**|Shlok Mishra et.al.|[2602.16918](http://arxiv.org/abs/2602.16918)|null|
@@ -123,6 +125,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-24**|**EW-DETR: Evolving World Object Detection via Incremental Low-Rank DEtection TRansformer**|Munish Monga et.al.|[2602.20985](http://arxiv.org/abs/2602.20985)|null|
+|**2026-02-24**|**From Isolation to Integration: Building an Adaptive Expert Forest for Pre-Trained Model-based Class-Incremental Learning**|Ruiqi Liu et.al.|[2602.20911](http://arxiv.org/abs/2602.20911)|null|
+|**2026-02-24**|**Exploring the Impact of Parameter Update Magnitude on Forgetting and Generalization of Continual Learning**|JinLi He et.al.|[2602.20796](http://arxiv.org/abs/2602.20796)|null|
+|**2026-02-24**|**Understanding the Role of Rehearsal Scale in Continual Learning under Varying Model Capacities**|JinLi He et.al.|[2602.20791](http://arxiv.org/abs/2602.20791)|null|
+|**2026-02-23**|**Learning During Detection: Continual Learning for Neural OFDM Receivers via DMRS**|Mohanad Obeed et.al.|[2602.20361](http://arxiv.org/abs/2602.20361)|null|
+|**2026-02-23**|**Representation Stability in a Minimal Continual Learning Agent**|Vishnu Subramanian et.al.|[2602.19655](http://arxiv.org/abs/2602.19655)|null|
+|**2026-02-22**|**Active perception and disentangled representations allow continual, episodic zero and few-shot learning**|David Rawlinson et.al.|[2602.19355](http://arxiv.org/abs/2602.19355)|null|
 |**2026-02-22**|**Incremental Learning of Sparse Attention Patterns in Transformers**|Oğuz Kaan Yüksel et.al.|[2602.19143](http://arxiv.org/abs/2602.19143)|null|
 |**2026-02-20**|**Continual-NExT: A Unified Comprehension And Generation Continual Learning Framework**|Jingyang Qiao et.al.|[2602.18055](http://arxiv.org/abs/2602.18055)|null|
 |**2026-02-19**|**A Hybrid Federated Learning Based Ensemble Approach for Lung Disease Diagnosis Leveraging Fusion of SWIN Transformer and CNN**|Asif Hasan Chowdhury et.al.|[2602.17566](http://arxiv.org/abs/2602.17566)|null|
@@ -909,6 +918,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-24**|**VII: Visual Instruction Injection for Jailbreaking Image-to-Video Generation Models**|Bowen Zheng et.al.|[2602.20999](http://arxiv.org/abs/2602.20999)|null|
+|**2026-02-24**|**Training-Free Multi-Concept Image Editing**|Niki Foteinopoulou et.al.|[2602.20839](http://arxiv.org/abs/2602.20839)|null|
+|**2026-02-23**|**SongEcho: Towards Cover Song Generation via Instance-Adaptive Element-wise Linear Modulation**|Sifei Li et.al.|[2602.19976](http://arxiv.org/abs/2602.19976)|null|
+|**2026-02-23**|**Discover, Segment, and Select: A Progressive Mechanism for Zero-shot Camouflaged Object Segmentation**|Yilong Yang et.al.|[2602.19944](http://arxiv.org/abs/2602.19944)|null|
+|**2026-02-23**|**Seeing Clearly, Reasoning Confidently: Plug-and-Play Remedies for Vision Language Model Blindness**|Xin Hu et.al.|[2602.19615](http://arxiv.org/abs/2602.19615)|null|
+|**2026-02-23**|**Test-Time Computing for Referring Multimodal Large Language Models**|Mingrui Wu et.al.|[2602.19505](http://arxiv.org/abs/2602.19505)|null|
 |**2026-02-22**|**GS-CLIP: Zero-shot 3D Anomaly Detection by Geometry-Aware Prompt and Synergistic View Representation Learning**|Zehao Deng et.al.|[2602.19206](http://arxiv.org/abs/2602.19206)|null|
 |**2026-02-22**|**Visual Prompt Guided Unified Pushing Policy**|Hieu Bui et.al.|[2602.19193](http://arxiv.org/abs/2602.19193)|null|
 |**2026-02-22**|**ChordEdit: One-Step Low-Energy Transport for Image Editing**|Liangsi Lu et.al.|[2602.19083](http://arxiv.org/abs/2602.19083)|null|
@@ -1634,6 +1649,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-23**|**ORION: ORthonormal Text Encoding for Universal VLM AdaptatION**|Omprakash Chakraborty et.al.|[2602.19530](http://arxiv.org/abs/2602.19530)|null|
+|**2026-02-23**|**Test-Time Computing for Referring Multimodal Large Language Models**|Mingrui Wu et.al.|[2602.19505](http://arxiv.org/abs/2602.19505)|null|
+|**2026-02-23**|**HD-TTA: Hypothesis-Driven Test-Time Adaptation for Safer Brain Tumor Segmentation**|Kartik Jhawar et.al.|[2602.19454](http://arxiv.org/abs/2602.19454)|null|
 |**2026-02-20**|**Audio-Visual Continual Test-Time Adaptation without Forgetting**|Sarthak Kumar Maharana et.al.|[2602.18528](http://arxiv.org/abs/2602.18528)|null|
 |**2026-02-17**|**Stabilizing Test-Time Adaptation of High-Dimensional Simulation Surrogates via D-Optimal Statistics**|Anna Zimmel et.al.|[2602.15820](http://arxiv.org/abs/2602.15820)|null|
 |**2026-02-16**|**Depth Completion as Parameter-Efficient Test-Time Adaptation**|Bingxin Ke et.al.|[2602.14751](http://arxiv.org/abs/2602.14751)|null|
@@ -1877,6 +1895,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-24**|**CrystaL: Spontaneous Emergence of Visual Latents in MLLMs**|Yang Zhang et.al.|[2602.20980](http://arxiv.org/abs/2602.20980)|null|
+|**2026-02-24**|**Are Multimodal Large Language Models Good Annotators for Image Tagging?**|Ming-Kun Xie et.al.|[2602.20972](http://arxiv.org/abs/2602.20972)|null|
+|**2026-02-24**|**LongVideo-R1: Smart Navigation for Low-cost Long Video Understanding**|Jihao Qiu et.al.|[2602.20913](http://arxiv.org/abs/2602.20913)|null|
+|**2026-02-24**|**Physics-based phenomenological characterization of cross-modal bias in multimodal models**|Hyeongmo Kim et.al.|[2602.20624](http://arxiv.org/abs/2602.20624)|null|
+|**2026-02-23**|**Unlocking Multimodal Document Intelligence: From Current Triumphs to Future Frontiers of Visual Document Retrieval**|Yibo Yan et.al.|[2602.19961](http://arxiv.org/abs/2602.19961)|null|
+|**2026-02-23**|**TextShield-R1: Reinforced Reasoning for Tampered Text Detection**|Chenfan Qu et.al.|[2602.19828](http://arxiv.org/abs/2602.19828)|null|
+|**2026-02-23**|**Vinedresser3D: Agentic Text-guided 3D Editing**|Yankuan Chi et.al.|[2602.19542](http://arxiv.org/abs/2602.19542)|null|
+|**2026-02-23**|**Pixel2Phys: Distilling Governing Laws from Visual Dynamics**|Ruikun Li et.al.|[2602.19516](http://arxiv.org/abs/2602.19516)|null|
+|**2026-02-23**|**Test-Time Computing for Referring Multimodal Large Language Models**|Mingrui Wu et.al.|[2602.19505](http://arxiv.org/abs/2602.19505)|null|
+|**2026-02-23**|**MICON-Bench: Benchmarking and Enhancing Multi-Image Context Image Generation in Unified Multimodal Models**|Mingrui Wu et.al.|[2602.19497](http://arxiv.org/abs/2602.19497)|null|
 |**2026-02-22**|**ComUICoder: Component-based Reusable UI Code Generation for Complex Websites via Semantic Segmentation and Element-wise Feedback**|Jingyu Xiao et.al.|[2602.19276](http://arxiv.org/abs/2602.19276)|null|
 |**2026-02-22**|**No Need For Real Anomaly: MLLM Empowered Zero-Shot Video Anomaly Detection**|Zunkai Dai et.al.|[2602.19248](http://arxiv.org/abs/2602.19248)|null|
 |**2026-02-22**|**Universal 3D Shape Matching via Coarse-to-Fine Language Guidance**|Qinfeng Xiao et.al.|[2602.19112](http://arxiv.org/abs/2602.19112)|null|
