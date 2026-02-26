@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.02.25
+## Updated on 2026.02.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Cross-Modal Image Retrieval
@@ -125,6 +125,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-25**|**Learning in the Null Space: Small Singular Values for Continual Learning**|Cuong Anh Pham et.al.|[2602.21919](http://arxiv.org/abs/2602.21919)|null|
 |**2026-02-24**|**EW-DETR: Evolving World Object Detection via Incremental Low-Rank DEtection TRansformer**|Munish Monga et.al.|[2602.20985](http://arxiv.org/abs/2602.20985)|null|
 |**2026-02-24**|**From Isolation to Integration: Building an Adaptive Expert Forest for Pre-Trained Model-based Class-Incremental Learning**|Ruiqi Liu et.al.|[2602.20911](http://arxiv.org/abs/2602.20911)|null|
 |**2026-02-24**|**Exploring the Impact of Parameter Update Magnitude on Forgetting and Generalization of Continual Learning**|JinLi He et.al.|[2602.20796](http://arxiv.org/abs/2602.20796)|null|
@@ -918,13 +919,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-24**|**MMLoP: Multi-Modal Low-Rank Prompting for Efficient Vision-Language Adaptation**|Sajjad Ghiasvand et.al.|[2602.21397](http://arxiv.org/abs/2602.21397)|null|
 |**2026-02-24**|**VII: Visual Instruction Injection for Jailbreaking Image-to-Video Generation Models**|Bowen Zheng et.al.|[2602.20999](http://arxiv.org/abs/2602.20999)|null|
 |**2026-02-24**|**Training-Free Multi-Concept Image Editing**|Niki Foteinopoulou et.al.|[2602.20839](http://arxiv.org/abs/2602.20839)|null|
 |**2026-02-23**|**SongEcho: Towards Cover Song Generation via Instance-Adaptive Element-wise Linear Modulation**|Sifei Li et.al.|[2602.19976](http://arxiv.org/abs/2602.19976)|null|
 |**2026-02-23**|**Discover, Segment, and Select: A Progressive Mechanism for Zero-shot Camouflaged Object Segmentation**|Yilong Yang et.al.|[2602.19944](http://arxiv.org/abs/2602.19944)|null|
 |**2026-02-23**|**Seeing Clearly, Reasoning Confidently: Plug-and-Play Remedies for Vision Language Model Blindness**|Xin Hu et.al.|[2602.19615](http://arxiv.org/abs/2602.19615)|null|
 |**2026-02-23**|**Test-Time Computing for Referring Multimodal Large Language Models**|Mingrui Wu et.al.|[2602.19505](http://arxiv.org/abs/2602.19505)|null|
-|**2026-02-22**|**GS-CLIP: Zero-shot 3D Anomaly Detection by Geometry-Aware Prompt and Synergistic View Representation Learning**|Zehao Deng et.al.|[2602.19206](http://arxiv.org/abs/2602.19206)|null|
+|**2026-02-25**|**GS-CLIP: Zero-shot 3D Anomaly Detection by Geometry-Aware Prompt and Synergistic View Representation Learning**|Zehao Deng et.al.|[2602.19206](http://arxiv.org/abs/2602.19206)|null|
 |**2026-02-22**|**Visual Prompt Guided Unified Pushing Policy**|Hieu Bui et.al.|[2602.19193](http://arxiv.org/abs/2602.19193)|null|
 |**2026-02-22**|**ChordEdit: One-Step Low-Energy Transport for Image Editing**|Liangsi Lu et.al.|[2602.19083](http://arxiv.org/abs/2602.19083)|null|
 |**2026-02-22**|**TokenTrace: Multi-Concept Attribution through Watermarked Token Recovery**|Li Zhang et.al.|[2602.19019](http://arxiv.org/abs/2602.19019)|null|
@@ -1895,6 +1897,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-25**|**RT-RMOT: A Dataset and Framework for RGB-Thermal Referring Multi-Object Tracking**|Yanqiu Yu et.al.|[2602.22033](http://arxiv.org/abs/2602.22033)|null|
+|**2026-02-25**|**Global-Local Dual Perception for MLLMs in High-Resolution Text-Rich Image Translation**|Junxin Lu et.al.|[2602.21956](http://arxiv.org/abs/2602.21956)|null|
+|**2026-02-25**|**MEDSYN: Benchmarking Multi-EviDence SYNthesis in Complex Clinical Cases for Multimodal Large Language Models**|Boqi Chen et.al.|[2602.21950](http://arxiv.org/abs/2602.21950)|null|
+|**2026-02-25**|**How to Take a Memorable Picture? Empowering Users with Actionable Feedback**|Francesco Laiti et.al.|[2602.21877](http://arxiv.org/abs/2602.21877)|null|
+|**2026-02-25**|**ProactiveMobile: A Comprehensive Benchmark for Boosting Proactive Intelligence on Mobile Devices**|Dezhi Kong et.al.|[2602.21858](http://arxiv.org/abs/2602.21858)|null|
+|**2026-02-25**|**FewMMBench: A Benchmark for Multimodal Few-Shot Learning**|Mustafa Dogan et.al.|[2602.21854](http://arxiv.org/abs/2602.21854)|null|
+|**2026-02-25**|**SkyReels-V4: Multi-modal Video-Audio Generation, Inpainting and Editing model**|Guibin Chen et.al.|[2602.21818](http://arxiv.org/abs/2602.21818)|null|
+|**2026-02-25**|**DHP: Efficient Scaling of MLLM Training with Dynamic Hybrid Parallelism**|Yifan Niu et.al.|[2602.21788](http://arxiv.org/abs/2602.21788)|null|
+|**2026-02-25**|**TranX-Adapter: Bridging Artifacts and Semantics within MLLMs for Robust AI-generated Image Detection**|Wenbin Wang et.al.|[2602.21716](http://arxiv.org/abs/2602.21716)|null|
+|**2026-02-25**|**Scalable Multilingual Multimodal Machine Translation with Speech-Text Fusion**|Yexing Du et.al.|[2602.21646](http://arxiv.org/abs/2602.21646)|null|
 |**2026-02-24**|**CrystaL: Spontaneous Emergence of Visual Latents in MLLMs**|Yang Zhang et.al.|[2602.20980](http://arxiv.org/abs/2602.20980)|null|
 |**2026-02-24**|**Are Multimodal Large Language Models Good Annotators for Image Tagging?**|Ming-Kun Xie et.al.|[2602.20972](http://arxiv.org/abs/2602.20972)|null|
 |**2026-02-24**|**LongVideo-R1: Smart Navigation for Low-cost Long Video Understanding**|Jihao Qiu et.al.|[2602.20913](http://arxiv.org/abs/2602.20913)|null|
