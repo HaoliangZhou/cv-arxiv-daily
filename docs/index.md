@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.03.01
+## Updated on 2026.03.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Cross-Modal Image Retrieval
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-27**|**SleepLM: Natural-Language Intelligence for Human Sleep**|Zongzhe Xu et.al.|[2602.23605](http://arxiv.org/abs/2602.23605)|null|
 |**2026-02-26**|**WISER: Wider Search, Deeper Thinking, and Adaptive Fusion for Training-Free Zero-Shot Composed Image Retrieval**|Tianyue Wang et.al.|[2602.23029](http://arxiv.org/abs/2602.23029)|null|
 |**2026-02-26**|**ViCLIP-OT: The First Foundation Vision-Language Model for Vietnamese Image-Text Retrieval with Optimal Transport**|Quoc-Khang Tran et.al.|[2602.22678](http://arxiv.org/abs/2602.22678)|null|
 |**2026-02-26**|**Pix2Key: Controllable Open-Vocabulary Retrieval with Semantic Decomposition and Self-Supervised Visual Dictionary Learning**|Guoyizhe Wei et.al.|[2602.22510](http://arxiv.org/abs/2602.22510)|null|
@@ -128,6 +129,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-27**|**MI $^2$ DAS: A Multi-Layer Intrusion Detection Framework with Incremental Learning for Securing Industrial IoT Networks**|Wei Lian et.al.|[2602.23846](http://arxiv.org/abs/2602.23846)|null|
+|**2026-02-27**|**Enhancing Continual Learning for Software Vulnerability Prediction: Addressing Catastrophic Forgetting via Hybrid-Confidence-Aware Selective Replay for Temporal LLM Fine-Tuning**|Xuhui Dou et.al.|[2602.23834](http://arxiv.org/abs/2602.23834)|null|
+|**2026-02-27**|**Footprint-Guided Exemplar-Free Continual Histopathology Report Generation**|Pratibha Kumari et.al.|[2602.23817](http://arxiv.org/abs/2602.23817)|null|
+|**2026-02-26**|**Few-Shot Continual Learning for 3D Brain MRI with Frozen Foundation Models**|Chi-Sheng Chen et.al.|[2602.23533](http://arxiv.org/abs/2602.23533)|null|
+|**2026-02-26**|**SegReg: Latent Space Regularization for Improved Medical Image Segmentation**|Puru Vaish et.al.|[2602.23509](http://arxiv.org/abs/2602.23509)|null|
 |**2026-02-26**|**Unsupervised Continual Learning for Amortized Bayesian Inference**|Aayush Mishra et.al.|[2602.22884](http://arxiv.org/abs/2602.22884)|null|
 |**2026-02-26**|**Towards LLM-Empowered Knowledge Tracing via LLM-Student Hierarchical Behavior Alignment in Hyperbolic Space**|Xingcheng Fu et.al.|[2602.22879](http://arxiv.org/abs/2602.22879)|null|
 |**2026-02-26**|**$φ$ -DPO: Fairness Direct Preference Optimization Approach to Continual Learning in Large Multimodal Models**|Thanh-Dat Truong et.al.|[2602.22601](http://arxiv.org/abs/2602.22601)|null|
@@ -928,8 +934,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-27**|**Open-Vocabulary Semantic Segmentation in Remote Sensing via Hierarchical Attention Masking and Model Composition**|Mohammadreza Heidarianbaei et.al.|[2602.23869](http://arxiv.org/abs/2602.23869)|null|
 |**2026-02-26**|**Retrieve and Segment: Are a Few Examples Enough to Bridge the Supervision Gap in Open-Vocabulary Segmentation?**|Tilemachos Aravanis et.al.|[2602.23339](http://arxiv.org/abs/2602.23339)|null|
-|**2026-02-26**|**SPATIALALIGN: Aligning Dynamic Spatial Relationships in Video Generation**|Fengming Liu et.al.|[2602.22745](http://arxiv.org/abs/2602.22745)|null|
+|**2026-02-27**|**SPATIALALIGN: Aligning Dynamic Spatial Relationships in Video Generation**|Fengming Liu et.al.|[2602.22745](http://arxiv.org/abs/2602.22745)|null|
 |**2026-02-25**|**SimpleOCR: Rendering Visualized Questions to Teach MLLMs to Read**|Yibo Peng et.al.|[2602.22426](http://arxiv.org/abs/2602.22426)|null|
 |**2026-02-25**|**Off-The-Shelf Image-to-Image Models Are All You Need To Defeat Image Protection Schemes**|Xavier Pleimling et.al.|[2602.22197](http://arxiv.org/abs/2602.22197)|null|
 |**2026-02-24**|**MMLoP: Multi-Modal Low-Rank Prompting for Efficient Vision-Language Adaptation**|Sajjad Ghiasvand et.al.|[2602.21397](http://arxiv.org/abs/2602.21397)|null|
@@ -1571,6 +1578,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-27**|**Micro-expression Recognition Based on Dual-branch Feature Extraction and Fusion**|Mingjie Zhang et.al.|[2602.23950](http://arxiv.org/abs/2602.23950)|null|
 |**2026-02-21**|**TAG: Thinking with Action Unit Grounding for Facial Expression Recognition**|Haobo Lin et.al.|[2602.18763](http://arxiv.org/abs/2602.18763)|null|
 |**2026-02-11**|**Design, Development, and Use of Maya Robot as an Assistant for the Therapy/Education of Children with Cancer: a Pilot Study**|Alireza Taheri et.al.|[2602.10942](http://arxiv.org/abs/2602.10942)|null|
 |**2026-02-03**|**PriorProbe: Recovering Individual-Level Priors for Personalizing Neural Networks in Facial Expression Recognition**|Haijiang Yan et.al.|[2602.03882](http://arxiv.org/abs/2602.03882)|null|
@@ -1664,6 +1672,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-27**|**ProtoDCS: Towards Robust and Efficient Open-Set Test-Time Adaptation for Vision-Language Models**|Wei Luo et.al.|[2602.23653](http://arxiv.org/abs/2602.23653)|null|
 |**2026-02-26**|**Retrieve and Segment: Are a Few Examples Enough to Bridge the Supervision Gap in Open-Vocabulary Segmentation?**|Tilemachos Aravanis et.al.|[2602.23339](http://arxiv.org/abs/2602.23339)|null|
 |**2026-02-23**|**ORION: ORthonormal Text Encoding for Universal VLM AdaptatION**|Omprakash Chakraborty et.al.|[2602.19530](http://arxiv.org/abs/2602.19530)|null|
 |**2026-02-23**|**Test-Time Computing for Referring Multimodal Large Language Models**|Mingrui Wu et.al.|[2602.19505](http://arxiv.org/abs/2602.19505)|null|
@@ -1911,6 +1920,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-27**|**Uncertainty Quantification for Multimodal Large Language Models with Incoherence-adjusted Semantic Volume**|Gregory Kang Ruey Lau et.al.|[2602.24195](http://arxiv.org/abs/2602.24195)|null|
+|**2026-02-27**|**Look Carefully: Adaptive Visual Reinforcements in Multimodal Large Language Models for Hallucination Mitigation**|Xingyu Zhu et.al.|[2602.24041](http://arxiv.org/abs/2602.24041)|null|
+|**2026-02-27**|**GuardAlign: Test-time Safety Alignment in Multimodal Large Language Models**|Xingyu Zhu et.al.|[2602.24027](http://arxiv.org/abs/2602.24027)|null|
+|**2026-02-27**|**Venus: Benchmarking and Empowering Multimodal Large Language Models for Aesthetic Guidance and Cropping**|Tianxiang Du et.al.|[2602.23980](http://arxiv.org/abs/2602.23980)|null|
+|**2026-02-27**|**Thinking with Images as Continuous Actions: Numerical Visual Chain-of-Thought**|Kesen Zhao et.al.|[2602.23959](http://arxiv.org/abs/2602.23959)|null|
+|**2026-02-27**|**PointCoT: A Multi-modal Benchmark for Explicit 3D Geometric Reasoning**|Dongxu Zhang et.al.|[2602.23945](http://arxiv.org/abs/2602.23945)|null|
+|**2026-02-27**|**Enhancing Vision-Language Navigation with Multimodal Event Knowledge from Real-World Indoor Tour Videos**|Haoxuan Xu et.al.|[2602.23937](http://arxiv.org/abs/2602.23937)|null|
+|**2026-02-27**|**EMO-R3: Reflective Reinforcement Learning for Emotional Reasoning in Multimodal Large Language Models**|Yiyang Fang et.al.|[2602.23802](http://arxiv.org/abs/2602.23802)|null|
+|**2026-02-27**|**Reasoning-Driven Multimodal LLM for Domain Generalization**|Zhipeng Xu et.al.|[2602.23777](http://arxiv.org/abs/2602.23777)|null|
+|**2026-02-27**|**Unlocking Cognitive Capabilities and Analyzing the Perception-Logic Trade-off**|Longyin Zhang et.al.|[2602.23730](http://arxiv.org/abs/2602.23730)|null|
 |**2026-02-26**|**MediX-R1: Open Ended Medical Reinforcement Learning**|Sahal Shaji Mullappilly et.al.|[2602.23363](http://arxiv.org/abs/2602.23363)|null|
 |**2026-02-26**|**FactGuard: Agentic Video Misinformation Detection via Reinforcement Learning**|Zehao Li et.al.|[2602.22963](http://arxiv.org/abs/2602.22963)|null|
 |**2026-02-26**|**Can Agents Distinguish Visually Hard-to-Separate Diseases in a Zero-Shot Setting? A Pilot Study**|Zihao Zhao et.al.|[2602.22959](http://arxiv.org/abs/2602.22959)|null|
