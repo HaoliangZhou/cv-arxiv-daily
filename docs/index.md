@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.03.04
+## Updated on 2026.03.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Cross-Modal Image Retrieval
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-04**|**DQE-CIR: Distinctive Query Embeddings through Learnable Attribute Weights and Target Relative Negative Sampling in Composed Image Retrieval**|Geon Park et.al.|[2603.04037](http://arxiv.org/abs/2603.04037)|null|
 |**2026-03-01**|**Beyond Global Similarity: Towards Fine-Grained, Multi-Condition Multimodal Retrieval**|Xuan Lu et.al.|[2603.01082](http://arxiv.org/abs/2603.01082)|null|
 |**2026-02-28**|**Heterophily-Agnostic Hypergraph Neural Networks with Riemannian Local Exchanger**|Li Sun et.al.|[2603.00599](http://arxiv.org/abs/2603.00599)|null|
 |**2026-02-27**|**SleepLM: Natural-Language Intelligence for Human Sleep**|Zongzhe Xu et.al.|[2602.23605](http://arxiv.org/abs/2602.23605)|null|
@@ -131,6 +132,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-04**|**Pretrained Vision-Language-Action Models are Surprisingly Resistant to Forgetting in Continual Learning**|Huihan Liu et.al.|[2603.03818](http://arxiv.org/abs/2603.03818)|null|
+|**2026-03-03**|**Cognitive Dark Matter: Measuring What AI Misses**|Patrick J. Mineault et.al.|[2603.03414](http://arxiv.org/abs/2603.03414)|null|
 |**2026-03-03**|**CGL: Advancing Continual GUI Learning via Reinforcement Fine-Tuning**|Zhenquan Yao et.al.|[2603.02951](http://arxiv.org/abs/2603.02951)|null|
 |**2026-03-03**|**Towards an Incremental Unified Multimodal Anomaly Detection: Augmenting Multimodal Denoising From an Information Bottleneck Perspective**|Kaifang Long et.al.|[2603.02629](http://arxiv.org/abs/2603.02629)|null|
 |**2026-03-02**|**Continual Learning via Ensemble-Based Depth-Wise Masked Autoencoders for Data Quality Monitoring in High-Energy Physics**|Dale Julson et.al.|[2603.02369](http://arxiv.org/abs/2603.02369)|null|
@@ -1695,6 +1698,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-04**|**When and Where to Reset Matters for Long-Term Test-Time Adaptation**|Taejun Lim et.al.|[2603.03796](http://arxiv.org/abs/2603.03796)|null|
+|**2026-03-03**|**Test-Time Meta-Adaptation with Self-Synthesis**|Zeyneb N. Kaya et.al.|[2603.03524](http://arxiv.org/abs/2603.03524)|null|
 |**2026-03-03**|**Efficient Test-Time Optimization for Depth Completion via Low-Rank Decoder Adaptation**|Minseok Seo et.al.|[2603.01765](http://arxiv.org/abs/2603.01765)|null|
 |**2026-03-02**|**Words & Weights: Streamlining Multi-Turn Interactions via Co-Adaptation**|Chenxing Wei et.al.|[2603.01375](http://arxiv.org/abs/2603.01375)|null|
 |**2026-03-01**|**TARSE: Test-Time Adaptation via Retrieval of Skills and Experience for Reasoning Agents**|Junda Wang et.al.|[2603.01241](http://arxiv.org/abs/2603.01241)|null|
@@ -1947,8 +1952,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-04**|**Discriminative Perception via Anchored Description for Reasoning Segmentation**|Tao Yang et.al.|[2603.04002](http://arxiv.org/abs/2603.04002)|null|
+|**2026-03-04**|**RIVER: A Real-Time Interaction Benchmark for Video LLMs**|Yansong Shi et.al.|[2603.03985](http://arxiv.org/abs/2603.03985)|null|
+|**2026-03-04**|**Evolutionary Multimodal Reasoning via Hierarchical Semantic Representation for Intent Recognition**|Qianrui Zhou et.al.|[2603.03827](http://arxiv.org/abs/2603.03827)|null|
+|**2026-03-04**|**PROSPECT: Unified Streaming Vision-Language Navigation via Semantic--Spatial Fusion and Latent Predictive Representation**|Zehua Fan et.al.|[2603.03739](http://arxiv.org/abs/2603.03739)|null|
+|**2026-03-04**|**EvoPrune: Early-Stage Visual Token Pruning for Efficient MLLMs**|Yuhao Chen et.al.|[2603.03681](http://arxiv.org/abs/2603.03681)|null|
+|**2026-03-04**|**Image-based Prompt Injection: Hijacking Multimodal LLMs through Visually Embedded Adversarial Instructions**|Neha Nagaraja et.al.|[2603.03637](http://arxiv.org/abs/2603.03637)|null|
+|**2026-03-03**|**Social Norm Reasoning in Multimodal Language Models: An Evaluation**|Oishik Chowdhury et.al.|[2603.03590](http://arxiv.org/abs/2603.03590)|null|
+|**2026-03-03**|**ACE-Brain-0: Spatial Intelligence as a Shared Scaffold for Universal Embodiments**|Ziyang Gong et.al.|[2603.03198](http://arxiv.org/abs/2603.03198)|null|
 |**2026-03-03**|**CGL: Advancing Continual GUI Learning via Reinforcement Fine-Tuning**|Zhenquan Yao et.al.|[2603.02951](http://arxiv.org/abs/2603.02951)|null|
-|**2026-03-03**|**TRACE: Task-Adaptive Reasoning and Representation Learning for Universal Multimodal Retrieval**|Xiangzhao Hao et.al.|[2603.02929](http://arxiv.org/abs/2603.02929)|null|
+|**2026-03-04**|**TRACE: Task-Adaptive Reasoning and Representation Learning for Universal Multimodal Retrieval**|Xiangzhao Hao et.al.|[2603.02929](http://arxiv.org/abs/2603.02929)|null|
 |**2026-03-03**|**OCR or Not? Rethinking Document Information Extraction in the MLLMs Era with Real-World Large-Scale Datasets**|Jiyuan Shen et.al.|[2603.02789](http://arxiv.org/abs/2603.02789)|null|
 |**2026-03-03**|**Seeing Clearly without Training: Mitigating Hallucinations in Multimodal LLMs for Remote Sensing**|Yi Liu et.al.|[2603.02754](http://arxiv.org/abs/2603.02754)|null|
 |**2026-03-03**|**Evaluating Cross-Modal Reasoning Ability and Problem Characteristics with Multimodal Item Response Theory**|Shunki Uebayashi et.al.|[2603.02663](http://arxiv.org/abs/2603.02663)|null|
