@@ -2,19 +2,20 @@
 layout: default
 ---
 
-## Updated on 2026.03.09
+## Updated on 2026.03.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Cross-Modal Image Retrieval
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-06**|**ProtAlign: Contrastive learning paradigm for Sequence and structure alignment**|Aditya Ranganath et.al.|[2603.06722](http://arxiv.org/abs/2603.06722)|null|
 |**2026-03-04**|**PinPoint: Evaluation of Composed Image Retrieval with Explicit Negatives, Multi-Image Queries, and Paraphrase Testing**|Rohan Mahadev et.al.|[2603.04598](http://arxiv.org/abs/2603.04598)|null|
 |**2026-03-04**|**DQE-CIR: Distinctive Query Embeddings through Learnable Attribute Weights and Target Relative Negative Sampling in Composed Image Retrieval**|Geon Park et.al.|[2603.04037](http://arxiv.org/abs/2603.04037)|null|
 |**2026-03-01**|**Beyond Global Similarity: Towards Fine-Grained, Multi-Condition Multimodal Retrieval**|Xuan Lu et.al.|[2603.01082](http://arxiv.org/abs/2603.01082)|null|
 |**2026-02-28**|**Heterophily-Agnostic Hypergraph Neural Networks with Riemannian Local Exchanger**|Li Sun et.al.|[2603.00599](http://arxiv.org/abs/2603.00599)|null|
 |**2026-02-27**|**SleepLM: Natural-Language Intelligence for Human Sleep**|Zongzhe Xu et.al.|[2602.23605](http://arxiv.org/abs/2602.23605)|null|
-|**2026-03-02**|**WISER: Wider Search, Deeper Thinking, and Adaptive Fusion for Training-Free Zero-Shot Composed Image Retrieval**|Tianyue Wang et.al.|[2602.23029](http://arxiv.org/abs/2602.23029)|null|
+|**2026-03-07**|**WISER: Wider Search, Deeper Thinking, and Adaptive Fusion for Training-Free Zero-Shot Composed Image Retrieval**|Tianyue Wang et.al.|[2602.23029](http://arxiv.org/abs/2602.23029)|null|
 |**2026-02-26**|**ViCLIP-OT: The First Foundation Vision-Language Model for Vietnamese Image-Text Retrieval with Optimal Transport**|Quoc-Khang Tran et.al.|[2602.22678](http://arxiv.org/abs/2602.22678)|null|
 |**2026-02-26**|**Pix2Key: Controllable Open-Vocabulary Retrieval with Semantic Decomposition and Self-Supervised Visual Dictionary Learning**|Guoyizhe Wei et.al.|[2602.22510](http://arxiv.org/abs/2602.22510)|null|
 |**2026-03-02**|**StructXLIP: Enhancing Vision-language Models with Multimodal Structural Cues**|Zanxi Ruan et.al.|[2602.20089](http://arxiv.org/abs/2602.20089)|null|
@@ -133,6 +134,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-09**|**Adaptive Collaboration with Humans: Metacognitive Policy Optimization for Multi-Agent LLMs with Continual Learning**|Wei Yang et.al.|[2603.07972](http://arxiv.org/abs/2603.07972)|null|
+|**2026-03-08**|**Vision Transformers that Never Stop Learning**|Caihao Sun et.al.|[2603.07787](http://arxiv.org/abs/2603.07787)|null|
+|**2026-03-08**|**ProgAgent:A Continual RL Agent with Progress-Aware Rewards**|Jinzhou Tan et.al.|[2603.07784](http://arxiv.org/abs/2603.07784)|null|
+|**2026-03-08**|**AtomicVLA: Unlocking the Potential of Atomic Skill Learning in Robots**|Likui Zhang et.al.|[2603.07648](http://arxiv.org/abs/2603.07648)|null|
+|**2026-03-08**|**Online Continual Learning for Anomaly Detection in IoT under Data Distribution Shifts**|Matea Marinova et.al.|[2603.07507](http://arxiv.org/abs/2603.07507)|null|
+|**2026-03-08**|**Context Channel Capacity: An Information-Theoretic Framework for Understanding Catastrophic Forgetting**|Ran Cheng et.al.|[2603.07415](http://arxiv.org/abs/2603.07415)|null|
+|**2026-03-07**|**HY-WU (Part I): An Extensible Functional Neural Memory Framework and An Instantiation in Text-Guided Image Editing**|Tencent HY Team et.al.|[2603.07236](http://arxiv.org/abs/2603.07236)|null|
+|**2026-03-06**|**Reinforcing the World's Edge: A Continual Learning Problem in the Multi-Agent-World Boundary**|Dane Malenfant et.al.|[2603.06813](http://arxiv.org/abs/2603.06813)|null|
 |**2026-03-06**|**Continual Adaptation for Pacific Indigenous Speech Recognition**|Yang Xiao et.al.|[2603.06310](http://arxiv.org/abs/2603.06310)|null|
 |**2026-03-06**|**Lifelong Embodied Navigation Learning**|Xudong Wang et.al.|[2603.06073](http://arxiv.org/abs/2603.06073)|null|
 |**2026-03-05**|**Lifelong Language-Conditioned Robotic Manipulation Learning**|Xudong Wang et.al.|[2603.05160](http://arxiv.org/abs/2603.05160)|null|
@@ -961,6 +970,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-09**|**UniGround: Universal 3D Visual Grounding via Training-Free Scene Parsing**|Jiaxi Zhang et.al.|[2603.08131](http://arxiv.org/abs/2603.08131)|null|
+|**2026-03-09**|**Synthetic Defect Image Generation for Power Line Insulator Inspection Using Multimodal Large Language Models**|Xuesong Wang et.al.|[2603.08069](http://arxiv.org/abs/2603.08069)|null|
+|**2026-03-09**|**ViSA-Enhanced Aerial VLN: A Visual-Spatial Reasoning Enhanced Framework for Aerial Vision-Language Navigation**|Haoyu Tong et.al.|[2603.08007](http://arxiv.org/abs/2603.08007)|null|
+|**2026-03-08**|**Models as Lego Builders: Assembling Malice from Benign Blocks via Semantic Blueprints**|Chenxi Li et.al.|[2603.07590](http://arxiv.org/abs/2603.07590)|null|
+|**2026-03-07**|**Faster-HEAL: An Efficient and Privacy-Preserving Collaborative Perception Framework for Heterogeneous Autonomous Vehicles**|Armin Maleki et.al.|[2603.07314](http://arxiv.org/abs/2603.07314)|null|
+|**2026-03-07**|**MedSteer: Counterfactual Endoscopic Synthesis via Training-Free Activation Steering**|Trong-Thang Pham et.al.|[2603.07066](http://arxiv.org/abs/2603.07066)|null|
+|**2026-03-06**|**OPTED: Open Preprocessed Trachoma Eye Dataset Using Zero-Shot SAM 3 Segmentation**|Kibrom Gebremedhin et.al.|[2603.06885](http://arxiv.org/abs/2603.06885)|null|
 |**2026-03-06**|**AV-Unified: A Unified Framework for Audio-visual Scene Understanding**|Guangyao Li et.al.|[2603.06530](http://arxiv.org/abs/2603.06530)|null|
 |**2026-03-06**|**Reflective Flow Sampling Enhancement**|Zikai Zhou et.al.|[2603.06165](http://arxiv.org/abs/2603.06165)|null|
 |**2026-03-05**|**RelaxFlow: Text-Driven Amodal 3D Generation**|Jiayin Zhu et.al.|[2603.05425](http://arxiv.org/abs/2603.05425)|null|
@@ -1714,6 +1730,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-09**|**TALON: Test-time Adaptive Learning for On-the-Fly Category Discovery**|Yanan Wu et.al.|[2603.08075](http://arxiv.org/abs/2603.08075)|null|
+|**2026-03-09**|**IMSE: Intrinsic Mixture of Spectral Experts Fine-tuning for Test-Time Adaptation**|Sunghyun Baek et.al.|[2603.07926](http://arxiv.org/abs/2603.07926)|null|
+|**2026-03-07**|**Bi-directional digital twin prototype anchoring with multi-periodicity learning for few-shot fault diagnosis**|Pengcheng Xia et.al.|[2603.07054](http://arxiv.org/abs/2603.07054)|null|
 |**2026-03-06**|**Shifting Adaptation from Weight Space to Memory Space: A Memory-Augmented Agent for Medical Image Segmentation**|Bowen Chen et.al.|[2603.05873](http://arxiv.org/abs/2603.05873)|null|
 |**2026-03-06**|**Test-Time Adaptation via Many-Shot Prompting: Benefits, Limits, and Pitfalls**|Shubhangi Upasani et.al.|[2603.05829](http://arxiv.org/abs/2603.05829)|null|
 |**2026-03-06**|**ImKWS: Test-Time Adaptation for Keyword Spotting with Class Imbalance**|Hanyu Ding et.al.|[2603.05821](http://arxiv.org/abs/2603.05821)|null|
@@ -1975,6 +1994,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-09**|**MERLIN: Building Low-SNR Robust Multimodal LLMs for Electromagnetic Signals**|Junyu Shen et.al.|[2603.08174](http://arxiv.org/abs/2603.08174)|null|
+|**2026-03-09**|**Synthetic Defect Image Generation for Power Line Insulator Inspection Using Multimodal Large Language Models**|Xuesong Wang et.al.|[2603.08069](http://arxiv.org/abs/2603.08069)|null|
+|**2026-03-09**|**CinemaWorld: Generative Augmented Reality with LLMs and 3D Scene Generation for Movie Augmentation**|Keiichi Ihara et.al.|[2603.08060](http://arxiv.org/abs/2603.08060)|null|
+|**2026-03-09**|**PIRA-Bench: A Transition from Reactive GUI Agents to GUI-based Proactive Intent Recommendation Agents**|Yuxiang Chai et.al.|[2603.08013](http://arxiv.org/abs/2603.08013)|null|
+|**2026-03-09**|**AutoTraces: Autoregressive Trajectory Forecasting via Multimodal Large Language Models**|Teng Wang et.al.|[2603.07989](http://arxiv.org/abs/2603.07989)|null|
+|**2026-03-09**|**SGG-R $^{\rm 3}$ : From Next-Token Prediction to End-to-End Unbiased Scene Graph Generation**|Jiaye Feng et.al.|[2603.07961](http://arxiv.org/abs/2603.07961)|null|
+|**2026-03-08**|**MedQ-Deg: A Multidimensional Benchmark for Evaluating MLLMs Across Medical Image Quality Degradations**|Jiyao Liu et.al.|[2603.07769](http://arxiv.org/abs/2603.07769)|null|
+|**2026-03-08**|**DocCogito: Aligning Layout Cognition and Step-Level Grounded Reasoning for Document Understanding**|Yuchuan Wu et.al.|[2603.07494](http://arxiv.org/abs/2603.07494)|null|
+|**2026-03-08**|**Med-Evo: Test-time Self-evolution for Medical Multimodal Large Language Models**|Dunyuan Xu et.al.|[2603.07443](http://arxiv.org/abs/2603.07443)|null|
+|**2026-03-07**|**MAviS: A Multimodal Conversational Assistant For Avian Species**|Yevheniia Kryklyvets et.al.|[2603.07294](http://arxiv.org/abs/2603.07294)|null|
 |**2026-03-06**|**Multimodal Large Language Models as Image Classifiers**|Nikita Kisel et.al.|[2603.06578](http://arxiv.org/abs/2603.06578)|null|
 |**2026-03-06**|**Omni-Diffusion: Unified Multimodal Understanding and Generation with Masked Discrete Diffusion**|Lijiang Li et.al.|[2603.06577](http://arxiv.org/abs/2603.06577)|null|
 |**2026-03-06**|**MLLMRec-R1: Incentivizing Reasoning Capability in Large Language Models for Multimodal Sequential Recommendation**|Yu Wang et.al.|[2603.06243](http://arxiv.org/abs/2603.06243)|null|
