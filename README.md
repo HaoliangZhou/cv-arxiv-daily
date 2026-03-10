@@ -4,7 +4,7 @@
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li><a href=#cross-modal-image-retrieval>Cross-Modal Image Retrieval</a></li>
+    <li><a href=#cross-modal-image-retrieval>Cross-Modal Retrieval</a></li>
     <li><a href=#continual-learning>Continual Learning</a></li>
     <li><a href=#vision-language-prompting>Vision-Language Prompting</a></li>
     <li><a href=#facial-expression-recognition>Facial Expression Recognition</a></li>
@@ -13,7 +13,7 @@
   </ol>
 </details>
 
-## Cross-Modal Image Retrieval
+## Cross-Modal Retrieval
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
