@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.03.11
+## Updated on 2026.03.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Cross-Modal Image Retrieval
@@ -134,7 +134,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-03-10**|**LCA: Local Classifier Alignment for Continual Learning**|Tung Tran et.al.|[2603.09888](http://arxiv.org/abs/2603.09888)|null|
+|**2026-03-11**|**Incremental Federated Learning for Intrusion Detection in IoT Networks under Evolving Threat Landscape**|Muaan Ur Rehman et.al.|[2603.10776](http://arxiv.org/abs/2603.10776)|null|
+|**2026-03-11**|**Interleaving Scheduling and Motion Planning with Incremental Learning of Symbolic Space-Time Motion Abstractions**|Elisa Tosello et.al.|[2603.10651](http://arxiv.org/abs/2603.10651)|null|
+|**2026-03-10**|**GR-SAP: Generative Replay for Safety Alignment Preservation during Fine-Tuning**|Zhouxiang Fang et.al.|[2603.10243](http://arxiv.org/abs/2603.10243)|null|
+|**2026-03-10**|**One Adapter for All: Towards Unified Representation in Step-Imbalanced Class-Incremental Learning**|Xiaoyan Zhang et.al.|[2603.10237](http://arxiv.org/abs/2603.10237)|null|
+|**2026-03-11**|**LCA: Local Classifier Alignment for Continual Learning**|Tung Tran et.al.|[2603.09888](http://arxiv.org/abs/2603.09888)|null|
 |**2026-03-10**|**Long-Run Conditional Value-at-Risk Reinforcement Learning**|Qixin Wang et.al.|[2603.09734](http://arxiv.org/abs/2603.09734)|null|
 |**2026-03-10**|**On Catastrophic Forgetting in Low-Rank Decomposition-Based Parameter-Efficient Fine-Tuning**|Muhammad Ahmad et.al.|[2603.09684](http://arxiv.org/abs/2603.09684)|null|
 |**2026-03-10**|**PRECEPT: Planning Resilience via Experience, Context Engineering & Probing Trajectories A Unified Framework for Test-Time Adaptation with Compositional Rule Learning and Pareto-Guided Prompt Evolution**|Arash Shahmansoori et.al.|[2603.09641](http://arxiv.org/abs/2603.09641)|null|
@@ -1747,7 +1751,7 @@ layout: default
 |**2026-03-10**|**TA-GGAD: Testing-time Adaptive Graph Model for Generalist Graph Anomaly Detection**|Xiong Zhang et.al.|[2603.09349](http://arxiv.org/abs/2603.09349)|null|
 |**2026-03-10**|**Predictive Spectral Calibration for Source-Free Test-Time Regression**|Nguyen Viet Tuan Kiet et.al.|[2603.09338](http://arxiv.org/abs/2603.09338)|null|
 |**2026-03-09**|**Drift-to-Action Controllers: Budgeted Interventions with Online Risk Certificates**|Ismail Lamaakal et.al.|[2603.08578](http://arxiv.org/abs/2603.08578)|null|
-|**2026-03-09**|**RetroAgent: From Solving to Evolving via Retrospective Dual Intrinsic Feedback**|Xiaoying Zhang et.al.|[2603.08561](http://arxiv.org/abs/2603.08561)|null|
+|**2026-03-11**|**RetroAgent: From Solving to Evolving via Retrospective Dual Intrinsic Feedback**|Xiaoying Zhang et.al.|[2603.08561](http://arxiv.org/abs/2603.08561)|null|
 |**2026-03-09**|**TALON: Test-time Adaptive Learning for On-the-Fly Category Discovery**|Yanan Wu et.al.|[2603.08075](http://arxiv.org/abs/2603.08075)|null|
 |**2026-03-10**|**IMSE: Intrinsic Mixture of Spectral Experts Fine-tuning for Test-Time Adaptation**|Sunghyun Baek et.al.|[2603.07926](http://arxiv.org/abs/2603.07926)|null|
 |**2026-03-07**|**Bi-directional digital twin prototype anchoring with multi-periodicity learning for few-shot fault diagnosis**|Pengcheng Xia et.al.|[2603.07054](http://arxiv.org/abs/2603.07054)|null|
@@ -2012,6 +2016,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-11**|**Beyond Sequential Distance: Inter-Modal Distance Invariant Position Encoding**|Lin Chen et.al.|[2603.10863](http://arxiv.org/abs/2603.10863)|null|
+|**2026-03-11**|**GeoSense: Internalizing Geometric Necessity Perception for Multimodal Reasoning**|Ruiheng Liu et.al.|[2603.10370](http://arxiv.org/abs/2603.10370)|null|
 |**2026-03-10**|**PathMem: Toward Cognition-Aligned Memory Transformation for Pathology MLLMs**|Jinyue Li et.al.|[2603.09943](http://arxiv.org/abs/2603.09943)|null|
 |**2026-03-10**|**InternVL-U: Democratizing Unified Multimodal Models for Understanding, Reasoning, Generation and Editing**|Changyao Tian et.al.|[2603.09877](http://arxiv.org/abs/2603.09877)|null|
 |**2026-03-10**|**FetalAgents: A Multi-Agent System for Fetal Ultrasound Image and Video Analysis**|Xiaotian Hu et.al.|[2603.09733](http://arxiv.org/abs/2603.09733)|null|
@@ -2579,6 +2585,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-11**|**Does AI See like Art Historians? Interpreting How Vision Language Models Recognize Artistic Style**|Marvin Limpijankit et.al.|[2603.11024](http://arxiv.org/abs/2603.11024)|null|
+|**2026-03-11**|**GroundCount: Grounding Vision-Language Models with Object Detection for Mitigating Counting Hallucinations**|Boyuan Chen et.al.|[2603.10978](http://arxiv.org/abs/2603.10978)|null|
+|**2026-03-11**|**From Images to Words: Efficient Cross-Modal Knowledge Distillation to Language Models from Black-box Teachers**|Ayan Sengupta et.al.|[2603.10877](http://arxiv.org/abs/2603.10877)|null|
+|**2026-03-11**|**HanMoVLM: Large Vision-Language Models for Professional Artistic Painting Evaluation**|Hongji Yang et.al.|[2603.10814](http://arxiv.org/abs/2603.10814)|null|
+|**2026-03-11**|**Taking Shortcuts for Categorical VQA Using Super Neurons**|Pierre Musacchio et.al.|[2603.10781](http://arxiv.org/abs/2603.10781)|null|
+|**2026-03-11**|**WalkGPT: Grounded Vision-Language Conversation with Depth-Aware Segmentation for Pedestrian Navigation**|Rafi Ibn Sultan et.al.|[2603.10703](http://arxiv.org/abs/2603.10703)|null|
+|**2026-03-11**|**OnFly: Onboard Zero-Shot Aerial Vision-Language Navigation toward Safety and Efficiency**|Guiyong Zheng et.al.|[2603.10682](http://arxiv.org/abs/2603.10682)|null|
+|**2026-03-11**|**Are Video Reasoning Models Ready to Go Outside?**|Yangfan He et.al.|[2603.10652](http://arxiv.org/abs/2603.10652)|null|
+|**2026-03-11**|**AdaClearGrasp: Learning Adaptive Clearing for Zero-Shot Robust Dexterous Grasping in Densely Cluttered Environments**|Zixuan Chen et.al.|[2603.10616](http://arxiv.org/abs/2603.10616)|null|
+|**2026-03-11**|**R4-CGQA: Retrieval-based Vision Language Models for Computer Graphics Image Quality Assessment**|Zhuangzi Li et.al.|[2603.10578](http://arxiv.org/abs/2603.10578)|null|
 |**2026-03-10**|**BEACON: Language-Conditioned Navigation Affordance Prediction under Occlusion**|Xinyu Gao et.al.|[2603.09961](http://arxiv.org/abs/2603.09961)|null|
 |**2026-03-10**|**MedMASLab: A Unified Orchestration Framework for Benchmarking Multimodal Medical Multi-Agent Systems**|Yunhang Qian et.al.|[2603.09909](http://arxiv.org/abs/2603.09909)|null|
 |**2026-03-10**|**Stepping VLMs onto the Court: Benchmarking Spatial Intelligence in Sports**|Yuchen Yang et.al.|[2603.09896](http://arxiv.org/abs/2603.09896)|null|
