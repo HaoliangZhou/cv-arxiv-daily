@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.03.16
+## Updated on 2026.03.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Cross-Modal Image Retrieval
@@ -134,6 +134,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-16**|**Machine learning for sustainable geoenergy: uncertainty, physics and decision-ready inference**|Hannah P. Menke et.al.|[2603.14907](http://arxiv.org/abs/2603.14907)|null|
+|**2026-03-16**|**ContiGuard: A Framework for Continual Toxicity Detection Against Evolving Evasive Perturbations**|Hankun Kang et.al.|[2603.14843](http://arxiv.org/abs/2603.14843)|null|
+|**2026-03-16**|**Universe Routing: Why Self-Evolving Agents Need Epistemic Control**|Zhaohui Geoffrey Wang et.al.|[2603.14799](http://arxiv.org/abs/2603.14799)|null|
+|**2026-03-15**|**Fine-tuning MLLMs Without Forgetting Is Easier Than You Think**|He Li et.al.|[2603.14493](http://arxiv.org/abs/2603.14493)|null|
+|**2026-03-15**|**Unlearning-based sliding window for continual learning under concept drift**|Michal Wozniak et.al.|[2603.14484](http://arxiv.org/abs/2603.14484)|null|
+|**2026-03-15**|**Deconfounded Lifelong Learning for Autonomous Driving via Dynamic Knowledge Spaces**|Jiayuan Du et.al.|[2603.14354](http://arxiv.org/abs/2603.14354)|null|
+|**2026-03-15**|**All-day Multi-scenes Lifelong Vision-and-Language Navigation with Tucker Adaptation**|Xudong Wang et.al.|[2603.14276](http://arxiv.org/abs/2603.14276)|null|
+|**2026-03-14**|**Zero-Forgetting CISS via Dual-Phase Cognitive Cascades**|Yuquan Lu et.al.|[2603.13874](http://arxiv.org/abs/2603.13874)|null|
+|**2026-03-14**|**Prototypical Exemplar Condensation for Memory-efficient Online Continual Learning**|Minh-Duong Nguyen et.al.|[2603.13804](http://arxiv.org/abs/2603.13804)|null|
+|**2026-03-14**|**Locally Linear Continual Learning for Time Series based on VC-Theoretical Generalization Bounds**|Yan V. G. Ferreira et.al.|[2603.13674](http://arxiv.org/abs/2603.13674)|null|
 |**2026-03-13**|**Residual SODAP: Residual Self-Organizing Domain-Adaptive Prompting with Structural Knowledge Preservation for Continual Learning**|Gyutae Oh et.al.|[2603.12816](http://arxiv.org/abs/2603.12816)|null|
 |**2026-03-13**|**Continual Learning in Large Language Models: Methods, Challenges, and Opportunities**|Hongyang Chen et.al.|[2603.12658](http://arxiv.org/abs/2603.12658)|null|
 |**2026-03-12**|**NeuroLoRA: Context-Aware Neuromodulation for Parameter-Efficient Multi-Task Adaptation**|Yuxin Yang et.al.|[2603.12378](http://arxiv.org/abs/2603.12378)|null|
@@ -1756,6 +1766,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-16**|**LLMind: Bio-inspired Training-free Adaptive Visual Representations for Vision-Language Models**|Soumyaratna Debnath et.al.|[2603.14882](http://arxiv.org/abs/2603.14882)|null|
+|**2026-03-15**|**EviATTA: Evidential Active Test-Time Adaptation for Medical Segment Anything Models**|Jiayi Chen et.al.|[2603.14666](http://arxiv.org/abs/2603.14666)|null|
+|**2026-03-15**|**ZOTTA: Test-Time Adaptation with Gradient-Free Zeroth-Order Optimization**|Ronghao Zhang et.al.|[2603.14254](http://arxiv.org/abs/2603.14254)|null|
+|**2026-03-14**|**Preconditioned Test-Time Adaptation for Out-of-Distribution Debiasing in Narrative Generation**|Hanwen Shen et.al.|[2603.13683](http://arxiv.org/abs/2603.13683)|null|
 |**2026-03-12**|**SPEGC: Continual Test-Time Adaptation via Semantic-Prompt-Enhanced Graph Clustering for Medical Image Segmentation**|Xiaogang Du et.al.|[2603.11492](http://arxiv.org/abs/2603.11492)|null|
 |**2026-03-10**|**Test-time Ego-Exo-centric Adaptation for Action Anticipation via Multi-Label Prototype Growing and Dual-Clue Consistency**|Zhaofeng Shi et.al.|[2603.09798](http://arxiv.org/abs/2603.09798)|null|
 |**2026-03-10**|**PRECEPT: Planning Resilience via Experience, Context Engineering & Probing Trajectories A Unified Framework for Test-Time Adaptation with Compositional Rule Learning and Pareto-Guided Prompt Evolution**|Arash Shahmansoori et.al.|[2603.09641](http://arxiv.org/abs/2603.09641)|null|
@@ -2028,6 +2042,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-16**|**EditHF-1M: A Million-Scale Rich Human Preference Feedback for Image Editing**|Zitong Xu et.al.|[2603.14916](http://arxiv.org/abs/2603.14916)|null|
+|**2026-03-16**|**SemanticFace: Semantic Facial Action Estimation via Semantic Distillation in Interpretable Space**|Zejian Kang et.al.|[2603.14827](http://arxiv.org/abs/2603.14827)|null|
+|**2026-03-16**|**CAMD: Coverage-Aware Multimodal Decoding for Efficient Reasoning of Multimodal Large Language Models**|Huijie Guo et.al.|[2603.14745](http://arxiv.org/abs/2603.14745)|null|
+|**2026-03-16**|**A Skill-augmented Agentic Framework and Benchmark for Multi-Video Understanding**|Yue Zhang et.al.|[2603.14733](http://arxiv.org/abs/2603.14733)|null|
+|**2026-03-15**|**ViDscribe: Multimodal AI for Customizing Audio Description and Question Answering in Online Videos**|Maryam Cheema et.al.|[2603.14662](http://arxiv.org/abs/2603.14662)|null|
+|**2026-03-15**|**GroundSet: A Cadastral-Grounded Dataset for Spatial Understanding with Vector Data**|Roger Ferrod et.al.|[2603.14609](http://arxiv.org/abs/2603.14609)|null|
+|**2026-03-15**|**Fine-tuning MLLMs Without Forgetting Is Easier Than You Think**|He Li et.al.|[2603.14493](http://arxiv.org/abs/2603.14493)|null|
+|**2026-03-15**|**Zoom to Essence: Trainless GUI Grounding by Inferring upon Interface Elements**|Ziwei Liu et.al.|[2603.14448](http://arxiv.org/abs/2603.14448)|null|
+|**2026-03-15**|**ES-Merging: Biological MLLM Merging via Embedding Space Signals**|Wonbin Lee et.al.|[2603.14405](http://arxiv.org/abs/2603.14405)|null|
+|**2026-03-15**|**AgroNVILA: Perception-Reasoning Decoupling for Multi-view Agricultural Multimodal Large Language Models**|Jiarui Zhang et.al.|[2603.14342](http://arxiv.org/abs/2603.14342)|null|
 |**2026-03-13**|**Reasoning over Video: Evaluating How MLLMs Extract, Integrate, and Reconstruct Spatiotemporal Evidence**|Seunghwan Bang et.al.|[2603.13091](http://arxiv.org/abs/2603.13091)|null|
 |**2026-03-13**|**Thinking in Dynamics: How Multimodal Large Language Models Perceive, Track, and Reason Dynamics in Physical 4D World**|Yuzhi Huang et.al.|[2603.12746](http://arxiv.org/abs/2603.12746)|null|
 |**2026-03-13**|**Cost-Efficient Multimodal LLM Inference via Cross-Tier GPU Heterogeneity**|Donglin Yu et.al.|[2603.12707](http://arxiv.org/abs/2603.12707)|null|
@@ -2597,6 +2621,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-13**|**AMES: Approximate Multi-modal Enterprise Search via Late Interaction Retrieval**|Tony Joseph et.al.|[2603.13537](http://arxiv.org/abs/2603.13537)|null|
 |**2026-03-13**|**AVION: Aerial Vision-Language Instruction from Offline Teacher to Prompt-Tuned Network**|Yu Hu et.al.|[2603.12659](http://arxiv.org/abs/2603.12659)|null|
 |**2026-03-12**|**FBCIR: Balancing Cross-Modal Focuses in Composed Image Retrieval**|Chenchen Zhao et.al.|[2603.11520](http://arxiv.org/abs/2603.11520)|null|
 |**2026-03-06**|**ProtAlign: Contrastive learning paradigm for Sequence and structure alignment**|Aditya Ranganath et.al.|[2603.06722](http://arxiv.org/abs/2603.06722)|null|
@@ -2614,6 +2639,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-16**|**Balancing Saliency and Coverage: Semantic Prominence-Aware Budgeting for Visual Token Compression in VLMs**|Jaehoon Lee et.al.|[2603.14892](http://arxiv.org/abs/2603.14892)|null|
+|**2026-03-16**|**LLMind: Bio-inspired Training-free Adaptive Visual Representations for Vision-Language Models**|Soumyaratna Debnath et.al.|[2603.14882](http://arxiv.org/abs/2603.14882)|null|
+|**2026-03-16**|**RealVLG-R1: A Large-Scale Real-World Visual-Language Grounding Benchmark for Robotic Perception and Manipulation**|Linfei Li et.al.|[2603.14880](http://arxiv.org/abs/2603.14880)|null|
+|**2026-03-16**|**AutoMoT: A Unified Vision-Language-Action Model with Asynchronous Mixture-of-Transformers for End-to-End Autonomous Driving**|Wenhui Huang et.al.|[2603.14851](http://arxiv.org/abs/2603.14851)|null|
+|**2026-03-16**|**Two Birds, One Projection: Harmonizing Safety and Utility in LVLMs via Inference-time Feature Projection**|Yewon Han et.al.|[2603.14825](http://arxiv.org/abs/2603.14825)|null|
+|**2026-03-16**|**RAZOR: Ratio-Aware Layer Editing for Targeted Unlearning in Vision Transformers and Diffusion Models**|Ravi Ranjan et.al.|[2603.14819](http://arxiv.org/abs/2603.14819)|null|
+|**2026-03-16**|**Ego to World: Collaborative Spatial Reasoning in Embodied Systems via Reinforcement Learning**|Heng Zhou et.al.|[2603.14811](http://arxiv.org/abs/2603.14811)|null|
+|**2026-03-16**|**VorTEX: Various overlap ratio for Target speech EXtraction**|Ro-hoon Oh et.al.|[2603.14803](http://arxiv.org/abs/2603.14803)|null|
+|**2026-03-16**|**CORAL: COntextual Reasoning And Local Planning in A Hierarchical VLM Framework for Underwater Monitoring**|Zhenqi Wu et.al.|[2603.14786](http://arxiv.org/abs/2603.14786)|null|
+|**2026-03-16**|**High-Fidelity 3D Facial Avatar Synthesis with Controllable Fine-Grained Expressions**|Yikang He et.al.|[2603.14781](http://arxiv.org/abs/2603.14781)|null|
 |**2026-03-13**|**Visual-ERM: Reward Modeling for Visual Equivalence**|Ziyu Liu et.al.|[2603.13224](http://arxiv.org/abs/2603.13224)|null|
 |**2026-03-13**|**Navig-AI-tion: Navigation by Contextual AI and Spatial Audio**|Mathias N. Lystbæk et.al.|[2603.13200](http://arxiv.org/abs/2603.13200)|null|
 |**2026-03-13**|**Towards Spatio-Temporal World Scene Graph Generation from Monocular Videos**|Rohith Peddi et.al.|[2603.13185](http://arxiv.org/abs/2603.13185)|null|
