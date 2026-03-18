@@ -1,4 +1,4 @@
-## Updated on 2026.03.17
+## Updated on 2026.03.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -140,12 +140,14 @@
 |**2024-12-02**|**AnySynth: Harnessing the Power of Image Synthetic Data Generation for Generalized Vision-Language Tasks**|You Li et.al.|[2411.16749](http://arxiv.org/abs/2411.16749)|null|
 |**2024-10-31**|**MoTaDual: Modality-Task Dual Alignment for Enhanced Zero-shot Composed Image Retrieval**|Haiwen Li et.al.|[2410.23736](http://arxiv.org/abs/2410.23736)|null|
 
-<p align=right>(<a href=#updated-on-20260317>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260318>back to top</a>)</p>
 
 ## Continual Learning
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-17**|**MedCL-Bench: Benchmarking stability-efficiency trade-offs and scaling in biomedical continual learning**|Min Zeng et.al.|[2603.16738](http://arxiv.org/abs/2603.16738)|null|
+|**2026-03-16**|**CATFormer: When Continual Learning Meets Spiking Transformers With Dynamic Thresholds**|Vaishnavi Nagabhushana et.al.|[2603.15184](http://arxiv.org/abs/2603.15184)|null|
 |**2026-03-16**|**Machine learning for sustainable geoenergy: uncertainty, physics and decision-ready inference**|Hannah P. Menke et.al.|[2603.14907](http://arxiv.org/abs/2603.14907)|null|
 |**2026-03-16**|**ContiGuard: A Framework for Continual Toxicity Detection Against Evolving Evasive Perturbations**|Hankun Kang et.al.|[2603.14843](http://arxiv.org/abs/2603.14843)|null|
 |**2026-03-16**|**Universe Routing: Why Self-Evolving Agents Need Epistemic Control**|Zhaohui Geoffrey Wang et.al.|[2603.14799](http://arxiv.org/abs/2603.14799)|null|
@@ -1012,7 +1014,7 @@
 |**2025-02-10**|**Prompt-Driven Continual Graph Learning**|Qi Wang et.al.|[2502.06327](http://arxiv.org/abs/2502.06327)|null|
 |**2025-02-10**|**Position: Continual Learning Benefits from An Evolving Population over An Unified Model**|Aojun Lu et.al.|[2502.06210](http://arxiv.org/abs/2502.06210)|null|
 
-<p align=right>(<a href=#updated-on-20260317>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260318>back to top</a>)</p>
 
 ## Vision-Language Prompting
 
@@ -1678,7 +1680,7 @@
 |**2025-02-08**|**Diverse Image Generation with Diffusion Models and Cross Class Label Learning for Polyp Classification**|Vanshali Sharma et.al.|[2502.05444](http://arxiv.org/abs/2502.05444)|**[link](https://github.com/vanshali/pathopolyp-diff)**|
 |**2025-02-07**|**FlashVideo:Flowing Fidelity to Detail for Efficient High-Resolution Video Generation**|Shilong Zhang et.al.|[2502.05179](http://arxiv.org/abs/2502.05179)|**[link](https://github.com/foundationvision/flashvideo)**|
 
-<p align=right>(<a href=#updated-on-20260317>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260318>back to top</a>)</p>
 
 ## Facial Expression Recognition
 
@@ -1778,7 +1780,7 @@
 |**2024-12-16**|**Impact of Face Alignment on Face Image Quality**|Eren Onaran et.al.|[2412.11779](http://arxiv.org/abs/2412.11779)|null|
 |**2024-12-15**|**Unimodal and Multimodal Static Facial Expression Recognition for Virtual Reality Users with EmoHeVRDB**|Thorben Ortmann et.al.|[2412.11306](http://arxiv.org/abs/2412.11306)|**[link](https://github.com/thorbenortmann/emohevrdb-sfer)**|
 
-<p align=right>(<a href=#updated-on-20260317>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260318>back to top</a>)</p>
 
 ## Test-Time Adaptation
 
@@ -2056,12 +2058,22 @@
 |**2025-01-31**|**Test-time Loss Landscape Adaptation for Zero-Shot Generalization in Vision-Language Models**|Aodi Li et.al.|[2501.18864](http://arxiv.org/abs/2501.18864)|null|
 |**2025-02-03**|**Advances in Multimodal Adaptation and Generalization: From Traditional Approaches to Foundation Models**|Hao Dong et.al.|[2501.18592](http://arxiv.org/abs/2501.18592)|**[link](https://github.com/donghao51/awesome-multimodal-adaptation)**|
 
-<p align=right>(<a href=#updated-on-20260317>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260318>back to top</a>)</p>
 
 ## Multimodal Large Language Model
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-17**|**Surg $Σ$ : A Spectrum of Large-Scale Multimodal Data and Foundation Models for Surgical Intelligence**|Zhitao Zeng et.al.|[2603.16822](http://arxiv.org/abs/2603.16822)|null|
+|**2026-03-17**|**MLLM-based Textual Explanations for Face Comparison**|Redwan Sony et.al.|[2603.16629](http://arxiv.org/abs/2603.16629)|null|
+|**2026-03-17**|**ExpressMind: A Multimodal Pretrained Large Language Model for Expressway Operation**|Zihe Wang et.al.|[2603.16495](http://arxiv.org/abs/2603.16495)|null|
+|**2026-03-17**|**Follow the Clues, Frame the Truth: Hybrid-evidential Deductive Reasoning in Open-Vocabulary Multimodal Emotion Recognition**|Yu Liu et.al.|[2603.16463](http://arxiv.org/abs/2603.16463)|null|
+|**2026-03-17**|**GAP-MLLM: Geometry-Aligned Pre-training for Activating 3D Spatial Perception in Multimodal Large Language Models**|Jiaxin Zhang et.al.|[2603.16461](http://arxiv.org/abs/2603.16461)|null|
+|**2026-03-17**|**InViC: Intent-aware Visual Cues for Medical Visual Question Answering**|Zhisong Wang et.al.|[2603.16372](http://arxiv.org/abs/2603.16372)|null|
+|**2026-03-17**|**NeSy-Route: A Neuro-Symbolic Benchmark for Constrained Route Planning in Remote Sensing**|Ming Yang et.al.|[2603.16307](http://arxiv.org/abs/2603.16307)|null|
+|**2026-03-17**|**VisBrowse-Bench: Benchmarking Visual-Native Search for Multimodal Browsing Agents**|Zhengbo Zhang et.al.|[2603.16289](http://arxiv.org/abs/2603.16289)|null|
+|**2026-03-17**|**When Thinking Hurts: Mitigating Visual Forgetting in Video Reasoning via Frame Repetition**|Xiaokun Sun et.al.|[2603.16256](http://arxiv.org/abs/2603.16256)|null|
+|**2026-03-17**|**360° Image Perception with MLLMs: A Comprehensive Benchmark and a Training-Free Method**|Huyen T. T. Tran et.al.|[2603.16179](http://arxiv.org/abs/2603.16179)|null|
 |**2026-03-16**|**EditHF-1M: A Million-Scale Rich Human Preference Feedback for Image Editing**|Zitong Xu et.al.|[2603.14916](http://arxiv.org/abs/2603.14916)|null|
 |**2026-03-16**|**SemanticFace: Semantic Facial Action Estimation via Semantic Distillation in Interpretable Space**|Zejian Kang et.al.|[2603.14827](http://arxiv.org/abs/2603.14827)|null|
 |**2026-03-16**|**CAMD: Coverage-Aware Multimodal Decoding for Efficient Reasoning of Multimodal Large Language Models**|Huijie Guo et.al.|[2603.14745](http://arxiv.org/abs/2603.14745)|null|
@@ -2637,12 +2649,14 @@
 |**2025-11-25**|**Bootstrapping Physics-Grounded Video Generation through VLM-Guided Iterative Self-Refinement**|Yang Liu et.al.|[2511.20280](http://arxiv.org/abs/2511.20280)|null|
 |**2025-11-25**|**VKnowU: Evaluating Visual Knowledge Understanding in Multimodal LLMs**|Tianxiang Jiang et.al.|[2511.20272](http://arxiv.org/abs/2511.20272)|null|
 
-<p align=right>(<a href=#updated-on-20260317>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260318>back to top</a>)</p>
 
 ## Cross-Modal Retrieval
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-17**|**Retrieving Counterfactuals Improves Visual In-Context Learning**|Guangzhi Xiong et.al.|[2603.16737](http://arxiv.org/abs/2603.16737)|null|
+|**2026-03-17**|**Evo-Retriever: LLM-Guided Curriculum Evolution with Viewpoint-Pathway Collaboration for Multimodal Document Retrieval**|Weiqing Li et.al.|[2603.16455](http://arxiv.org/abs/2603.16455)|null|
 |**2026-03-13**|**AMES: Approximate Multi-modal Enterprise Search via Late Interaction Retrieval**|Tony Joseph et.al.|[2603.13537](http://arxiv.org/abs/2603.13537)|null|
 |**2026-03-13**|**AVION: Aerial Vision-Language Instruction from Offline Teacher to Prompt-Tuned Network**|Yu Hu et.al.|[2603.12659](http://arxiv.org/abs/2603.12659)|null|
 |**2026-03-12**|**FBCIR: Balancing Cross-Modal Focuses in Composed Image Retrieval**|Chenchen Zhao et.al.|[2603.11520](http://arxiv.org/abs/2603.11520)|null|
@@ -2657,12 +2671,22 @@
 |**2026-02-26**|**Pix2Key: Controllable Open-Vocabulary Retrieval with Semantic Decomposition and Self-Supervised Visual Dictionary Learning**|Guoyizhe Wei et.al.|[2602.22510](http://arxiv.org/abs/2602.22510)|null|
 |**2026-03-02**|**StructXLIP: Enhancing Vision-language Models with Multimodal Structural Cues**|Zanxi Ruan et.al.|[2602.20089](http://arxiv.org/abs/2602.20089)|null|
 
-<p align=right>(<a href=#updated-on-20260317>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260318>back to top</a>)</p>
 
 ## Vision-Language Model
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-17**|**MolmoB0T: Large-Scale Simulation Enables Zero-Shot Manipulation**|Abhay Deshpande et.al.|[2603.16861](http://arxiv.org/abs/2603.16861)|null|
+|**2026-03-17**|**DreamPlan: Efficient Reinforcement Fine-Tuning of Vision-Language Planners via Video World Models**|Emily Yue-Ting Jia et.al.|[2603.16860](http://arxiv.org/abs/2603.16860)|null|
+|**2026-03-17**|**IOSVLM: A 3D Vision-Language Model for Unified Dental Diagnosis from Intraoral Scans**|Huimin Xiong et.al.|[2603.16781](http://arxiv.org/abs/2603.16781)|null|
+|**2026-03-17**|**Retrieving Counterfactuals Improves Visual In-Context Learning**|Guangzhi Xiong et.al.|[2603.16737](http://arxiv.org/abs/2603.16737)|null|
+|**2026-03-17**|**The Cost of Reasoning: Chain-of-Thought Induces Overconfidence in Vision-Language Models**|Robert Welch et.al.|[2603.16728](http://arxiv.org/abs/2603.16728)|null|
+|**2026-03-17**|**Kestrel: Grounding Self-Refinement for LVLM Hallucination Mitigation**|Jiawei Mao et.al.|[2603.16664](http://arxiv.org/abs/2603.16664)|null|
+|**2026-03-17**|**HeBA: Heterogeneous Bottleneck Adapters for Robust Vision-Language Models**|Md Jahidul Islam et.al.|[2603.16653](http://arxiv.org/abs/2603.16653)|null|
+|**2026-03-17**|**FlowComposer: Composable Flows for Compositional Zero-Shot Learning**|Zhenqi He et.al.|[2603.16641](http://arxiv.org/abs/2603.16641)|null|
+|**2026-03-17**|**Rationale Matters: Learning Transferable Rubrics via Proxy-Guided Critique for VLMReward Models**|Weijie Qiu et.al.|[2603.16600](http://arxiv.org/abs/2603.16600)|null|
+|**2026-03-17**|**V-DyKnow: A Dynamic Benchmark for Time-Sensitive Knowledge in Vision Language Models**|Seyed Mahed Mousavi et.al.|[2603.16581](http://arxiv.org/abs/2603.16581)|null|
 |**2026-03-16**|**Balancing Saliency and Coverage: Semantic Prominence-Aware Budgeting for Visual Token Compression in VLMs**|Jaehoon Lee et.al.|[2603.14892](http://arxiv.org/abs/2603.14892)|null|
 |**2026-03-16**|**LLMind: Bio-inspired Training-free Adaptive Visual Representations for Vision-Language Models**|Soumyaratna Debnath et.al.|[2603.14882](http://arxiv.org/abs/2603.14882)|null|
 |**2026-03-16**|**RealVLG-R1: A Large-Scale Real-World Visual-Language Grounding Benchmark for Robotic Perception and Manipulation**|Linfei Li et.al.|[2603.14880](http://arxiv.org/abs/2603.14880)|null|
@@ -2714,7 +2738,7 @@
 |**2026-03-10**|**Robotic Scene Cloning:Advancing Zero-Shot Robotic Scene Adaptation in Manipulation via Visual Prompt Editing**|Binyuan Huang et.al.|[2603.09712](http://arxiv.org/abs/2603.09712)|null|
 |**2026-03-10**|**Finetuning a Text-to-Audio Model for Room Impulse Response Generation**|Kirak Kim et.al.|[2603.09708](http://arxiv.org/abs/2603.09708)|null|
 
-<p align=right>(<a href=#updated-on-20260317>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260318>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
