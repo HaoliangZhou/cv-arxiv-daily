@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.03.23
+## Updated on 2026.03.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Cross-Modal Image Retrieval
@@ -134,6 +134,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-23**|**Compensating Visual Insufficiency with Stratified Language Guidance for Long-Tail Class Incremental Learning**|Xi Wang et.al.|[2603.21708](http://arxiv.org/abs/2603.21708)|null|
+|**2026-03-22**|**Reframing Long-Tailed Learning via Loss Landscape Geometry**|Shenghan Chen et.al.|[2603.21217](http://arxiv.org/abs/2603.21217)|null|
+|**2026-03-22**|**Pruned Adaptation Modules: A Simple yet Strong Baseline for Continual Foundation Models**|Elif Ceren Gok Yildirim et.al.|[2603.21170](http://arxiv.org/abs/2603.21170)|null|
+|**2026-03-22**|**Stochastic approximation in non-markovian environments revisited**|Vivek Shripad Borkar et.al.|[2603.21091](http://arxiv.org/abs/2603.21091)|null|
+|**2026-03-21**|**Natural Gradient Descent for Online Continual Learning**|Joe Khawand et.al.|[2603.20898](http://arxiv.org/abs/2603.20898)|null|
+|**2026-03-21**|**Restoring Neural Network Plasticity for Faster Transfer Learning**|Xander Coetzer et.al.|[2603.20860](http://arxiv.org/abs/2603.20860)|null|
+|**2026-03-21**|**REVERE: Reflective Evolving Research Engineer for Scientific Workflows**|Balaji Dinesh Gangireddi et.al.|[2603.20667](http://arxiv.org/abs/2603.20667)|null|
+|**2026-03-21**|**A Multihead Continual Learning Framework for Fine-Grained Fashion Image Retrieval with Contrastive Learning and Exponential Moving Average Distillation**|Ling Xiao et.al.|[2603.20648](http://arxiv.org/abs/2603.20648)|null|
+|**2026-03-20**|**SLE-FNO: Single-Layer Extensions for Task-Agnostic Continual Learning in Fourier Neural Operators**|Mahmoud Elhadidy et.al.|[2603.20410](http://arxiv.org/abs/2603.20410)|null|
 |**2026-03-20**|**Continual Learning as Shared-Manifold Continuation Under Compatible Shift**|Henry J. Kobs et.al.|[2603.20036](http://arxiv.org/abs/2603.20036)|null|
 |**2026-03-20**|**Continual Learning for Food Category Classification Dataset: Enhancing Model Adaptability and Performance**|Piyush Kaushik Bhattacharyya et.al.|[2603.19624](http://arxiv.org/abs/2603.19624)|null|
 |**2026-03-19**|**Enhancing Pretrained Model-based Continual Representation Learning via Guided Random Projection**|Ruilin Li et.al.|[2603.19145](http://arxiv.org/abs/2603.19145)|null|
@@ -1681,6 +1690,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-22**|**Knowledge Priors for Identity-Disentangled Open-Set Privacy-Preserving Video FER**|Feng Xu et.al.|[2603.21387](http://arxiv.org/abs/2603.21387)|null|
+|**2026-03-22**|**Test-Time Adaptation via Cache Personalization for Facial Expression Recognition in Videos**|Masoumeh Sharafi et.al.|[2603.21309](http://arxiv.org/abs/2603.21309)|null|
 |**2026-03-20**|**Evaluating Test-Time Adaptation For Facial Expression Recognition Under Natural Cross-Dataset Distribution Shifts**|John Turnbull et.al.|[2603.19994](http://arxiv.org/abs/2603.19994)|null|
 |**2026-03-13**|**HSEmotion Team at ABAW-10 Competition: Facial Expression Recognition, Valence-Arousal Estimation, Action Unit Detection and Fine-Grained Violence Classification**|Andrey V. Savchenko et.al.|[2603.12693](http://arxiv.org/abs/2603.12693)|null|
 |**2026-03-09**|**AULLM++: Structural Reasoning with Large Language Models for Micro-Expression Recognition**|Zhishu Liu et.al.|[2603.08387](http://arxiv.org/abs/2603.08387)|null|
@@ -1780,6 +1791,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-23**|**The Golden Subspace: Where Efficiency Meets Generalization in Continual Test-Time Adaptation**|Guannan Lai et.al.|[2603.21928](http://arxiv.org/abs/2603.21928)|null|
+|**2026-03-23**|**Dual-level Adaptation for Multi-Object Tracking: Building Test-Time Calibration from Experience and Intuition**|Wen Guo et.al.|[2603.21629](http://arxiv.org/abs/2603.21629)|null|
+|**2026-03-22**|**Test-Time Adaptation via Cache Personalization for Facial Expression Recognition in Videos**|Masoumeh Sharafi et.al.|[2603.21309](http://arxiv.org/abs/2603.21309)|null|
+|**2026-03-22**|**One Pool Is Not Enough: Multi-Cluster Memory for Practical Test-Time Adaptation**|Yu-Wen Tseng et.al.|[2603.21135](http://arxiv.org/abs/2603.21135)|null|
 |**2026-03-20**|**Evaluating Test-Time Adaptation For Facial Expression Recognition Under Natural Cross-Dataset Distribution Shifts**|John Turnbull et.al.|[2603.19994](http://arxiv.org/abs/2603.19994)|null|
 |**2026-03-20**|**ATHENA: Adaptive Test-Time Steering for Improving Count Fidelity in Diffusion Models**|Mohammad Shahab Sepehri et.al.|[2603.19676](http://arxiv.org/abs/2603.19676)|null|
 |**2026-03-19**|**Adaptive Decoding via Test-Time Policy Learning for Self-Improving Generation**|Asmita Bhardwaj et.al.|[2603.18428](http://arxiv.org/abs/2603.18428)|null|
@@ -2059,6 +2074,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-23**|**Group3D: MLLM-Driven Semantic Grouping for Open-Vocabulary 3D Object Detection**|Youbin Kim et.al.|[2603.21944](http://arxiv.org/abs/2603.21944)|null|
+|**2026-03-23**|**Can a Robot Walk the Robotic Dog: Triple-Zero Collaborative Navigation for Heterogeneous Multi-Agent Systems**|Yaxuan Wang et.al.|[2603.21723](http://arxiv.org/abs/2603.21723)|null|
+|**2026-03-23**|**Structured Visual Narratives Undermine Safety Alignment in Multimodal Large Language Models**|Rui Yang Tan et.al.|[2603.21697](http://arxiv.org/abs/2603.21697)|null|
+|**2026-03-23**|**Deterministic Hallucination Detection in Medical VQA via Confidence-Evidence Bayesian Gain**|Mohammad Asadi et.al.|[2603.21693](http://arxiv.org/abs/2603.21693)|null|
+|**2026-03-23**|**Is AI Ready for Multimodal Hate Speech Detection? A Comprehensive Dataset and Benchmark Evaluation**|Rui Xing et.al.|[2603.21686](http://arxiv.org/abs/2603.21686)|null|
+|**2026-03-23**|**SSAM: Singular Subspace Alignment for Merging Multimodal Large Language Models**|Md Kaykobad Reza et.al.|[2603.21584](http://arxiv.org/abs/2603.21584)|null|
+|**2026-03-23**|**Mind over Space: Can Multimodal Large Language Models Mentally Navigate?**|Qihui Zhu et.al.|[2603.21577](http://arxiv.org/abs/2603.21577)|null|
+|**2026-03-23**|**VIGIL: Part-Grounded Structured Reasoning for Generalizable Deepfake Detection**|Xinghan Li et.al.|[2603.21526](http://arxiv.org/abs/2603.21526)|null|
+|**2026-03-23**|**Learning Trajectory-Aware Multimodal Large Language Models for Video Reasoning Segmentation**|Jingnan Luo et.al.|[2603.21488](http://arxiv.org/abs/2603.21488)|null|
+|**2026-03-22**|**Uncertainty-Aware Knowledge Distillation for Multimodal Large Language Models**|Jingchen Sun et.al.|[2603.21426](http://arxiv.org/abs/2603.21426)|null|
 |**2026-03-20**|**LumosX: Relate Any Identities with Their Attributes for Personalized Video Generation**|Jiazheng Xing et.al.|[2603.20192](http://arxiv.org/abs/2603.20192)|null|
 |**2026-03-20**|**Detached Skip-Links and $R$ -Probe: Decoupling Feature Aggregation from Gradient Propagation for MLLM OCR**|Ziye Yuan et.al.|[2603.20020](http://arxiv.org/abs/2603.20020)|null|
 |**2026-03-20**|**MedSPOT: A Workflow-Aware Sequential Grounding Benchmark for Clinical GUI**|Rozain Shakeel et.al.|[2603.19993](http://arxiv.org/abs/2603.19993)|null|
@@ -2690,6 +2715,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-23**|**VP-VLA: Visual Prompting as an Interface for Vision-Language-Action Models**|Zixuan Wang et.al.|[2603.22003](http://arxiv.org/abs/2603.22003)|null|
+|**2026-03-23**|**IGV-RRT: Prior-Real-Time Observation Fusion for Active Object Search in Changing Environments**|Wei Zhang et.al.|[2603.21887](http://arxiv.org/abs/2603.21887)|null|
+|**2026-03-23**|**Getting to the Point: Why Pointing Improves LVLMs**|Simone Alghisi et.al.|[2603.21746](http://arxiv.org/abs/2603.21746)|null|
+|**2026-03-23**|**Rethinking Token Reduction for Large Vision-Language Models**|Yi Wang et.al.|[2603.21701](http://arxiv.org/abs/2603.21701)|null|
+|**2026-03-23**|**Back to Point: Exploring Point-Language Models for Zero-Shot 3D Anomaly Detection**|Kaiqiang Li et.al.|[2603.21511](http://arxiv.org/abs/2603.21511)|null|
+|**2026-03-23**|**Parameter-efficient Prompt Tuning and Hierarchical Textual Guidance for Few-shot Whole Slide Image Classification**|Jayanie Bogahawatte et.al.|[2603.21504](http://arxiv.org/abs/2603.21504)|null|
+|**2026-03-23**|**Which Concepts to Forget and How to Refuse? Decomposing Concepts for Continual Unlearning in Large Vision-Language Models**|Hyundong Jin et.al.|[2603.21484](http://arxiv.org/abs/2603.21484)|null|
+|**2026-03-23**|**ALADIN:Attribute-Language Distillation Network for Person Re-Identification**|Wang Zhou et.al.|[2603.21482](http://arxiv.org/abs/2603.21482)|null|
+|**2026-03-22**|**Uncertainty-Aware Knowledge Distillation for Multimodal Large Language Models**|Jingchen Sun et.al.|[2603.21426](http://arxiv.org/abs/2603.21426)|null|
+|**2026-03-22**|**Mitigating Objectness Bias and Region-to-Text Misalignment for Open-Vocabulary Panoptic Segmentation**|Nikolay Kormushev et.al.|[2603.21386](http://arxiv.org/abs/2603.21386)|null|
 |**2026-03-20**|**Adaptive Greedy Frame Selection for Long Video Understanding**|Yuning Huang et.al.|[2603.20180](http://arxiv.org/abs/2603.20180)|null|
 |**2026-03-20**|**The Robot's Inner Critic: Self-Refinement of Social Behaviors through VLM-based Replanning**|Jiyu Lim et.al.|[2603.20164](http://arxiv.org/abs/2603.20164)|null|
 |**2026-03-20**|**X-World: Controllable Ego-Centric Multi-Camera World Models for Scalable End-to-End Driving**|Chaoda Zheng et.al.|[2603.19979](http://arxiv.org/abs/2603.19979)|null|
