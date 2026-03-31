@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.03.28
+## Updated on 2026.03.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Cross-Modal Image Retrieval
@@ -134,6 +134,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-30**|**LACE: Loss-Adaptive Capacity Expansion for Continual Learning**|Shivnath Tathe et.al.|[2603.28611](http://arxiv.org/abs/2603.28611)|null|
+|**2026-03-30**|**FeDMRA: Federated Incremental Learning with Dynamic Memory Replay Allocation**|Tiantian Wang et.al.|[2603.28455](http://arxiv.org/abs/2603.28455)|null|
+|**2026-03-30**|**COvolve: Adversarial Co-Evolution of Large-Language-Model-Generated Policies and Environments via Two-Player Zero-Sum Game**|Alkis Sygkounas et.al.|[2603.28386](http://arxiv.org/abs/2603.28386)|null|
+|**2026-03-29**|**Low-Rank Adaptation Reduces Catastrophic Forgetting in Sequential Transformer Encoder Fine-Tuning: Controlled Empirical Evidence and Frozen-Backbone Representation Probes**|Ashish Pandey et.al.|[2603.27707](http://arxiv.org/abs/2603.27707)|null|
+|**2026-03-29**|**On Token's Dilemma: Dynamic MoE with Drift-Aware Token Assignment for Continual Learning of Large Vision Language Models**|Chongyang Zhao et.al.|[2603.27481](http://arxiv.org/abs/2603.27481)|null|
+|**2026-03-27**|**HAD: Heterogeneity-Aware Distillation for Lifelong Heterogeneous Learning**|Xuerui Zhang et.al.|[2603.26192](http://arxiv.org/abs/2603.26192)|null|
+|**2026-03-27**|**Dual-Stage Invariant Continual Learning under Extreme Visual Sparsity**|Rangya Zhang et.al.|[2603.26190](http://arxiv.org/abs/2603.26190)|null|
+|**2026-03-27**|**Constitutive parameterized deep energy method for solid mechanics problems with random material parameters**|Zhangyong Liang et.al.|[2603.26030](http://arxiv.org/abs/2603.26030)|null|
 |**2026-03-26**|**When Sensing Varies with Contexts: Context-as-Transform for Tactile Few-Shot Class-Incremental Learning**|Yifeng Lin et.al.|[2603.25115](http://arxiv.org/abs/2603.25115)|null|
 |**2026-03-26**|**DIET: Learning to Distill Dataset Continually for Recommender Systems**|Jiaqing Zhang et.al.|[2603.24958](http://arxiv.org/abs/2603.24958)|null|
 |**2026-03-25**|**Evidence of an Emergent "Self" in Continual Robot Learning**|Adidev Jhunjhunwala et.al.|[2603.24350](http://arxiv.org/abs/2603.24350)|null|
@@ -1699,6 +1707,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-27**|**Dual-View Optical Flow for 4D Micro-Expression Recognition - A Multi-Stream Fusion Attention Approach**|Luu Tu Nguyen et.al.|[2603.26849](http://arxiv.org/abs/2603.26849)|null|
 |**2026-03-25**|**Knowledge Priors for Identity-Disentangled Open-Set Privacy-Preserving Video FER**|Feng Xu et.al.|[2603.21387](http://arxiv.org/abs/2603.21387)|null|
 |**2026-03-24**|**Test-Time Adaptation via Cache Personalization for Facial Expression Recognition in Videos**|Masoumeh Sharafi et.al.|[2603.21309](http://arxiv.org/abs/2603.21309)|null|
 |**2026-03-20**|**Evaluating Test-Time Adaptation For Facial Expression Recognition Under Natural Cross-Dataset Distribution Shifts**|John Turnbull et.al.|[2603.19994](http://arxiv.org/abs/2603.19994)|null|
@@ -1800,6 +1809,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-30**|**Subspace Optimization for Backpropagation-Free Continual Test-Time Adaptation**|Damian Sójka et.al.|[2603.28678](http://arxiv.org/abs/2603.28678)|null|
+|**2026-03-29**|**RG-TTA: Regime-Guided Meta-Control for Test-Time Adaptation in Streaming Time Series**|Indar Kumar et.al.|[2603.27814](http://arxiv.org/abs/2603.27814)|null|
+|**2026-03-28**|**SceneExpander: Expanding 3D Scenes with Free-Form Inserted Views**|Zijian He et.al.|[2603.27084](http://arxiv.org/abs/2603.27084)|null|
+|**2026-03-27**|**AcTTA: Rethinking Test-Time Adaptation via Dynamic Activation**|Hyeongyu Kim et.al.|[2603.26096](http://arxiv.org/abs/2603.26096)|null|
+|**2026-03-27**|**CD-Buffer: Complementary Dual-Buffer Framework for Test-Time Adaptation in Adverse Weather Object Detection**|Youngjun Song et.al.|[2603.26092](http://arxiv.org/abs/2603.26092)|null|
 |**2026-03-25**|**Adapting Point Cloud Analysis via Multimodal Bayesian Distribution Learning**|Xingyu Zhu et.al.|[2603.22070](http://arxiv.org/abs/2603.22070)|null|
 |**2026-03-23**|**The Golden Subspace: Where Efficiency Meets Generalization in Continual Test-Time Adaptation**|Guannan Lai et.al.|[2603.21928](http://arxiv.org/abs/2603.21928)|null|
 |**2026-03-23**|**Dual-level Adaptation for Multi-Object Tracking: Building Test-Time Calibration from Experience and Intuition**|Wen Guo et.al.|[2603.21629](http://arxiv.org/abs/2603.21629)|null|
@@ -2084,6 +2098,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-30**|**Seeing with You: Perception-Reasoning Coevolution for Multimodal Reasoning**|Ziqi Miao et.al.|[2603.28618](http://arxiv.org/abs/2603.28618)|null|
+|**2026-03-30**|**ResAdapt: Adaptive Resolution for Efficient Multimodal Reasoning**|Huanxuan Liao et.al.|[2603.28610](http://arxiv.org/abs/2603.28610)|null|
+|**2026-03-30**|**Generalizable Detection of AI Generated Images with Large Models and Fuzzy Decision Tree**|Fei Wu et.al.|[2603.28508](http://arxiv.org/abs/2603.28508)|null|
+|**2026-03-30**|**AutoCut: End-to-end advertisement video editing based on multimodal discretization and controllable generation**|Milton Zhou et.al.|[2603.28366](http://arxiv.org/abs/2603.28366)|null|
+|**2026-03-30**|**Integrating Multimodal Large Language Model Knowledge into Amodal Completion**|Heecheol Yun et.al.|[2603.28333](http://arxiv.org/abs/2603.28333)|null|
+|**2026-03-30**|**PReD: An LLM-based Foundation Multimodal Model for Electromagnetic Perception, Recognition, and Decision**|Zehua Han et.al.|[2603.28183](http://arxiv.org/abs/2603.28183)|null|
+|**2026-03-30**|**Is One-Shot In-Context Learning Helpful for Data Selection in Task-Specific Fine-Tuning of Multimodal LLMs?**|Xiao An et.al.|[2603.28058](http://arxiv.org/abs/2603.28058)|null|
+|**2026-03-30**|**Progressive Prompt-Guided Cross-Modal Reasoning for Referring Image Segmentation**|Jiachen Li et.al.|[2603.27993](http://arxiv.org/abs/2603.27993)|null|
+|**2026-03-30**|**CARV: A Diagnostic Benchmark for Compositional Analogical Reasoning in Multimodal LLMs**|Yongkang Du et.al.|[2603.27958](http://arxiv.org/abs/2603.27958)|null|
+|**2026-03-30**|**Adversarial Attacks on Multimodal Large Language Models: A Comprehensive Survey**|Bhavuk Jain et.al.|[2603.27918](http://arxiv.org/abs/2603.27918)|null|
 |**2026-03-26**|**SlotVTG: Object-Centric Adapter for Generalizable Video Temporal Grounding**|Jiwook Han et.al.|[2603.25733](http://arxiv.org/abs/2603.25733)|null|
 |**2026-03-26**|**Colon-Bench: An Agentic Workflow for Scalable Dense Lesion Annotation in Full-Procedure Colonoscopy Videos**|Abdullah Hamdi et.al.|[2603.25645](http://arxiv.org/abs/2603.25645)|null|
 |**2026-03-26**|**Demographic Fairness in Multimodal LLMs: A Benchmark of Gender and Ethnicity Bias in Face Verification**|Ünsal Öztürk et.al.|[2603.25613](http://arxiv.org/abs/2603.25613)|null|
@@ -2733,6 +2757,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-27**|**HINT: Composed Image Retrieval with Dual-path Compositional Contextualized Network**|Mingyu Zhang et.al.|[2603.26341](http://arxiv.org/abs/2603.26341)|null|
 |**2026-03-25**|**BioVITA: Biological Dataset, Model, and Benchmark for Visual-Textual-Acoustic Alignment**|Risa Shinoda et.al.|[2603.23883](http://arxiv.org/abs/2603.23883)|null|
 |**2026-03-26**|**Gastric-X: A Multimodal Multi-Phase Benchmark Dataset for Advancing Vision-Language Models in Gastric Cancer Analysis**|Sheng Lu et.al.|[2603.19516](http://arxiv.org/abs/2603.19516)|null|
 |**2026-03-18**|**MCoT-MVS: Multi-level Vision Selection by Multi-modal Chain-of-Thought Reasoning for Composed Image Retrieval**|Xuri Ge et.al.|[2603.17360](http://arxiv.org/abs/2603.17360)|null|
@@ -2756,6 +2781,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-30**|**See it to Place it: Evolving Macro Placements with Vision-Language Models**|Ikechukwu Uchendu et.al.|[2603.28733](http://arxiv.org/abs/2603.28733)|null|
+|**2026-03-30**|**SOLE-R1: Video-Language Reasoning as the Sole Reward for On-Robot Reinforcement Learning**|Philip Schroeder et.al.|[2603.28730](http://arxiv.org/abs/2603.28730)|null|
+|**2026-03-30**|**AMIGO: Agentic Multi-Image Grounding Oracle Benchmark**|Min Wang et.al.|[2603.28662](http://arxiv.org/abs/2603.28662)|null|
+|**2026-03-30**|**Unsafe2Safe: Controllable Image Anonymization for Downstream Utility**|Mih Dinh et.al.|[2603.28605](http://arxiv.org/abs/2603.28605)|null|
+|**2026-03-30**|**Navigating the Mirage: A Dual-Path Agentic Framework for Robust Misleading Chart Question Answering**|Yanjie Zhang et.al.|[2603.28583](http://arxiv.org/abs/2603.28583)|null|
+|**2026-03-30**|**XSPA: Crafting Imperceptible X-Shaped Sparse Adversarial Perturbations for Transferable Attacks on VLMs**|Chengyin Hu et.al.|[2603.28568](http://arxiv.org/abs/2603.28568)|null|
+|**2026-03-30**|**Domain-Invariant Prompt Learning for Vision-Language Models**|Arsham Gholamzadeh Khoee et.al.|[2603.28555](http://arxiv.org/abs/2603.28555)|null|
+|**2026-03-30**|**Hydra: Unifying Document Retrieval and Generation in a Single Vision-Language Model**|Athos Georgiou et.al.|[2603.28554](http://arxiv.org/abs/2603.28554)|null|
+|**2026-03-30**|**JW-VL: A Vision-Language Model for Solar Physics**|Mingfu Shao et.al.|[2603.28504](http://arxiv.org/abs/2603.28504)|null|
+|**2026-03-30**|**The Scaffold Effect: How Prompt Framing Drives Apparent Multimodal Gains in Clinical VLM Evaluation**|Doan Nam Long Vu et.al.|[2603.28387](http://arxiv.org/abs/2603.28387)|null|
 |**2026-03-26**|**RefAlign: Representation Alignment for Reference-to-Video Generation**|Lei Wang et.al.|[2603.25743](http://arxiv.org/abs/2603.25743)|null|
 |**2026-03-26**|**Demographic Fairness in Multimodal LLMs: A Benchmark of Gender and Ethnicity Bias in Face Verification**|Ünsal Öztürk et.al.|[2603.25613](http://arxiv.org/abs/2603.25613)|null|
 |**2026-03-26**|**Humans vs Vision-Language Models: A Unified Measure of Narrative Coherence**|Nikolai Ilinykh et.al.|[2603.25537](http://arxiv.org/abs/2603.25537)|null|
