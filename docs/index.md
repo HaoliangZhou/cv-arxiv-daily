@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.04.06
+## Updated on 2026.04.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Cross-Modal Image Retrieval
@@ -134,6 +134,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-06**|**Is Prompt Selection Necessary for Task-Free Online Continual Learning?**|Seoyoung Park et.al.|[2604.04420](http://arxiv.org/abs/2604.04420)|null|
+|**2026-04-05**|**Non-Equilibrium Stochastic Dynamics as a Unified Framework for Insight and Repetitive Learning: A Kramers Escape Approach to Continual Learning**|Gunn Kim et.al.|[2604.04154](http://arxiv.org/abs/2604.04154)|null|
+|**2026-04-04**|**SPARK-IL: Spectral Retrieval-Augmented RAG for Knowledge-driven Deepfake Detection via Incremental Learning**|Hessen Bougueffa Eutamene et.al.|[2604.03833](http://arxiv.org/abs/2604.03833)|null|
 |**2026-04-03**|**ProtoFlow: Mitigating Forgetting in Class-Incremental Remote Sensing Segmentation via Low-Curvature Prototype Flow**|Jiekai Wu et.al.|[2604.03212](http://arxiv.org/abs/2604.03212)|null|
 |**2026-04-03**|**MMTalker: Multiresolution 3D Talking Head Synthesis with Multimodal Feature Fusion**|Bin Liu et.al.|[2604.02941](http://arxiv.org/abs/2604.02941)|null|
 |**2026-04-03**|**Unlocking Positive Transfer in Incrementally Learning Surgical Instruments: A Self-reflection Hierarchical Prompt Framework**|Yu Zhu et.al.|[2604.02877](http://arxiv.org/abs/2604.02877)|null|
@@ -1829,6 +1832,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-06**|**StableTTA: Training-Free Test-Time Adaptation that Improves Model Accuracy on ImageNet1K to 96%**|Zheng Li et.al.|[2604.04552](http://arxiv.org/abs/2604.04552)|null|
+|**2026-04-06**|**Context is All You Need**|Jean Erik Delanois et.al.|[2604.04364](http://arxiv.org/abs/2604.04364)|null|
+|**2026-04-05**|**Uncertainty-Aware Test-Time Adaptation for Cross-Region Spatio-Temporal Fusion of Land Surface Temperature**|Sofiane Bouaziz et.al.|[2604.04153](http://arxiv.org/abs/2604.04153)|null|
 |**2026-04-02**|**Test-Time Adaptation for Height Completion via Self-Supervised ViT Features and Monocular Foundation Models**|Osher Rafaeli et.al.|[2604.02009](http://arxiv.org/abs/2604.02009)|null|
 |**2026-04-02**|**CANDI: Curated Test-Time Adaptation for Multivariate Time-Series Anomaly Detection Under Distribution Shift**|HyunGi Kim et.al.|[2604.01845](http://arxiv.org/abs/2604.01845)|null|
 |**2026-04-02**|**Mitigating the ID-OOD Tradeoff in Open-Set Test-Time Adaptation**|Wenjie Zhao et.al.|[2604.01589](http://arxiv.org/abs/2604.01589)|null|
@@ -2123,6 +2129,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-06**|**Synthesis4AD: Synthetic Anomalies are All You Need for 3D Anomaly Detection**|Yihan Sun et.al.|[2604.04658](http://arxiv.org/abs/2604.04658)|null|
+|**2026-04-06**|**Firebolt-VL: Efficient Vision-Language Understanding with Cross-Modality Modulation**|Quoc-Huy Trinh et.al.|[2604.04579](http://arxiv.org/abs/2604.04579)|null|
+|**2026-04-06**|**A Patch-based Cross-view Regularized Framework for Backdoor Defense in Multimodal Large Language Models**|Tianmeng Fang et.al.|[2604.04488](http://arxiv.org/abs/2604.04488)|null|
+|**2026-04-06**|**Scalable and Explainable Learner-Video Interaction Prediction using Multimodal Large Language Models**|Dominik Glandorf et.al.|[2604.04482](http://arxiv.org/abs/2604.04482)|null|
+|**2026-04-06**|**BoxComm: Benchmarking Category-Aware Commentary Generation and Narration Rhythm in Boxing**|Kaiwen Wang et.al.|[2604.04419](http://arxiv.org/abs/2604.04419)|null|
+|**2026-04-04**|**FeynmanBench: Benchmarking Multimodal LLMs on Diagrammatic Physics Reasoning**|Zeyu Wang et.al.|[2604.03893](http://arxiv.org/abs/2604.03893)|null|
+|**2026-04-04**|**ITIScore: An Image-to-Text-to-Image Rating Framework for the Image Captioning Ability of MLLMs**|Zitong Xu et.al.|[2604.03765](http://arxiv.org/abs/2604.03765)|null|
+|**2026-04-04**|**TableVision: A Large-Scale Benchmark for Spatially Grounded Reasoning over Complex Hierarchical Tables**|Xiaoyu Chen et.al.|[2604.03660](http://arxiv.org/abs/2604.03660)|null|
+|**2026-04-04**|**Stabilizing Unsupervised Self-Evolution of MLLMs via Continuous Softened Retracing reSampling**|Yunyao Yu et.al.|[2604.03647](http://arxiv.org/abs/2604.03647)|null|
+|**2026-04-04**|**Perceptual Gaps: ASCII Art and Overlapping Audio as CAPTCHA**|Choon-Hou Rafael Chong et.al.|[2604.03612](http://arxiv.org/abs/2604.03612)|null|
 |**2026-04-03**|**Understanding the Role of Hallucination in Reinforcement Post-Training of Multimodal Reasoning Models**|Gengwei Zhang et.al.|[2604.03179](http://arxiv.org/abs/2604.03179)|null|
 |**2026-04-03**|**MI-Pruner: Crossmodal Mutual Information-guided Token Pruner for Efficient MLLMs**|Jiameng Li et.al.|[2604.03072](http://arxiv.org/abs/2604.03072)|null|
 |**2026-04-03**|**Agentic-MME: What Agentic Capability Really Brings to Multimodal Intelligence?**|Qianshan Wei et.al.|[2604.03016](http://arxiv.org/abs/2604.03016)|null|
@@ -2846,6 +2862,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-06**|**Rethinking Model Efficiency: Multi-Agent Inference with Large Models**|Sixun Dong et.al.|[2604.04929](http://arxiv.org/abs/2604.04929)|null|
+|**2026-04-06**|**Your Pre-trained Diffusion Model Secretly Knows Restoration**|Sudarshan Rajagopalan et.al.|[2604.04924](http://arxiv.org/abs/2604.04924)|null|
+|**2026-04-06**|**Vero: An Open RL Recipe for General Visual Reasoning**|Gabriel Sarch et.al.|[2604.04917](http://arxiv.org/abs/2604.04917)|null|
+|**2026-04-06**|**ClickAIXR: On-Device Multimodal Vision-Language Interaction with Real-World Objects in Extended Reality**|Dawar Khan et.al.|[2604.04905](http://arxiv.org/abs/2604.04905)|null|
+|**2026-04-06**|**Beyond the Global Scores: Fine-Grained Token Grounding as a Robust Detector of LVLM Hallucinations**|Tuan Dung Nguyen et.al.|[2604.04863](http://arxiv.org/abs/2604.04863)|null|
+|**2026-04-06**|**The Blind Spot of Adaptation: Quantifying and Mitigating Forgetting in Fine-tuned Driving Models**|Runhao Mao et.al.|[2604.04857](http://arxiv.org/abs/2604.04857)|null|
+|**2026-04-06**|**Less Detail, Better Answers: Degradation-Driven Prompting for VQA**|Haoxuan Han et.al.|[2604.04838](http://arxiv.org/abs/2604.04838)|null|
+|**2026-04-06**|**Discovering Failure Modes in Vision-Language Models using RL**|Kanishk Jain et.al.|[2604.04733](http://arxiv.org/abs/2604.04733)|null|
+|**2026-04-06**|**ROSClaw: A Hierarchical Semantic-Physical Framework for Heterogeneous Multi-Agent Collaboration**|Rongfeng Zhao et.al.|[2604.04664](http://arxiv.org/abs/2604.04664)|null|
+|**2026-04-06**|**InCTRLv2: Generalist Residual Models for Few-Shot Anomaly Detection and Segmentation**|Jiawen Zhu et.al.|[2604.04632](http://arxiv.org/abs/2604.04632)|null|
 |**2026-04-03**|**CoME-VL: Scaling Complementary Multi-Encoder Vision-Language Learning**|Ankan Deria et.al.|[2604.03231](http://arxiv.org/abs/2604.03231)|null|
 |**2026-04-03**|**The Compression Gap: Why Discrete Tokenization Limits Vision-Language-Action Model Scaling**|Takuya Shiba et.al.|[2604.03191](http://arxiv.org/abs/2604.03191)|null|
 |**2026-04-03**|**EffiMiniVLM: A Compact Dual-Encoder Regression Framework**|Yin-Loon Khor et.al.|[2604.03172](http://arxiv.org/abs/2604.03172)|null|
