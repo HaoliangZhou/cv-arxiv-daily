@@ -1,4 +1,4 @@
-## Updated on 2026.04.08
+## Updated on 2026.04.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -140,12 +140,17 @@
 |**2024-12-02**|**AnySynth: Harnessing the Power of Image Synthetic Data Generation for Generalized Vision-Language Tasks**|You Li et.al.|[2411.16749](http://arxiv.org/abs/2411.16749)|null|
 |**2024-10-31**|**MoTaDual: Modality-Task Dual Alignment for Enhanced Zero-shot Composed Image Retrieval**|Haiwen Li et.al.|[2410.23736](http://arxiv.org/abs/2410.23736)|null|
 
-<p align=right>(<a href=#updated-on-20260408>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260409>back to top</a>)</p>
 
 ## Continual Learning
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-08**|**Joint Optimization of Reasoning and Dual-Memory for Self-Learning Diagnostic Agent**|Bingxuan Li et.al.|[2604.07269](http://arxiv.org/abs/2604.07269)|null|
+|**2026-04-08**|**Tracking Adaptation Time: Metrics for Temporal Distribution Shift**|Lorenzo Iovine et.al.|[2604.07266](http://arxiv.org/abs/2604.07266)|null|
+|**2026-04-08**|**Information as Structural Alignment: A Dynamical Theory of Continual Learning**|Radu Negulescu et.al.|[2604.07108](http://arxiv.org/abs/2604.07108)|null|
+|**2026-04-08**|**ELC: Evidential Lifelong Classifier for Uncertainty Aware Radar Pulse Classification**|Mohamed Rabie et.al.|[2604.06958](http://arxiv.org/abs/2604.06958)|null|
+|**2026-04-07**|**Continual Visual Anomaly Detection on the Edge: Benchmark and Efficient Solutions**|Manuel Barusco et.al.|[2604.06435](http://arxiv.org/abs/2604.06435)|null|
 |**2026-04-07**|**In-Place Test-Time Training**|Guhao Feng et.al.|[2604.06169](http://arxiv.org/abs/2604.06169)|null|
 |**2026-04-07**|**Value Mirror Descent for Reinforcement Learning**|Zhichao Jia et.al.|[2604.06039](http://arxiv.org/abs/2604.06039)|null|
 |**2026-04-07**|**MA-IDS: Multi-Agent RAG Framework for IoT Network Intrusion Detection with an Experience Library**|Md Shamimul Islam et.al.|[2604.05458](http://arxiv.org/abs/2604.05458)|null|
@@ -1078,7 +1083,7 @@
 |**2025-02-10**|**Prompt-Driven Continual Graph Learning**|Qi Wang et.al.|[2502.06327](http://arxiv.org/abs/2502.06327)|null|
 |**2025-02-10**|**Position: Continual Learning Benefits from An Evolving Population over An Unified Model**|Aojun Lu et.al.|[2502.06210](http://arxiv.org/abs/2502.06210)|null|
 
-<p align=right>(<a href=#updated-on-20260408>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260409>back to top</a>)</p>
 
 ## Vision-Language Prompting
 
@@ -1744,7 +1749,7 @@
 |**2025-02-08**|**Diverse Image Generation with Diffusion Models and Cross Class Label Learning for Polyp Classification**|Vanshali Sharma et.al.|[2502.05444](http://arxiv.org/abs/2502.05444)|**[link](https://github.com/vanshali/pathopolyp-diff)**|
 |**2025-02-07**|**FlashVideo:Flowing Fidelity to Detail for Efficient High-Resolution Video Generation**|Shilong Zhang et.al.|[2502.05179](http://arxiv.org/abs/2502.05179)|**[link](https://github.com/foundationvision/flashvideo)**|
 
-<p align=right>(<a href=#updated-on-20260408>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260409>back to top</a>)</p>
 
 ## Facial Expression Recognition
 
@@ -1849,7 +1854,7 @@
 |**2024-12-16**|**Impact of Face Alignment on Face Image Quality**|Eren Onaran et.al.|[2412.11779](http://arxiv.org/abs/2412.11779)|null|
 |**2024-12-15**|**Unimodal and Multimodal Static Facial Expression Recognition for Virtual Reality Users with EmoHeVRDB**|Thorben Ortmann et.al.|[2412.11306](http://arxiv.org/abs/2412.11306)|**[link](https://github.com/thorbenortmann/emohevrdb-sfer)**|
 
-<p align=right>(<a href=#updated-on-20260408>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260409>back to top</a>)</p>
 
 ## Test-Time Adaptation
 
@@ -2150,12 +2155,22 @@
 |**2025-01-31**|**Test-time Loss Landscape Adaptation for Zero-Shot Generalization in Vision-Language Models**|Aodi Li et.al.|[2501.18864](http://arxiv.org/abs/2501.18864)|null|
 |**2025-02-03**|**Advances in Multimodal Adaptation and Generalization: From Traditional Approaches to Foundation Models**|Hao Dong et.al.|[2501.18592](http://arxiv.org/abs/2501.18592)|**[link](https://github.com/donghao51/awesome-multimodal-adaptation)**|
 
-<p align=right>(<a href=#updated-on-20260408>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260409>back to top</a>)</p>
 
 ## Multimodal Large Language Model
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-08**|**What's Missing in Screen-to-Action? Towards a UI-in-the-Loop Paradigm for Multimodal GUI Reasoning**|Songze Li et.al.|[2604.06995](http://arxiv.org/abs/2604.06995)|null|
+|**2026-04-08**|**Making MLLMs Blind: Adversarial Smuggling Attacks in MLLM Content Moderation**|Zhiheng Li et.al.|[2604.06950](http://arxiv.org/abs/2604.06950)|null|
+|**2026-04-08**|**LungCURE: Benchmarking Multimodal Real-World Clinical Reasoning for Precision Lung Cancer Diagnosis and Treatment**|Fangyu Hao et.al.|[2604.06925](http://arxiv.org/abs/2604.06925)|null|
+|**2026-04-08**|**Q-Zoom: Query-Aware Adaptive Perception for Efficient Multimodal Large Language Models**|Yuheng Shi et.al.|[2604.06912](http://arxiv.org/abs/2604.06912)|null|
+|**2026-04-08**|**Generate, Analyze, and Refine: Training-Free Sound Source Localization via MLLM Meta-Reasoning**|Subin Park et.al.|[2604.06824](http://arxiv.org/abs/2604.06824)|null|
+|**2026-04-08**|**Walk the Talk: Bridging the Reasoning-Action Gap for Thinking with Images via Multimodal Agentic Policy Optimization**|Wenhao Yang et.al.|[2604.06777](http://arxiv.org/abs/2604.06777)|null|
+|**2026-04-08**|**Enhancing MLLM Spatial Understanding via Active 3D Scene Exploration for Multi-Perspective Reasoning**|Jiahua Chen et.al.|[2604.06725](http://arxiv.org/abs/2604.06725)|null|
+|**2026-04-08**|**Steering the Verifiability of Multimodal AI Hallucinations**|Jianhong Pang et.al.|[2604.06714](http://arxiv.org/abs/2604.06714)|null|
+|**2026-04-08**|**RASR: Retrieval-Augmented Semantic Reasoning for Fake News Video Detection**|Hui Li et.al.|[2604.06687](http://arxiv.org/abs/2604.06687)|null|
+|**2026-04-07**|**ValueGround: Evaluating Culture-Conditioned Visual Value Grounding in MLLMs**|Zhipin Wang et.al.|[2604.06484](http://arxiv.org/abs/2604.06484)|null|
 |**2026-04-07**|**Scientific Graphics Program Synthesis via Dual Self-Consistency Reinforcement Learning**|Juekai Lin et.al.|[2604.06079](http://arxiv.org/abs/2604.06079)|null|
 |**2026-04-07**|**HybridKV: Hybrid KV Cache Compression for Efficient Multimodal Large Language Model Inference**|Bowen Zeng et.al.|[2604.05887](http://arxiv.org/abs/2604.05887)|null|
 |**2026-04-07**|**Let Geometry GUIDE: Layer-wise Unrolling of Geometric Priors in Multimodal LLMs**|Chongyu Wang et.al.|[2604.05695](http://arxiv.org/abs/2604.05695)|null|
@@ -2865,7 +2880,7 @@
 |**2025-11-25**|**Bootstrapping Physics-Grounded Video Generation through VLM-Guided Iterative Self-Refinement**|Yang Liu et.al.|[2511.20280](http://arxiv.org/abs/2511.20280)|null|
 |**2025-11-25**|**VKnowU: Evaluating Visual Knowledge Understanding in Multimodal LLMs**|Tianxiang Jiang et.al.|[2511.20272](http://arxiv.org/abs/2511.20272)|null|
 
-<p align=right>(<a href=#updated-on-20260408>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260409>back to top</a>)</p>
 
 ## Cross-Modal Retrieval
 
@@ -2879,7 +2894,7 @@
 |**2026-04-02**|**FusionBERT: Multi-View Image-3D Retrieval via Cross-Attention Visual Fusion and Normal-Aware 3D Encoder**|Wei Li et.al.|[2604.02583](http://arxiv.org/abs/2604.02583)|null|
 |**2026-04-02**|**Riemannian and Symplectic Geometry for Hierarchical Text-Driven Place Recognition**|Tianyi Shang et.al.|[2604.01598](http://arxiv.org/abs/2604.01598)|null|
 |**2026-03-31**|**Storing Less, Finding More: How Novelty Filtering Improves Cross-Modal Retrieval on Edge Cameras**|Sherif Abdelwahab et.al.|[2603.29631](http://arxiv.org/abs/2603.29631)|null|
-|**2026-03-31**|**EarthEmbeddingExplorer: A Web Application for Cross-Modal Retrieval of Global Satellite Images**|Yijie Zheng et.al.|[2603.29441](http://arxiv.org/abs/2603.29441)|null|
+|**2026-04-08**|**EarthEmbeddingExplorer: A Web Application for Cross-Modal Retrieval of Global Satellite Images**|Yijie Zheng et.al.|[2603.29441](http://arxiv.org/abs/2603.29441)|null|
 |**2026-03-31**|**MELT: Improve Composed Image Retrieval via the Modification Frequentation-Rarity Balance Network**|Guozhi Qiu et.al.|[2603.29291](http://arxiv.org/abs/2603.29291)|null|
 |**2026-03-27**|**HINT: Composed Image Retrieval with Dual-path Compositional Contextualized Network**|Mingyu Zhang et.al.|[2603.26341](http://arxiv.org/abs/2603.26341)|null|
 |**2026-03-25**|**BioVITA: Biological Dataset, Model, and Benchmark for Visual-Textual-Acoustic Alignment**|Risa Shinoda et.al.|[2603.23883](http://arxiv.org/abs/2603.23883)|null|
@@ -2901,12 +2916,22 @@
 |**2026-02-26**|**Pix2Key: Controllable Open-Vocabulary Retrieval with Semantic Decomposition and Self-Supervised Visual Dictionary Learning**|Guoyizhe Wei et.al.|[2602.22510](http://arxiv.org/abs/2602.22510)|null|
 |**2026-03-02**|**StructXLIP: Enhancing Vision-language Models with Multimodal Structural Cues**|Zanxi Ruan et.al.|[2602.20089](http://arxiv.org/abs/2602.20089)|null|
 
-<p align=right>(<a href=#updated-on-20260408>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260409>back to top</a>)</p>
 
 ## Vision-Language Model
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-08**|**Appear2Meaning: A Cross-Cultural Benchmark for Structured Cultural Metadata Inference from Images**|Yuechen Jiang et.al.|[2604.07338](http://arxiv.org/abs/2604.07338)|null|
+|**2026-04-08**|**Learning to Search: A Decision-Based Agent for Knowledge-Based Visual Question Answering**|Zhuohong Chen et.al.|[2604.07146](http://arxiv.org/abs/2604.07146)|null|
+|**2026-04-08**|**A Utility-preserving De-identification Pipeline for Cross-hospital Radiology Data Sharing**|Chenhao Liu et.al.|[2604.07128](http://arxiv.org/abs/2604.07128)|null|
+|**2026-04-08**|**KITE: Keyframe-Indexed Tokenized Evidence for VLM-Based Robot Failure Analysis**|Mehdi Hosseinzadeh et.al.|[2604.07034](http://arxiv.org/abs/2604.07034)|null|
+|**2026-04-08**|**XR-CareerAssist: An Immersive Platform for Personalised Career Guidance Leveraging Extended Reality and Multimodal AI**|N. D. Tantaroudas et.al.|[2604.06901](http://arxiv.org/abs/2604.06901)|null|
+|**2026-04-08**|**Vision-Language Model-Guided Deep Unrolling Enables Personalized, Fast MRI**|Fangmao Ju et.al.|[2604.06849](http://arxiv.org/abs/2604.06849)|null|
+|**2026-04-08**|**Fast-dVLM: Efficient Block-Diffusion VLM via Direct Conversion from Autoregressive VLM**|Chengyue Wu et.al.|[2604.06832](http://arxiv.org/abs/2604.06832)|null|
+|**2026-04-08**|**Towards Privacy-Preserving Large Language Model: Text-free Inference Through Alignment and Adaptation**|Jeongho Yoon et.al.|[2604.06831](http://arxiv.org/abs/2604.06831)|null|
+|**2026-04-08**|**FlowExtract: Procedural Knowledge Extraction from Maintenance Flowcharts**|Guillermo Gil de Avalle et.al.|[2604.06770](http://arxiv.org/abs/2604.06770)|null|
+|**2026-04-08**|**FlowInOne:Unifying Multimodal Generation as Image-in, Image-out Flow Matching**|Junchao Yi et.al.|[2604.06757](http://arxiv.org/abs/2604.06757)|null|
 |**2026-04-07**|**HaloProbe: Bayesian Detection and Mitigation of Object Hallucinations in Vision-Language Models**|Reihaneh Zohrabi et.al.|[2604.06165](http://arxiv.org/abs/2604.06165)|null|
 |**2026-04-07**|**DiffHDR: Re-Exposing LDR Videos with Video Diffusion Models**|Zhengming Yu et.al.|[2604.06161](http://arxiv.org/abs/2604.06161)|null|
 |**2026-04-07**|**Gym-Anything: Turn any Software into an Agent Environment**|Pranjal Aggarwal et.al.|[2604.06126](http://arxiv.org/abs/2604.06126)|null|
@@ -3098,7 +3123,7 @@
 |**2026-03-10**|**Robotic Scene Cloning:Advancing Zero-Shot Robotic Scene Adaptation in Manipulation via Visual Prompt Editing**|Binyuan Huang et.al.|[2603.09712](http://arxiv.org/abs/2603.09712)|null|
 |**2026-03-10**|**Finetuning a Text-to-Audio Model for Room Impulse Response Generation**|Kirak Kim et.al.|[2603.09708](http://arxiv.org/abs/2603.09708)|null|
 
-<p align=right>(<a href=#updated-on-20260408>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260409>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
