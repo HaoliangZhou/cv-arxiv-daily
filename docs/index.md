@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.04.13
+## Updated on 2026.04.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Cross-Modal Image Retrieval
@@ -134,6 +134,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-13**|**Quantum-Gated Task-interaction Knowledge Distillation for Pre-trained Model-based Class-Incremental Learning**|Linjie Li et.al.|[2604.11112](http://arxiv.org/abs/2604.11112)|null|
+|**2026-04-13**|**LDEPrompt: Layer-importance guided Dual Expandable Prompt Pool for Pre-trained Model-based Class-Incremental Learning**|Linjie Li et.al.|[2604.11091](http://arxiv.org/abs/2604.11091)|null|
+|**2026-04-13**|**A Faster Path to Continual Learning**|Wei Li et.al.|[2604.11064](http://arxiv.org/abs/2604.11064)|null|
+|**2026-04-13**|**Multi-Faceted Continual Knowledge Graph Embedding for Semantic-Aware Link Prediction**|Jing Qi et.al.|[2604.10947](http://arxiv.org/abs/2604.10947)|null|
+|**2026-04-12**|**Failure Ontology: A Lifelong Learning Framework for Blind Spot Detection and Resilience Design**|Yuan Sun et.al.|[2604.10549](http://arxiv.org/abs/2604.10549)|null|
 |**2026-04-10**|**Towards Lifelong Aerial Autonomy: Geometric Memory Management for Continual Visual Place Recognition in Dynamic Environments**|Xingyu Shao et.al.|[2604.09038](http://arxiv.org/abs/2604.09038)|null|
 |**2026-04-09**|**From Selection to Scheduling: Federated Geometry-Aware Correction Makes Exemplar Replay Work Better under Continual Dynamic Heterogeneity**|Zhuang Qi et.al.|[2604.08617](http://arxiv.org/abs/2604.08617)|null|
 |**2026-04-09**|**Leveraging Complementary Embeddings for Replay Selection in Continual Learning with Small Buffers**|Danit Yanowsky et.al.|[2604.08336](http://arxiv.org/abs/2604.08336)|null|
@@ -1745,6 +1750,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-13**|**Product Review Based on Optimized Facial Expression Detection**|Vikrant Chaugule et.al.|[2604.10885](http://arxiv.org/abs/2604.10885)|null|
 |**2026-04-10**|**ActFER: Agentic Facial Expression Recognition via Active Tool-Augmented Visual Reasoning**|Shifeng Liu et.al.|[2604.08990](http://arxiv.org/abs/2604.08990)|null|
 |**2026-04-09**|**EPIR: An Efficient Patch Tokenization, Integration and Representation Framework for Micro-expression Recognition**|Junbo Wang et.al.|[2604.08106](http://arxiv.org/abs/2604.08106)|null|
 |**2026-03-31**|**Emotion Diffusion Classifier with Adaptive Margin Discrepancy Training for Facial Expression Recognition**|Rongkang Dong et.al.|[2603.29578](http://arxiv.org/abs/2603.29578)|null|
@@ -1850,11 +1856,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-13**|**Bootstrapping Video Semantic Segmentation Model via Distillation-assisted Test-Time Adaptation**|Jihun Kim et.al.|[2604.10950](http://arxiv.org/abs/2604.10950)|null|
+|**2026-04-12**|**BridgeSim: Unveiling the OL-CL Gap in End-to-End Autonomous Driving**|Seth Z. Zhao et.al.|[2604.10856](http://arxiv.org/abs/2604.10856)|null|
+|**2026-04-11**|**MatRes: Zero-Shot Test-Time Model Adaptation for Simultaneous Matching and Restoration**|Kanggeon Lee et.al.|[2604.10081](http://arxiv.org/abs/2604.10081)|null|
 |**2026-04-07**|**Pretrain-then-Adapt: Uncertainty-Aware Test-Time Adaptation for Text-based Person Search**|Jiahao Zhang et.al.|[2604.08598](http://arxiv.org/abs/2604.08598)|null|
 |**2026-04-09**|**TTVS: Boosting Self-Exploring Reinforcement Learning via Test-time Variational Synthesis**|Sikai Bai et.al.|[2604.08468](http://arxiv.org/abs/2604.08468)|null|
 |**2026-04-07**|**Physics-Aligned Spectral Mamba: Decoupling Semantics and Dynamics for Few-Shot Hyperspectral Target Detection**|Luqi Gong et.al.|[2604.05562](http://arxiv.org/abs/2604.05562)|null|
 |**2026-04-07**|**Retrieve-then-Adapt: Retrieval-Augmented Test-Time Adaptation for Sequential Recommendation**|Xing Tang et.al.|[2604.05379](http://arxiv.org/abs/2604.05379)|null|
-|**2026-04-06**|**StableTTA: Training-Free Test-Time Adaptation that Improves Model Accuracy on ImageNet1K to 96%**|Zheng Li et.al.|[2604.04552](http://arxiv.org/abs/2604.04552)|null|
+|**2026-04-12**|**StableTTA: Training-Free Test-Time Adaptation that Improves Model Accuracy on ImageNet1K to 96%**|Zheng Li et.al.|[2604.04552](http://arxiv.org/abs/2604.04552)|null|
 |**2026-04-06**|**Context is All You Need**|Jean Erik Delanois et.al.|[2604.04364](http://arxiv.org/abs/2604.04364)|null|
 |**2026-04-05**|**Uncertainty-Aware Test-Time Adaptation for Cross-Region Spatio-Temporal Fusion of Land Surface Temperature**|Sofiane Bouaziz et.al.|[2604.04153](http://arxiv.org/abs/2604.04153)|null|
 |**2026-04-02**|**Test-Time Adaptation for Height Completion via Self-Supervised ViT Features and Monocular Foundation Models**|Osher Rafaeli et.al.|[2604.02009](http://arxiv.org/abs/2604.02009)|null|
@@ -2151,6 +2160,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-13**|**POINTS-Long: Adaptive Dual-Mode Visual Reasoning in MLLMs**|Haicheng Wang et.al.|[2604.11627](http://arxiv.org/abs/2604.11627)|null|
+|**2026-04-13**|**Geoparsing: Diagram Parsing for Plane and Solid Geometry with a Unified Formal Language**|Peijie Wang et.al.|[2604.11600](http://arxiv.org/abs/2604.11600)|null|
+|**2026-04-13**|**MLLM-as-a-Judge Exhibits Model Preference Bias**|Shuitsu Koyama et.al.|[2604.11589](http://arxiv.org/abs/2604.11589)|null|
+|**2026-04-13**|**Enhancing Multimodal Large Language Models for Ancient Chinese Character Evolution Analysis via Glyph-Driven Fine-Tuning**|Rui Song et.al.|[2604.11299](http://arxiv.org/abs/2604.11299)|null|
+|**2026-04-13**|**Empowering Video Translation using Multimodal Large Language Models**|Bingzheng QU et.al.|[2604.11283](http://arxiv.org/abs/2604.11283)|null|
+|**2026-04-13**|**Mobile GUI Agent Privacy Personalization with Trajectory Induced Preference Optimization**|Zhixin Lin et.al.|[2604.11259](http://arxiv.org/abs/2604.11259)|null|
+|**2026-04-13**|**Dialectic-Med: Mitigating Diagnostic Hallucinations via Counterfactual Adversarial Multi-Agent Debate**|Zhixiang Lu et.al.|[2604.11258](http://arxiv.org/abs/2604.11258)|null|
+|**2026-04-13**|**Script-a-Video: Deep Structured Audio-visual Captions via Factorized Streams and Relational Grounding**|Tencent Hunyuan Team et.al.|[2604.11244](http://arxiv.org/abs/2604.11244)|null|
+|**2026-04-13**|**MedP-CLIP: Medical CLIP with Region-Aware Prompt Integration**|Jiahui Peng et.al.|[2604.11197](http://arxiv.org/abs/2604.11197)|null|
+|**2026-04-13**|**rPPG-VQA: A Video Quality Assessment Framework for Unsupervised rPPG Training**|Tianyang Dai et.al.|[2604.11156](http://arxiv.org/abs/2604.11156)|null|
 |**2026-04-10**|**SiMing-Bench: Evaluating Procedural Correctness from Continuous Interactions in Clinical Skill Videos**|Xiyang Huang et.al.|[2604.09037](http://arxiv.org/abs/2604.09037)|null|
 |**2026-04-10**|**Multimodal Large Language Model Enabled Robust Beamforming for HAP Downlink Communications**|Xiaoyu Xing et.al.|[2604.09017](http://arxiv.org/abs/2604.09017)|null|
 |**2026-04-10**|**PinpointQA: A Dataset and Benchmark for Small Object-Centric Spatial Understanding in Indoor Videos**|Zhiyu Zhou et.al.|[2604.08991](http://arxiv.org/abs/2604.08991)|null|
@@ -2893,6 +2912,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-13**|**EmergentBridge: Improving Zero-Shot Cross-Modal Transfer in Unified Multimodal Embedding Models**|Jincheng Xie et.al.|[2604.11043](http://arxiv.org/abs/2604.11043)|null|
+|**2026-04-12**|**Retrieving to Recover: Towards Incomplete Audio-Visual Question Answering via Semantic-consistent Purification**|Jiayu Zhang et.al.|[2604.10695](http://arxiv.org/abs/2604.10695)|null|
+|**2026-04-11**|**FashionMV: Product-Level Composed Image Retrieval with Multi-View Fashion Data**|Peng Yuan et.al.|[2604.10297](http://arxiv.org/abs/2604.10297)|null|
+|**2026-04-11**|**Descriptor-Injected Cross-Modal Learning: A Systematic Exploration of Audio-MIDI Alignment via Spectral and Melodic Features**|Mariano Fernández Méndez et.al.|[2604.10283](http://arxiv.org/abs/2604.10283)|null|
 |**2026-04-10**|**FIRE-CIR: Fine-grained Reasoning for Composed Fashion Image Retrieval**|François Gardères et.al.|[2604.09114](http://arxiv.org/abs/2604.09114)|null|
 |**2026-04-07**|**Stealthy and Adjustable Text-Guided Backdoor Attacks on Multimodal Pretrained Models**|Yiyang Zhang et.al.|[2604.05809](http://arxiv.org/abs/2604.05809)|null|
 |**2026-04-07**|**WRF4CIR: Weight-Regularized Fine-Tuning Network for Composed Image Retrieval**|Yizhuo Xu et.al.|[2604.05583](http://arxiv.org/abs/2604.05583)|null|
@@ -2928,6 +2951,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-13**|**LottieGPT: Tokenizing Vector Animation for Autoregressive Generation**|Junhao Chen et.al.|[2604.11792](http://arxiv.org/abs/2604.11792)|null|
+|**2026-04-13**|**Collaborative Multi-Agent Scripts Generation for Enhancing Imperfect-Information Reasoning in Murder Mystery Games**|Keyang Zhong et.al.|[2604.11741](http://arxiv.org/abs/2604.11741)|null|
+|**2026-04-13**|**Learning Long-term Motion Embeddings for Efficient Kinematics Generation**|Nick Stracke et.al.|[2604.11737](http://arxiv.org/abs/2604.11737)|null|
+|**2026-04-13**|**VLMaterial: Vision-Language Model-Based Camera-Radar Fusion for Physics-Grounded Material Identification**|Jiangyou Zhu et.al.|[2604.11671](http://arxiv.org/abs/2604.11671)|null|
+|**2026-04-13**|**CArtBench: Evaluating Vision-Language Models on Chinese Art Understanding, Interpretation, and Authenticity**|Xuefeng Wei et.al.|[2604.11632](http://arxiv.org/abs/2604.11632)|null|
+|**2026-04-13**|**Finetune Like You Pretrain: Boosting Zero-shot Adversarial Robustness in Vision-language Models**|Songlong Xing et.al.|[2604.11576](http://arxiv.org/abs/2604.11576)|null|
+|**2026-04-13**|**CLAY: Conditional Visual Similarity Modulation in Vision-Language Embedding Space**|Sohwi Lim et.al.|[2604.11539](http://arxiv.org/abs/2604.11539)|null|
+|**2026-04-13**|**ResearchCube: Multi-Dimensional Trade-off Exploration for Research Ideation**|Zijian Ding et.al.|[2604.11538](http://arxiv.org/abs/2604.11538)|null|
+|**2026-04-13**|**SVD-Prune: Training-Free Token Pruning For Efficient Vision-Language Models**|Yvon Apedo et.al.|[2604.11530](http://arxiv.org/abs/2604.11530)|null|
+|**2026-04-13**|**Revisiting Compositionality in Dual-Encoder Vision-Language Models: The Role of Inference**|Imanol Miranda et.al.|[2604.11496](http://arxiv.org/abs/2604.11496)|null|
 |**2026-04-10**|**Seeing is Believing: Robust Vision-Guided Cross-Modal Prompt Learning under Label Noise**|Zibin Geng et.al.|[2604.09532](http://arxiv.org/abs/2604.09532)|null|
 |**2026-04-10**|**VisionFoundry: Teaching VLMs Visual Perception with Synthetic Images**|Guanyu Zhou et.al.|[2604.09531](http://arxiv.org/abs/2604.09531)|null|
 |**2026-04-10**|**VL-Calibration: Decoupled Confidence Calibration for Large Vision-Language Models Reasoning**|Wenyi Xiao et.al.|[2604.09529](http://arxiv.org/abs/2604.09529)|null|
