@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.04.15
+## Updated on 2026.04.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Cross-Modal Image Retrieval
@@ -134,6 +134,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-15**|**ReConText3D: Replay-based Continual Text-to-3D Generation**|Muhammad Ahmed Ullah Khan et.al.|[2604.13730](http://arxiv.org/abs/2604.13730)|null|
+|**2026-04-15**|**Adaptive Unknown Fault Detection and Few-Shot Continual Learning for Condition Monitoring in Ultrasonic Metal Welding**|Ahmadreza Eslaminia et.al.|[2604.13465](http://arxiv.org/abs/2604.13465)|null|
+|**2026-04-15**|**From Order to Distribution: A Spectral Characterization of Forgetting in Continual Learning**|Zonghuan Xu et.al.|[2604.13460](http://arxiv.org/abs/2604.13460)|null|
 |**2026-04-14**|**Tree Learning: A Multi-Skill Continual Learning Framework for Humanoid Robots**|Yifei Yan et.al.|[2604.12909](http://arxiv.org/abs/2604.12909)|null|
 |**2026-04-14**|**TCL: Enabling Fast and Efficient Cross-Hardware Tensor Program Optimization via Continual Learning**|Chaoyao Shen et.al.|[2604.12891](http://arxiv.org/abs/2604.12891)|null|
 |**2026-04-14**|**LIFE -- an energy efficient advanced continual learning agentic AI framework for frontier systems**|Anne Lee et.al.|[2604.12874](http://arxiv.org/abs/2604.12874)|null|
@@ -1863,6 +1866,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-15**|**Training-Free Test-Time Contrastive Learning for Large Language Models**|Kaiwen Zheng et.al.|[2604.13552](http://arxiv.org/abs/2604.13552)|null|
 |**2026-04-14**|**Bootstrapping Video Semantic Segmentation Model via Distillation-assisted Test-Time Adaptation**|Jihun Kim et.al.|[2604.10950](http://arxiv.org/abs/2604.10950)|null|
 |**2026-04-12**|**BridgeSim: Unveiling the OL-CL Gap in End-to-End Autonomous Driving**|Seth Z. Zhao et.al.|[2604.10856](http://arxiv.org/abs/2604.10856)|null|
 |**2026-04-11**|**MatRes: Zero-Shot Test-Time Model Adaptation for Simultaneous Matching and Restoration**|Kanggeon Lee et.al.|[2604.10081](http://arxiv.org/abs/2604.10081)|null|
@@ -2167,6 +2171,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-15**|**ROSE: Retrieval-Oriented Segmentation Enhancement**|Song Tang et.al.|[2604.14147](http://arxiv.org/abs/2604.14147)|null|
+|**2026-04-15**|**Towards Unconstrained Human-Object Interaction**|Francesco Tonini et.al.|[2604.14069](http://arxiv.org/abs/2604.14069)|null|
+|**2026-04-15**|**Decoding the Delta: Unifying Remote Sensing Change Detection and Understanding with Multimodal Large Language Models**|Xiaohe Li et.al.|[2604.14044](http://arxiv.org/abs/2604.14044)|null|
+|**2026-04-15**|**Seek-and-Solve: Benchmarking MLLMs for Visual Clue-Driven Reasoning in Daily Scenarios**|Xiaomin Li et.al.|[2604.14041](http://arxiv.org/abs/2604.14041)|null|
+|**2026-04-15**|**MAny: Merge Anything for Multimodal Continual Instruction Tuning**|Zijian Gao et.al.|[2604.14016](http://arxiv.org/abs/2604.14016)|null|
+|**2026-04-15**|**MedRCube: A Multidimensional Framework for Fine-Grained and In-Depth Evaluation of MLLMs in Medical Imaging**|Zhijie Bao et.al.|[2604.13756](http://arxiv.org/abs/2604.13756)|null|
+|**2026-04-15**|**SLQ: Bridging Modalities via Shared Latent Queries for Retrieval with Frozen MLLMs**|Haoran Lou et.al.|[2604.13710](http://arxiv.org/abs/2604.13710)|null|
+|**2026-04-15**|**Figma2Code: Automating Multimodal Design to Code in the Wild**|Yi Gui et.al.|[2604.13648](http://arxiv.org/abs/2604.13648)|null|
+|**2026-04-15**|**Reward Hacking in the Era of Large Models: Mechanisms, Emergent Misalignment, Challenges**|Xiaohua Wang et.al.|[2604.13602](http://arxiv.org/abs/2604.13602)|null|
+|**2026-04-15**|**Enhanced Text-to-Image Generation by Fine-grained Multimodal Reasoning**|Yongjin Kim et.al.|[2604.13491](http://arxiv.org/abs/2604.13491)|null|
 |**2026-04-14**|**Boosting Visual Instruction Tuning with Self-Supervised Guidance**|Sophia Sirko-Galouchenko et.al.|[2604.12966](http://arxiv.org/abs/2604.12966)|null|
 |**2026-04-14**|**DPC-VQA: Decoupling Quality Perception and Residual Calibration for Video Quality Assessment**|Xinyue Li et.al.|[2604.12813](http://arxiv.org/abs/2604.12813)|null|
 |**2026-04-14**|**DocSeeker: Structured Visual Reasoning with Evidence Grounding for Long Document Understanding**|Hao Yan et.al.|[2604.12812](http://arxiv.org/abs/2604.12812)|null|
@@ -2929,6 +2943,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-14**|**Concrete Jungle: Towards Concreteness Paved Contrastive Negative Mining for Compositional Understanding**|Eun Woo Im et.al.|[2604.13313](http://arxiv.org/abs/2604.13313)|null|
 |**2026-04-14**|**Representation geometry shapes task performance in vision-language modeling for CT enterography**|Cristian Minoccheri et.al.|[2604.13021](http://arxiv.org/abs/2604.13021)|null|
 |**2026-04-14**|**A Sanity Check on Composed Image Retrieval**|Yikun Liu et.al.|[2604.12904](http://arxiv.org/abs/2604.12904)|null|
 |**2026-04-14**|**EmergentBridge: Improving Zero-Shot Cross-Modal Transfer in Unified Multimodal Embedding Models**|Jincheng Xie et.al.|[2604.11043](http://arxiv.org/abs/2604.11043)|null|
@@ -2970,6 +2985,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-15**|**One Token per Highly Selective Frame: Towards Extreme Compression for Long Video Understanding**|Zheyu Zhang et.al.|[2604.14149](http://arxiv.org/abs/2604.14149)|null|
+|**2026-04-15**|**ROSE: Retrieval-Oriented Segmentation Enhancement**|Song Tang et.al.|[2604.14147](http://arxiv.org/abs/2604.14147)|null|
+|**2026-04-15**|**HiVLA: A Visual-Grounded-Centric Hierarchical Embodied Manipulation System**|Tianshuo Yang et.al.|[2604.14125](http://arxiv.org/abs/2604.14125)|null|
+|**2026-04-15**|**Training-Free Semantic Multi-Object Tracking with Vision-Language Models**|Laurence Bonat et.al.|[2604.14074](http://arxiv.org/abs/2604.14074)|null|
+|**2026-04-15**|**Reward Design for Physical Reasoning in Vision-Language Models**|Derek Lilienthal et.al.|[2604.13993](http://arxiv.org/abs/2604.13993)|null|
+|**2026-04-15**|**MApLe: Multi-instance Alignment of Diagnostic Reports and Large Medical Images**|Felicia Bader et.al.|[2604.13970](http://arxiv.org/abs/2604.13970)|null|
+|**2026-04-15**|**GeoAgentBench: A Dynamic Execution Benchmark for Tool-Augmented Agents in Spatial Analysis**|Bo Yu et.al.|[2604.13888](http://arxiv.org/abs/2604.13888)|null|
+|**2026-04-15**|**Gaslight, Gatekeep, V1-V3: Early Visual Cortex Alignment Shields Vision-Language Models from Sycophantic Manipulation**|Arya Shah et.al.|[2604.13803](http://arxiv.org/abs/2604.13803)|null|
+|**2026-04-15**|**Failure Identification in Imitation Learning Via Statistical and Semantic Filtering**|Quentin Rolland et.al.|[2604.13788](http://arxiv.org/abs/2604.13788)|null|
+|**2026-04-15**|**Vision-and-Language Navigation for UAVs: Progress, Challenges, and a Research Roadmap**|Hanxuan Chen et.al.|[2604.13654](http://arxiv.org/abs/2604.13654)|null|
 |**2026-04-14**|**SceneCritic: A Symbolic Evaluator for 3D Indoor Scene Synthesis**|Kathakoli Sengupta et.al.|[2604.13035](http://arxiv.org/abs/2604.13035)|null|
 |**2026-04-14**|**Representation geometry shapes task performance in vision-language modeling for CT enterography**|Cristian Minoccheri et.al.|[2604.13021](http://arxiv.org/abs/2604.13021)|null|
 |**2026-04-14**|**GlotOCR Bench: OCR Models Still Struggle Beyond a Handful of Unicode Scripts**|Amir Hossein Kargaran et.al.|[2604.12978](http://arxiv.org/abs/2604.12978)|null|
