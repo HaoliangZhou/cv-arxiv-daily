@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.04.20
+## Updated on 2026.04.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Cross-Modal Image Retrieval
@@ -134,6 +134,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-20**|**Incremental learning for audio classification with Hebbian Deep Neural Networks**|Riccardo Casciotti et.al.|[2604.18270](http://arxiv.org/abs/2604.18270)|null|
+|**2026-04-20**|**Enhancing Continual Learning of Vision-Language Models via Dynamic Prefix Weighting**|Hyeonseo Jang et.al.|[2604.18075](http://arxiv.org/abs/2604.18075)|null|
+|**2026-04-20**|**GR4CIL: Gap-compensated Routing for CLIP-based Class Incremental Learning**|Tianqi Wang et.al.|[2604.17822](http://arxiv.org/abs/2604.17822)|null|
+|**2026-04-20**|**IncreFA: Breaking the Static Wall of Generative Model Attribution**|Haotian Qin et.al.|[2604.17736](http://arxiv.org/abs/2604.17736)|null|
+|**2026-04-19**|**Recovery Guarantees for Continual Learning of Dependent Tasks: Memory, Data-Dependent Regularization, and Data-Dependent Weights**|Liangzu Peng et.al.|[2604.17578](http://arxiv.org/abs/2604.17578)|null|
+|**2026-04-19**|**SkillFlow:Benchmarking Lifelong Skill Discovery and Evolution for Autonomous Agents**|Ziao Zhang et.al.|[2604.17308](http://arxiv.org/abs/2604.17308)|null|
+|**2026-04-18**|**Tree of Concepts: Interpretable Continual Learners in Non-Stationary Clinical Domains**|Dongkyu Cho et.al.|[2604.17089](http://arxiv.org/abs/2604.17089)|null|
+|**2026-04-18**|**The Illusion of Certainty: Decoupling Capability and Calibration in On-Policy Distillation**|Jiaxin Zhang et.al.|[2604.16830](http://arxiv.org/abs/2604.16830)|null|
 |**2026-04-17**|**AIFIND: Artifact-Aware Interpreting Fine-Grained Alignment for Incremental Face Forgery Detection**|Hao Wang et.al.|[2604.16207](http://arxiv.org/abs/2604.16207)|null|
 |**2026-04-17**|**JumpLoRA: Sparse Adapters for Continual Learning in Large Language Models**|Alexandra Dragomir et.al.|[2604.16171](http://arxiv.org/abs/2604.16171)|null|
 |**2026-04-17**|**Continual Hand-Eye Calibration for Open-world Robotic Manipulation**|Fazeng Li et.al.|[2604.15814](http://arxiv.org/abs/2604.15814)|null|
@@ -1770,6 +1778,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-20**|**MEDN: Motion-Emotion Feature Decoupling Network for Micro-Expression Recognition**|Chenxing Hu et.al.|[2604.17899](http://arxiv.org/abs/2604.17899)|null|
 |**2026-04-16**|**Why Do Vision Language Models Struggle To Recognize Human Emotions?**|Madhav Agarwal et.al.|[2604.15280](http://arxiv.org/abs/2604.15280)|null|
 |**2026-04-14**|**Cognition-Inspired Dual-Stream Semantic Enhancement for Vision-Based Dynamic Emotion Modeling**|Huanzhen Wang et.al.|[2604.12777](http://arxiv.org/abs/2604.12777)|null|
 |**2026-04-14**|**ARGen: Affect-Reinforced Generative Augmentation towards Vision-based Dynamic Emotion Perception**|Huanzhen Wang et.al.|[2604.12255](http://arxiv.org/abs/2604.12255)|null|
@@ -1879,6 +1888,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-20**|**Test-Time Perturbation Learning with Delayed Feedback for Vision-Language-Action Models**|Zehua Zang et.al.|[2604.18107](http://arxiv.org/abs/2604.18107)|null|
+|**2026-04-19**|**Dual Strategies for Test-Time Adaptation**|Nam Nguyen Phuong et.al.|[2604.17542](http://arxiv.org/abs/2604.17542)|null|
+|**2026-04-18**|**Test-Time Adaptation for EEG Foundation Models: A Systematic Study under Real-World Distribution Shifts**|Gabriel Jason Lee et.al.|[2604.16926](http://arxiv.org/abs/2604.16926)|null|
+|**2026-04-17**|**AdaExplore: Failure-Driven Adaptation and Diversity-Preserving Search for Efficient Kernel Generation**|Weihua Du et.al.|[2604.16625](http://arxiv.org/abs/2604.16625)|null|
 |**2026-04-17**|**TTL: Test-time Textual Learning for OOD Detection with Pretrained Vision-Language Models**|Jinlun Ye et.al.|[2604.15756](http://arxiv.org/abs/2604.15756)|null|
 |**2026-04-17**|**Adapting in the Dark: Efficient and Stable Test-Time Adaptation for Black-Box Models**|Yunbei Zhang et.al.|[2604.15609](http://arxiv.org/abs/2604.15609)|null|
 |**2026-04-16**|**ProtoTTA: Prototype-Guided Test-Time Adaptation**|Mohammad Mahdi Abootorabi et.al.|[2604.15494](http://arxiv.org/abs/2604.15494)|null|
@@ -2187,6 +2200,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-20**|**EVE: Verifiable Self-Evolution of MLLMs via Executable Visual Transformations**|Yongrui Heng et.al.|[2604.18320](http://arxiv.org/abs/2604.18320)|null|
+|**2026-04-20**|**Geometry-Guided 3D Visual Token Pruning for Video-Language Models**|Han Li et.al.|[2604.18260](http://arxiv.org/abs/2604.18260)|null|
+|**2026-04-20**|**MM-JudgeBias: A Benchmark for Evaluating Compositional Biases in MLLM-as-a-Judge**|Sua Lee et.al.|[2604.18164](http://arxiv.org/abs/2604.18164)|null|
+|**2026-04-20**|**Retrieval-Augmented Multimodal Model for Fake News Detection**|Yiheng Li et.al.|[2604.18112](http://arxiv.org/abs/2604.18112)|null|
+|**2026-04-20**|**Culture-Aware Humorous Captioning: Multimodal Humor Generation across Cultural Contexts**|Run Xu et.al.|[2604.18091](http://arxiv.org/abs/2604.18091)|null|
+|**2026-04-20**|**AeroRAG: Structured Multimodal Retrieval-Augmented LLM for Fine-Grained Aerial Visual Reasoning**|Junxiao Xue et.al.|[2604.17889](http://arxiv.org/abs/2604.17889)|null|
+|**2026-04-20**|**Weakly-Supervised Referring Video Object Segmentation through Text Supervision**|Miaojing Shi et.al.|[2604.17797](http://arxiv.org/abs/2604.17797)|null|
+|**2026-04-19**|**PBSBench: A Multi-Level Vision-Language Framework and Benchmark for Hematopathology Whole Slide Image Interpretation**|Yuanlong Wang et.al.|[2604.17570](http://arxiv.org/abs/2604.17570)|null|
+|**2026-04-19**|**Where to Focus: Query-Modulated Multimodal Keyframe Selection for Long Video Understanding**|Shaoguang Wang et.al.|[2604.17422](http://arxiv.org/abs/2604.17422)|null|
+|**2026-04-19**|**SpatialImaginer: Towards Adaptive Visual Imagination for Spatial Reasoning**|Yian Li et.al.|[2604.17385](http://arxiv.org/abs/2604.17385)|null|
 |**2026-04-17**|**Mind's Eye: A Benchmark of Visual Abstraction, Transformation and Composition for Multimodal LLMs**|Rohit Sinha et.al.|[2604.16054](http://arxiv.org/abs/2604.16054)|null|
 |**2026-04-17**|**ReactBench: A Benchmark for Topological Reasoning in MLLMs on Chemical Reaction Diagrams**|Qiang Xu et.al.|[2604.15994](http://arxiv.org/abs/2604.15994)|null|
 |**2026-04-17**|**RefereeBench: Are Video MLLMs Ready to be Multi-Sport Referees**|Yichen Xu et.al.|[2604.15736](http://arxiv.org/abs/2604.15736)|null|
@@ -2967,6 +2990,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-20**|**INTENT: Invariance and Discrimination-aware Noise Mitigation for Robust Composed Image Retrieval**|Zhiwei Chen et.al.|[2604.18051](http://arxiv.org/abs/2604.18051)|null|
+|**2026-04-20**|**HABIT: Chrono-Synergia Robust Progressive Learning Framework for Composed Image Retrieval**|Zixu Li et.al.|[2604.18037](http://arxiv.org/abs/2604.18037)|null|
+|**2026-04-20**|**ReTrack: Evidence-Driven Dual-Stream Directional Anchor Calibration Network for Composed Video Retrieval**|Zixu Li et.al.|[2604.17898](http://arxiv.org/abs/2604.17898)|null|
+|**2026-04-18**|**TeMuDance: Contrastive Alignment-Based Textual Control for Music-Driven Dance Generation**|Xinran Liu et.al.|[2604.17005](http://arxiv.org/abs/2604.17005)|null|
 |**2026-04-17**|**MMGait: Towards Multi-Modal Gait Recognition**|Chenye Wang et.al.|[2604.15979](http://arxiv.org/abs/2604.15979)|null|
 |**2026-04-17**|**SIMMER: Cross-Modal Food Image--Recipe Retrieval via MLLM-Based Embedding**|Keisuke Gomi et.al.|[2604.15628](http://arxiv.org/abs/2604.15628)|null|
 |**2026-04-16**|**G-MIXER: Geodesic Mixup-based Implicit Semantic Expansion and Explicit Semantic Re-ranking for Zero-Shot Composed Image Retrieval**|Jiyoung Lim et.al.|[2604.14710](http://arxiv.org/abs/2604.14710)|null|
@@ -3012,6 +3039,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-20**|**S2H-DPO: Hardness-Aware Preference Optimization for Vision-Language Models**|Nitish Shukla et.al.|[2604.18512](http://arxiv.org/abs/2604.18512)|null|
+|**2026-04-20**|**XEmbodied: A Foundation Model with Enhanced Geometric and Physical Cues for Large-Scale Embodied Environments**|Kangan Qian et.al.|[2604.18484](http://arxiv.org/abs/2604.18484)|null|
+|**2026-04-20**|**ESsEN: Training Compact Discriminative Vision-Language Transformers in a Low-Resource Setting**|Clayton Fields et.al.|[2604.18452](http://arxiv.org/abs/2604.18452)|null|
+|**2026-04-20**|**ProtoCLIP: Prototype-Aligned Latent Refinement for Robust Zero-Shot Chest X-Ray Classification**|Florian Kittler et.al.|[2604.18444](http://arxiv.org/abs/2604.18444)|null|
+|**2026-04-20**|**Revisiting Change VQA in Remote Sensing with Structured and Native Multimodal Qwen Models**|Yakoub Bazi et.al.|[2604.18429](http://arxiv.org/abs/2604.18429)|null|
+|**2026-04-20**|**Multilingual Training and Evaluation Resources for Vision-Language Models**|Daniela Baiamonte et.al.|[2604.18347](http://arxiv.org/abs/2604.18347)|null|
+|**2026-04-20**|**Spike-NVPT: Learning Robust Visual Prompts via Bio-Inspired Temporal Filtering and Discretization**|Qiugang Zhan et.al.|[2604.18284](http://arxiv.org/abs/2604.18284)|null|
+|**2026-04-20**|**Is SAM3 ready for pathology segmentation?**|Qiuyu Kong et.al.|[2604.18225](http://arxiv.org/abs/2604.18225)|null|
+|**2026-04-20**|**Class-specific diffusion models improve military object detection in a low-data domain**|Ella P. Fokkinga et.al.|[2604.18076](http://arxiv.org/abs/2604.18076)|null|
+|**2026-04-20**|**Enhancing Continual Learning of Vision-Language Models via Dynamic Prefix Weighting**|Hyeonseo Jang et.al.|[2604.18075](http://arxiv.org/abs/2604.18075)|null|
 |**2026-04-17**|**VEFX-Bench: A Holistic Benchmark for Generic Video Editing and Visual Effects**|Xiangbo Gao et.al.|[2604.16272](http://arxiv.org/abs/2604.16272)|null|
 |**2026-04-17**|**Information Router for Mitigating Modality Dominance in Vision-Language Models**|Seulgi Kim et.al.|[2604.16264](http://arxiv.org/abs/2604.16264)|null|
 |**2026-04-17**|**Do Vision-Language Models Truly Perform Vision Reasoning? A Rigorous Study of the Modality Gap**|Yige Xu et.al.|[2604.16256](http://arxiv.org/abs/2604.16256)|null|
