@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.04.21
+## Updated on 2026.04.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Cross-Modal Image Retrieval
@@ -134,10 +134,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-21**|**Analysis of AWW (Anganwadi Workers) Training Content, ILA (Incremental Learning Approach) Modules Following CDT (Component Display Theory)**|Arka Majhi et.al.|[2604.19032](http://arxiv.org/abs/2604.19032)|null|
+|**2026-04-20**|**Task Switching Without Forgetting via Proximal Decoupling**|Pourya Shamsolmoali et.al.|[2604.18857](http://arxiv.org/abs/2604.18857)|null|
 |**2026-04-20**|**Incremental learning for audio classification with Hebbian Deep Neural Networks**|Riccardo Casciotti et.al.|[2604.18270](http://arxiv.org/abs/2604.18270)|null|
 |**2026-04-20**|**Enhancing Continual Learning of Vision-Language Models via Dynamic Prefix Weighting**|Hyeonseo Jang et.al.|[2604.18075](http://arxiv.org/abs/2604.18075)|null|
 |**2026-04-20**|**GR4CIL: Gap-compensated Routing for CLIP-based Class Incremental Learning**|Tianqi Wang et.al.|[2604.17822](http://arxiv.org/abs/2604.17822)|null|
-|**2026-04-20**|**IncreFA: Breaking the Static Wall of Generative Model Attribution**|Haotian Qin et.al.|[2604.17736](http://arxiv.org/abs/2604.17736)|null|
+|**2026-04-21**|**IncreFA: Breaking the Static Wall of Generative Model Attribution**|Haotian Qin et.al.|[2604.17736](http://arxiv.org/abs/2604.17736)|null|
 |**2026-04-19**|**Recovery Guarantees for Continual Learning of Dependent Tasks: Memory, Data-Dependent Regularization, and Data-Dependent Weights**|Liangzu Peng et.al.|[2604.17578](http://arxiv.org/abs/2604.17578)|null|
 |**2026-04-19**|**SkillFlow:Benchmarking Lifelong Skill Discovery and Evolution for Autonomous Agents**|Ziao Zhang et.al.|[2604.17308](http://arxiv.org/abs/2604.17308)|null|
 |**2026-04-18**|**Tree of Concepts: Interpretable Continual Learners in Non-Stationary Clinical Domains**|Dongkyu Cho et.al.|[2604.17089](http://arxiv.org/abs/2604.17089)|null|
@@ -1888,6 +1890,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-21**|**Multi-modal Test-time Adaptation via Adaptive Probabilistic Gaussian Calibration**|Jinglin Xu et.al.|[2604.19093](http://arxiv.org/abs/2604.19093)|null|
+|**2026-04-21**|**AeroBridge-TTA: Test-Time Adaptive Language-Conditioned Control for UAVs**|Lingxue Lyu et.al.|[2604.19059](http://arxiv.org/abs/2604.19059)|null|
+|**2026-04-20**|**Gradient-Based Program Synthesis with Neurally Interpreted Languages**|Matthew V. Macfarlane et.al.|[2604.18907](http://arxiv.org/abs/2604.18907)|null|
 |**2026-04-20**|**Test-Time Perturbation Learning with Delayed Feedback for Vision-Language-Action Models**|Zehua Zang et.al.|[2604.18107](http://arxiv.org/abs/2604.18107)|null|
 |**2026-04-19**|**Dual Strategies for Test-Time Adaptation**|Nam Nguyen Phuong et.al.|[2604.17542](http://arxiv.org/abs/2604.17542)|null|
 |**2026-04-18**|**Test-Time Adaptation for EEG Foundation Models: A Systematic Study under Real-World Distribution Shifts**|Gabriel Jason Lee et.al.|[2604.16926](http://arxiv.org/abs/2604.16926)|null|
@@ -2200,6 +2205,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-21**|**Unveiling Fine-Grained Visual Traces: Evaluating Multimodal Interleaved Reasoning Chains in Multimodal STEM Tasks**|Jing Jin et.al.|[2604.19697](http://arxiv.org/abs/2604.19697)|null|
+|**2026-04-21**|**A-MAR: Agent-based Multimodal Art Retrieval for Fine-Grained Artwork Understanding**|Shuai Wang et.al.|[2604.19689](http://arxiv.org/abs/2604.19689)|null|
+|**2026-04-21**|**SafetyALFRED: Evaluating Safety-Conscious Planning of Multimodal Large Language Models**|Josue Torres-Fonseca et.al.|[2604.19638](http://arxiv.org/abs/2604.19638)|null|
+|**2026-04-21**|**DT2IT-MRM: Debiased Preference Construction and Iterative Training for Multimodal Reward Modeling**|Zhihong Zhang et.al.|[2604.19544](http://arxiv.org/abs/2604.19544)|null|
+|**2026-04-21**|**Seeing Candidates at Scale: Multimodal LLMs for Visual Political Communication on Instagram**|Michael Achmann-Denkler et.al.|[2604.19489](http://arxiv.org/abs/2604.19489)|null|
+|**2026-04-21**|**MER 2026: From Discriminative Emotion Recognition to Generative Emotion Understanding**|Zheng Lian et.al.|[2604.19417](http://arxiv.org/abs/2604.19417)|null|
+|**2026-04-21**|**Air-Know: Arbiter-Calibrated Knowledge-Internalizing Robust Network for Composed Image Retrieval**|Zhiheng Fu et.al.|[2604.19386](http://arxiv.org/abs/2604.19386)|null|
+|**2026-04-21**|**ProjLens: Unveiling the Role of Projectors in Multimodal Model Safety**|Kun Wang et.al.|[2604.19083](http://arxiv.org/abs/2604.19083)|null|
+|**2026-04-21**|**Proactive Detection of GUI Defects in Multi-Window Scenarios via Multimodal Reasoning**|Xinyao Zhang et.al.|[2604.19081](http://arxiv.org/abs/2604.19081)|null|
+|**2026-04-20**|**DUALVISION: RGB-Infrared Multimodal Large Language Models for Robust Visual Reasoning**|Abrar Majeedi et.al.|[2604.18829](http://arxiv.org/abs/2604.18829)|null|
 |**2026-04-20**|**EVE: Verifiable Self-Evolution of MLLMs via Executable Visual Transformations**|Yongrui Heng et.al.|[2604.18320](http://arxiv.org/abs/2604.18320)|null|
 |**2026-04-20**|**Geometry-Guided 3D Visual Token Pruning for Video-Language Models**|Han Li et.al.|[2604.18260](http://arxiv.org/abs/2604.18260)|null|
 |**2026-04-20**|**MM-JudgeBias: A Benchmark for Evaluating Compositional Biases in MLLM-as-a-Judge**|Sua Lee et.al.|[2604.18164](http://arxiv.org/abs/2604.18164)|null|
@@ -2990,6 +3005,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-21**|**Air-Know: Arbiter-Calibrated Knowledge-Internalizing Robust Network for Composed Image Retrieval**|Zhiheng Fu et.al.|[2604.19386](http://arxiv.org/abs/2604.19386)|null|
+|**2026-04-21**|**ATRIE: Adaptive Tuning for Robust Inference and Emotion in Persona-Driven Speech Synthesis**|Aoduo Li et.al.|[2604.19055](http://arxiv.org/abs/2604.19055)|null|
 |**2026-04-20**|**INTENT: Invariance and Discrimination-aware Noise Mitigation for Robust Composed Image Retrieval**|Zhiwei Chen et.al.|[2604.18051](http://arxiv.org/abs/2604.18051)|null|
 |**2026-04-20**|**HABIT: Chrono-Synergia Robust Progressive Learning Framework for Composed Image Retrieval**|Zixu Li et.al.|[2604.18037](http://arxiv.org/abs/2604.18037)|null|
 |**2026-04-20**|**ReTrack: Evidence-Driven Dual-Stream Directional Anchor Calibration Network for Composed Video Retrieval**|Zixu Li et.al.|[2604.17898](http://arxiv.org/abs/2604.17898)|null|
@@ -3039,6 +3056,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-21**|**InHabit: Leveraging Image Foundation Models for Scalable 3D Human Placement**|Nikita Kister et.al.|[2604.19673](http://arxiv.org/abs/2604.19673)|null|
+|**2026-04-21**|**The signal is the ceiling: Measurement limits of LLM-predicted experience ratings from open-ended survey text**|Andrew Hong et.al.|[2604.19645](http://arxiv.org/abs/2604.19645)|null|
+|**2026-04-21**|**A Gesture-Based Visual Learning Model for Acoustophoretic Interactions using a Swarm of AcoustoBots**|Alex Lin et.al.|[2604.19643](http://arxiv.org/abs/2604.19643)|null|
+|**2026-04-21**|**CoInteract: Physically-Consistent Human-Object Interaction Video Synthesis via Spatially-Structured Co-Generation**|Xiangyang Luo et.al.|[2604.19636](http://arxiv.org/abs/2604.19636)|null|
+|**2026-04-21**|**CreatiParser: Generative Image Parsing of Raster Graphic Designs into Editable Layers**|Weidong Chen et.al.|[2604.19632](http://arxiv.org/abs/2604.19632)|null|
+|**2026-04-21**|**Multi-modal Reasoning with LLMs for Visual Semantic Arithmetic**|Chuou Xu et.al.|[2604.19567](http://arxiv.org/abs/2604.19567)|null|
+|**2026-04-21**|**FOCAL: Filtered On-device Continuous Activity Logging for Efficient Personal Desktop Summarization**|Haoran Yin et.al.|[2604.19541](http://arxiv.org/abs/2604.19541)|null|
+|**2026-04-21**|**GenerativeMPC: VLM-RAG-guided Whole-Body MPC with Virtual Impedance for Bimanual Mobile Manipulation**|Marcelino Julio Fernando et.al.|[2604.19522](http://arxiv.org/abs/2604.19522)|null|
+|**2026-04-21**|**Assessing VLM-Driven Semantic-Affordance Inference for Non-Humanoid Robot Morphologies**|Jess Jones et.al.|[2604.19509](http://arxiv.org/abs/2604.19509)|null|
+|**2026-04-21**|**VCE: A zero-cost hallucination mitigation method of LVLMs via visual contrastive editing**|Yanbin Huang et.al.|[2604.19412](http://arxiv.org/abs/2604.19412)|null|
 |**2026-04-20**|**S2H-DPO: Hardness-Aware Preference Optimization for Vision-Language Models**|Nitish Shukla et.al.|[2604.18512](http://arxiv.org/abs/2604.18512)|null|
 |**2026-04-20**|**XEmbodied: A Foundation Model with Enhanced Geometric and Physical Cues for Large-Scale Embodied Environments**|Kangan Qian et.al.|[2604.18484](http://arxiv.org/abs/2604.18484)|null|
 |**2026-04-20**|**ESsEN: Training Compact Discriminative Vision-Language Transformers in a Low-Resource Setting**|Clayton Fields et.al.|[2604.18452](http://arxiv.org/abs/2604.18452)|null|
