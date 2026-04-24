@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.04.23
+## Updated on 2026.04.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Cross-Modal Image Retrieval
@@ -134,6 +134,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-23**|**Temporal Taskification in Streaming Continual Learning: A Source of Evaluation Instability**|Nicolae Filat et.al.|[2604.21930](http://arxiv.org/abs/2604.21930)|null|
+|**2026-04-23**|**Fine-Tuning Regimes Define Distinct Continual Learning Problems**|Paul-Tiberiu Iordache et.al.|[2604.21927](http://arxiv.org/abs/2604.21927)|null|
+|**2026-04-23**|**Agentic Artificial Intelligence in Finance: A Comprehensive Survey**|Irene Aldridge et.al.|[2604.21672](http://arxiv.org/abs/2604.21672)|null|
+|**2026-04-23**|**Task-specific Subnetwork Discovery in Reinforcement Learning for Autonomous Underwater Navigation**|Yi-Ling Liu et.al.|[2604.21640](http://arxiv.org/abs/2604.21640)|null|
+|**2026-04-23**|**ImageHD: Energy-Efficient On-Device Continual Learning of Visual Representations via Hyperdimensional Computing**|Jebacyril Arockiaraj et.al.|[2604.21280](http://arxiv.org/abs/2604.21280)|null|
 |**2026-04-22**|**Lifecycle-Aware Federated Continual Learning in Mobile Autonomous Systems**|Beining Wu et.al.|[2604.20745](http://arxiv.org/abs/2604.20745)|null|
 |**2026-04-22**|**COMPASS: COntinual Multilingual PEFT with Adaptive Semantic Sampling**|Noah Flynn et.al.|[2604.20720](http://arxiv.org/abs/2604.20720)|null|
 |**2026-04-22**|**Ask Only When Needed: Proactive Retrieval from Memory and Skills for Experience-Driven Lifelong Agents**|Yuxuan Cai et.al.|[2604.20572](http://arxiv.org/abs/2604.20572)|null|
@@ -1895,6 +1900,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-23**|**Back to Source: Open-Set Continual Test-Time Adaptation via Domain Compensation**|Yingkai Yang et.al.|[2604.21772](http://arxiv.org/abs/2604.21772)|null|
+|**2026-04-23**|**Ramen: Robust Test-Time Adaptation of Vision-Language Models with Active Sample Selection**|Wenxuan Bao et.al.|[2604.21728](http://arxiv.org/abs/2604.21728)|null|
+|**2026-04-23**|**Prototype-Based Test-Time Adaptation of Vision-Language Models**|Zhaohong Huang et.al.|[2604.21360](http://arxiv.org/abs/2604.21360)|null|
 |**2026-04-21**|**Multi-modal Test-time Adaptation via Adaptive Probabilistic Gaussian Calibration**|Jinglin Xu et.al.|[2604.19093](http://arxiv.org/abs/2604.19093)|null|
 |**2026-04-21**|**AeroBridge-TTA: Test-Time Adaptive Language-Conditioned Control for UAVs**|Lingxue Lyu et.al.|[2604.19059](http://arxiv.org/abs/2604.19059)|null|
 |**2026-04-20**|**Gradient-Based Program Synthesis with Neurally Interpreted Languages**|Matthew V. Macfarlane et.al.|[2604.18907](http://arxiv.org/abs/2604.18907)|null|
@@ -2210,9 +2218,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-23**|**Do MLLMs Understand Pointing? Benchmarking and Enhancing Referential Reasoning in Egocentric Vision**|Chentao Li et.al.|[2604.21461](http://arxiv.org/abs/2604.21461)|null|
+|**2026-04-23**|**Can MLLMs "Read" What is Missing?**|Jindi Guo et.al.|[2604.21277](http://arxiv.org/abs/2604.21277)|null|
+|**2026-04-22**|**Thinking Like a Botanist: Challenging Multimodal Language Models with Intent-Driven Chain-of-Inquiry**|Syed Nazmus Sakib et.al.|[2604.20983](http://arxiv.org/abs/2604.20983)|null|
 |**2026-04-22**|**V-tableR1: Process-Supervised Multimodal Table Reasoning with Critic-Guided Policy Optimization**|Yubo Jiang et.al.|[2604.20755](http://arxiv.org/abs/2604.20755)|null|
 |**2026-04-22**|**Where and What: Reasoning Dynamic and Implicit Preferences in Situated Conversational Recommendation**|Dongding Lin et.al.|[2604.20749](http://arxiv.org/abs/2604.20749)|null|
-|**2026-04-22**|**Render-in-the-Loop: Vector Graphics Generation via Visual Self-Feedback**|Guotao Liang et.al.|[2604.20730](http://arxiv.org/abs/2604.20730)|null|
+|**2026-04-23**|**Render-in-the-Loop: Vector Graphics Generation via Visual Self-Feedback**|Guotao Liang et.al.|[2604.20730](http://arxiv.org/abs/2604.20730)|null|
 |**2026-04-22**|**SSL-R1: Self-Supervised Visual Reinforcement Post-Training for Multimodal Large Language Models**|Jiahao Xie et.al.|[2604.20705](http://arxiv.org/abs/2604.20705)|null|
 |**2026-04-22**|**Exploring Spatial Intelligence from a Generative Perspective**|Muzhi Zhu et.al.|[2604.20570](http://arxiv.org/abs/2604.20570)|null|
 |**2026-04-22**|**CHASM: Unveiling Covert Advertisements on Chinese Social Media**|Jingyi Zheng et.al.|[2604.20511](http://arxiv.org/abs/2604.20511)|null|
@@ -3020,12 +3031,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-23**|**TEMA: Anchor the Image, Follow the Text for Multi-Modification Composed Image Retrieval**|Zixu Li et.al.|[2604.21806](http://arxiv.org/abs/2604.21806)|null|
 |**2026-04-22**|**VTouch++: A Multimodal Dataset with Vision-Based Tactile Enhancement for Bimanual Manipulation**|Qianxi Hua et.al.|[2604.20444](http://arxiv.org/abs/2604.20444)|null|
 |**2026-04-22**|**Fast-then-Fine: A Two-Stage Framework with Multi-Granular Representation for Cross-Modal Retrieval in Remote Sensing**|Xi Chen et.al.|[2604.20429](http://arxiv.org/abs/2604.20429)|null|
 |**2026-04-22**|**ConeSep: Cone-based Robust Noise-Unlearning Compositional Network for Composed Image Retrieval**|Zixu Li et.al.|[2604.20358](http://arxiv.org/abs/2604.20358)|null|
 |**2026-04-22**|**UniCVR: From Alignment to Reranking for Unified Zero-Shot Composed Visual Retrieval**|Haokun Wen et.al.|[2604.20318](http://arxiv.org/abs/2604.20318)|null|
 |**2026-04-22**|**Air-Know: Arbiter-Calibrated Knowledge-Internalizing Robust Network for Composed Image Retrieval**|Zhiheng Fu et.al.|[2604.19386](http://arxiv.org/abs/2604.19386)|null|
-|**2026-04-21**|**ATRIE: Adaptive Tuning for Robust Inference and Emotion in Persona-Driven Speech Synthesis**|Aoduo Li et.al.|[2604.19055](http://arxiv.org/abs/2604.19055)|null|
+|**2026-04-23**|**ATRIE: Adaptive Tuning for Robust Inference and Emotion in Persona-Driven Speech Synthesis**|Aoduo Li et.al.|[2604.19055](http://arxiv.org/abs/2604.19055)|null|
 |**2026-04-20**|**INTENT: Invariance and Discrimination-aware Noise Mitigation for Robust Composed Image Retrieval**|Zhiwei Chen et.al.|[2604.18051](http://arxiv.org/abs/2604.18051)|null|
 |**2026-04-20**|**HABIT: Chrono-Synergia Robust Progressive Learning Framework for Composed Image Retrieval**|Zixu Li et.al.|[2604.18037](http://arxiv.org/abs/2604.18037)|null|
 |**2026-04-20**|**ReTrack: Evidence-Driven Dual-Stream Directional Anchor Calibration Network for Composed Video Retrieval**|Zixu Li et.al.|[2604.17898](http://arxiv.org/abs/2604.17898)|null|
@@ -3075,6 +3087,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-23**|**When Prompts Override Vision: Prompt-Induced Hallucinations in LVLMs**|Pegah Khayatan et.al.|[2604.21911](http://arxiv.org/abs/2604.21911)|null|
+|**2026-04-23**|**From Codebooks to VLMs: Evaluating Automated Visual Discourse Analysis for Climate Change on Social Media**|Katharina Prasse et.al.|[2604.21786](http://arxiv.org/abs/2604.21786)|null|
+|**2026-04-23**|**Ramen: Robust Test-Time Adaptation of Vision-Language Models with Active Sample Selection**|Wenxuan Bao et.al.|[2604.21728](http://arxiv.org/abs/2604.21728)|null|
+|**2026-04-23**|**Seeing Isn't Believing: Uncovering Blind Spots in Evaluator Vision-Language Models**|Mohammed Safi Ur Rahman Khan et.al.|[2604.21523](http://arxiv.org/abs/2604.21523)|null|
+|**2026-04-23**|**HiCrew: Hierarchical Reasoning for Long-Form Video Understanding via Question-Aware Multi-Agent Collaboration**|Yuehan Zhu et.al.|[2604.21444](http://arxiv.org/abs/2604.21444)|null|
+|**2026-04-23**|**VG-CoT: Towards Trustworthy Visual Reasoning via Grounded Chain-of-Thought**|Byeonggeuk Lim et.al.|[2604.21396](http://arxiv.org/abs/2604.21396)|null|
+|**2026-04-23**|**A Deployable Embodied Vision-Language Navigation System with Hierarchical Cognition and Context-Aware Exploration**|Kuan Xu et.al.|[2604.21363](http://arxiv.org/abs/2604.21363)|null|
+|**2026-04-23**|**Prototype-Based Test-Time Adaptation of Vision-Language Models**|Zhaohong Huang et.al.|[2604.21360](http://arxiv.org/abs/2604.21360)|null|
+|**2026-04-23**|**Symbolic Grounding Reveals Representational Bottlenecks in Abstract Visual Reasoning**|Mohit Vaishnav et.al.|[2604.21346](http://arxiv.org/abs/2604.21346)|null|
+|**2026-04-23**|**Reasoning About Traversability: Language-Guided Off-Road 3D Trajectory Planning**|Byounggun Park et.al.|[2604.21249](http://arxiv.org/abs/2604.21249)|null|
 |**2026-04-22**|**PokeVLA: Empowering Pocket-Sized Vision-Language-Action Model with Comprehensive World Knowledge Guidance**|Yupeng Zheng et.al.|[2604.20834](http://arxiv.org/abs/2604.20834)|null|
 |**2026-04-22**|**OMIBench: Benchmarking Olympiad-Level Multi-Image Reasoning in Large Vision-Language Model**|Qiguang Chen et.al.|[2604.20806](http://arxiv.org/abs/2604.20806)|null|
 |**2026-04-22**|**R-CoV: Region-Aware Chain-of-Verification for Alleviating Object Hallucinations in LVLMs**|Jiahao Xie et.al.|[2604.20696](http://arxiv.org/abs/2604.20696)|null|
