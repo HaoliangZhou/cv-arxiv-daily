@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.04.27
+## Updated on 2026.04.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Cross-Modal Image Retrieval
@@ -134,10 +134,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-27**|**Cortex-Inspired Continual Learning: Unsupervised Instantiation and Recovery of Functional Task Networks**|Kevin McKee et.al.|[2604.24637](http://arxiv.org/abs/2604.24637)|null|
+|**2026-04-27**|**MEMCoder: Multi-dimensional Evolving Memory for Private-Library-Oriented Code Generation**|Mofei Li et.al.|[2604.24222](http://arxiv.org/abs/2604.24222)|null|
+|**2026-04-27**|**Continual Calibration: Coverage Can Collapse Before Accuracy in Lifelong LLM Fine-Tuning**|Ibne Farabi Shihab et.al.|[2604.23987](http://arxiv.org/abs/2604.23987)|null|
+|**2026-04-25**|**Learn&Drop: Fast Learning of CNNs based on Layer Dropping**|Giorgio Cruciata et.al.|[2604.23403](http://arxiv.org/abs/2604.23403)|null|
 |**2026-04-24**|**Hidden Failure Modes of Gradient Modification under Adam in Continual Learning, and Adaptive Decoupled Moment Routing as a Repair**|Yuelin Hu et.al.|[2604.22407](http://arxiv.org/abs/2604.22407)|null|
 |**2026-04-24**|**Inclusive Learning Analytics with Embedded Data Comics: A Conceptual Framework for Public Understanding of AI Ethics**|Mengyi Wei et.al.|[2604.22322](http://arxiv.org/abs/2604.22322)|null|
 |**2026-04-23**|**Temporal Taskification in Streaming Continual Learning: A Source of Evaluation Instability**|Nicolae Filat et.al.|[2604.21930](http://arxiv.org/abs/2604.21930)|null|
-|**2026-04-23**|**Fine-Tuning Regimes Define Distinct Continual Learning Problems**|Paul-Tiberiu Iordache et.al.|[2604.21927](http://arxiv.org/abs/2604.21927)|null|
+|**2026-04-27**|**Fine-Tuning Regimes Define Distinct Continual Learning Problems**|Paul-Tiberiu Iordache et.al.|[2604.21927](http://arxiv.org/abs/2604.21927)|null|
 |**2026-04-23**|**Agentic Artificial Intelligence in Finance: A Comprehensive Survey**|Irene Aldridge et.al.|[2604.21672](http://arxiv.org/abs/2604.21672)|null|
 |**2026-04-23**|**Task-specific Subnetwork Discovery in Reinforcement Learning for Autonomous Underwater Navigation**|Yi-Ling Liu et.al.|[2604.21640](http://arxiv.org/abs/2604.21640)|null|
 |**2026-04-23**|**ImageHD: Energy-Efficient On-Device Continual Learning of Visual Representations via Hyperdimensional Computing**|Jebacyril Arockiaraj et.al.|[2604.21280](http://arxiv.org/abs/2604.21280)|null|
@@ -1902,8 +1906,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-27**|**Majorization-Guided Test-Time Adaptation for Vision-Language Models under Modality-Specific Shift**|Lixian Chen et.al.|[2604.24602](http://arxiv.org/abs/2604.24602)|null|
+|**2026-04-26**|**Discriminator-Guided Adaptive Diffusion for Source-Free Test-Time Adaptation under Image Corruptions**|Francesco Olivato et.al.|[2604.23636](http://arxiv.org/abs/2604.23636)|null|
 |**2026-04-23**|**Back to Source: Open-Set Continual Test-Time Adaptation via Domain Compensation**|Yingkai Yang et.al.|[2604.21772](http://arxiv.org/abs/2604.21772)|null|
-|**2026-04-23**|**Ramen: Robust Test-Time Adaptation of Vision-Language Models with Active Sample Selection**|Wenxuan Bao et.al.|[2604.21728](http://arxiv.org/abs/2604.21728)|null|
+|**2026-04-27**|**Ramen: Robust Test-Time Adaptation of Vision-Language Models with Active Sample Selection**|Wenxuan Bao et.al.|[2604.21728](http://arxiv.org/abs/2604.21728)|null|
 |**2026-04-23**|**Prototype-Based Test-Time Adaptation of Vision-Language Models**|Zhaohong Huang et.al.|[2604.21360](http://arxiv.org/abs/2604.21360)|null|
 |**2026-04-21**|**Multi-modal Test-time Adaptation via Adaptive Probabilistic Gaussian Calibration**|Jinglin Xu et.al.|[2604.19093](http://arxiv.org/abs/2604.19093)|null|
 |**2026-04-21**|**AeroBridge-TTA: Test-Time Adaptive Language-Conditioned Control for UAVs**|Lingxue Lyu et.al.|[2604.19059](http://arxiv.org/abs/2604.19059)|null|
@@ -2220,6 +2226,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-27**|**K-MetBench: A Multi-Dimensional Benchmark for Fine-Grained Evaluation of Expert Reasoning, Locality, and Multimodality in Meteorology**|Soyeon Kim et.al.|[2604.24645](http://arxiv.org/abs/2604.24645)|null|
+|**2026-04-27**|**MEG-RAG: Quantifying Multi-modal Evidence Grounding for Evidence Selection in RAG**|Xihang Wang et.al.|[2604.24564](http://arxiv.org/abs/2604.24564)|null|
+|**2026-04-27**|**OS-SPEAR: A Toolkit for the Safety, Performance,Efficiency, and Robustness Analysis of OS Agents**|Zheng Wu et.al.|[2604.24348](http://arxiv.org/abs/2604.24348)|null|
+|**2026-04-27**|**Robust Grounding with MLLMs against Occlusion and Small Objects via Language-guided Semantic Cues**|Beomchan Park et.al.|[2604.24036](http://arxiv.org/abs/2604.24036)|null|
+|**2026-04-26**|**ShredBench: Evaluating the Semantic Reasoning Capabilities of Multimodal LLMs in Document Reconstruction**|Zichun Guo et.al.|[2604.23813](http://arxiv.org/abs/2604.23813)|null|
+|**2026-04-25**|**EmoTrans: A Benchmark for Understanding, Reasoning, and Predicting Emotion Transitions in Multimodal LLMs**|He Hu et.al.|[2604.23348](http://arxiv.org/abs/2604.23348)|null|
+|**2026-04-25**|**Bridging the Pose-Semantic Gap: A Cascade Framework for Text-Based Person Anomaly Search**|Zequn Xie et.al.|[2604.23282](http://arxiv.org/abs/2604.23282)|null|
 |**2026-04-24**|**SOLAR-RL: Semi-Online Long-horizon Assignment Reinforcement Learning**|Jichao Wang et.al.|[2604.22558](http://arxiv.org/abs/2604.22558)|null|
 |**2026-04-24**|**CGC: Compositional Grounded Contrast for Fine-Grained Multi-Image Understanding**|Lihao Zheng et.al.|[2604.22498](http://arxiv.org/abs/2604.22498)|null|
 |**2026-04-24**|**MTT-Bench: Predicting Social Dominance in Mice via Multimodal Large Language Models**|Yunquan Chen et.al.|[2604.22492](http://arxiv.org/abs/2604.22492)|null|
@@ -3040,6 +3053,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-25**|**MMEB-V3: Measuring the Performance Gaps of Omni-Modality Embedding Models**|Haohang Huang et.al.|[2604.23321](http://arxiv.org/abs/2604.23321)|null|
+|**2026-04-25**|**AnalogRetriever: Learning Cross-Modal Representations for Analog Circuit Retrieval**|Yihan Wang et.al.|[2604.23195](http://arxiv.org/abs/2604.23195)|null|
+|**2026-04-24**|**Federated Cross-Modal Retrieval with Missing Modalities via Semantic Routing and Adapter Personalization**|Hefeng Zhou et.al.|[2604.22885](http://arxiv.org/abs/2604.22885)|null|
 |**2026-04-24**|**TEMA: Anchor the Image, Follow the Text for Multi-Modification Composed Image Retrieval**|Zixu Li et.al.|[2604.21806](http://arxiv.org/abs/2604.21806)|null|
 |**2026-04-22**|**VTouch++: A Multimodal Dataset with Vision-Based Tactile Enhancement for Bimanual Manipulation**|Qianxi Hua et.al.|[2604.20444](http://arxiv.org/abs/2604.20444)|null|
 |**2026-04-22**|**Fast-then-Fine: A Two-Stage Framework with Multi-Granular Representation for Cross-Modal Retrieval in Remote Sensing**|Xi Chen et.al.|[2604.20429](http://arxiv.org/abs/2604.20429)|null|
@@ -3096,6 +3112,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-27**|**World-R1: Reinforcing 3D Constraints for Text-to-Video Generation**|Weijie Wang et.al.|[2604.24764](http://arxiv.org/abs/2604.24764)|null|
+|**2026-04-27**|**Majorization-Guided Test-Time Adaptation for Vision-Language Models under Modality-Specific Shift**|Lixian Chen et.al.|[2604.24602](http://arxiv.org/abs/2604.24602)|null|
+|**2026-04-27**|**A systematic evaluation of vision-language models for observational astronomical reasoning tasks**|Wenke Ren et.al.|[2604.24589](http://arxiv.org/abs/2604.24589)|null|
+|**2026-04-27**|**Improving Vision-language Models with Perception-centric Process Reward Models**|Yingqian Min et.al.|[2604.24583](http://arxiv.org/abs/2604.24583)|null|
+|**2026-04-27**|**Diffusion Model as a Generalist Segmentation Learner**|Haoxiao Wang et.al.|[2604.24575](http://arxiv.org/abs/2604.24575)|null|
+|**2026-04-27**|**Zero-to-CAD: Agentic Synthesis of Interpretable CAD Programs at Million-Scale Without Real Data**|Mohammadmehdi Ataei et.al.|[2604.24479](http://arxiv.org/abs/2604.24479)|null|
+|**2026-04-27**|**PhysNote: Self-Knowledge Notes for Evolvable Physical Reasoning in Vision-Language Model**|Sinin Zhang et.al.|[2604.24443](http://arxiv.org/abs/2604.24443)|null|
+|**2026-04-27**|**AutoGUI-v2: A Comprehensive Multi-Modal GUI Functionality Understanding Benchmark**|Hongxin Li et.al.|[2604.24441](http://arxiv.org/abs/2604.24441)|null|
+|**2026-04-27**|**Global Context or Local Detail? Adaptive Visual Grounding for Hallucination Mitigation**|Yubo Jiang et.al.|[2604.24396](http://arxiv.org/abs/2604.24396)|null|
+|**2026-04-27**|**Aligning with Your Own Voice: Self-Corrected Preference Learning for Hallucination Mitigation in LVLMs**|Byeonggeuk Lim et.al.|[2604.24395](http://arxiv.org/abs/2604.24395)|null|
 |**2026-04-24**|**EV-CLIP: Efficient Visual Prompt Adaptation for CLIP in Few-shot Action Recognition under Visual Challenges**|Hyo Jin Jon et.al.|[2604.22595](http://arxiv.org/abs/2604.22595)|null|
 |**2026-04-24**|**Contrastive Semantic Projection: Faithful Neuron Labeling with Contrastive Examples**|Oussama Bouanani et.al.|[2604.22477](http://arxiv.org/abs/2604.22477)|null|
 |**2026-04-24**|**DocPrune:Efficient Document Question Answering via Background, Question, and Comprehension-aware Token Pruning**|Joonmyung Choi et.al.|[2604.22281](http://arxiv.org/abs/2604.22281)|null|
