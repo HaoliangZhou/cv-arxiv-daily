@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.04.28
+## Updated on 2026.04.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Cross-Modal Image Retrieval
@@ -134,6 +134,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-28**|**TSN-Affinity: Similarity-Driven Parameter Reuse for Continual Offline Reinforcement Learning**|Dominik Żurek et.al.|[2604.25898](http://arxiv.org/abs/2604.25898)|null|
+|**2026-04-28**|**CoRE: Concept-Reasoning Expansion for Continual Brain Lesion Segmentation**|Qianqian Chen et.al.|[2604.25376](http://arxiv.org/abs/2604.25376)|null|
+|**2026-04-28**|**MARD: A Multi-Agent Framework for Robust Android Malware Detection**|Xueying Zeng et.al.|[2604.25264](http://arxiv.org/abs/2604.25264)|null|
 |**2026-04-27**|**Cortex-Inspired Continual Learning: Unsupervised Instantiation and Recovery of Functional Task Networks**|Kevin McKee et.al.|[2604.24637](http://arxiv.org/abs/2604.24637)|null|
 |**2026-04-27**|**MEMCoder: Multi-dimensional Evolving Memory for Private-Library-Oriented Code Generation**|Mofei Li et.al.|[2604.24222](http://arxiv.org/abs/2604.24222)|null|
 |**2026-04-27**|**Continual Calibration: Coverage Can Collapse Before Accuracy in Lifelong LLM Fine-Tuning**|Ibne Farabi Shihab et.al.|[2604.23987](http://arxiv.org/abs/2604.23987)|null|
@@ -1906,6 +1909,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-28**|**PI-TTA: Physics-Informed Source-Free Test-Time Adaptation for Robust Human Activity Recognition on Mobile Devices**|Changyu Li et.al.|[2604.25435](http://arxiv.org/abs/2604.25435)|null|
 |**2026-04-27**|**Majorization-Guided Test-Time Adaptation for Vision-Language Models under Modality-Specific Shift**|Lixian Chen et.al.|[2604.24602](http://arxiv.org/abs/2604.24602)|null|
 |**2026-04-26**|**Discriminator-Guided Adaptive Diffusion for Source-Free Test-Time Adaptation under Image Corruptions**|Francesco Olivato et.al.|[2604.23636](http://arxiv.org/abs/2604.23636)|null|
 |**2026-04-23**|**Back to Source: Open-Set Continual Test-Time Adaptation via Domain Compensation**|Yingkai Yang et.al.|[2604.21772](http://arxiv.org/abs/2604.21772)|null|
@@ -2226,6 +2230,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-28**|**SIEVES: Selective Prediction Generalizes through Visual Evidence Scoring**|Hector G. Rodriguez et.al.|[2604.25855](http://arxiv.org/abs/2604.25855)|null|
+|**2026-04-28**|**Toward Multimodal Conversational AI for Age-Related Macular Degeneration**|Ran Gu et.al.|[2604.25720](http://arxiv.org/abs/2604.25720)|null|
+|**2026-04-28**|**Recommending Usability Improvements with Multimodal Large Language Models**|Sebastian Lubos et.al.|[2604.25420](http://arxiv.org/abs/2604.25420)|null|
+|**2026-04-28**|**Learning from Medical Entity Trees: An Entity-Centric Medical Data Engineering Framework for MLLMs**|Jianghang Lin et.al.|[2604.25296](http://arxiv.org/abs/2604.25296)|null|
+|**2026-04-28**|**OmniVTG: A Large-Scale Dataset and Training Paradigm for Open-World Video Temporal Grounding**|Minghang Zheng et.al.|[2604.25276](http://arxiv.org/abs/2604.25276)|null|
+|**2026-04-28**|**M $^3$ -VQA: A Benchmark for Multimodal, Multi-Entity, Multi-Hop Visual Question Answering**|Jiatong Ma et.al.|[2604.25122](http://arxiv.org/abs/2604.25122)|null|
 |**2026-04-27**|**K-MetBench: A Multi-Dimensional Benchmark for Fine-Grained Evaluation of Expert Reasoning, Locality, and Multimodality in Meteorology**|Soyeon Kim et.al.|[2604.24645](http://arxiv.org/abs/2604.24645)|null|
 |**2026-04-27**|**MEG-RAG: Quantifying Multi-modal Evidence Grounding for Evidence Selection in RAG**|Xihang Wang et.al.|[2604.24564](http://arxiv.org/abs/2604.24564)|null|
 |**2026-04-27**|**OS-SPEAR: A Toolkit for the Safety, Performance,Efficiency, and Robustness Analysis of OS Agents**|Zheng Wu et.al.|[2604.24348](http://arxiv.org/abs/2604.24348)|null|
@@ -3053,6 +3063,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-28**|**Combating Visual Neglect and Semantic Drift in Large Multimodal Models for Enhanced Cross-Modal Retrieval**|Guosheng Zhang et.al.|[2604.25273](http://arxiv.org/abs/2604.25273)|null|
 |**2026-04-25**|**MMEB-V3: Measuring the Performance Gaps of Omni-Modality Embedding Models**|Haohang Huang et.al.|[2604.23321](http://arxiv.org/abs/2604.23321)|null|
 |**2026-04-25**|**AnalogRetriever: Learning Cross-Modal Representations for Analog Circuit Retrieval**|Yihan Wang et.al.|[2604.23195](http://arxiv.org/abs/2604.23195)|null|
 |**2026-04-24**|**Federated Cross-Modal Retrieval with Missing Modalities via Semantic Routing and Adapter Personalization**|Hefeng Zhou et.al.|[2604.22885](http://arxiv.org/abs/2604.22885)|null|
@@ -3112,6 +3123,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-28**|**QCalEval: Benchmarking Vision-Language Models for Quantum Calibration Plot Understanding**|Shuxiang Cao et.al.|[2604.25884](http://arxiv.org/abs/2604.25884)|null|
+|**2026-04-28**|**Instruction-Evidence Contrastive Dual-Stream Decoding for Grounded Vision-Language Reasoning**|Yashwant Pravinrao Bangde et.al.|[2604.25809](http://arxiv.org/abs/2604.25809)|null|
+|**2026-04-28**|**Prefill-Time Intervention for Mitigating Hallucination in Large Vision-Language Models**|Chengsheng Zhang et.al.|[2604.25642](http://arxiv.org/abs/2604.25642)|null|
+|**2026-04-28**|**SnapGuard: Lightweight Prompt Injection Detection for Screenshot-Based Web Agents**|Mengyao Du et.al.|[2604.25562](http://arxiv.org/abs/2604.25562)|null|
+|**2026-04-28**|**HuM-Eval: A Coarse-to-Fine Framework for Human-Centric Video Evaluation**|Bingzi Zhang et.al.|[2604.25361](http://arxiv.org/abs/2604.25361)|null|
+|**2026-04-28**|**VLM Judges Can Rank but Cannot Score: Task-Dependent Uncertainty in Multimodal Evaluation**|Divake Kumar et.al.|[2604.25235](http://arxiv.org/abs/2604.25235)|null|
+|**2026-04-28**|**DRAGON: A Benchmark for Evidence-Grounded Visual Reasoning over Diagrams**|Anirudh Iyengar Kaniyar Narayana Iyengar et.al.|[2604.25231](http://arxiv.org/abs/2604.25231)|null|
+|**2026-04-28**|**FCMBench-Video: Benchmarking Document Video Intelligence**|Runze Cui et.al.|[2604.25186](http://arxiv.org/abs/2604.25186)|null|
+|**2026-04-28**|**One Perturbation, Two Failure Modes: Probing VLM Safety via Embedding-Guided Typographic Perturbations**|Ravikumar Balakrishnan et.al.|[2604.25102](http://arxiv.org/abs/2604.25102)|null|
+|**2026-04-27**|**Dynamic Decision Learning: Test-Time Evolution for Abnormality Grounding in Rare Diseases**|Jun Li et.al.|[2604.24972](http://arxiv.org/abs/2604.24972)|null|
 |**2026-04-27**|**World-R1: Reinforcing 3D Constraints for Text-to-Video Generation**|Weijie Wang et.al.|[2604.24764](http://arxiv.org/abs/2604.24764)|null|
 |**2026-04-27**|**Majorization-Guided Test-Time Adaptation for Vision-Language Models under Modality-Specific Shift**|Lixian Chen et.al.|[2604.24602](http://arxiv.org/abs/2604.24602)|null|
 |**2026-04-27**|**A systematic evaluation of vision-language models for observational astronomical reasoning tasks**|Wenke Ren et.al.|[2604.24589](http://arxiv.org/abs/2604.24589)|null|
