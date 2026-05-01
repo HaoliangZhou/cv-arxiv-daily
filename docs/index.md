@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.04.30
+## Updated on 2026.05.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Cross-Modal Image Retrieval
@@ -134,6 +134,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-30**|**When Does Structure Matter in Continual Learning? Dimensionality Controls When Modularity Shapes Representational Geometry**|Kathrin Korte et.al.|[2604.27656](http://arxiv.org/abs/2604.27656)|null|
+|**2026-04-29**|**Regime-Adaptive Weighted Ensemble Learning for Computing-Driven Dynamic Load Forecasting in AI Data Centers**|Ziying Wang et.al.|[2604.27207](http://arxiv.org/abs/2604.27207)|null|
+|**2026-04-29**|**Learning to Forget: Continual Learning with Adaptive Weight Decay**|Aditya A. Ramesh et.al.|[2604.27063](http://arxiv.org/abs/2604.27063)|null|
+|**2026-04-29**|**NORACL: Neurogenesis for Oracle-free Resource-Adaptive Continual Learning**|Karthik Charan Raghunathan et.al.|[2604.27031](http://arxiv.org/abs/2604.27031)|null|
+|**2026-04-29**|**When Continual Learning Moves to Memory: A Study of Experience Reuse in LLM Agents**|Qisheng Hu et.al.|[2604.27003](http://arxiv.org/abs/2604.27003)|null|
 |**2026-04-29**|**Multiple Additive Neural Networks for Structured and Unstructured Data**|Janis Mohr et.al.|[2604.26888](http://arxiv.org/abs/2604.26888)|null|
 |**2026-04-29**|**FutureWorld: A Live Environment for Training Predictive Agents with Real-World Outcome Rewards**|Zhixin Han et.al.|[2604.26733](http://arxiv.org/abs/2604.26733)|null|
 |**2026-04-28**|**TSN-Affinity: Similarity-Driven Parameter Reuse for Continual Offline Reinforcement Learning**|Dominik Żurek et.al.|[2604.25898](http://arxiv.org/abs/2604.25898)|null|
@@ -2234,6 +2239,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-30**|**AEGIS: A Holistic Benchmark for Evaluating Forensic Analysis of AI-Generated Academic Images**|Bo Zhang et.al.|[2604.28177](http://arxiv.org/abs/2604.28177)|null|
+|**2026-04-30**|**SpecVQA: A Benchmark for Spectral Understanding and Visual Question Answering in Scientific Images**|Jialu Shen et.al.|[2604.28039](http://arxiv.org/abs/2604.28039)|null|
+|**2026-04-30**|**Echo-α: Large Agentic Multimodal Reasoning Model for Ultrasound Interpretation**|Jing Zhang et.al.|[2604.28011](http://arxiv.org/abs/2604.28011)|null|
+|**2026-04-30**|**From Mirage to Grounding: Towards Reliable Multimodal Circuit-to-Verilog Code Generation**|Guang Yang et.al.|[2604.27969](http://arxiv.org/abs/2604.27969)|null|
+|**2026-04-30**|**Decoding Scientific Experimental Images: The SPUR Benchmark for Perception, Understanding, and Reasoning**|Junpeng Ding et.al.|[2604.27604](http://arxiv.org/abs/2604.27604)|null|
+|**2026-04-30**|**Purifying Multimodal Retrieval: Fragment-Level Evidence Selection for RAG**|Xihang Wang et.al.|[2604.27600](http://arxiv.org/abs/2604.27600)|null|
+|**2026-04-30**|**InteractWeb-Bench: Can Multimodal Agent Escape Blind Execution in Interactive Website Generation?**|Qiyao Wang et.al.|[2604.27419](http://arxiv.org/abs/2604.27419)|null|
+|**2026-04-30**|**MiniCPM-o 4.5: Towards Real-Time Full-Duplex Omni-Modal Interaction**|Junbo Cui et.al.|[2604.27393](http://arxiv.org/abs/2604.27393)|null|
+|**2026-04-30**|**COHERENCE: Benchmarking Fine-Grained Image-Text Alignment in Interleaved Multimodal Contexts**|Bingli Wang et.al.|[2604.27389](http://arxiv.org/abs/2604.27389)|null|
+|**2026-04-29**|**AutoSurfer -- Teaching Web Agents through Comprehensive Surfing, Learning, and Modeling**|Fazle Elahi Faisal et.al.|[2604.27253](http://arxiv.org/abs/2604.27253)|null|
 |**2026-04-29**|**Three-Step Nav: A Hierarchical Global-Local Planner for Zero-Shot Vision-and-Language Navigation**|Wanrong Zheng et.al.|[2604.26946](http://arxiv.org/abs/2604.26946)|null|
 |**2026-04-29**|**State Beyond Appearance: Diagnosing and Improving State Consistency in Dial-Based Measurement Reading**|Yuanze Hu et.al.|[2604.26614](http://arxiv.org/abs/2604.26614)|null|
 |**2026-04-28**|**SIEVES: Selective Prediction Generalizes through Visual Evidence Scoring**|Hector G. Rodriguez et.al.|[2604.25855](http://arxiv.org/abs/2604.25855)|null|
@@ -3130,6 +3145,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-30**|**PhyCo: Learning Controllable Physical Priors for Generative Motion**|Sriram Narayanan et.al.|[2604.28169](http://arxiv.org/abs/2604.28169)|null|
+|**2026-04-30**|**FreeOcc: Training-Free Embodied Open-Vocabulary Occupancy Prediction**|Zeyu Jiang et.al.|[2604.28115](http://arxiv.org/abs/2604.28115)|null|
+|**2026-04-30**|**TransVLM: A Vision-Language Framework and Benchmark for Detecting Any Shot Transitions**|Ce Chen et.al.|[2604.27975](http://arxiv.org/abs/2604.27975)|null|
+|**2026-04-30**|**FineState-Bench: Benchmarking State-Conditioned Grounding for Fine-grained GUI State Setting**|Fengxian Ji et.al.|[2604.27974](http://arxiv.org/abs/2604.27974)|null|
+|**2026-04-30**|**The Effects of Visual Priming on Cooperative Behavior in Vision-Language Models**|Kenneth J. K. Ong et.al.|[2604.27953](http://arxiv.org/abs/2604.27953)|null|
+|**2026-04-30**|**Dynamic Cluster Data Sampling for Efficient and Long-Tail-Aware Vision-Language Pre-training**|Mingliang Liang et.al.|[2604.27932](http://arxiv.org/abs/2604.27932)|null|
+|**2026-04-30**|**Iterative Multimodal Retrieval-Augmented Generation for Medical Question Answering**|Xupeng Chen et.al.|[2604.27724](http://arxiv.org/abs/2604.27724)|null|
+|**2026-04-30**|**Auditing Frontier Vision-Language Models for Trustworthy Medical VQA: Grounding Failures, Format Collapse, and Domain Adaptation**|Xupeng Chen et.al.|[2604.27720](http://arxiv.org/abs/2604.27720)|null|
+|**2026-04-30**|**Improving Calibration in Test-Time Prompt Tuning for Vision-Language Models via Data-Free Flatness-Aware Prompt Pretraining**|Hyeonseo Jang et.al.|[2604.27715](http://arxiv.org/abs/2604.27715)|null|
+|**2026-04-30**|**WaferSAGE: Large Language Model-Powered Wafer Defect Analysis via Synthetic Data Generation and Rubric-Guided Reinforcement Learning**|Ke Xu et.al.|[2604.27629](http://arxiv.org/abs/2604.27629)|null|
 |**2026-04-29**|**World2VLM: Distilling World Model Imagination into VLMs for Dynamic Spatial Reasoning**|Wanyue Zhang et.al.|[2604.26934](http://arxiv.org/abs/2604.26934)|null|
 |**2026-04-29**|**Walk With Me: Long-Horizon Social Navigation for Human-Centric Outdoor Assistance**|Lingfeng Zhang et.al.|[2604.26839](http://arxiv.org/abs/2604.26839)|null|
 |**2026-04-29**|**SynSur: An end-to-end generative pipeline for synthetic industrial surface defect generation and detection**|Paul Julius Kühn et.al.|[2604.26633](http://arxiv.org/abs/2604.26633)|null|
