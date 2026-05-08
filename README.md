@@ -1,4 +1,4 @@
-## Updated on 2026.05.06
+## Updated on 2026.05.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -140,12 +140,22 @@
 |**2024-12-02**|**AnySynth: Harnessing the Power of Image Synthetic Data Generation for Generalized Vision-Language Tasks**|You Li et.al.|[2411.16749](http://arxiv.org/abs/2411.16749)|null|
 |**2024-10-31**|**MoTaDual: Modality-Task Dual Alignment for Enhanced Zero-shot Composed Image Retrieval**|Haiwen Li et.al.|[2410.23736](http://arxiv.org/abs/2410.23736)|null|
 
-<p align=right>(<a href=#updated-on-20260506>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260508>back to top</a>)</p>
 
 ## Continual Learning
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-07**|**On the Implicit Reward Overfitting and the Low-rank Dynamics in RLVR**|Hao Ye et.al.|[2605.06523](http://arxiv.org/abs/2605.06523)|null|
+|**2026-05-07**|**GeoStack: A Framework for Quasi-Abelian Knowledge Composition in VLMs**|Pranav Mantini et.al.|[2605.06477](http://arxiv.org/abs/2605.06477)|null|
+|**2026-05-07**|**Scene-Adaptive Continual Learning for CSI-based Human Activity Recognition with Mixture of Experts**|Wenhan Zheng et.al.|[2605.06447](http://arxiv.org/abs/2605.06447)|null|
+|**2026-05-07**|**Beyond Forgetting in Continual Medical Image Segmentation: A Comprehensive Benchmark Study**|Bomin Wang et.al.|[2605.06160](http://arxiv.org/abs/2605.06160)|null|
+|**2026-05-07**|**HEDP: A Hybrid Energy-Distance Prompt-based Framework for Domain Incremental Learning**|Yu Feng et.al.|[2605.05776](http://arxiv.org/abs/2605.05776)|null|
+|**2026-05-07**|**CoMemNet: Contrastive Sampling with Memory Replay Network for Continual Traffic Prediction**|Mei Wu et.al.|[2605.05738](http://arxiv.org/abs/2605.05738)|null|
+|**2026-05-07**|**CRAFT: Forgetting-Aware Intervention-Based Adaptation for Continual Learning**|Md Anwar Hossen et.al.|[2605.05732](http://arxiv.org/abs/2605.05732)|null|
+|**2026-05-06**|**Shortcut Solutions Learned by Transformers Impair Continual Compositional Reasoning**|William T. Redman et.al.|[2605.05495](http://arxiv.org/abs/2605.05495)|null|
+|**2026-05-06**|**Balancing Stability and Plasticity in Sequentially Trained Early-Exiting Neural Networks**|Alaa Zniber et.al.|[2605.05358](http://arxiv.org/abs/2605.05358)|null|
+|**2026-05-06**|**Attribution-Guided Continual Learning for Large Language Models**|Yazheng Liu et.al.|[2605.05285](http://arxiv.org/abs/2605.05285)|null|
 |**2026-05-05**|**Towards Open World Sound Event Detection**|P. H. Hai et.al.|[2605.03934](http://arxiv.org/abs/2605.03934)|null|
 |**2026-05-05**|**Memory-Efficient Continual Learning with CLIP Models**|Ryan King et.al.|[2605.03866](http://arxiv.org/abs/2605.03866)|null|
 |**2026-05-05**|**A Domain Incremental Continual Learning Benchmark for ICU Time Series Model Transportability**|Ryan King et.al.|[2605.03832](http://arxiv.org/abs/2605.03832)|null|
@@ -1166,7 +1176,7 @@
 |**2025-02-10**|**Prompt-Driven Continual Graph Learning**|Qi Wang et.al.|[2502.06327](http://arxiv.org/abs/2502.06327)|null|
 |**2025-02-10**|**Position: Continual Learning Benefits from An Evolving Population over An Unified Model**|Aojun Lu et.al.|[2502.06210](http://arxiv.org/abs/2502.06210)|null|
 
-<p align=right>(<a href=#updated-on-20260506>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260508>back to top</a>)</p>
 
 ## Vision-Language Prompting
 
@@ -1832,12 +1842,13 @@
 |**2025-02-08**|**Diverse Image Generation with Diffusion Models and Cross Class Label Learning for Polyp Classification**|Vanshali Sharma et.al.|[2502.05444](http://arxiv.org/abs/2502.05444)|**[link](https://github.com/vanshali/pathopolyp-diff)**|
 |**2025-02-07**|**FlashVideo:Flowing Fidelity to Detail for Efficient High-Resolution Video Generation**|Shilong Zhang et.al.|[2502.05179](http://arxiv.org/abs/2502.05179)|**[link](https://github.com/foundationvision/flashvideo)**|
 
-<p align=right>(<a href=#updated-on-20260506>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260508>back to top</a>)</p>
 
 ## Facial Expression Recognition
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-06**|**A cross-modal network for facial expression recognition**|Chunwei Tian et.al.|[2605.04439](http://arxiv.org/abs/2605.04439)|null|
 |**2026-04-20**|**MEDN: Motion-Emotion Feature Decoupling Network for Micro-Expression Recognition**|Chenxing Hu et.al.|[2604.17899](http://arxiv.org/abs/2604.17899)|null|
 |**2026-04-16**|**Why Do Vision Language Models Struggle To Recognize Human Emotions?**|Madhav Agarwal et.al.|[2604.15280](http://arxiv.org/abs/2604.15280)|null|
 |**2026-04-14**|**Cognition-Inspired Dual-Stream Semantic Enhancement for Vision-Based Dynamic Emotion Modeling**|Huanzhen Wang et.al.|[2604.12777](http://arxiv.org/abs/2604.12777)|null|
@@ -1944,12 +1955,16 @@
 |**2024-12-16**|**Impact of Face Alignment on Face Image Quality**|Eren Onaran et.al.|[2412.11779](http://arxiv.org/abs/2412.11779)|null|
 |**2024-12-15**|**Unimodal and Multimodal Static Facial Expression Recognition for Virtual Reality Users with EmoHeVRDB**|Thorben Ortmann et.al.|[2412.11306](http://arxiv.org/abs/2412.11306)|**[link](https://github.com/thorbenortmann/emohevrdb-sfer)**|
 
-<p align=right>(<a href=#updated-on-20260506>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260508>back to top</a>)</p>
 
 ## Test-Time Adaptation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-07**|**The frame-level leakage trap: rethinking evaluation protocols for intrinsic image decomposition, with source-separable uncertainty as a case study**|Jihwan Woo et.al.|[2605.06359](http://arxiv.org/abs/2605.06359)|null|
+|**2026-05-06**|**Temporal Structure Matters for Efficient Test-Time Adaptation in Wearable Human Activity Recognition**|Zishu Zhou et.al.|[2605.04617](http://arxiv.org/abs/2605.04617)|null|
+|**2026-05-06**|**Reward-Guided Semantic Evolution for Test-time Adaptive Object Detection**|Lihua Zhou et.al.|[2605.04531](http://arxiv.org/abs/2605.04531)|null|
+|**2026-05-05**|**Disentangled Learning Improves Implicit Neural Representations for Medical Reconstruction**|Qing Wu et.al.|[2605.04234](http://arxiv.org/abs/2605.04234)|null|
 |**2026-05-05**|**GRPO-TTA: Test-Time Visual Tuning for Vision-Language Models via GRPO-Driven Reinforcement Learning**|Yujun Li et.al.|[2605.03403](http://arxiv.org/abs/2605.03403)|null|
 |**2026-05-05**|**FACTOR: Counterfactual Training-Free Test-Time Adaptation for Open-Vocabulary Object Detection**|Kaixiang Zhao et.al.|[2605.03294](http://arxiv.org/abs/2605.03294)|null|
 |**2026-04-29**|**SEAL: Semantic-aware Single-image Sticker Personalization with a Large-scale Sticker-tag Dataset**|Changhyun Roh et.al.|[2604.26883](http://arxiv.org/abs/2604.26883)|null|
@@ -2271,12 +2286,22 @@
 |**2025-01-31**|**Test-time Loss Landscape Adaptation for Zero-Shot Generalization in Vision-Language Models**|Aodi Li et.al.|[2501.18864](http://arxiv.org/abs/2501.18864)|null|
 |**2025-02-03**|**Advances in Multimodal Adaptation and Generalization: From Traditional Approaches to Foundation Models**|Hao Dong et.al.|[2501.18592](http://arxiv.org/abs/2501.18592)|**[link](https://github.com/donghao51/awesome-multimodal-adaptation)**|
 
-<p align=right>(<a href=#updated-on-20260506>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260508>back to top</a>)</p>
 
 ## Multimodal Large Language Model
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-07**|**MedHorizon: Towards Long-context Medical Video Understanding in the Wild**|Bodong Du et.al.|[2605.06537](http://arxiv.org/abs/2605.06537)|null|
+|**2026-05-07**|**Pest-Thinker: Learning to Think and Reason like Entomologists via Reinforcement Learning**|Xueheng Li et.al.|[2605.06121](http://arxiv.org/abs/2605.06121)|null|
+|**2026-05-07**|**CrossCult-KIBench: A Benchmark for Cross-Cultural Knowledge Insertion in MLLMs**|Zhen Zeng et.al.|[2605.06115](http://arxiv.org/abs/2605.06115)|null|
+|**2026-05-07**|**ICU-Bench:Benchmarking Continual Unlearning in Multimodal Large Language Models**|Yuhang Wang et.al.|[2605.05938](http://arxiv.org/abs/2605.05938)|null|
+|**2026-05-07**|**Think, then Score: Decoupled Reasoning and Scoring for Video Reward Modeling**|Yuan Wang et.al.|[2605.05922](http://arxiv.org/abs/2605.05922)|null|
+|**2026-05-07**|**Null Space Constrained Contrastive Visual Forgetting for MLLM Unlearning**|Yuhang Wang et.al.|[2605.05909](http://arxiv.org/abs/2605.05909)|null|
+|**2026-05-07**|**Conceal, Reconstruct, Jailbreak: Exploiting the Reconstruction-Concealment Tradeoff in MLLMs**|Md Farhamdur Reza et.al.|[2605.05709](http://arxiv.org/abs/2605.05709)|null|
+|**2026-05-07**|**The Cost of Context: Mitigating Textual Bias in Multimodal Retrieval-Augmented Generation**|Hoin Jung et.al.|[2605.05594](http://arxiv.org/abs/2605.05594)|null|
+|**2026-05-07**|**Causal Probing for Internal Visual Representations in Multimodal Large Language Models**|Zehao Deng et.al.|[2605.05593](http://arxiv.org/abs/2605.05593)|null|
+|**2026-05-07**|**AstroAlertBench: Evaluating the Accuracy, Reasoning, and Honesty of Multimodal LLMs in Astronomical Classification**|Claire Chen et.al.|[2605.05573](http://arxiv.org/abs/2605.05573)|null|
 |**2026-05-05**|**Task-Aware Scanning Parameter Configuration for Robotic Inspection Using Vision Language Embeddings and Hyperdimensional Computing**|Zhiling Chen et.al.|[2605.03909](http://arxiv.org/abs/2605.03909)|null|
 |**2026-05-05**|**Deco: Extending Personal Physical Objects into Pervasive AI Companion through a Dual-Embodiment Framework**|Zhihan Jiang et.al.|[2605.03882](http://arxiv.org/abs/2605.03882)|null|
 |**2026-05-05**|**Enhancing Visual Question Answering with Multimodal LLMs via Chain-of-Question Guided Retrieval-Augmented Generation**|Quanxing Xu et.al.|[2605.03790](http://arxiv.org/abs/2605.03790)|null|
@@ -3137,17 +3162,20 @@
 |**2025-11-25**|**Bootstrapping Physics-Grounded Video Generation through VLM-Guided Iterative Self-Refinement**|Yang Liu et.al.|[2511.20280](http://arxiv.org/abs/2511.20280)|null|
 |**2025-11-25**|**VKnowU: Evaluating Visual Knowledge Understanding in Multimodal LLMs**|Tianxiang Jiang et.al.|[2511.20272](http://arxiv.org/abs/2511.20272)|null|
 
-<p align=right>(<a href=#updated-on-20260506>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260508>back to top</a>)</p>
 
 ## Cross-Modal Retrieval
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-07**|**Text-to-CAD Retrieval: a Strong Baseline**|Honghu Pan et.al.|[2605.05572](http://arxiv.org/abs/2605.05572)|null|
+|**2026-05-06**|**ICPR 2026 Competition on Privacy-Preserving Person Re-Identification from Top-View RGB-Depth Camera (TVRID)**|Raphaël Delécluse et.al.|[2605.04977](http://arxiv.org/abs/2605.04977)|null|
 |**2026-05-04**|**AlbumFill: Album-Guided Reasoning and Retrieval for Personalized Image Completion**|Yu-Ju Tsai et.al.|[2605.02892](http://arxiv.org/abs/2605.02892)|null|
 |**2026-05-01**|**Multimodal Data Curation Through Ranked Retrieval**|Pratyush Muthukumar et.al.|[2605.01163](http://arxiv.org/abs/2605.01163)|null|
 |**2026-04-30**|**Linking spatial biology and clinical histology via Haiku**|Yan Cui et.al.|[2605.00925](http://arxiv.org/abs/2605.00925)|null|
 |**2026-04-29**|**DenseStep2M: A Scalable, Training-Free Pipeline for Dense Instructional Video Annotation**|Mingji Ge et.al.|[2604.26565](http://arxiv.org/abs/2604.26565)|null|
 |**2026-04-28**|**Combating Visual Neglect and Semantic Drift in Large Multimodal Models for Enhanced Cross-Modal Retrieval**|Guosheng Zhang et.al.|[2604.25273](http://arxiv.org/abs/2604.25273)|null|
+|**2026-05-07**|**Contrastive Image-Metadata Pre-Training for Materials Transmission Electron Microscopy**|Georgia Channing et.al.|[2604.24909](http://arxiv.org/abs/2604.24909)|null|
 |**2026-04-25**|**MMEB-V3: Measuring the Performance Gaps of Omni-Modality Embedding Models**|Haohang Huang et.al.|[2604.23321](http://arxiv.org/abs/2604.23321)|null|
 |**2026-04-25**|**AnalogRetriever: Learning Cross-Modal Representations for Analog Circuit Retrieval**|Yihan Wang et.al.|[2604.23195](http://arxiv.org/abs/2604.23195)|null|
 |**2026-04-24**|**Federated Cross-Modal Retrieval with Missing Modalities via Semantic Routing and Adapter Personalization**|Hefeng Zhou et.al.|[2604.22885](http://arxiv.org/abs/2604.22885)|null|
@@ -3203,12 +3231,22 @@
 |**2026-02-26**|**Pix2Key: Controllable Open-Vocabulary Retrieval with Semantic Decomposition and Self-Supervised Visual Dictionary Learning**|Guoyizhe Wei et.al.|[2602.22510](http://arxiv.org/abs/2602.22510)|null|
 |**2026-03-02**|**StructXLIP: Enhancing Vision-language Models with Multimodal Structural Cues**|Zanxi Ruan et.al.|[2602.20089](http://arxiv.org/abs/2602.20089)|null|
 
-<p align=right>(<a href=#updated-on-20260506>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260508>back to top</a>)</p>
 
 ## Vision-Language Model
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-07**|**GeoStack: A Framework for Quasi-Abelian Knowledge Composition in VLMs**|Pranav Mantini et.al.|[2605.06477](http://arxiv.org/abs/2605.06477)|null|
+|**2026-05-07**|**A Regime Theory of Controller Class Selection for LLM Action Decisions**|Zhaoyang Jiang et.al.|[2605.06339](http://arxiv.org/abs/2605.06339)|null|
+|**2026-05-07**|**Event-Causal RAG: A Retrieval-Augmented Generation Framework for Long Video Reasoning in Complex Scenarios**|Peizheng Yan et.al.|[2605.06185](http://arxiv.org/abs/2605.06185)|null|
+|**2026-05-07**|**Retina-RAG: Retrieval-Augmented Vision-Language Modeling for Joint Retinal Diagnosis and Clinical Report Generation**|Abdelrahman Zaian et.al.|[2605.06173](http://arxiv.org/abs/2605.06173)|null|
+|**2026-05-07**|**Uncovering Entity Identity Confusion in Multimodal Knowledge Editing**|Shu Wu et.al.|[2605.06096](http://arxiv.org/abs/2605.06096)|null|
+|**2026-05-07**|**Towards Self-Explainable Document Visual Question Answering with Chain-of-Explanation Predictions**|Kjetil Indrehus et.al.|[2605.06058](http://arxiv.org/abs/2605.06058)|null|
+|**2026-05-07**|**Fusion in Your Way: Aligning Image Fusion with Heterogeneous Demands via Direct Preference Optimization**|Weijian Su et.al.|[2605.06049](http://arxiv.org/abs/2605.06049)|null|
+|**2026-05-07**|**PlotPick: AI-powered batch extraction of numerical data from scientific figures**|Tommy Carstensen et.al.|[2605.06021](http://arxiv.org/abs/2605.06021)|null|
+|**2026-05-07**|**4DThinker: Thinking with 4D Imagery for Dynamic Spatial Understanding**|Zhangquan Chen et.al.|[2605.05997](http://arxiv.org/abs/2605.05997)|null|
+|**2026-05-07**|**Plug-and-play Class-aware Knowledge Injection for Prompt Learning with Visual-Language Model**|Junhui Yin et.al.|[2605.05910](http://arxiv.org/abs/2605.05910)|null|
 |**2026-05-05**|**UnAC: Adaptive Visual Prompting with Abstraction and Stepwise Checking for Complex Multimodal Reasoning**|Yifan Wang et.al.|[2605.03950](http://arxiv.org/abs/2605.03950)|null|
 |**2026-05-05**|**StateVLM: A State-Aware Vision-Language Model for Robotic Affordance Reasoning**|Xiaowen Sun et.al.|[2605.03927](http://arxiv.org/abs/2605.03927)|null|
 |**2026-05-05**|**Quantifying the human visual exposome with vision language models**|Christian Rominger et.al.|[2605.03863](http://arxiv.org/abs/2605.03863)|null|
@@ -3598,7 +3636,7 @@
 |**2026-03-10**|**Robotic Scene Cloning:Advancing Zero-Shot Robotic Scene Adaptation in Manipulation via Visual Prompt Editing**|Binyuan Huang et.al.|[2603.09712](http://arxiv.org/abs/2603.09712)|null|
 |**2026-03-10**|**Finetuning a Text-to-Audio Model for Room Impulse Response Generation**|Kirak Kim et.al.|[2603.09708](http://arxiv.org/abs/2603.09708)|null|
 
-<p align=right>(<a href=#updated-on-20260506>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260508>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
